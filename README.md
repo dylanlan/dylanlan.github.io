@@ -19,7 +19,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.darkages.com/) and ![Image](https://photos.app.goo.gl/BqPLvEsAyryfGSwu9)
+[Link](https://www.darkages.com/) and ![Image](https://lh3.googleusercontent.com/pw/ABLVV86p4M_6Q157Gwop3wlsd05TGQWgveLbK_KLvw_cGED90NsSPUYSHtR7TFxoYapRcw1VTd20BCgEs7XcpiyhP-9eh3UBN9_T4x8cbIlVYEwDvJM57wIpihnXlS1zn_LWg9VA6-PRxYt7w6q9mplQBBoM3g=w541-h362-s-no-gm)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
