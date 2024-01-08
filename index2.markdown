@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+
+
+Hello! My name is Dylanlan - thanks for visiting my website!
+
+((This is a fan site for the game))
