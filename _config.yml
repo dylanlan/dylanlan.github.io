@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Dylanlan
+tagline:          'A Temuairan Respite'
+description:      'A collection of information and projects from Dylanlan, all related to the 2000s MMORPG called <a href="https://darkages.com" target="_blank">Darkages</a>'
+url:              https://dylanlan.ninja
 baseurl:          /
 
 author:

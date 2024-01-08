@@ -1,6 +1,6 @@
 
 TO RUN:
-bundle exec jekyll serve --livereload
+./start.ps1
 
 
 Links:
