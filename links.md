@@ -39,9 +39,16 @@ Notes: Another amazing resource with various projects: A census, the Mileth Coll
 
 #### Deoch Temple Archive
 
-Linke: [https://deochtemple.blogspot.com/](https://deochtemple.blogspot.com/)
+Link: [https://deochtemple.blogspot.com/](https://deochtemple.blogspot.com/)
 
 Notes: A great list of Religious sermons that have taken place within the game!
+
+#### Time Converter
+
+Link: [https://www.aosda.net/time.html](https://www.aosda.net/time.html)
+
+Notes: A handy resource for converting the in-game years (Deoches), to in-real-life years. The dates aren't 100% accurate, possibly due to some drift from our old-pal Daylight Savings Time
+
 
 #### DA-Wizard
 
