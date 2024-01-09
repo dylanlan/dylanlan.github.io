@@ -3,4 +3,4 @@ layout: page
 title: Getting Started
 ---
 
-Coming soon: a guide to playing Darkages!
+Coming soon: a guide to getting started in Darkages!
