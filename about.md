@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
+![Dylanlan Avatar](/public/images/dylanlan/selfie.png)
 <p class="message">
   Hey there! I'm Dylanlan, an archer / ninja. Thanks for checking out my website!
 </p>

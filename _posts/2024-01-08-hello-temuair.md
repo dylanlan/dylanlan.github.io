@@ -8,5 +8,5 @@ Hello Temuair! This is just a fan site, for an online [MMORPG](https://en.wikipe
 
 More content coming soon!
 
-![Darkages Login Screen](/public/images/da-login-screen.png)
+![Darkages Login Screen](/public/images/darkages/da-login-screen.png)
 

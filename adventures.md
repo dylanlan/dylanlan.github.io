@@ -62,5 +62,5 @@ Unfortunately, Protein was barely not strong enough to wield both his new, epic 
 Protein also enjoyed the thrill of using a skill named Crasher. It is quite an intimidating skill to use - it can only succeed if your health points are beneath a very low threshold. And using it successfully will leave you with but a single health point remaining. That's right. One health point away from death. None the less, it looks very cool, so Protein attempted it many times. I will not comment on his success rate, but here is one memory of an epic success:
 ![Cthonic Remains 10 Crasher](/public/images/protein/protein-crasher.png)
 
-After a grueling few hours of hunting mummies, beetles, skeleton dogs, and spooky ghosts, we decided to call it quits, and take a break. Enough experience acquired for one day. More adventures await, tomorrow! However, Protein had to make one final attempt to look very cool, wielding his obnoxious sword.
+After a grueling few hours of hunting mummies, beetles, terriying things that collect bones, and spooky ghosts, we decided to call it quits and take a break. Enough experience acquired for one day. More adventures await, tomorrow! However, Protein had to make one final attempt to look very cool, wielding his obnoxious sword. Until the next time, fellow Aislings!
 ![Cthonic Remains 10 End](/public/images/sradagan/sradagan-cr10-end.png)
