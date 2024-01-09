@@ -44,6 +44,7 @@ If you're interested in a name, just tell me:
 - Which (1) Aisling name you want
 - How I should contact you (eg: Discord ID, email address, or in-game DA character to mail)
 
+You can contact me by direct message on Discord, to ID `dylanlan2`, or by sending an in-game mail to `NaLyd`
 
 #### Winners
 
