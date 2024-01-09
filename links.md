@@ -92,6 +92,12 @@ A super old but interesting early fan website for Darkages. Possibly from 2004 o
 
 A list of community-created lore, on the official Darkages website! Likely quite old at this point.
 
+#### Old Guilds
+
+[https://www.darkages.com/guildlist/list.htm](https://www.darkages.com/guildlist/list.htm)
+
+A list of old guilds and members, from the official website. Unsure which year it's from!
+
 #### Great Peasant Escape
 
 [https://www.youtube.com/watch?v=ojqNmcHjoqg](https://www.youtube.com/watch?v=ojqNmcHjoqg)
