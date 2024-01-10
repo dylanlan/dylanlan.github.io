@@ -40,6 +40,6 @@ Necrean had unfortunately lost her Aisling to a purge long ago. But she had a ne
 
 NaLyd was intrigued! A pre-master quest?! It had been far too many years since he experienced that joy. He absolutely must join this quest - it was no question.
 
-NaLyd panicked. All of his sibling Aislings were already master or stronger. He racked his brain. Didn't he level up a fresh warrior Aisling awhile back, to relive the low-level nostalgia yet again? Yes! And that warrior happened to be juuuust the right insight to join this new rag tag group. That warrior's name, is Protein.
+NaLyd panicked. All of his sibling Aislings were already master or stronger. He racked his brain. Didn't he level up a fresh warrior Aisling awhile back, to relive the low-level nostalgia yet again? Yes! And that warrior happened to be juuuust the right insight to join this new rag tag group (mid 60s). That warrior's name: Protein.
 
 If you're curious what came next (still on that same fateful day, in fact), check out the [Lynith Sea](/adventure/2024/01/03/lynith-sea) adventure!
