@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cursed Mail"
-date:   2024-01-10 8:01:48 -0700
+date:   2024-01-10
 categories: games
 ---
 

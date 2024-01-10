@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lynith Sea"
-date:   2024-01-03 22:35:38 -0700
+date:   2024-01-03
 categories: adventure
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Oren Sewers"
-date:   2024-01-04 18:03:43 -0700
+date:   2024-01-04
 categories: adventure
 ---
 

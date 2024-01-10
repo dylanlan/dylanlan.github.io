@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cthonic Remains 10"
-date:   2024-01-07 15:30:04 -0700
+date:   2024-01-07
 categories: adventure
 ---
 

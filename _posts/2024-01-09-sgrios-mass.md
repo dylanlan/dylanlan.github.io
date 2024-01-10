@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sgrios Mass"
-date:   2024-01-09 13:38:48 -0700
+date:   2024-01-09
 categories: religion
 ---
 

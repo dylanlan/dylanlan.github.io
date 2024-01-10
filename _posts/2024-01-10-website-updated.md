@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Website Updated"
-date:   2024-01-10 8:12:22 -0700
+date:   2024-01-10
 categories: awakening
 ---
 
