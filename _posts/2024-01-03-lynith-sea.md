@@ -17,6 +17,3 @@ Being unable to breathe underwater, we had to enlist some outside help. A very k
 We eventually made our way to the end of the clues, which led us to a pair of shovels in the sand. Lo and behold, a mysterious Oren Key was buried underneath! Some questions answered, but even more questions were created. The quest continues!
 ![Lynith Sea Quest Success](/public/images/adventures/sradagan-lynith-sea-success.png)
 
-Next Quest: [Oren Sewers](/adventure/2024/01/04/oren-sewers)
-
-Previous Context: [NaLyd's Reawakening](/awakening/2023/12/10/nalyd-reawakening)

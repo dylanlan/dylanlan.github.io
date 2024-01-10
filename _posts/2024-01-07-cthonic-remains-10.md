@@ -31,8 +31,3 @@ Protein also enjoyed the thrill of using a skill named Crasher. It is quite an i
 
 After a grueling few hours of hunting mummies, beetles, terriying things that collect bones, and spooky ghosts, we decided to call it quits and take a break. Enough experience acquired for one day. More adventures await, tomorrow! However, Protein had to make one final attempt to look very cool, wielding his obnoxious sword. Until the next time, fellow Aislings!
 ![Cthonic Remains 10 End](/public/images/adventures/sradagan-cr10-end.png)
-
-
-Next Adventure: [Sgrios Mass](/religion/2024/01/09/sgrios-mass)
-
-Previous Quest: [Oren Sewers](/adventure/2024/01/04/oren-sewers)
