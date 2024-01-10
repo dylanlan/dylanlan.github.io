@@ -32,6 +32,12 @@ Not super active, but still has a lot of useful information. It even contains it
 
 A great resource for various Art and Lore related to the world of Darkages!
 
+#### Old Screenshots
+
+[http://loureslibrary.aisling-spark.de/memories.html](http://loureslibrary.aisling-spark.de/memories.html)
+
+An amazing collection of old screenshots, from the early days of Darkages!
+
 #### Aisling Dressup
 
 [https://dressup.lazybyte.se/dress-up](https://dressup.lazybyte.se/dress-up)
