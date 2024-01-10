@@ -34,7 +34,7 @@ NaLyd was feeling especially inspired and nostalgic after this sermon, and got a
 Dylanlan decided to hang out with other Dark Horizons guildmates in Pravat Cave, full of excitement from meeting new Aislings. Little did he know, this chill hangout would alter his Temuairan course forever.
 ![NaLyd Awakens](/public/images/awakening/pravat.png)
 
-Necrean was there. Necrean found NaLyd. 17 years later. Unfortunately, there was too much excitement in the moment to remember to take any screenshots, but it was quite the reconnecting indeed! (NaLyd did not get much sleep that night).
+Necrean was there. At Pravat Cave. Necrean found NaLyd. 17 years later. Unfortunately, there was too much excitement in the moment to remember to take any screenshots, but it was quite the reconnecting indeed! (NaLyd did not get much sleep that night).
 
 Necrean had unfortunately lost her Aisling to a purge long ago. But she had a new Aisling, PaladinJack! And had also recently created a new Aisling, Frudo, who was in the middle of coordinating a quest to the Lynith Sea with some lower leveled Aisling friends.
 

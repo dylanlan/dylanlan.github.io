@@ -17,34 +17,35 @@ Try to figure out which word in each of these mail letters is making it undelive
 1. Easiest
 ![1-easy](/public/images/cursed-mail/1-easy.png)
 
-Answer: ?
+    Answer: ?
 
 2. Medium
 ![2-medium](/public/images/cursed-mail/2-medium.png)
 
-Answer: ?
+    Answer: ?
 
 3. Hard
 ![2-medium](/public/images/cursed-mail/3-hard.png)
 
-Answer: ?
+    Answer: ?
 
 4. Silly
 ![2-medium](/public/images/cursed-mail/4-silly.png)
 
-Answer: ?
+    Answer: ?
 
 5. Harder (ChatGPT helped with these next two letters. I apologize for the word salad)
 ![2-medium](/public/images/cursed-mail/5-harder.png)
 
-Answer: ?
+    Answer: ?
 
 6. Hardest
 ![2-medium](/public/images/cursed-mail/6-hardest.png)
 
-Answer: ?
+    Answer: ?
 
 This game was just a silly way to recreate some personal frustration of trying to send a mail in-game. I hope you had fun, or at least learned something!
 
 (Hint: the curse words can be in-game acronym keywords that get expanded to a word or phrase)
 
+(Coming soon, perhaps: clearer screenshots on desktop)

@@ -5,7 +5,7 @@ date:   2024-01-04 18:03:43 -0700
 categories: adventure
 ---
 
-We discovered that the secret treasure Oren Key granted access to the sewers underneath Oren City. Why would access to sewers be considered treasure, one might ask? We certainly had no idea! But adventure awaits none the less! It was such an exciting quest, in fact, that _some_ of us forgot to cement our Aisling memories for future reflection - too caught up in the excitement of the moment. Oh well!
+In our previous quest, we discovered that the secret buried treasure was an Oren Key which granted access to the sewers underneath Oren City. Why would access to sewers be considered treasure, one might ask? We certainly had no idea! But adventure awaits none the less! It was such an exciting quest, in fact, that _some_ of us forgot to cement our Aisling memories for future reflection - too caught up in the excitement of the moment. Oh well!
 
 We found a few vicious salamanders, which gave us mighty trouble. We discovered that their defensive element was Darkness, but we lacked any strong Light-based attacks. Regardless, we powered through with our elemental disadvantage, like the courageous Aislings that we are. After a grueling 16 minutes of straight assail, the salamander finally teetered, and fell over.
 
@@ -16,3 +16,7 @@ Fear not, young Aislings! We were fortunate to have some helpful siblings assist
 
 What's this? Just a dinky fountain amidst a filthy, monster-laden sewer? Our disappointment was building - surely this epic quest was not so anti-climactic? We took a quick drink from the fountain, parched from the furious battles. Gasp! This was no ordinary fountain, and this was no ordinary water. Vitality! One by one, each of our health and mana levels were permanently increased! A glorious day indeed!
 ![Oren Sewers Quest Success](/public/images/adventures/sradagan-oren-sewers-success.png)
+
+Next Adventure: [Cthonic Remains 10](/adventure/2024/01/07/cthonic-remains-10)
+
+Previous Quest: [Lynith Sea](/adventure/2024/01/03/lynith-sea)
