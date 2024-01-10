@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sradagan's Awakening"
+title:  "Sradagan Awakening"
 date:   2024-01-08 10:07:25 -0700
 categories: awakening
 ---

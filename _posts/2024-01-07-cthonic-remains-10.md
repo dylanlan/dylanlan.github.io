@@ -8,12 +8,12 @@ categories: adventure
 Emboldened by our string of sucesses, we decided to venture into a very cursed and macabre area. Rumours had been spreading about some powerful monsters deep below some decrepit houses, which could yield many tasty experience points for our journey to acquire more insight. Some had even mentioned sightings of ancient mummies, walking the earth once again. Just a rural legend, or an actual fact? We were determined to find out!
 
 Our journey began at House Macabre, near the Tagor Village. We tried to coordinate an epic group war-charge, but there were some challenges. One member of our group had somehow been turned into a Frog (were there witches in the area? unclear).
-![Cthonic Remains 10 Start](/public/images/sradagan/sradagan-cr10-start.png)
+![Cthonic Remains 10 Start](/public/images/adventures/sradagan-cr10-start.png)
 
 After investigating a few houses, we located the entrance to a terrifying area that we dubbed, Cthonic Remains. There seemed to be never-ending stairs, and every level deeper increased our dread a little bit more. On our 6th floor deep, we finally confirmed that the rumours were true.
 
 A mummy! Walking as if alive! The foul beast quickly attacked our vulnerable wizard, and we had to quickly counter-attack. Thankfully its defensive element was not Darkness, so it ended up being a much easier conquest than the Sewer Salamanders. It was still a fierce battle, but indeed, it granted a generous amount of experience!
-![Cthonic Remains 10 Mummy Kill](/public/images/sradagan/sradagan-cr10-first-mummy.png)
+![Cthonic Remains 10 Mummy Kill](/public/images/adventures/sradagan-cr10-first-mummy.png)
 
 The rush of killing our first mummy perhaps contributed to a bit of over confidence on Protein's part. We had beaten one mummy. Surely we could beat two at the same time, right?? Alas, it was too much for poor Protein to handle, and he promptly began the skulling ritual on his way to visit Sgrios. Thankfully his amazing group members were nearby to revive him. Sgrios would have to wait, for now..
 ![Cthonic Remains 10 Overconfident](/public/images/protein/protein-overconfident.png)
@@ -30,4 +30,4 @@ Protein also enjoyed the thrill of using a skill named Crasher. It is quite an i
 ![Cthonic Remains 10 Crasher](/public/images/protein/protein-crasher.png)
 
 After a grueling few hours of hunting mummies, beetles, terriying things that collect bones, and spooky ghosts, we decided to call it quits and take a break. Enough experience acquired for one day. More adventures await, tomorrow! However, Protein had to make one final attempt to look very cool, wielding his obnoxious sword. Until the next time, fellow Aislings!
-![Cthonic Remains 10 End](/public/images/sradagan/sradagan-cr10-end.png)
+![Cthonic Remains 10 End](/public/images/adventures/sradagan-cr10-end.png)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "NaLyd's Reawakening"
-date:   2023-12-10 17:52:11 -0700
+title:  "NaLyd Reawakening"
+date:   2023-12-10 10:52:11 -0700
 categories: awakening
 ---
 
