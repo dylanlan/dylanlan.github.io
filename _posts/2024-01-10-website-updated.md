@@ -5,4 +5,4 @@ date:   2024-01-10 8:12:22 -0700
 categories: awakening
 ---
 
-I added a "Guild" page to this website today - you can find it on the left navigation menu.
+I added a "Guild" page to this website today, as well as a "Silly Games" page. You can find both on the left navigation menu.
