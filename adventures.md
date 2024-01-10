@@ -51,7 +51,7 @@ A mummy! Walking as if alive! The foul beast quickly attacked our vulnerable wiz
 The rush of killing our first mummy perhaps contributed to a bit of over confidence on Protein's part. We had beaten one mummy. Surely we could beat two at the same time, right?? Alas, it was too much for poor Protein to handle, and he promptly began the skulling ritual on his way to visit Sgrios. Thankfully his amazing group members were nearby to revive him. Sgrios would have to wait, for now..
 ![Cthonic Remains 10 Overconfident](/public/images/protein/protein-overconfident.png)
 
-Protein was very excited to acquire the 71st insight, for it was an important milestone! At that point, one could wear newer, stronger armor, which would surely help in these life-or-death fights. As well as an excessively epic sword that was so mighty, it would require both Aisling hands just to contain it!
+Protein was very excited to acquire the 71st insight, for it was an important milestone! At that point, one could wear newer, stronger armor, which would surely help in these life-or-death fights. As well as wield an excessively epic sword that was so mighty, it would require both Aisling hands just to contain it!
 
 Protein was keeping a close eye on his experience points, anticipating the exact moment that he would reach 71, and be congratulated by his fellow hunting partners for an amazing accomplishment. However, the Cthonic Remains would not be so generous, and instead Protein was put to sleep by a wicked Suain spell, which consumed the exciting celebration of increased insight. Better luck next time, Protein...
 ![Cthonic Remains 10 Level 71](/public/images/protein/protein-level-71.png)

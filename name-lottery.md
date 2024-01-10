@@ -64,6 +64,6 @@ Make sure to change the password if you don't want me stealing the Aisling back 
 - Please only request a name if you have actual plans to use it, at some point. I want to discourage excessive hoarding, like I've done :(
 - If a name goes unclaimed for more than 3 weeks in a row, it will get archived to an "uninteresting" list.
 
-Note: most lottery Aislings will have been born around the 108th deoch (which was after the last name purge happened), and still be a level 1 peasant.
+Note: most lottery Aislings will have been born around the 108th deoch (which was after the last name purge happened), and will still be a level 1 peasant.
 
-Have fun, and best of luck, fellow Aislings!
+Have fun, and may the odds be ever in your favour, fellow Aislings!
