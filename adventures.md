@@ -14,9 +14,7 @@ This is an ongoing list of adventures that the Darkages Aisling Protein, and fel
 
 ## Master
 
-Coming at some point!
-
-
+Coming soon?
 
 ## Medenia
 
