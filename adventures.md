@@ -10,6 +10,7 @@ This is an ongoing list of adventures that the Darkages Aisling Protein, and fel
 - [Lynith Sea](/adventure/2024/01/03/lynith-sea)
 - [Oren Sewers](/adventure/2024/01/04/oren-sewers)
 - [Cthonic Remains 10](/adventure/2024/01/07/cthonic-remains-10)
+- [Wolf of West Woodland](/adventure/2024/01/09/west-woodland-wolf)
 
 
 ## Master
