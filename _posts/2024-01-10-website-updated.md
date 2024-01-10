@@ -5,4 +5,12 @@ date:   2024-01-10 8:12:22 -0700
 categories: awakening
 ---
 
-I added a "Guild" page to this website today, as well as a "Silly Games" page. You can find both on the left navigation menu.
+Welcome to my personal fan website for Darkages! You can find various links on the left navigation menu:
+
+- Adventure Log for some in-game screenshots
+- Getting Started guide
+- Guild for some information about a recently connected group of friends
+- Links to other Darkages fan sites
+- Name Lottery for claiming a new character name
+- Religion for some in-game lore
+- Silly Games for some meta-games
