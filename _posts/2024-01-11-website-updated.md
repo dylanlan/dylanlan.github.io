@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Website Updated"
-date:   2024-01-10
+date:   2024-01-11
 categories: awakening
 ---
 
@@ -11,6 +11,7 @@ Welcome to my personal fan website for Darkages! You can find various links on t
 - Getting Started guide
 - Guild for some information about a recently connected group of friends
 - Links to other Darkages fan sites
+- Mileth College to learn about learning
 - Name Lottery for claiming a new character name
 - Religion for some in-game lore
 - Silly Games for some meta-games
