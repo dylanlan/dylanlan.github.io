@@ -23,7 +23,11 @@ Protein was very excited to acquire the 71st insight, for it was an important mi
 Protein was keeping a close eye on his experience points, anticipating the exact moment that he would reach 71, and be congratulated by his fellow hunting partners for an amazing accomplishment. However, the Cthonic Remains would not be so generous, and instead Protein was put to sleep by a wicked Suain spell, which consumed the exciting celebration of increased insight. Better luck next time, Protein...
 ![Cthonic Remains 10 Level 71](/public/images/protein/protein-level-71.png)
 
-Unfortunately, Protein was barely not strong enough to wield both his new, epic sword, and all of his previous gear, so he had to make a tough choice. Look cool? Or be safe? He immediately chose to look cool, and even show of his skills of paralyzing a mummy that was behind himself.
+Unfortunately, Protein was barely not strong enough to wield both his new, epic sword, and all of his previous gear, so he had to make a tough choice:
+
+Look cool? Or be safe?
+
+He immediately chose to look cool, and even showed off his skills of paralyzing a mummy that was behind himself. Nice one, Protein!
 ![Cthonic Remains 10 Beag Suain](/public/images/protein/protein-looking-dope.png)
 
 Protein also enjoyed the thrill of using a skill named Crasher. It is quite an intimidating skill to use - it can only succeed if your health points are beneath a very low threshold. And using it successfully will leave you with but a single health point remaining. That's right. One health point away from death. None the less, it looks very cool, so Protein attempted it many times. I will not comment on his success rate, but here is one memory of an epic success:
