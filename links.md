@@ -54,7 +54,13 @@ Another amazing resource with various projects: A census, the Mileth College, an
 
 [https://deochtemple.blogspot.com/](https://deochtemple.blogspot.com/)
 
-A great list of Religious sermons that have taken place within the game!
+A great list of Religious Deoch sermons that have taken place within the game!
+
+#### Sgrios Shambler
+
+[https://sgrios.blogspot.com/](https://sgrios.blogspot.com/)
+
+A list of recent-ish Sgrios mass sermons that have taken place within the game! 
 
 #### Time Converter
 
