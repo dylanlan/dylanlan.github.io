@@ -14,7 +14,7 @@ Regardless, he decided to awaken once again to see how the world of Temuair was 
 The first thing on NaLyd's mind upon reawakening, was to reach Ability 99 and finally complete his ancient weapon!
 ![NaLyd Awakens](/public/images/awakening/nalyd-awakens.png)
 
-But he also still had fond memories of hunting with a certain Pure Archer named Necrean, back around August of 2007 (Deoch 70). NaLyd wasn't sure how to contact Necrean, but was able to reconnect with a different Pure Archer buddy from the past! One of the first things that NaLyd did in the world of Temuair was battle through the vicious sewers of Loures Canals, re-enacting some great old memories of defeating giant blobs in small parties, around 2008 (Doech 78).
+But he also still had fond memories of hunting with a certain Pure Archer named Necrean, back around August of 2007 (Deoch 70). NaLyd wasn't sure how to contact Necrean, but was able to reconnect with a different Pure Archer buddy from the past! One of the first things that NaLyd did in the world of Temuair was battle through the vicious sewers of Loures Canals, re-enacting some great old memories of defeating giant blobs in small parties, around 2008 (Deoch 78).
 ![NaLyd Nostalgia](/public/images/awakening/nalyd-nostalgia-canals.png)
 
 On one extremely fateful day, January 3rd 2024 (Deoch 201 - NaLyd's newest favourite), NaLyd noticed that there was a Deoch mass sermon being held in Suomi, and decided to check it out. He had never been much of a religion enthusiast back in the day, but thought it would be fun to see what it's like. NaLyd had been searching in-game and in-Discord for Necrean for almost a month at this point, nearly giving up hope of ever reconnecting!
