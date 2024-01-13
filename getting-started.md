@@ -47,6 +47,14 @@ You can install Darkages and create a new character in just 7 simple steps! (luc
 
 
 
+## Linux
+
+For Linux, there has been some success using [Lutris](https://lutris.net/downloads).
+
+You can install using the "Install a Windows game from an executable" option
+![Lutris Install](/public/images/darkages/install-with-lutris.png)
+
+You also might need to point it to the proper `Darkages.exe` executable, if it opens the screen size selector instead.
 
 # Registering
 
