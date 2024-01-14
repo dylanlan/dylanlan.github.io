@@ -9,10 +9,11 @@ Curious how to play this mysterious game? Worry not! Here is a handy guide to he
 
 # Playing
 
-If you just want to play for free, you can download the game right now, and get started! It's easiest to play on a Windows machine, but also possible to play on Linux using [Wine](https://www.winehq.org/). I'm unsure about Macs!
+If you just want to play for free, you can download the game right now, and get started! It's easiest to play on Windows, but also possible to play on Linux using [Wine](https://www.winehq.org/). I'm unsure about Macs!
+
+If you've already created a character, but you're not sure what to do next, check out this guide: [Entering Temuair](/awakening/2024/01/12/entering-temuair)
 
 You can install Darkages and create a new character in just 7 simple steps! (lucky!)
-
 
 ## Steps
 
@@ -58,4 +59,4 @@ You also might need to point it to the proper `Darkages.exe` executable, if it o
 
 # Registering
 
-Coming soon! How to adventure beyond level 99, is it even possible?!
+Coming soon! How to adventure beyond level 99, is it even possible?! What are some of the perks??
