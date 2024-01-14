@@ -11,5 +11,5 @@ Feel free to reach out to `PaladinJack` (guild leader) or `Protein` (someday cou
 
 Here are a few related posts:
 
-- [Sradagan's Awakening](/awakening/2024/01/08/protein-sradagan) (Guild creation)
-- [NaLyd's Reawakening](/awakening/2023/12/10/nalyd-reawakening) (NaLyd's motivations)
+- [Sradagan's Awakening]({{ site.data.urls.sradagan_created }}) (Guild creation)
+- [NaLyd's Reawakening]({{ site.data.urls.nalyd_reawaken }}) (NaLyd's motivations)

@@ -37,6 +37,6 @@ After a grueling few hours of hunting mummies, beetles, terriying things that co
 ![End](/public/images/adventures/sradagan-cr10-end.png)
 
 
-Next Adventure: [Sgrios Mass](/religion/2024/01/09/sgrios-mass)
+Next Adventure: [Sgrios Mass]({{ site.data.urls.sgrios_mass }})
 
-Previous Quest: [Oren Sewers](/adventure/2024/01/04/oren-sewers)
+Previous Quest: [Oren Sewers]({{ site.data.urls.oren_sewers }})

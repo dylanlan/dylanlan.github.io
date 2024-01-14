@@ -114,7 +114,7 @@ You can test out your new spells in Mileth Crypt
 
 Phew, that was a lot - take a break!
 
-When you get back, feel free to check out one of the lower leveled quests available: [Terror of the Crypt](/adventure/2024/01/11/moose-crypt-terror)
+When you get back, feel free to check out one of the lower leveled quests available: [Terror of the Crypt]({{ site.data.urls.crypt_terror }})
 
 
 

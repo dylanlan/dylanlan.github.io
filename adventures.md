@@ -9,10 +9,10 @@ This is an ongoing list of adventures that Dylanlan and his Aisling siblings hav
 # Protein
 
 #### Pre-Master
-- [Lynith Sea](/adventure/2024/01/03/lynith-sea)
-- [Oren Sewers](/adventure/2024/01/04/oren-sewers)
-- [Cthonic Remains 10](/adventure/2024/01/07/cthonic-remains-10)
-- [Wolf of West Woodland](/adventure/2024/01/09/west-woodland-wolf)
+- [Lynith Sea]({{ site.data.urls.lynith_sea }})
+- [Oren Sewers]({{ site.data.urls.oren_sewers }})
+- [Cthonic Remains 10]({{ site.data.urls.cr_10 }})
+- [Wolf of West Woodland]({{ site.data.urls.ww_wolf }})
 
 
 #### Master
@@ -24,7 +24,7 @@ Coming soon?
 Far in the future!
 
 # Moose
-- [Terror of the Crypt](/adventure/2024/01/11/moose-crypt-terror)
+- [Terror of the Crypt]({{ site.data.urls.crypt_terror }})
 
 
 # NaLyd
