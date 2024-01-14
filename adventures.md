@@ -12,7 +12,7 @@ This is an ongoing list of adventures that Dylanlan and his Aisling siblings hav
 - [Lynith Sea]({{ site.data.urls.lynith_sea }})
 - [Oren Sewers]({{ site.data.urls.oren_sewers }})
 - [Cthonic Remains 10]({{ site.data.urls.cr_10 }})
-- [Wolf of West Woodland]({{ site.data.urls.ww_wolf }})
+- [Wolf of West Woodlands]({{ site.data.urls.ww_wolf }})
 
 
 #### Master

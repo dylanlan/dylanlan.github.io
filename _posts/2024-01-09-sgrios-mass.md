@@ -56,3 +56,6 @@ Sgrios's Shrine is not a very easy one to find, however. Protein nearly ended up
 
 ![Protein Second Scar](/public/images/sgrios/protein-scar-2.png)
 
+Next Adventure: [Wolf of West Woodlands]({{ site.data.urls.ww_wolf }})
+
+Previous Quest: [Cthonic Remains 10]({{ site.data.urls.cr_10 }})

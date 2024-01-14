@@ -112,7 +112,7 @@ You can test out your new spells in Mileth Crypt
 ![Healing](/public/images/awakening/crios/use-beag-ioc.png)
 
 
-Phew, that was a lot - take a break!
+Phew, that was a lot - you should take a break!
 
 When you get back, feel free to check out one of the lower leveled quests available: [Terror of the Crypt]({{ site.data.urls.crypt_terror }})
 

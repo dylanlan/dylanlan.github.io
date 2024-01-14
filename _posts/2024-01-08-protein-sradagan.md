@@ -20,3 +20,6 @@ On this day, the Sradagan Fellowship was created by PaladinJack! Protein promptl
 ![Protein Sradagan Profile](/public/images/sradagan/protein-sradagan-profile.png)
 
 ![Paladin Jack Legend](/public/images/sradagan/paladin-jack-legend.png)
+
+
+More Context: [NaLyd's Reawakening]({{ site.data.urls.nalyd_reawaken }})

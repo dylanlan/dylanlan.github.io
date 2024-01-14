@@ -20,3 +20,6 @@ There had been stories of a dwarf named Throttler, deep in the Woodlands of the 
 
 ![Wolf Legend](/public/images/adventures/west-woodland-wolf/wolf-legend.png)
 
+Next Adventure: [Mileth College]({{ site.data.urls.protein_school }})
+
+Previous Quest: [Cthonic Remains 10]({{ site.data.urls.sgrios_mass }})
