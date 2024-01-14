@@ -5,11 +5,11 @@ date:   2024-01-11
 categories: adventure
 ---
 
-Protein had heard rumours of a terrible monster lurking within Mileth Crypt. Protein himself was way too stronk for such a quest, however, and would surely cause more destruction than was necessary.
+The Mighty Protein had heard rumours of a terrible monster lurking within Mileth Crypt. Protein himself was way too stronk for such a quest, however, and would surely cause more destruction than was necessary.
 
-So he decided to request that his younger brother find and slay the beast instead, to prove his mettle. His brother, Moose, quickly obliged, and destroyed the creature without any issues whatsoever (his words!)
+So he decided to request that his younger brother find and slay the beast instead, to prove his mettle. His brother, Moose, quickly obliged and single-handedly destroyed the creature without any issues whatsoever (his words!).
 
-The adventure begins in Mileth Tavern, where the rumours of the terrible monster originated. Moose ran into a first hiccup almost immediately (he was, uh, missing a sword somehow), but it was just a tiny inconvenience.
+The adventure began in Mileth Tavern, where the rumours of the terrible monster originated. Moose ran into a first hiccup almost immediately (he was, uh, missing a sword somehow), but it was just a tiny inconvenience.
 ![Moose No Sword](/public/images/adventures/crypt-terror-moose/moose-no-sword.png)
 
 Moose quickly found a sword, and was ready to fight!
@@ -32,7 +32,7 @@ Moose traps the beast around the pillar, expertly dodging every single attack th
 
 Oh dear... Moose learns the importance of wearing a proper belt and necklace - and what happens when you misplace yours!
 
-As well as the importance of carrying around certain potions that can revive a dying Aisling.
+As well as the importance of carrying around certain potions that can revive a dying Aisling. Woops!
 ![Moose Skulls](/public/images/adventures/crypt-terror-moose/moose-skulling.png)
 
 Moose finds himself in a strange place. Is Sgrios coming for him?! Oh, no, that is only "Nyarlathotep". Ah, of course! Good ol' Nyarly
@@ -55,10 +55,10 @@ Moose notices another potential improvement to their battle plan. Perhaps he sho
 Moose quickly doubles his attack power, by learning a second assail called Assault
 ![Moose Considers Backup](/public/images/adventures/crypt-terror-moose/moose-learns-assault.png)
 
-Re-equipped, and all skilled-up, Moose and Drangleic return to the same spot, and happen upon some lovely loot that _someone_ had left there
+Re-equipped, and all skilled-up, Moose and Drangleic return to the same spot, and happen upon some lovely loot that _someone_ had kindly left there
 ![Moose Considers Backup](/public/images/adventures/crypt-terror-moose/moose-finds-loot.png)
 
-Moose and Drangleic use their new battle plan, and along with the upgraded gear, the plan goes a lot _smoother_ - almost a difference between night and day!
+Moose and Drangleic use their new battle plan. Along with the upgraded gear, the plan goes a lot _smoother_ - almost a difference between night and day!
 ![Moose Considers Backup](/public/images/adventures/crypt-terror-moose/moose-uses-battle-plan.png)
 
 The foul beast is finally slain!
@@ -81,4 +81,4 @@ Moose decides to celebrate by investigating something about a mysterious Letter.
 Today was quite the learning experience for young Moose. He won't be making those same mistakes again, I'm sure!
 
 
-Next Adventure: (Coming soon?)
+Next Adventure: (Coming soon? Dragon Scale Sword?)

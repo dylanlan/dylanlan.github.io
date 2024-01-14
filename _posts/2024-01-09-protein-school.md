@@ -35,3 +35,6 @@ Protein had been a bit busy hunting a rabid wolf, and ended up tardily barging i
 ![Learnt Much](/public/images/college/learnt-much.png)
 
 ![College Legend](/public/images/college/legend.png)
+
+
+

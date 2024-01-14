@@ -22,21 +22,21 @@ On one extremely fateful day, January 3rd 2024 (Deoch 201 - NaLyd's newest favou
 The sermon was being held by an ever so friendly Aisling, Landon! And this Deoch mass was to be held in the town of Suomi, which is quite well known for its recommendations of authentic "Role Playing". This basically just means pretending that you are truly the Aisling that you see on your screen, living in the fictional world and forgetting about the real human world.
 
 NaLyd had never been much of a role player before - he preferred to focus on killing monsters and gaining items/gold/spells instead. However, since this mass was being held in Suomi, NaLyd decided it would be rude not to attempt role playing, and gave it a shot. It turns out that it can actually be quite a thrilling experience!
-![NaLyd Awakens](/public/images/awakening/landon.png)
+![Landon](/public/images/awakening/landon.png)
 
 Here is a quick memory from the mass sermon itself. It seems like sermons have had dwindling attendance for a bit of time - surely just temporarily! If you want the full sermon text, or want to check out previous masses held by Landon, be sure to visit his [Blog](https://deochtemple.blogspot.com/2024/01/deoch-mass-1-3-2024-new-path.html)
 ![Deoch Mass](/public/images/awakening/deoch-mass.png)
 
 After the sermon, NaLyd quickly desired to return to Loures Canals, for nostalgia's sake yet again. But he then noticed that he had been given an inspiring item from the Deoch mass: "Deoch's Flame". NaLyd has always been a big fan of fire - neat!
-![NaLyd Awakens](/public/images/awakening/deoch-flame.png)
+![Deoch Flame](/public/images/awakening/deoch-flame.png)
 
 NaLyd was feeling especially inspired and nostalgic after this sermon, and got accepted into the guild Dark Horizons on his alternate character, Dylanlan, shortly thereafter.
-![NaLyd Awakens](/public/images/awakening/dark-horizons.png)
+![Dark Horizons](/public/images/awakening/dark-horizons.png)
 
 Dylanlan decided to hang out with other Dark Horizons guildmates in Pravat Cave, full of excitement from meeting new Aislings. Little did he know, this chill hangout would alter his Temuairan course forever.
-![NaLyd Awakens](/public/images/awakening/pravat.png)
+![Pravat](/public/images/awakening/pravat.png)
 
-Necrean was there. Necrean found NaLyd. 17 years later. Unfortunately, there was too much excitement in the moment to remember to take any screenshots, but it was quite the reconnecting indeed! (NaLyd did not get much sleep that night).
+Necrean was there. At Pravat Cave. Necrean found NaLyd, 17 years later (~138 Deoches). Unfortunately, there was too much excitement in the moment to remember to take any screenshots, but it was quite the reconnecting indeed! (NaLyd did not get much sleep that night).
 
 Necrean had unfortunately lost her Aisling to a purge long ago. But she had a new Aisling, PaladinJack! And had also recently created a new Aisling, Frudo, who was in the middle of coordinating a quest to the Lynith Sea with some lower leveled Aisling friends. And it sounded like Frudo needed some special ring to be able to do this quest, hmmm, that almost sounds familiar.
 
