@@ -120,9 +120,6 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  /* TODO: try updating max-width, to make screenshots more readable on monitors
-  max-width: 60rem;
-  */
   padding-top:    4rem;
   padding-bottom: 4rem;
 }
@@ -133,7 +130,6 @@ img {
 
 @media (min-width: 48em) {
   .content {
-    /* max-width: 60rem; */
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
@@ -146,7 +142,6 @@ img {
 
 @media (min-width: 64em) {
   .content {
-    /* max-width: 60rem; */
     margin-left: 22rem;
     margin-right: 4rem;
   }
