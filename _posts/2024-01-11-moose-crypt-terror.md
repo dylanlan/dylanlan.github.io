@@ -81,4 +81,5 @@ Moose decides to celebrate by investigating something about a mysterious Letter.
 Today was quite the learning experience for young Moose. He won't be making those same mistakes again, I'm sure!
 
 
-Next Adventure: (Coming soon? Dragon Scale Sword?)
+Next Adventure: [Porte Moose ChainMail Experiment]({{ site.data.urls.porte_experiment }}) (Moose/ChainMail)
+

@@ -23,8 +23,9 @@ Coming soon?
 
 Far in the future!
 
-# Moose
-- [Terror of the Crypt]({{ site.data.urls.crypt_terror }})
+# Other Aislings
+- [Moose: Terror of the Crypt]({{ site.data.urls.crypt_terror }}) (Moose)
+- [Porte Moose ChainMail Experiment]({{ site.data.urls.porte_experiment }}) (Moose/ChainMail)
 
 
 # NaLyd
