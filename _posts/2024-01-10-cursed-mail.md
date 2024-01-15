@@ -46,6 +46,6 @@ Try to figure out which word in each of these mail letters is making it undelive
 
 This game was just a silly way to recreate some personal frustration of trying to send a mail in-game. I hope you had fun, or at least learned something!
 
-(Hint: the curse words can be in-game acronym keywords that get expanded to a word or phrase)
+If you figure out any of these riddles, feel free to DM `dylanlan2` on Discord, specifying which word was the problematic one for which puzzle number! Protein will happily (or reluctantly) offer a fresh Light Belt in-game for every correct answer! But he might yoink a Light Belt, for incorrect answers, so be careful!
 
-(Coming soon, perhaps: clearer screenshots on desktop)
+(Hint: the curse words can be in-game acronym keywords that get expanded to a word or phrase)
