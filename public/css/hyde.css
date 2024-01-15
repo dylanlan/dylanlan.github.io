@@ -127,12 +127,20 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
+img {
+  max-width: 100%;
+}
+
 @media (min-width: 48em) {
   .content {
     /* max-width: 60rem; */
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
+  }
+
+  img {
+    max-width: 100%;
   }
 }
 
@@ -141,6 +149,10 @@ a.sidebar-nav-item:focus {
     /* max-width: 60rem; */
     margin-left: 22rem;
     margin-right: 4rem;
+  }
+
+  img {
+    max-width: calc(100vw - 28rem);
   }
 }
 
