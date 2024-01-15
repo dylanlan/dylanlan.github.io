@@ -5,11 +5,11 @@ date:   2024-01-04
 categories: letters
 ---
 
-Here is a collection of letters from NaLyd to Landon. Hey! These are private!!
+Here is a collection of letters between NaLyd and Landon. Hey! These are private!!
 
 
 ## 1. To Landon
-(Coming soon!)
+![Letter to Landon](/public/images/letters/nalyd-landon/1-nalyd.png)
 
 ## 2. Landon's Reply
 ![Letter to NaLyd](/public/images/letters/nalyd-landon/2-landon.png)
