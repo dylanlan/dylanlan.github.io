@@ -36,7 +36,7 @@ NaLyd was feeling especially inspired and nostalgic after this sermon, and got a
 Dylanlan decided to hang out with other Dark Horizons guildmates in Pravat Cave, full of excitement from meeting new Aislings. Little did he know, this chill hangout would alter his Temuairan course forever.
 ![Pravat](/public/images/awakening/pravat.png)
 
-Necrean was there. At Pravat Cave. Necrean found NaLyd, 17 years later (~138 Deoches). Unfortunately, there was too much excitement in the moment to remember to take any screenshots, but it was quite the reconnecting indeed! (NaLyd did not get much sleep that night).
+Necrean was there. At Pravat Cave. Necrean found NaLyd, 17 years later (~138 Deochs). Unfortunately, there was too much excitement in the moment to remember to take any screenshots, but it was quite the reconnecting indeed! (NaLyd did not get much sleep that night).
 
 Necrean had unfortunately lost her Aisling to a purge long ago. But she had a new Aisling, PaladinJack! And had also recently created a new Aisling, Frudo, who was in the middle of coordinating a quest to the Lynith Sea with some lower leveled Aisling friends. And it sounded like Frudo needed some special ring to be able to do this quest, hmmm, that almost sounds familiar.
 

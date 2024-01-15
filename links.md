@@ -66,7 +66,7 @@ A list of recent-ish Sgrios mass sermons that have taken place within the game!
 
 [https://www.aosda.net/time.html](https://www.aosda.net/time.html)
 
-A handy resource for converting the in-game years (Deoches), to in-real-life years. The dates aren't 100% accurate, possibly due to some drift from our old-pal Daylight Savings Time
+A handy resource for converting the in-game years (Deochs), to in-real-life years. The dates aren't 100% accurate, possibly due to some drift from our old-pal Daylight Savings Time
 
 #### Kiomi's File Mirror
 
