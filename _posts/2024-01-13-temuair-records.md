@@ -14,6 +14,36 @@ The hope is to have a colletion of verifiable, and beatable records, showcasing 
 (( If anyone has any ideas about how to discourage botting for these records, I'm all ears!! ))
 
 # Legend Marks
+Here's a collection of records related to an increasing number on an Aisling's legend. They should be verifiable by viewing the Aisling's legend.
+
+(Tricky part: the private legend marks... Either need to exclude private marks, or think up some reliable verification method)
+
+### Mentors
+(Coming soon!)
+
+### Hubaes
+(Coming soon!)
+
+### Divorces
+(Coming soon!)
+
+### Scars
+(Coming soon!)
+
+### Arrests
+(Coming soon! Spoilers: it's Ishikawa)
+
+### Adorations
+(Coming soon!)
+
+### Hwarone Kills
+(Coming soon!)
+
+### Blackstar Runs
+(Coming soon!)
+
+### Annual events??
+(Coming soon!)
 
 ### Gem Polishing
 Awarded to Archer Dylanlan, who as of Deoch 201, has been involved in 6000 gem polishes since his birth in Deoch 51.
@@ -25,44 +55,40 @@ Surely no other Aisling has a higher count than this, right??
 (Coming soon!)
 
 ### Tailoring
+(Coming soon! If we can only track Tailoring(N) marks, then it might be a tie!)
+
+### Wizardry Research?
 (Coming soon!)
 
-### Mentorship
-(Coming soon!)
-
-### Hwarone Kills
-(Coming soon!)
-
-### Blackstar Runs
-(Coming soon!)
-
-### Divorces
-(Coming soon!)
-
-### Scars
-(Coming soon!)
-
-### Legend Marks
-(Coming soon!)
-
-### Adorations
-(Coming soon!)
-
-### Annual events??
+### Herbalism?
 (Coming soon!)
 
 ### Daily Quests??
 (Coming soon! One for each quest might be overkill, but whatevs)
 
+### Arena Wins?
+(Coming soon!)
+
+### Arena Win ratio??
+(Comin soon! Maybe exclude people with 0 losses, to prevent one-and-done attempts?)
+
+### Number of Legend Marks
+(Whoa, meta!! Coming soon!)
 
 # Banked Items
-
+These records are related to how many of a certain
 
 ### Gold Bars?
 (Coming soon!)
 
 ### Veltain Ore?
 (Coming soon!)
+
+### Light Belts
+Awarded to Mighty Warrior Protein, who as of Deoch 201, has banked over 1,00 Light Belts since his birth in Deoch 108.
+
+Surely no other Aisling has a higher count than this, right??
+(Screenshot excluded for brevity. You can certainly trust Protein - he would never lie!!)
 
 ### Etc etc??
 (Coming soon??)
