@@ -11,7 +11,7 @@ Here is a collection of letters between NaLyd and Laurier. Hey! These are privat
 ## 1. To Laurier
 ![Letter to Laurier](/public/images/letters/nalyd-laurier/1-nalyd.png)
 
-## 2. Landon's Reply
+## 2. Laurier's Reply
 (Coming soon?)
 
 ## 3. To Laurier
