@@ -7,7 +7,19 @@ categories: awakening
 
 Here's a bit more history and context about some motivations for helping create the Sradagan guild, for anyone curious!
 
-The Aisling NaLyd was created around February, 2007 (Deoch 65), but had gone into a deep slumber around September, 2010 (Deoch 95), for something mysteriously known as "IRL Priorities". NaLyd briefly awoke in 2019 for a Darkages 20th year celebration, as well as a bit during the terrible times of 2020. But he did not stay awake long, and went back to sleep. Near the end of 2023, NaLyd regrettably noticed that he had missed the Deoch 200 celebration. Shoot!
+The Aisling NaLyd was created around February, 2007 (Deoch 65), but had gone into a deep slumber around September, 2010 (Deoch 95), for something mysteriously known as "IRL Priorities". He journeyed to other gaming communities, and explored other interests, but alas, nothing quite awakened his passion as deeply as Temuair has.
+
+#### Tangent
+He tried joining something called the "Smash Bros" community around 2010, which was great fun! But, the "Game Masters" of that game did not enjoy when the players had "too much fun" playing their games, or tried to create their own "community events", or create "quality of life modifications"....
+
+(( [Nintendo](https://www.theverge.com/2022/11/30/23485811/nintendo-smash-world-tour-shut-down-event-tournament) [hates](https://www.ign.com/articles/nintendo-shuts-down-smash-world-tour-fighting-game-championship) [the](https://digiday.com/marketing/confessions-of-a-super-smash-bros-tournament-organizer-on-nintendos-lack-of-support-for-competitive-gaming/) [Super](https://www.theverge.com/2020/11/20/21579392/nintendo-big-house-super-smash-bros-melee-tournament-slippi-cease-desist) [Smash](https://www.reddit.com/r/Games/comments/jxao28/major_super_smash_bros_melee_online_tournament/) [Bros](https://www.polygon.com/2013/7/11/4513294/nintendo-were-trying-to-shut-down-evo-not-just-super-smash-bros-melee) [competitive](https://kotaku.com/nintendo-shuts-down-smash-tournament-over-some-absurd-b-1845719656) [community](https://www.invenglobal.com/articles/15104/nintendo-low-tide-city-project-plus-smash-response), [period](https://twitter.com/edwin_budding/status/1431360624530006016). I understand why, I really do. I just wish there was a better way to safely allow a passionate community to thrive, without feeling like IP is at risk. Returning to KRU has actually been a bit breath of fresh air, where the game creator mostly leaves the community alone, rather than _actively trying to kill it_. Rant over. ))
+
+He also got fairly invested in the (( Pokemon Go )) community, especially during the hype craziness from 2016-2019. But the terrible times of 2020 almost wiped out that game's sense of community. And the "Game Masters" of that game also make very greedy and questionable decisions, unless there's enough backlash.
+
+So a decade of failing to find a stable gaming community has been a large factor, you might say! Which is why he cherishes the Temuair community so much, now. It has survived nearly 25 years all by itself. And it not only encourages community led events, lore, and content, but actually _requires_ it, and was _designed_ that way. And now he wants to help contribute back to the community, for all the lovely memories it has given him.
+
+#### Tangent Ends
+NaLyd briefly awoke in 2019 for a Darkages 20th year celebration, as well as a bit during the terrible times of 2020. But he did not stay awake long, and went back to sleep. Near the end of 2023, NaLyd regrettably noticed that he had missed the Deoch 200 celebration. Shoot!
 
 Regardless, he decided to awaken once again to see how the world of Temuair was doing, around December 10, 2023 (Deoch 200). He heard that the Ability cap had fiiiiiiinally been raised to the maximum of 99! He had been eagerly awaiting this moment since 2008 (Deoch 78), to finish the epic weapon that he had received from the Legendary quest of slaying Arsaidh Aon.
 
