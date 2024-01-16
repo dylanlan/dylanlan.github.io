@@ -31,7 +31,7 @@ Here's a collection of records related to an increasing number on an Aisling's l
 (Coming soon!)
 
 ### Arrests
-(Coming soon! Spoilers: it's Ishikawa)
+(Coming soon! Spoilers: it's Ishikawa, surprise!! Claimed to be 3151 [pending verification])
 
 ### Adorations
 (Coming soon!)
@@ -50,6 +50,8 @@ Awarded to Archer Dylanlan, who as of Deoch 201, has been involved in 6000 gem p
 
 Surely no other Aisling has a higher count than this, right??
 ![Dylanlan 6k Gems](/public/images/records/gem-polishing/dylanlan-6000-gem-polish-jan-15-2024.png)
+
+(How to confidently verify this one? :(((((((
 
 ### Blade Smithing
 (Coming soon!)
@@ -75,24 +77,14 @@ Surely no other Aisling has a higher count than this, right??
 ### Number of Legend Marks
 (Whoa, meta!! Coming soon!)
 
-# Banked Items
-These records are related to how many of a certain
+# Most Banked Light Belts
+This award goes to the Aisling who currently owns the most Light Belt items in their bank account.
 
-### Gold Bars?
-(Coming soon!)
+It is currently awarded to the Mighty Warrior Protein, who as of Deoch 201, has banked over 1,00 Light Belts since his birth in Deoch 108. That's more than 1 Light Belt per Deoch!! Incredible!!
 
-### Veltain Ore?
-(Coming soon!)
+Surely no other Aisling has a higher count than this.
 
-### Light Belts
-Awarded to Mighty Warrior Protein, who as of Deoch 201, has banked over 1,00 Light Belts since his birth in Deoch 108.
-
-Surely no other Aisling has a higher count than this, right??
 (Screenshot excluded for brevity. You can certainly trust Protein - he would never lie!!)
-
-### Etc etc??
-(Coming soon??)
-
 
 # Speedruns
 A collection of quests or bosses that were completed in the quickest time, perhaps?
