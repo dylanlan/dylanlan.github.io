@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Website Updated"
-date:   2024-01-14
+date:   2024-01-16
 categories: awakening
 ---
 
@@ -15,5 +15,5 @@ Welcome to my personal fan website for Darkages! You can find various links on t
 - Mileth College to learn about learning
 - Misc for anything that doesn't fit nicely in a category
 - Name Lottery for claiming a new character name
-- Religion for some in-game lore
-- Silly Games for some meta-games
+- Religion for some in-game lore (NEW: Deoch Mass!)
+- Silly Games for some meta-games (NEW: World Records!)
