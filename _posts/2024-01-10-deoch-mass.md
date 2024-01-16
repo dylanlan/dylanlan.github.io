@@ -6,6 +6,7 @@ categories: religion
 ---
 
 
+
 ![Pre Mass](/public/images/deoch/mass/pre-mass.png)
 
 ![Taunt Froggy](/public/images/deoch/mass/taunt-froggy.png)
@@ -26,7 +27,6 @@ categories: religion
 
 ![Landon Answer](/public/images/deoch/mass/landon-answer.png)
 
-Chop?
 ![Protein Again](/public/images/deoch/mass/protein-again.png)
 
 ![NaLyd Sgrios](/public/images/deoch/mass/nalyd-sgrios.png)
@@ -39,6 +39,6 @@ Chop?
 
 ![NaLyd Thanks](/public/images/deoch/mass/nalyd-thanks.png)
 
-Next Adventure: [Wolf of West Woodlands]({{ site.data.urls.ww_wolf }})
+Next Adventure: [Moose: Terror of the Crypt]({{ site.data.urls.crypt_terror }})
 
-Previous Quest: [Cthonic Remains 10]({{ site.data.urls.cr_10 }})
+Previous Post: [Sgrios Forsook]({{ site.data.urls.sgrios_forsook }})

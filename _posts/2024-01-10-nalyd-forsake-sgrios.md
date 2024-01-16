@@ -35,3 +35,8 @@ NaLyd glanced at his legend. Deoch 201, eh? Maybe he will return to Sgrios in an
 ![NaLyd Legend](/public/images/sgrios/forsaken/nalyd-legend.png)
 
 For today, NaLyd only had one deity on his mind. Deoch - the eternal flame.
+
+
+Next Adventure: [Deoch Mass]({{ site.data.urls.deoch_mass }})
+
+Previous Quest: [Sgrios Mass]({{ site.data.urls.sgrios_mass }})

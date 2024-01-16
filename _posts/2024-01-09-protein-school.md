@@ -37,7 +37,7 @@ Protein had been a bit busy hunting a rabid wolf, and ended up tardily barging i
 ![College Legend](/public/images/college/legend.png)
 
 
-Next Adventure: [Beal na Carraige] Coming Soon!
+Next Event: [Sgrios Forsook]({{ site.data.urls.sgrios_forsook }})
 
 Previous Quest: [Wolf of West Woodlands]({{ site.data.urls.ww_wolf }})
 

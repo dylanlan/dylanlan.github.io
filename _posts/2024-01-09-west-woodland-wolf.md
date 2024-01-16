@@ -22,4 +22,4 @@ There had been stories of a dwarf named Throttler, deep in the Woodlands of the 
 
 Next Adventure: [Mileth College]({{ site.data.urls.protein_school }})
 
-Previous Quest: [Cthonic Remains 10]({{ site.data.urls.sgrios_mass }})
+Previous Quest: [Sgrios Mass]({{ site.data.urls.sgrios_mass }})
