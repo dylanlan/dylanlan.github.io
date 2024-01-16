@@ -17,3 +17,5 @@ Welcome to my personal fan website for Darkages! You can find various links on t
 - Name Lottery for claiming a new character name
 - Religion for some in-game lore (NEW: Deoch Mass!)
 - Silly Games for some meta-games (NEW: World Records!)
+
+NOTE: I'm planning to use a different website theme in the coming days. Do not be alarmed if everything looks very different soon!
