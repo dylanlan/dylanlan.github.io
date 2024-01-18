@@ -1,4 +1,8 @@
 ### devlopr-jekyll - A Beautiful Jekyll Theme Built for Developers
+
+TODO: Prune
+
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->

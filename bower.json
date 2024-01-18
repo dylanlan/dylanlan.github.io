@@ -1,10 +1,10 @@
 {
-  "name": "devlopr-jekyll",
-  "homepage": "https://github.com/sujaykundu777/devlopr-jekyll",
+  "name": "dylanlan-ninja",
+  "homepage": "https://github.com/dylanlan/dylanlan.github.io",
   "authors": [
-    "sujaykundu777 <sujaykundu777@gmail.com>"
+    "dylanlan <dylan.stank@gmail.com>"
   ],
-  "description": "A Jekyll Theme Built For Developers",
+  "description": "A fan site for an old MMORPG",
   "main": "",
   "keywords": [
     "jekyll-theme",

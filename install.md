@@ -17,7 +17,7 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
 
 ### Steps to create your blog using devlopr-jekyll and Host using Github Pages :
 
->  **Step 1.**  Fork the repo - [click here](https://github.com/sujaykundu777/devlopr-jekyll/fork)
+>  **Step 1.**  Fork the repo - [click here](https://github.com/dylanlan/dylanlan.github.io/fork)
 
 ![Devlopr Jekyll Repo](/assets/img/posts/fork1.PNG){:class="img-fluid"}
 
@@ -121,8 +121,8 @@ Start populating your blog by adding your .md files in _posts. devlopr-jekyll al
 ---
 layout: post
 title: Sample Post
-author: Sujay Kundu
-date: '2019-05-21 14:35:23 +0530'
+author: Dylanlan
+date: '2024-01-18 14:35:23 +0530'
 category:
         - jekyll
 summary: This is the summary for the sample post

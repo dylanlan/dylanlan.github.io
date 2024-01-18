@@ -12,3 +12,6 @@ _site/
 .bundle
 .bundle/
 vendor/
+
+# Personal notes
+TODO.md
