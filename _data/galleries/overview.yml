@@ -1,0 +1,10 @@
+-
+  title: Canals
+  directory: gallery/canals
+  url: canals
+  preview:
+    filename: solo-mass-aug-20-2008
+    original: solo-mass-aug-20-2008.png
+    sizes:
+    - solo-mass-thumbnail.png
+    thumbnail: solo-mass-thumbnail.png

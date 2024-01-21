@@ -8,5 +8,5 @@ Hello Temuair! This is the awakening of my fan site, for an online [MMORPG](http
 
 More content coming soon!
 
-![Darkages Login Screen](/public/images/darkages/da-login-screen.png)
+![Darkages Login Screen](/assets/img/darkages/da-login-screen.png)
 

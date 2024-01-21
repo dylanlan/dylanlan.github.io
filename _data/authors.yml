@@ -1,0 +1,11 @@
+# Add Authors here
+dylanlan:
+   name: Dylanlan
+   username: dylanlan
+   site: https://dylanlan.ninja
+   avatar: dylanlan.png
+   bio: "Hey there! I'm Dylanlan, an archer / ninja. Thanks for checking out my website!"
+   email: dylanlan.darkages@gmail.com
+   social:
+      - title: "github"
+        url: "https://github.com/dylanlan"

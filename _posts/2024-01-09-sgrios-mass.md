@@ -3,58 +3,61 @@ layout: post
 title:  "Sgrios Mass"
 date:   2024-01-09
 categories: religion
+header: thumbnails/sgrios-mass-header.png
+thumbnail: thumbnails/sgrios-mass-thumbnail.png
 ---
 
 The Sradagan guild's very first mass is quite fitting for such a squirrely group of Aislings. We've had many almost-disasters during hunting, nearly knocking on Sgrios's door multiple times. It's therefore quite appropriate that we just barged right on in to his sacred Shrine, wanting to pay a visit.
 
 Sgrios's Shrine is not a very easy one to find, however. Protein nearly ended up meeting Sgrios in-person, merely by trying to visit his Shrine. Coming soon: reflective descriptions of these memories
-![Sgrios Welcome](/public/images/sgrios/sgrios-welcome.png)
 
-![Before Mass](/public/images/sgrios/pre-mass.png)
+![Sgrios Welcome](/assets/img/sgrios/sgrios-welcome.png)
 
-![Mass Starts](/public/images/sgrios/mass-start.png)
+![Before Mass](/assets/img/sgrios/pre-mass.png)
 
-![Mass 1](/public/images/sgrios/mass-1.png)
+![Mass Starts](/assets/img/sgrios/mass-start.png)
 
-![Mass 2](/public/images/sgrios/mass-2.png)
+![Mass 1](/assets/img/sgrios/mass-1.png)
 
-![Crasher Animation](/public/images/sgrios/crasher-bad.png)
+![Mass 2](/assets/img/sgrios/mass-2.png)
 
-![Rikujo Joins Sgrios](/public/images/sgrios/rikujo-dark-side.png)
+![Crasher Animation](/assets/img/sgrios/crasher-bad.png)
 
-![Protein Retelling Journey](/public/images/sgrios/protein-retelling-entry.png)
+![Rikujo Joins Sgrios](/assets/img/sgrios/rikujo-dark-side.png)
 
-![False](/public/images/sgrios/lies.png)
+![Protein Retelling Journey](/assets/img/sgrios/protein-retelling-entry.png)
 
-![Spion Sgrios](/public/images/sgrios/spion-sgrios-1.png)
+![False](/assets/img/sgrios/lies.png)
 
-![Protein Scarred](/public/images/sgrios/protein-first-scar.png)
+![Spion Sgrios](/assets/img/sgrios/spion-sgrios-1.png)
 
-![Protein Contemplates Scar](/public/images/sgrios/protein-contemplates-scar.png)
+![Protein Scarred](/assets/img/sgrios/protein-first-scar.png)
 
-![Protein Question](/public/images/sgrios/protein-question.png)
+![Protein Contemplates Scar](/assets/img/sgrios/protein-contemplates-scar.png)
 
-![Protein Confused](/public/images/sgrios/protein-confused.png)
+![Protein Question](/assets/img/sgrios/protein-question.png)
 
-![Mass End](/public/images/sgrios/mass-end.png)
+![Protein Confused](/assets/img/sgrios/protein-confused.png)
 
-![Protein Intrigue](/public/images/sgrios/protein-intrigue.png)
+![Mass End](/assets/img/sgrios/mass-end.png)
 
-![Protein Considers Murder](/public/images/sgrios/protein-considers-murder.png)
+![Protein Intrigue](/assets/img/sgrios/protein-intrigue.png)
 
-![Protein Thanks](/public/images/sgrios/protein-thanks.png)
+![Protein Considers Murder](/assets/img/sgrios/protein-considers-murder.png)
 
-![Protein Leaves](/public/images/sgrios/protein-leaves.png)
+![Protein Thanks](/assets/img/sgrios/protein-thanks.png)
 
-![Protein Scared](/public/images/sgrios/protein-ptsd.png)
+![Protein Leaves](/assets/img/sgrios/protein-leaves.png)
 
-![Protein Finds a Friend](/public/images/sgrios/protein-finds-friend.png)
+![Protein Scared](/assets/img/sgrios/protein-ptsd.png)
 
-![Protein Loses Friend](/public/images/sgrios/protein-loses-friend.png)
+![Protein Finds a Friend](/assets/img/sgrios/protein-finds-friend.png)
 
-![Protein Disguise Ends](/public/images/sgrios/protein-normal.png)
+![Protein Loses Friend](/assets/img/sgrios/protein-loses-friend.png)
 
-![Protein Second Scar](/public/images/sgrios/protein-scar-2.png)
+![Protein Disguise Ends](/assets/img/sgrios/protein-normal.png)
+
+![Protein Second Scar](/assets/img/sgrios/protein-scar-2.png)
 
 Next Adventure: [Wolf of West Woodlands]({{ site.data.urls.ww_wolf }})
 

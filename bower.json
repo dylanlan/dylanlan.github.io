@@ -1,0 +1,22 @@
+{
+  "name": "dylanlan-ninja",
+  "homepage": "https://github.com/dylanlan/dylanlan.github.io",
+  "authors": [
+    "dylanlan <dylanlan.darkages@gmail.com>"
+  ],
+  "description": "A fan site for an old MMORPG",
+  "main": "",
+  "keywords": [
+    "jekyll-theme",
+    "jekyll",
+    "gallery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -9,14 +9,14 @@ This is just an early alpha side project focused on figuring out which Aisling h
 
 If you contact Protein, NaLyd, or Dylanlan about a record that you might own, they'll be happy to reward you with a bright, glowing prize!!
 
-The hope is to have a colletion of verifiable, and beatable records, showcasing some of the most impressive Aislings across Temuair!
+The hope is to have a collection of verifiable and beatable records, showcasing some of the most impressive Aislings across Temuair!
 
 (( If anyone has any ideas about how to discourage botting for these records, I'm all ears!! ))
 
 # Legend Marks
 Here's a collection of records related to an increasing number on an Aisling's legend. They should be verifiable by viewing the Aisling's legend.
 
-(Tricky part: the private legend marks... Either need to exclude private marks, or think up some reliable verification method)
+(Tricky part: the private legend marks... Either need to exclude private marks, or think up some reliable verification method, hmmm...)
 
 ### Mentors
 (Coming soon!)
@@ -49,7 +49,7 @@ Here's a collection of records related to an increasing number on an Aisling's l
 Awarded to Archer Dylanlan, who as of Deoch 201, has been involved in 6000 gem polishes since his birth in Deoch 51.
 
 Surely no other Aisling has a higher count than this, right??
-![Dylanlan 6k Gems](/public/images/records/gem-polishing/dylanlan-6000-gem-polish-jan-15-2024.png)
+![Dylanlan 6k Gems](/assets/img/records/gem-polishing/dylanlan-6000-gem-polish-jan-15-2024.png)
 
 (How to confidently verify this one? :(((((((
 
