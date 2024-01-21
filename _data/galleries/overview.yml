@@ -1,9 +1,10 @@
 -
-  title: Mountains
-  directory: mountains
+  title: Canals
+  directory: gallery/canals
+  url: canals
   preview:
-    filename: 1.jpg
-    original: 1-thumbnail.jpg
+    filename: solo-mass-aug-20-2008
+    original: solo-mass-aug-20-2008.png
     sizes:
-    - 1-thumbnail.jpg
-    thumbnail: 1-thumbnail.jpg
+    - solo-mass-thumbnail.png
+    thumbnail: solo-mass-thumbnail.png

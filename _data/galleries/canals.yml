@@ -1,0 +1,18 @@
+picture_path: canals
+preview:
+  filename: solo-mass
+  original: solo-mass-aug-20-2008.png
+  sizes:
+  - solo-mass-aug-20-2008.png
+  thumbnail: solo-mass-thumbnail.png
+pictures:
+- filename: solo-mass
+  original: solo-mass-aug-20-2008.png
+  sizes:
+  - solo-mass-aug-20-2008.png
+  thumbnail: solo-mass-thumbnail.png
+- filename: two-man-mass
+  original: 2-man-mass-aug-10-2008.png
+  sizes:
+  - 2-man-mass-aug-10-2008.png
+  thumbnail: 2-man-mass-thumbnail.png

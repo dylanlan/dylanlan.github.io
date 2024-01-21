@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 4.3.2'
+# gem 'jekyll', '~> 4.3.2'
 gem 'bundler', '~> 2.3.7'
 gem 'faraday-retry'
 gem 'backports', '~> 3.23'
@@ -14,12 +14,13 @@ gem 'puma'
 
 # Plugins
 group :jekyll_plugins do
-    # gem 'devlopr', '~> 0.4.5'
+    gem 'devlopr', '~> 0.4.5'
     gem 'jgd', '~> 1.12'
-    gem 'jekyll-feed', '~> 0.17.0'
+    # TODO: figure out if I need feed or seo-tag???
+    # gem 'jekyll-feed', '~> 0.17.0'
     gem 'jekyll-paginate', '~> 1.1.0'
     gem 'jekyll-gist', '~> 1.5.0'
-    gem 'jekyll-seo-tag', '~> 2.8.0'
+    # gem 'jekyll-seo-tag', '~> 2.8.0'
     gem 'jekyll-sitemap', '~> 1.4.0'
     gem 'jekyll-admin', '~> 0.11.1'
 end

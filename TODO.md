@@ -1,8 +1,9 @@
 TODO:
 
-Last screenshot day analyzed: jan 11
-
-- Responsive devlopr theme??? Make it scale better with browser
-- Add more quests / hunting / events (Arena?? Cr56?? Misc?!)
+- Website favicon!!
+- Migrate everything from old theme!
+    - misc / games / etc
+- Add more quests / hunting / events (Arena?? Cr56?? Law?! Nobis?! Misc?!)
+- Look into data tables for in-browser searchable things: https://datatables.net/
 - Add Github actions??
 - Add a dead-link-detector??

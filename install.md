@@ -1,175 +1,142 @@
 ---
-title: Get Started
 layout: page
+title:  Entering Temuair
 permalink: /get-started/
 ---
 
-## Getting Started - How to use “devlopr-jekyll” theme
+# Entering Temuair
 
-## What's Jekyll ?
+Have you created a new character (Aisling) and want to start playing in the game world (Temuair), but not sure what to do?? Let's follow a mini-adventure of two brave Aislings, to find out some options!
 
-If you aren’t familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked…just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! If you are a beginner we recommend you start with [Jekyll’s Docs](https://jekyllrb.com/docs/installation/). Now, if you know how to use Jekyll, let’s move on to using this theme in Jekyll:
+New Aislings will spawn in the tutorial area by default. But if you don't log on for at least a day - you might find yourself in a place called Mileth Inn instead (and improperly dressed for the elements!). Worry not, young Aisling, for it's still possible to return to the Tutorial area!
 
-## Watch Tutorial
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cXBEfpn0qrg?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Mileth Inn](/assets/img/awakening/me/crios/mileth-inn.png)
 
 
-### Steps to create your blog using devlopr-jekyll and Host using Github Pages :
+If you want to see the Chat Log, you can press `f`, or click the buttons to the right of the lower window.
 
->  **Step 1.**  Fork the repo - [click here](https://github.com/dylanlan/dylanlan.github.io/fork)
+There are panes for Inventory (`a`), Skills (`s`), Spells (`d`), Chat (`f`), Stats (`g`), and additional Skills/Spells (`h`). The buttons are located to the right of the window pane.
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork1.PNG){:class="img-fluid"}
+You can chat by pressing `Enter`, typing a message, and then press `Enter` again.
 
-> **Step 2.** Use **your-github-username.github.io** as the new repo  ( Replace your-github-username with yours). Remember if you use the name other than your-github-username.github.io , your blog will be built using gh-pages branch.
+If you ever get confused by which keys to use, there's a Hotkey reference that you can click - the `?` button in the bottom right of the screen.
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork2.PNG){:class="img-fluid"}
+![Hotkeys](/assets/img/darkages/hotkeys.png)
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork3.PNG){:class="img-fluid"}
+If you want to leave the Mileth Inn - just walk with Arrow Keys (or right-click) towards the highlighted rug
 
-> **Step 3.** Clone the new repo locally to make changes :
+![Crios Awakens](/assets/img/awakening/me/crios/crios-awakens.png)
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork31.PNG){:class="img-fluid"}
+If you left-click on yourself (or press `a` twice), you can see more details about your Aisling. Oh my! Looks like this Aisling is missing all their equipment!
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork32.PNG){:class="img-fluid"}
+![Aisling Profile](/assets/img/awakening/me/crios/aisling-self.png)
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork33.PNG){:class="img-fluid"}
+There are various buildings and Non-Player-Characters (NPCs, called Mundanes) in Mileth Village. Some of them will allow you to re-enter the Tutorial, thankfully, if you're still a low enough level.
 
-```bash
- $ git clone https://github.com/yourusername/yourusername.github.io
- $ cd yourusername.github.io
- $ code .
-```
+If you ever get lost, you can use the X and Y coordinates on the lower part of the screen, to figure out where you are and where you might want to be.
 
-> **Step 4.** Open the files using VSCode and edit _config.yml and edit with your details:
+The Mileth Tavern is a good building to take note of - it often contains rumours of quests and adventures to be had! As well as some options to explore Mileth Politics. The Inn can be found at coordinates (71,54) in Mileth Village
 
-- _config.yml file - replace with your own details
-- _posts - Add your blog posts here
-- _includes - You can replace the contents of the files with your data. (contains widgets)
-- _assets/img - Add all your images here
+![Mileth Tavern Entrance](/assets/img/awakening/me/crios/mileth-tavern-entrance.png)
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork34.PNG){:class="img-fluid"}
+If you walk in and talk to the kind bartender, Aingeal, she will let you re-enter the Tutorial area!
 
-> **Step 5** - Install the development requirements:
+![Mileth Tavern](/assets/img/awakening/me/crios/mileth-tavern.png)
 
-### Set up local development environment
+The Tutorial has a wealth of information about the game, and even some monsters to practice against!
 
-1. [Git](https://git-scm.com/)
-2. [Ruby](https://www.ruby-lang.org/) and [Bundler](https://bundler.io/)
-3. [VSCode](https://code.visualstudio.com/download)
+![Tutorial Entrance](/assets/img/awakening/me/crios/tutorial-entrance.png)
 
-We need ruby and bundler to build our site locally. After installation check if its working:
+Feel free to talk to Raghnall if you want to learn how to fight
 
-For ruby :
+![Tutorial Combat](/assets/img/awakening/me/crios/tutorial-combat.png)
 
-```bash
-$ ruby -v
-ruby 2.5.1p57 (2018-03-29 revision 63029) [x86_64-linux-gnu]
-```
-For bundler :
+If you walk up a bit, Bartley has a bunch of information about the game!
 
-```bash
-$ gem install bundler
-$ bundler -v
-Bundler version 2.2.29
-```
-Add jekyll :
+![Tutorial Bartley](/assets/img/awakening/me/crios/tutorial-bartley.png)
 
-```bash
-$ bundle update
-$ bundle add jekyll
-```
- This command will add the Jekyll gem to our Gemfile and install it to the ./vendor/bundle/ folder.
+If it's too much to read through and you just wanna start killing things, it's recommended to at least click through the Interface section. It will teach you a couple nifty skills/spells in your `h` pane. `Look` can tell you what item is on the ground in front of you, and `nis` can tell you the current time in-game.
 
-You can check the jekyll version
+![Look and Nis](/assets/img/awakening/me/crios/tutorial-nis.png)
 
-```
-$ bundle exec jekyll -v
-jekyll 4.2.0
-```
+The Tutorial is littered with weak Kardi monsters - feel free to practice your combat on them!
 
-> **Step 6.** Install the gem dependencies by running the following command
+![Tutorial Kardi](/assets/img/awakening/me/crios/tutorial-kardi.png)
 
-```bash
-$ bundle update
-$ bundle install
-```
+After you finish the Tutorial, you will find yourself back in Mileth Inn. But you will have received some experience, and likely gained a level or two!
 
-> **Step 7.** Serve the site locally by running the following command below:
+You will acquire 2 stat points for every level. You can apply them in the `g` pane, where the flashing up-arrows are displayed.
 
-```bash
-$ bundle exec jekyll serve --watch
-```
-or you can also serve using :
+Use caution, though! Stats can be a very limited resource. You might want to wait until you figure out which Class you want to be (more on that, later), before discovering that you wasted a stat point.
 
-```bash
-$ jekyll serve
-```
+![Tutorial Experience](/assets/img/awakening/me/crios/tutorial-exp.png)
 
-Visit [http://localhost:4000](http://localhost:4000) for development server
+Ok, that was a ton of pre-amble...
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork41.PNG){:class="img-fluid"}
+Where can you kill monsters?! Patience, young Aisling! If you're wanting an adventure, you can find a mysterious Crypt in Mileth Village, located at coordinates (93, 50)
+
+![Crypt Entrance](/assets/img/awakening/me/crios/mileth-crypt-entrance.png)
+
+But be careful! Once inside, you'll be greeted by many vicious beasts. Mice, spiders, centipedes?! Oh my!
+
+![Crypt Monsters](/assets/img/awakening/me/crios/mileth-crypt-monsters.png)
+
+If you slay foul monsters, you will gain experience points. Acquire enough, and you will grow another level - with even more stat points to learn!
+
+![Crypt Level Up](/assets/img/awakening/me/crios/mileth-crypt-level-up.png)
+
+But which stats should I learn?! Great question, random visitor - I'm glad you asked! Let's head to the Temple of Choosing, which you can find at coordinates (95, 13).
+
+![Temple of Choosing](/assets/img/awakening/me/crios/temple-of-choosing.png)
+
+Inside, `Aoife` can sell you some class tutorial books, which can give details about your decision to make.
+
+![Aoife Guide Books](/assets/img/awakening/me/crios/toc-books.png)
+
+The classes are similar to other RPG games - here's a quick tl;dr:
+
+- Warrior: front-line attacker, wears sturdy armor and wields mighty swords to attack monsters face-to-face. Mostly needs Strength, with a bit of Constitution and Dexterity. Later becomes a Gladiator.
+- Monk: front-line attacker, wields powerful fists and spells from nature to outwit foes. Needs a balance of stats, with a focus on Strength and Constitution. Later becomes a Druid.
+- Rogue: a trickster class, able to set traps for damage/status effects, and skills to identify and control monsters. Needs a balance of stats, with a focus on Dexterity. Later becomes an Archer
+- Priest: a critical support class, able to heal group members, and curse monsters to weaken their defenses. Needs a ton of Intelligence and Wisdom. Later becomes a Bard
+- Wizard: a magical class, able to wield the powers of elements to enhance the group's damage output, or do damage themselves. Focuses on different stats, depending on element, but Intelligence and Wisdom are recommended. Later becomes a Summoner
+
+If you want more information about classes, refer to [vorlof.com](https://www.vorlof.com/skills.html), which has information about every skill, spell, weapon, and armor in the game!
+
+After you're confident in your decision, you can talk to `Aoife` again, and pick `Path Reception`.
+
+![Aoife](/assets/img/awakening/me/crios/toc-aoife.png)
+
+Stand in the centre to receive the next clue about where to find your class teacher. Physical attackers take the left door, and magic casters take the right door.
+
+![Temple Circles](/assets/img/awakening/me/crios/stand-in-centre.png)
+
+Once you've found the class that you want to become, simply talk to the NPC, and choose to become the class. You can become the class by yourself, but if you have a friend of the same class, then they can guide you.
+
+![Become a Priest](/assets/img/awakening/me/crios/become-priest.png)
+
+If you check your profile again, it should now show that your Class is no longer Peasant!
+
+![Crios Priest](/assets/img/awakening/me/crios/crios-priest.png)
+
+You can also check the skill tab, to see the list of skills and spells that you can learn. They will also show which stats you need, to learn them.
+
+![Spell Stats](/assets/img/awakening/me/crios/need-stats.png)
+
+If you can find Devlin in Mileth, she can teach quite a few spells (pick `Learn Secret`) to priests!
+
+![Devlin](/assets/img/awakening/me/crios/devlin.png)
+
+Beag ioc is a very important spell - it heals other Aislings!
+
+![Beag Ioc](/assets/img/awakening/me/crios/learn-beag-ioc.png)
+
+You can test out your new spells in Mileth Crypt
+
+![Healing](/assets/img/awakening/me/crios/use-beag-ioc.png)
 
 
-### Adding Content
+Phew, that was a lot - you should take a break!
 
-Start populating your blog by adding your .md files in _posts. devlopr-jekyll already has a few examples.
-
-#### YAML Post Example:
-
-```yml
----
-layout: post
-title: Sample Post
-author: Dylanlan
-date: '2024-01-18 14:35:23 +0530'
-category:
-        - jekyll
-summary: This is the summary for the sample post
-thumbnail: sample.png
----
-
-Hi ! This is sample post.
-
-```
-
-#### YAML Page Example:
-
-```yml
----
-layout: page
-title: Sample Page
-permalink: /sample-page/
----
-
-Hi ! This is sample page.
-```
-
-#### Editing stylesheet
-
-You’ll only work with a single file to edit/add theme style: assets/css/main.scss.
-
-### Deploy your Changes
-
-Once happy with your blog changes. Push your changes to master branch.
-
-> **Step 8.** Push Your Local Changes
-
-```bash
- $ git add .
- $ git commit -m "my new blog using devlopr-jekyll"
- $ git push origin master
-```
-
-Visit your Github Repo settings ! Enable master branch as Github Pages Branch :
-
-![Devlopr Jekyll Repo](/assets/img/posts/fork6.PNG){:class="img-fluid"}
-
-> **Step 9.** Deploy your Blog :
-
-![Devlopr Jekyll Repo](/assets/img/posts/fork7.PNG){:class="img-fluid"}
-
-> Congrats ! On your new shining Blog !
-
-You can visit the blog using [http://your-github-username.github.io](http://your-github-username.github.io).
+When you get back, feel free to check out one of the lower leveled quests available: [Terror of the Crypt]({{ site.data.urls.crypt_terror }})
 

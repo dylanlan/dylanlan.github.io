@@ -5,11 +5,11 @@ permalink: /styleguide/
 ---
 
 
-### devlopr - Styleguide
+### Markdown Styleguide
 
 <hr />
 
- <img src="/assets/img/styleguide.png" class="img-fluid">
+<p>This website is written with simple markdown files! There are a few different formatting options available</p>
 
 <p> Lets try the different text styles  <b> Bold </b> , <strong> Strong </strong>, <em> Emphasis </em>, <i> Italic </i> </p>
 
@@ -121,6 +121,16 @@ permalink: /styleguide/
 
 <hr>
 
+
+<h3 id="input-style">Input Style</h3>
+
+<p><input type="text" placeholder="I'm an input field!" /></p>
+
+<hr />
+
+
+
+
 <h3> Twitter Embed </h3>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">December Events ❄️☃️🎄🎅<a href="https://t.co/k0YKTm6Kat">https://t.co/k0YKTm6Kat</a><a href="https://twitter.com/hashtag/gamercommunity?src=hash&amp;ref_src=twsrc%5Etfw">#gamercommunity</a> <a href="https://twitter.com/hashtag/updates?src=hash&amp;ref_src=twsrc%5Etfw">#updates</a> <a href="https://twitter.com/hashtag/rpg?src=hash&amp;ref_src=twsrc%5Etfw">#rpg</a> <a href="https://twitter.com/hashtag/devlife?src=hash&amp;ref_src=twsrc%5Etfw">#devlife</a> <a href="https://twitter.com/hashtag/indiedev?src=hash&amp;ref_src=twsrc%5Etfw">#indiedev</a> <a href="https://twitter.com/hashtag/pixelgame?src=hash&amp;ref_src=twsrc%5Etfw">#pixelgame</a> <a href="https://twitter.com/hashtag/retrogame?src=hash&amp;ref_src=twsrc%5Etfw">#retrogame</a> <a href="https://twitter.com/hashtag/events?src=hash&amp;ref_src=twsrc%5Etfw">#events</a> <a href="https://twitter.com/hashtag/RPG?src=hash&amp;ref_src=twsrc%5Etfw">#RPG</a> <a href="https://twitter.com/hashtag/DarkAges?src=hash&amp;ref_src=twsrc%5Etfw">#DarkAges</a> <a href="https://twitter.com/hashtag/MtMerry?src=hash&amp;ref_src=twsrc%5Etfw">#MtMerry</a> <a href="https://twitter.com/hashtag/Christmas?src=hash&amp;ref_src=twsrc%5Etfw">#Christmas</a> <a href="https://twitter.com/hashtag/Xmas?src=hash&amp;ref_src=twsrc%5Etfw">#Xmas</a> <a href="https://t.co/9RGEci6X2Q">pic.twitter.com/9RGEci6X2Q</a></p>&mdash; Kru Interactive (@DarkAgesMMORPG) <a href="https://twitter.com/DarkAgesMMORPG/status/1735518576990408934?ref_src=twsrc%5Etfw">December 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -130,7 +140,7 @@ permalink: /styleguide/
 
 <h3>YouTube Responsive Embed</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wecKZzwEYQg?si=VjnJfHKlFcdAWfab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2z7GUTVjLZ4?si=HfV24a9SNbLtuWpa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <!-- TODO: use any of this??
@@ -147,7 +157,7 @@ permalink: /styleguide/
 
 -->
 
-<h3 id="syntax-highlighting">Syntax Highlighting</h3>
+<!-- <h3 id="syntax-highlighting">Syntax Highlighting</h3>
 
 <figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="s1">'use strict'</span><span class="p">;</span>
 <span class="kd">var</span> <span class="nx">markdown</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">'markdown'</span><span class="p">).</span><span class="nx">markdown</span><span class="p">;</span>
@@ -167,12 +177,4 @@ permalink: /styleguide/
   <span class="nl">overflow</span><span class="p">:</span> <span class="nb">auto</span><span class="p">;</span>
 <span class="p">}</span></code></pre></figure>
 
-<hr />
-
-<h3 id="input-style">Input Style</h3>
-
-<p><input type="text" placeholder="I'm an input field!" /></p>
-
-<hr />
-
-
+<hr /> -->
