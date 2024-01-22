@@ -22,6 +22,7 @@ A random and incomplete list of various known bugs or quality of life suggestion
 
 ### Towns (QoL)
 - Make Rucesion a full alternative to Mileth. The ability to get perma-banished from Mileth, and still play the game fully
+- Add Altars to other towns? Ruc, Piet, Abel, Suomi, Blackstar? Oren? Medenia??
 
 ### Bank Storage (QoL)
 
@@ -43,4 +44,6 @@ Some data storage is still showing its 90s side, and would be great to update:
 - Fix the "overkill" bug, where some attacks with enough damage will "overflow" the value (likely another unsinged 32 bit integer of 4.3 billion damage), and end up doing 0 or 1 damage. Super annoying. Using 64 bit would be great, or at the very least, capping it to the max value, similar to exp box
 
 
+### Misc Feature Suggestions
+- The ability to learn skills / spells from other Aislings, not just Mundanes. Different or same requirements? Either case would be interesting!
 
