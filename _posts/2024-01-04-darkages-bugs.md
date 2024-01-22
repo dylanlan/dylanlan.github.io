@@ -15,6 +15,14 @@ A random and incomplete list of various known bugs or quality of life suggestion
 - Coming soon: Maybe just one or two more bugs (right??)
 
 
+### Religion (QoL)
+- Allow everyone to benefit from a mass sermon rewards (regardless of which deity they worship)
+- Allow anyone to become a "priest" of a religion, not just the literal priest class
+
+
+### Towns (QoL)
+- Make Rucesion a full alternative to Mileth. The ability to get perma-banished from Mileth, and still play the game fully
+
 ### Bank Storage (QoL)
 
 Super painful to use, for multiple reasons:
