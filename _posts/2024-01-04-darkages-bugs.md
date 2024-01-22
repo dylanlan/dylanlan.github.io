@@ -24,6 +24,13 @@ A random and incomplete list of various known bugs or quality of life suggestion
 - Make Rucesion a full alternative to Mileth. The ability to get perma-banished from Mileth, and still play the game fully
 - Add Altars to other towns? Ruc, Piet, Abel, Suomi, Blackstar? Oren? Medenia??
 
+
+### Professions (QoL)
+- Increase the (10) cap on your legend (or make the additional counts non-private)
+- More fun and obvious benefits from increasing profession skills (eg: higher quality tiers? needed for quests?)
+- Allow tailoring / smithing / enhancing / consecrating as many items as possible
+
+
 ### Bank Storage (QoL)
 
 Super painful to use, for multiple reasons:
@@ -46,4 +53,6 @@ Some data storage is still showing its 90s side, and would be great to update:
 
 ### Misc Feature Suggestions
 - The ability to learn skills / spells from other Aislings, not just Mundanes. Different or same requirements? Either case would be interesting!
+
+
 
