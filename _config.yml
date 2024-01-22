@@ -16,6 +16,8 @@ urls:
       url: /get-started
     - text: Adventure Log
       url: /blog
+    - text: QoL
+      url: /qol
     - text: Links
       url: /links
     - text: Games
