@@ -3,6 +3,8 @@ layout: post
 title:  "Temuair World Records"
 date:   2024-01-13
 categories: games
+header: thumbnails/records-header.png
+thumbnail: thumbnails/records-thumbnail.png
 ---
 
 This is just an early alpha side project focused on figuring out which Aisling holds various interesting records!
@@ -28,7 +30,9 @@ Here's a collection of records related to an increasing number on an Aisling's l
 (Coming soon!)
 
 ### Scars
-(Coming soon!)
+NaLyd definitely has the most scars of any Aisling's legend, yup! A whopping 131. How embarassing! xD
+
+![NaLyd 131 scars](/assets/img/records/scars/nalyd-131-jan-21-2024.png)
 
 ### Arrests
 (Coming soon! Spoilers: it's Ishikawa, surprise!! Claimed to be 3151 [pending verification])
@@ -37,7 +41,9 @@ Here's a collection of records related to an increasing number on an Aisling's l
 (Coming soon!)
 
 ### Hwarone Kills
-(Coming soon!)
+Glasken showed a very high number of war murders! Wow, 25,000!
+
+![Glasken 25k kills](/assets/img/records/hwarone-kills/glasken-25000-jan-21-2024.png)
 
 ### Blackstar Runs
 (Coming soon!)
@@ -64,6 +70,16 @@ Surely no other Aisling has a higher count than this, right??
 
 ### Herbalism?
 (Coming soon!)
+
+### Terror of the Crypt
+Glasken again showed a very high number of terrors slain! 50, holy smokes!
+
+![Glasken 50 terrors](/assets/img/records/crypt-terror/glasken-50-jan-21-2024.png)
+
+### Avid Daydreamer
+Glasken even has time to daydream during his hefty record setting. 23 times daydreamt!
+
+![Glasken 23 daydream](/assets/img/records/avid-daydreamer/glasken-23-jan-21-2024.png)
 
 ### Daily Quests??
 (Coming soon! One for each quest might be overkill, but whatevs)
