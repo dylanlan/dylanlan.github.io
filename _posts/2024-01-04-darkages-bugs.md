@@ -31,4 +31,5 @@ Some data storage is still showing its 90s side, and would be great to update:
 ### Misc Bugs
 
 - "You are too busy", when trying to polish gems. Need to log off and log back in to fix it. Annoying.
+- "You are distracted", when trying to use certain popups for quests / dialogue etc. Often need to just retry.
 - (Maybe just one or more, coming soon!)
