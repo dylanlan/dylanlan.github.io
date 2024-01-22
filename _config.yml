@@ -20,6 +20,8 @@ urls:
       url: /links
     - text: Games
       url: /games
+    - text: Misc
+      url: /misc
     - text: Memories
       url: /gallery
     # - text: Contact
