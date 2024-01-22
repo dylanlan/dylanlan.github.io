@@ -16,6 +16,8 @@ urls:
       url: /get-started
     - text: Adventure Log
       url: /blog
+    - text: Links
+      url: /links
     - text: Memories
       url: /gallery
     # - text: Contact
