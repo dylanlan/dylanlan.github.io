@@ -3,140 +3,59 @@ layout: page
 title:  Entering Temuair
 permalink: /get-started/
 ---
+Curious how to play this mysterious game? Worry not! Here is a handy guide to help you get started.
 
-# Entering Temuair
+# Playing
 
-Have you created a new character (Aisling) and want to start playing in the game world (Temuair), but not sure what to do?? Let's follow a mini-adventure of two brave Aislings, to find out some options!
+If you just want to play for free, you can download the game right now, and get started! It's easiest to play on Windows, but also possible to play on Linux using [Wine](https://www.winehq.org/). I'm unsure about Macs!
 
-New Aislings will spawn in the tutorial area by default. But if you don't log on for at least a day - you might find yourself in a place called Mileth Inn instead (and improperly dressed for the elements!). Worry not, young Aisling, for it's still possible to return to the Tutorial area!
+If you've already created a character, but you're not sure what to do next, check out this guide: [Entering Temuair]({{ site.data.urls.entering_temuair }})
 
-![Mileth Inn](/assets/img/awakening/me/crios/mileth-inn.png)
+You can install Darkages and create a new character in just 7 simple steps! (lucky!)
 
+## Steps
 
-If you want to see the Chat Log, you can press `f`, or click the buttons to the right of the lower window.
+1. Go to [https://www.darkages.com](https://www.darkages.com), and click on "Downloads", and accept the Terms of Service (ToS). It might be worth skimming the "Prohibited Conduct" section!
+![Darkages Home Page](/assets/img/darkages/downloads.png)
 
-There are panes for Inventory (`a`), Skills (`s`), Spells (`d`), Chat (`f`), Stats (`g`), and additional Skills/Spells (`h`). The buttons are located to the right of the window pane.
+2. Click the "Single easy-install 7.41", and install it!
+![Darkages Installer](/assets/img/darkages/installer.png)
 
-You can chat by pressing `Enter`, typing a message, and then press `Enter` again.
+3. Follow the installation instructions! It might end up installing somewhere like `C:\Program Files (x86)\KRU\Dark Ages` by default. This can be fine, but it _might_ be recommended to install in a different location, or at least somewhere that you can "Run as Administrator", which unlocks some additional features in-game <TODO: add a screenshot of installer>
 
-If you ever get confused by which keys to use, there's a Hotkey reference that you can click - the `?` button in the bottom right of the screen.
+4. Double click the "Darkages.exe" file, and it should open an amazing login screen! (Please disregard the copyright year, it is not important)
+![Darkages Login](/assets/img/darkages/login-screen.png)
 
-![Hotkeys](/assets/img/darkages/hotkeys.png)
+5. Try creating a character! A lot of good names might already be used, but you can still find good ones if you try hard enough!
+![Darkages Create ](/assets/img/darkages/create-character.png)
 
-If you want to leave the Mileth Inn - just walk with Arrow Keys (or right-click) towards the highlighted rug
+    If you receive a popup like "That name already exists or contains a reserved string", then that name might already be used (or contains a naughty word)
+    ![Darkages Name Exists](/assets/img/darkages/name-in-use.png)
 
-![Crios Awakens](/assets/img/awakening/me/crios/crios-awakens.png)
+    You might also receive a popup for an invalid name. Names can only be max of 12 letters long, cannot use numbers / special characters, and cannot contain certain acronyms (eg: `lol`)
+    ![Darkages Name Invalid](/assets/img/darkages/invalid-name.png)
 
-If you left-click on yourself (or press `a` twice), you can see more details about your Aisling. Oh my! Looks like this Aisling is missing all their equipment!
+    If you successfully create a character, it should take you back to the main login screen, and show you a popup saying "Character has been created."
+    ![Darkages Character Created](/assets/img/darkages/character-created.png)
 
-![Aisling Profile](/assets/img/awakening/me/crios/aisling-self.png)
+6. Log in! You can just click the "Continue" button, and enter your new name and password (hopefully secure!)
+![Darkages Begin](/assets/img/darkages/continue-character.png)
 
-There are various buildings and Non-Player-Characters (NPCs, called Mundanes) in Mileth Village. Some of them will allow you to re-enter the Tutorial, thankfully, if you're still a low enough level.
+7. Welcome to Temuair! If everything worked as expected, then you should now be in the tutorial area!
+![Darkages Begin](/assets/img/darkages/tutorial.png)
 
-If you ever get lost, you can use the X and Y coordinates on the lower part of the screen, to figure out where you are and where you might want to be.
+Next Guide: [Entering Temuair]({{ site.data.urls.entering_temuair }})
 
-The Mileth Tavern is a good building to take note of - it often contains rumours of quests and adventures to be had! As well as some options to explore Mileth Politics. The Inn can be found at coordinates (71,54) in Mileth Village
 
-![Mileth Tavern Entrance](/assets/img/awakening/me/crios/mileth-tavern-entrance.png)
+## Linux
 
-If you walk in and talk to the kind bartender, Aingeal, she will let you re-enter the Tutorial area!
+For Linux, there has been some success using [Lutris](https://lutris.net/downloads).
 
-![Mileth Tavern](/assets/img/awakening/me/crios/mileth-tavern.png)
+You can install using the "Install a Windows game from an executable" option
+![Lutris Install](/assets/img/darkages/install-with-lutris.png)
 
-The Tutorial has a wealth of information about the game, and even some monsters to practice against!
+You also might need to point it to the proper `Darkages.exe` executable, if it opens the screen size selector instead.
 
-![Tutorial Entrance](/assets/img/awakening/me/crios/tutorial-entrance.png)
+# Registering
 
-Feel free to talk to Raghnall if you want to learn how to fight
-
-![Tutorial Combat](/assets/img/awakening/me/crios/tutorial-combat.png)
-
-If you walk up a bit, Bartley has a bunch of information about the game!
-
-![Tutorial Bartley](/assets/img/awakening/me/crios/tutorial-bartley.png)
-
-If it's too much to read through and you just wanna start killing things, it's recommended to at least click through the Interface section. It will teach you a couple nifty skills/spells in your `h` pane. `Look` can tell you what item is on the ground in front of you, and `nis` can tell you the current time in-game.
-
-![Look and Nis](/assets/img/awakening/me/crios/tutorial-nis.png)
-
-The Tutorial is littered with weak Kardi monsters - feel free to practice your combat on them!
-
-![Tutorial Kardi](/assets/img/awakening/me/crios/tutorial-kardi.png)
-
-After you finish the Tutorial, you will find yourself back in Mileth Inn. But you will have received some experience, and likely gained a level or two!
-
-You will acquire 2 stat points for every level. You can apply them in the `g` pane, where the flashing up-arrows are displayed.
-
-Use caution, though! Stats can be a very limited resource. You might want to wait until you figure out which Class you want to be (more on that, later), before discovering that you wasted a stat point.
-
-![Tutorial Experience](/assets/img/awakening/me/crios/tutorial-exp.png)
-
-Ok, that was a ton of pre-amble...
-
-Where can you kill monsters?! Patience, young Aisling! If you're wanting an adventure, you can find a mysterious Crypt in Mileth Village, located at coordinates (93, 50)
-
-![Crypt Entrance](/assets/img/awakening/me/crios/mileth-crypt-entrance.png)
-
-But be careful! Once inside, you'll be greeted by many vicious beasts. Mice, spiders, centipedes?! Oh my!
-
-![Crypt Monsters](/assets/img/awakening/me/crios/mileth-crypt-monsters.png)
-
-If you slay foul monsters, you will gain experience points. Acquire enough, and you will grow another level - with even more stat points to learn!
-
-![Crypt Level Up](/assets/img/awakening/me/crios/mileth-crypt-level-up.png)
-
-But which stats should I learn?! Great question, random visitor - I'm glad you asked! Let's head to the Temple of Choosing, which you can find at coordinates (95, 13).
-
-![Temple of Choosing](/assets/img/awakening/me/crios/temple-of-choosing.png)
-
-Inside, `Aoife` can sell you some class tutorial books, which can give details about your decision to make.
-
-![Aoife Guide Books](/assets/img/awakening/me/crios/toc-books.png)
-
-The classes are similar to other RPG games - here's a quick tl;dr:
-
-- Warrior: front-line attacker, wears sturdy armor and wields mighty swords to attack monsters face-to-face. Mostly needs Strength, with a bit of Constitution and Dexterity. Later becomes a Gladiator.
-- Monk: front-line attacker, wields powerful fists and spells from nature to outwit foes. Needs a balance of stats, with a focus on Strength and Constitution. Later becomes a Druid.
-- Rogue: a trickster class, able to set traps for damage/status effects, and skills to identify and control monsters. Needs a balance of stats, with a focus on Dexterity. Later becomes an Archer
-- Priest: a critical support class, able to heal group members, and curse monsters to weaken their defenses. Needs a ton of Intelligence and Wisdom. Later becomes a Bard
-- Wizard: a magical class, able to wield the powers of elements to enhance the group's damage output, or do damage themselves. Focuses on different stats, depending on element, but Intelligence and Wisdom are recommended. Later becomes a Summoner
-
-If you want more information about classes, refer to [vorlof.com](https://www.vorlof.com/skills.html), which has information about every skill, spell, weapon, and armor in the game!
-
-After you're confident in your decision, you can talk to `Aoife` again, and pick `Path Reception`.
-
-![Aoife](/assets/img/awakening/me/crios/toc-aoife.png)
-
-Stand in the centre to receive the next clue about where to find your class teacher. Physical attackers take the left door, and magic casters take the right door.
-
-![Temple Circles](/assets/img/awakening/me/crios/stand-in-centre.png)
-
-Once you've found the class that you want to become, simply talk to the NPC, and choose to become the class. You can become the class by yourself, but if you have a friend of the same class, then they can guide you.
-
-![Become a Priest](/assets/img/awakening/me/crios/become-priest.png)
-
-If you check your profile again, it should now show that your Class is no longer Peasant!
-
-![Crios Priest](/assets/img/awakening/me/crios/crios-priest.png)
-
-You can also check the skill tab, to see the list of skills and spells that you can learn. They will also show which stats you need, to learn them.
-
-![Spell Stats](/assets/img/awakening/me/crios/need-stats.png)
-
-If you can find Devlin in Mileth, she can teach quite a few spells (pick `Learn Secret`) to priests!
-
-![Devlin](/assets/img/awakening/me/crios/devlin.png)
-
-Beag ioc is a very important spell - it heals other Aislings!
-
-![Beag Ioc](/assets/img/awakening/me/crios/learn-beag-ioc.png)
-
-You can test out your new spells in Mileth Crypt
-
-![Healing](/assets/img/awakening/me/crios/use-beag-ioc.png)
-
-
-Phew, that was a lot - you should take a break!
-
-When you get back, feel free to check out one of the lower leveled quests available: [Terror of the Crypt]({{ site.data.urls.crypt_terror }})
-
+Coming soon! How to adventure beyond level 99, is it even possible?! What are some of the perks??

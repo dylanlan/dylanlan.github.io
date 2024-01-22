@@ -18,6 +18,8 @@ urls:
       url: /blog
     - text: Links
       url: /links
+    - text: Games
+      url: /games
     - text: Memories
       url: /gallery
     # - text: Contact

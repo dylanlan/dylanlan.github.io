@@ -83,6 +83,12 @@ A great list of various programs, tools, downloads, and other links!
 
 Currently down while some domain issues are sorted out. An amazing resource for game knowledge that has existed for decades!
 
+#### Planet DA
+
+[https://www.planetda.net](https://www.planetda.net)
+
+Still available to login for old accounts. But newly registered accounts are not allowed to visit the forum at the moment.
+
 #### Wanderlust
 
 [https://www.wanderlustdb.com/](https://www.wanderlustdb.com/)
