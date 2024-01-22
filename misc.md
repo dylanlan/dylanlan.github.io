@@ -8,5 +8,5 @@ Here is a collection of various links that haven't been categorized yet!
 
 - [Darkages Bugs]({{ site.data.urls.darkages_bugs }})
 - [Blog Bugs]({{ site.data.urls.blog_bugs }})
-- (More coming soon!)
+- [Mottos]({{ site.data.urls.mottos }})
 
