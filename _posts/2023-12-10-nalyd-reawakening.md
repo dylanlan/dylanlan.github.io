@@ -20,6 +20,8 @@ He also got fairly invested in the (( Pokemon Go )) community, especially during
 
 So a decade of failing to find a stable gaming community has been a large factor, you might say! Which is why he cherishes the Temuair community so much, now. It has survived nearly 25 years all by itself. And it not only encourages community led events, lore, and content, but actually _requires_ it, and was _designed_ that way. And now he wants to help contribute back to the community, for all the lovely memories it has given him.
 
+tl;dr: Spite is a big motivator. As well as Sgrios.
+
 #### Tangent Ends
 NaLyd briefly awoke in 2019 for a Darkages 20th year celebration, as well as a bit during the terrible times of 2020. But he did not stay awake long, and went back to sleep. Near the end of 2023, NaLyd regrettably noticed that he had missed the Deoch 200 celebration. Shoot!
 

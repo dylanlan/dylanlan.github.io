@@ -17,7 +17,9 @@ Protein noticed that a Frog somehow got into the Shrine, and decided to make fun
 
 ![Taunt Froggy](/assets/img/deoch/mass/taunt-froggy.png)
 
-Protein decided to compare epic swords, and noticed that one of his Sgrios scars from the previous mass, got removed by a Kind Aisling names Repertoire. Protein will remember to compare epic swords more often in the future - surely that act was being rewarded!
+Protein saw another epic sowrd, and wanted to compare with his! While doing so, he noticed that one of his Sgrios scars from the previous mass got removed by a Kind Aisling named Repertoire.
+
+Protein will remember to compare epic swords more often in the future - surely that act was being rewarded!
 
 ![Protein Scar Removed](/assets/img/deoch/mass/protein-scar-removed.png)
 

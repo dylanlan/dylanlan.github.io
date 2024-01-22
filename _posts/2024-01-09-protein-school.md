@@ -33,8 +33,6 @@ Protein had been a bit busy hunting a rabid wolf, and ended up tardily barging i
 
 ![Protein Gets A Backpack](/assets/img/college/backpack.png)
 
-![Protein Gets Credit](/assets/img/college/get-credit.png)
-
 ![Much Insight](/assets/img/college/13-levels.png)
 
 ![Learnt Much](/assets/img/college/learnt-much.png)
