@@ -14,7 +14,7 @@ Super painful to use, for multiple reasons:
 
 - Cannot bank certain items, ever (eg: ... Bonus points for items that ALSO CAN'T BE TRADED WTF!)
 - Cannot easily search which items you have banked on one Aisling, or across all Aislings
-- Cannot easily deposit/withdraw multiples of certain items (eg: need to use word macros "I will deposit <item>" to quickly deposit/withdraw multiples of items such as gems)
+- Cannot easily deposit/withdraw multiples of certain items (eg: need to use word macros "I will deposit [item]" to quickly deposit/withdraw multiples of items such as gems)
 - Cannot use "word macros" to deposit certain items (eg: identified gems), and some item names are too long to use with skill macros
 - Cannot easily acquire more bank space (except for a single, annual event...)
 
@@ -27,3 +27,8 @@ Some data storage is still showing its 90s side, and would be great to update:
 - Increase max stats from a byte of 255, to something higher like 500/1000?
 - Fix the "overkill" bug, where some attacks with enough damage will "overflow" the value (likely another unsinged 32 bit integer of 4.3 billion damage), and end up doing 0 or 1 damage. Super annoying. Using 64 bit would be great, or at the very least, capping it to the max value, similar to exp box
 
+
+### Misc Bugs
+
+- "You are too busy", when trying to polish gems. Need to log off and log back in to fix it. Annoying.
+- (Maybe just one or more, coming soon!)
