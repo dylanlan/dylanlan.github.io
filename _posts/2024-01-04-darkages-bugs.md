@@ -28,7 +28,7 @@ A random and incomplete list of various known bugs or quality of life suggestion
 
 Super painful to use, for multiple reasons:
 
-- Cannot bank certain items, ever (eg: ... Bonus points for items that ALSO CAN'T BE TRADED WTF!)
+- Cannot bank certain items, ever (eg: ... Bonus points for items that ALSO CAN'T BE TRADED WTF!). Maybe 99% of things should be both bankable and tradeable! (LUMENS!)
 - Cannot easily search which items you have banked on one Aisling, or across all Aislings
 - Cannot easily deposit/withdraw multiples of certain items (eg: need to use word macros "I will deposit [item]" to quickly deposit/withdraw multiples of items such as gems)
 - Cannot use "word macros" to deposit certain items (eg: identified gems), and some item names are too long to use with skill macros
