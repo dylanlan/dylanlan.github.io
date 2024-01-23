@@ -10,7 +10,8 @@ Have you created a new character (Aisling) and want to start playing in the game
 
 
 New Aislings will spawn in the tutorial area by default. But if you don't log on for at least a day - you might find yourself in a place called Mileth Inn instead (and improperly dressed for the elements!). Worry not, young Aisling, for it's still possible to return to the Tutorial area!
-![Mileth Inn](/public/images/awakening/me/crios/mileth-inn.png)
+
+![Mileth Inn](/assets/img/awakening/me/crios/mileth-inn.png)
 
 
 If you want to see the Chat Log, you can press `f`, or click the buttons to the right of the lower window.
@@ -20,62 +21,78 @@ There are panes for Inventory (`a`), Skills (`s`), Spells (`d`), Chat (`f`), Sta
 You can chat by pressing `Enter`, typing a message, and then press `Enter` again.
 
 If you ever get confused by which keys to use, there's a Hotkey reference that you can click - the `?` button in the bottom right of the screen.
-![Hotkeys](/public/images/darkages/hotkeys.png)
+
+![Hotkeys](/assets/img/darkages/hotkeys.png)
 
 If you want to leave the Mileth Inn - just walk with Arrow Keys (or right-click) towards the highlighted rug
-![Crios Awakens](/public/images/awakening/me/crios/crios-awakens.png)
+
+![Crios Awakens](/assets/img/awakening/me/crios/crios-awakens.png)
 
 If you left-click on yourself (or press `a` twice), you can see more details about your Aisling. Oh my! Looks like this Aisling is missing all their equipment!
-![Aisling Profile](/public/images/awakening/me/crios/aisling-self.png)
+
+![Aisling Profile](/assets/img/awakening/me/crios/aisling-self.png)
 
 There are various buildings and Non-Player-Characters (NPCs, called Mundanes) in Mileth Village. Some of them will allow you to re-enter the Tutorial, thankfully, if you're still a low enough level.
 
 If you ever get lost, you can use the X and Y coordinates on the lower part of the screen, to figure out where you are and where you might want to be.
 
 The Mileth Tavern is a good building to take note of - it often contains rumours of quests and adventures to be had! As well as some options to explore Mileth Politics. The Inn can be found at coordinates (71,54) in Mileth Village
-![Mileth Tavern Entrance](/public/images/awakening/me/crios/mileth-tavern-entrance.png)
+
+![Mileth Tavern Entrance](/assets/img/awakening/me/crios/mileth-tavern-entrance.png)
 
 If you walk in and talk to the kind bartender, Aingeal, she will let you re-enter the Tutorial area!
-![Mileth Tavern](/public/images/awakening/me/crios/mileth-tavern.png)
+
+![Mileth Tavern](/assets/img/awakening/me/crios/mileth-tavern.png)
 
 The Tutorial has a wealth of information about the game, and even some monsters to practice against!
-![Tutorial Entrance](/public/images/awakening/me/crios/tutorial-entrance.png)
+
+![Tutorial Entrance](/assets/img/awakening/me/crios/tutorial-entrance.png)
 
 Feel free to talk to Raghnall if you want to learn how to fight
-![Tutorial Combat](/public/images/awakening/me/crios/tutorial-combat.png)
+
+![Tutorial Combat](/assets/img/awakening/me/crios/tutorial-combat.png)
 
 If you walk up a bit, Bartley has a bunch of information about the game!
-![Tutorial Bartley](/public/images/awakening/me/crios/tutorial-bartley.png)
+
+![Tutorial Bartley](/assets/img/awakening/me/crios/tutorial-bartley.png)
 
 If it's too much to read through and you just wanna start killing things, it's recommended to at least click through the Interface section. It will teach you a couple nifty skills/spells in your `h` pane. `Look` can tell you what item is on the ground in front of you, and `nis` can tell you the current time in-game.
-![Look and Nis](/public/images/awakening/me/crios/tutorial-nis.png)
+
+![Look and Nis](/assets/img/awakening/me/crios/tutorial-nis.png)
 
 The Tutorial is littered with weak Kardi monsters - feel free to practice your combat on them!
-![Tutorial Kardi](/public/images/awakening/me/crios/tutorial-kardi.png)
+
+![Tutorial Kardi](/assets/img/awakening/me/crios/tutorial-kardi.png)
 
 After you finish the Tutorial, you will find yourself back in Mileth Inn. But you will have received some experience, and likely gained a level or two!
 
 You will acquire 2 stat points for every level. You can apply them in the `g` pane, where the flashing up-arrows are displayed.
 
 Use caution, though! Stats can be a very limited resource. You might want to wait until you figure out which Class you want to be (more on that, later), before discovering that you wasted a stat point.
-![Tutorial Experience](/public/images/awakening/me/crios/tutorial-exp.png)
+
+![Tutorial Experience](/assets/img/awakening/me/crios/tutorial-exp.png)
 
 Ok, that was a ton of pre-amble...
 
 Where can you kill monsters?! Patience, young Aisling! If you're wanting an adventure, you can find a mysterious Crypt in Mileth Village, located at coordinates (93, 50)
-![Crypt Entrance](/public/images/awakening/me/crios/mileth-crypt-entrance.png)
+
+![Crypt Entrance](/assets/img/awakening/me/crios/mileth-crypt-entrance.png)
 
 But be careful! Once inside, you'll be greeted by many vicious beasts. Mice, spiders, centipedes?! Oh my!
-![Crypt Monsters](/public/images/awakening/me/crios/mileth-crypt-monsters.png)
+
+![Crypt Monsters](/assets/img/awakening/me/crios/mileth-crypt-monsters.png)
 
 If you slay foul monsters, you will gain experience points. Acquire enough, and you will grow another level - with even more stat points to learn!
-![Crypt Level Up](/public/images/awakening/me/crios/mileth-crypt-level-up.png)
+
+![Crypt Level Up](/assets/img/awakening/me/crios/mileth-crypt-level-up.png)
 
 But which stats should I learn?! Great question, random visitor - I'm glad you asked! Let's head to the Temple of Choosing, which you can find at coordinates (95, 13).
-![Temple of Choosing](/public/images/awakening/me/crios/temple-of-choosing.png)
+
+![Temple of Choosing](/assets/img/awakening/me/crios/temple-of-choosing.png)
 
 Inside, `Aoife` can sell you some class tutorial books, which can give details about your decision to make.
-![Aoife Guide Books](/public/images/awakening/me/crios/toc-books.png)
+
+![Aoife Guide Books](/assets/img/awakening/me/crios/toc-books.png)
 
 The classes are similar to other RPG games - here's a quick tl;dr:
 
@@ -88,28 +105,36 @@ The classes are similar to other RPG games - here's a quick tl;dr:
 If you want more information about classes, refer to [vorlof.com](https://www.vorlof.com/skills.html), which has information about every skill, spell, weapon, and armor in the game!
 
 After you're confident in your decision, you can talk to `Aoife` again, and pick `Path Reception`.
-![Aoife](/public/images/awakening/me/crios/toc-aoife.png)
+
+![Aoife](/assets/img/awakening/me/crios/toc-aoife.png)
 
 Stand in the centre to receive the next clue about where to find your class teacher. Physical attackers take the left door, and magic casters take the right door.
-![Temple Circles](/public/images/awakening/me/crios/stand-in-centre.png)
+
+![Temple Circles](/assets/img/awakening/me/crios/stand-in-centre.png)
 
 Once you've found the class that you want to become, simply talk to the NPC, and choose to become the class. You can become the class by yourself, but if you have a friend of the same class, then they can guide you.
-![Become a Priest](/public/images/awakening/me/crios/become-priest.png)
+
+![Become a Priest](/assets/img/awakening/me/crios/become-priest.png)
 
 If you check your profile again, it should now show that your Class is no longer Peasant!
-![Crios Priest](/public/images/awakening/me/crios/crios-priest.png)
+
+![Crios Priest](/assets/img/awakening/me/crios/crios-priest.png)
 
 You can also check the skill tab, to see the list of skills and spells that you can learn. They will also show which stats you need, to learn them.
-![Spell Stats](/public/images/awakening/me/crios/need-stats.png)
+
+![Spell Stats](/assets/img/awakening/me/crios/need-stats.png)
 
 If you can find Devlin in Mileth, she can teach quite a few spells (pick `Learn Secret`) to priests!
-![Devlin](/public/images/awakening/me/crios/devlin.png)
+
+![Devlin](/assets/img/awakening/me/crios/devlin.png)
 
 Beag ioc is a very important spell - it heals other Aislings!
-![Beag Ioc](/public/images/awakening/me/crios/learn-beag-ioc.png)
+
+![Beag Ioc](/assets/img/awakening/me/crios/learn-beag-ioc.png)
 
 You can test out your new spells in Mileth Crypt
-![Healing](/public/images/awakening/me/crios/use-beag-ioc.png)
+
+![Healing](/assets/img/awakening/me/crios/use-beag-ioc.png)
 
 
 Phew, that was a lot - you should take a break!
