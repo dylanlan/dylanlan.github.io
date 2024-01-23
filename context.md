@@ -12,6 +12,7 @@ Here's an attempt at briefly explaining why this website exists, and what it's a
 
 It was quite popular in the 2000s, but has had a dwindling community since then. I, myself, have very fond memories of the game, mostly from 2005-2010. This website is an attempt to re-ignite interest in the game, and see if the developers of the game can work on features and bugfixes faster than they have in the past decade or two.
 
+[Definitions]({{ site.data.urls.definitions }}) can be helpful, if you're confused by some of the words in this site!
 
 #### Sradagan
 
