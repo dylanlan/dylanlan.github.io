@@ -31,6 +31,9 @@ A random and incomplete list of various known bugs or quality of life suggestion
 - Better rewards from various quests. Maybe a legend mark for every single quest? Chance at rare item from more quests? Cosmetic items?
 - Less class-exclusive requirements for commonly needed quest rewards (eg: Diamond Ore from Unknown Depths)
 
+### Events (QoL)
+- The Insect Event is .... very tedious. But it has amazing rewards! It would be nice to at least have separate "copies" of the maps, similar to the dojo for training. Often 10+ Aislings might be fighting for bugs in the same area, which is not fun.
+
 ### Bank Storage (QoL)
 Super painful to use, for multiple reasons:
 
