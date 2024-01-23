@@ -7,7 +7,7 @@ header: thumbnails/nalyd-reawakening-header.png
 thumbnail: thumbnails/nalyd-reawakening-thumbnail.png
 ---
 
-Here's a bit more history and context about some motivations for helping create the Sradagan guild, for anyone curious!
+Here's a bit more history and context about some motivations for helping create the Sradagan guild, and this website itself, for anyone curious!
 
 The Aisling NaLyd was created around February, 2007 (Deoch 65), but had gone into a deep slumber around September, 2010 (Deoch 95), for something mysteriously known as "IRL Priorities". He journeyed to other gaming communities, and explored other interests, but alas, nothing quite awakened his passion as deeply as Temuair has.
 
