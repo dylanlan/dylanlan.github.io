@@ -1,12 +1,12 @@
 # Main Pages
 qol: /qol
-
+context: /context
+sradagan: /guild
 
 # Awakenings
 nalyd_reawaken: /awakening/2023/12/10/nalyd-reawakening
 sradagan_created: /awakening/2024/01/08/protein-sradagan
 enter_temuair: /awakening/2024/01/12/entering-temuair
-
 
 # Adventures
 lynith_sea: /adventure/2024/01/03/lynith-sea

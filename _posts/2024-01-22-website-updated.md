@@ -13,9 +13,10 @@ Welcome to my personal fan website for Darkages! You can find some links at the 
 
 - About: a brief introduction for myself
 - Get Started: a guide for joining this crazy game!
+- Context: a brief explanation of this website itself!
 - Adventure Log: various new (2024+) in-game screenshots and narrations
-- Links: various links to other related websites
+- QoL: a collection of suggested improvements to the game
+- Links: helpful links to other related websites
 - Games: some silly games / projects that I want to work on
-- Misc: some uncategorized posts
 - Memories: a collection of old in-game screenshots, mostly from 2006-2010
 

@@ -14,6 +14,8 @@ urls:
       url: /about
     - text: Get Started
       url: /get-started
+    - text: Context
+      url: /context
     - text: Adventure Log
       url: /blog
     - text: QoL
@@ -22,8 +24,6 @@ urls:
       url: /links
     - text: Games
       url: /games
-    - text: Misc
-      url: /misc
     - text: Memories
       url: /gallery
     # - text: Contact
@@ -38,7 +38,7 @@ author_bio: |
   Hi, my name is Dylanlan, and I am an archer / ninja.
   
   This is just a dorky, whimsical, nostalgic fan-site, for a 2000s MMORPG computer game called <a href="https://www.darkages.com" target="_blank">Darkages</a>.
-  Feel free to take a look around, and please let me know if you have any questions about anything!
+  Feel free to take a look around, and please let me know if you have any questions about anything! If you're confused about what you're seeing, feel free to check out the "Context" page
   
   I can be messaged on Discord with ID "dylanlan2", or in-game as "Dylanlan" or "NaLyd".
   
