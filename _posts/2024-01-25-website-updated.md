@@ -7,7 +7,7 @@ header: thumbnails/website-updated-header.png
 thumbnail: dylanlan/selfie-squished.png
 ---
 
-Welcome to my personal fan website for Darkages! If you have no idea what is happening, then feel free to check out the [Context](({{ site.data.urls.context }})) page.
+Welcome to my personal fan website for Darkages! If you have no idea what is happening, then feel free to check out the [Context]({{ site.data.urls.context }}) page.
 
 You can find some links at the top of the site, or in a 3-line "hamburger" menu:
 
