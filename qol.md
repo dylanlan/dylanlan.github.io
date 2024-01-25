@@ -6,6 +6,8 @@ permalink: /qol/
 
 A random and incomplete list of various known bugs or quality of life suggestions for Darkages!
 
+If you're curious about bugs / features of this site itself, check out its own [QoL]({{ site.data.urls.blog-qol }}) page
+
 
 ### Misc Bugs
 - "You are too busy", when trying to polish gems. Need to log off and log back in to fix it. Annoying.
