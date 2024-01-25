@@ -41,9 +41,9 @@ NaLyd definitely has the most scars of any Aisling's legend, yup! A whopping 131
 (Coming soon!)
 
 ### Hwarone Kills
-Glasken showed a very high number of war murders! Wow, 25,000!
+Glasken showed a very high number of war murders! Wow, 28k!
 
-![Glasken 25k kills](/assets/img/records/hwarone-kills/glasken-25000-jan-21-2024.png)
+![Glasken 28k kills](/assets/img/records/hwarone-kills/glasken-28000-jan-24-2024.png)
 
 ### Blackstar Runs
 (Coming soon!)
@@ -77,7 +77,10 @@ Glasken again showed a very high number of terrors slain! 50, holy smokes!
 ![Glasken 50 terrors](/assets/img/records/crypt-terror/glasken-50-jan-21-2024.png)
 
 ### Avid Daydreamer
-Glasken even has time to daydream during his hefty record setting. 23 times daydreamt!
+
+~~Glasken even has time to daydream during his hefty record setting. 23 times daydreamt!~~
+
+Sounds like StarNite might be the new record holder, with 24 times daydreamt! (Coming soon: a screenshot!)
 
 ![Glasken 23 daydream](/assets/img/records/avid-daydreamer/glasken-23-jan-21-2024.png)
 
