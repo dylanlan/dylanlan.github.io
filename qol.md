@@ -52,4 +52,5 @@ Some data storage is still showing its 90s side, and would be great to update:
 
 ### Misc Feature Suggestions
 - The ability to learn skills / spells from other Aislings, not just Mundanes. Different or same requirements? Either case could be interesting!
+- Show the Aisling name when viewing their legend marks! That'd make it much easier to understand whose legend you're viewing in a screenshot
 

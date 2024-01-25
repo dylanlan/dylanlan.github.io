@@ -12,10 +12,10 @@ urls:
     #   url: /
     - text: About
       url: /about
-    - text: Get Started
-      url: /get-started
     - text: Context
       url: /context
+    - text: Get Started
+      url: /get-started
     - text: Adventure Log
       url: /blog
     - text: QoL
