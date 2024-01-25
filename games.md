@@ -12,5 +12,6 @@ But here are a few posts about random, silly games that can be played _within_ D
 - [Names on Legends]({{ site.data.urls.names_on_legends }})
 - [Temuair World Records]({{ site.data.urls.temuair_records }})
 - [Cursed Mail]({{ site.data.urls.cursed_mail }})
+- [Typos]({{ site.data.urls.typos }})
 - (More coming soon!)
 
