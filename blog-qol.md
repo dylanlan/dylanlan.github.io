@@ -21,6 +21,8 @@ This is just a list of known issues about the current blog you're reading.
 - Search bar
 - Comment section
 - Better videos / highlights of adventures
+- Requests to find old screenshots of characters
+- Screenshot submission form
 - Screenshot archive search
 - Subscribe for weekly emails of new posts
 
