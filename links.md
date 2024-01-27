@@ -14,6 +14,12 @@ Here is a collection of various links to other useful websites related to Darkag
 
 Has a ton of useful information about nearly every aspect of the game!
 
+#### DA-Wizard
+
+[https://www.da-wizard.com](https://www.da-wizard.com)
+
+An amazing resource for game knowledge that has existed for decades!
+
 #### Discord Server
 
 [https://discord.gg/6EtMS7UkVT](https://discord.gg/6EtMS7UkVT)
@@ -76,12 +82,6 @@ A great list of various programs, tools, downloads, and other links!
 
 
 # Old
-
-#### DA-Wizard
-
-[https://www.da-wizard.com](https://www.da-wizard.com)
-
-Currently down while some domain issues are sorted out. An amazing resource for game knowledge that has existed for decades!
 
 #### Planet DA
 
