@@ -13,13 +13,15 @@ The hope is to have a collection of verifiable and beatable records, showcasing 
 
 (( If anyone has any ideas about how to discourage botting for these records, I'm all ears!! ))
 
-# Legend Marks
+# Legend Mark Records
 Here's a collection of records related to an increasing number on an Aisling's legend. They should be verifiable by viewing the Aisling's legend.
 
 (Tricky part: the private legend marks... Either need to exclude private marks, or think up some reliable verification method, hmmm...)
 
 ### Mentors
-(Coming soon!)
+Someone has mentored 260 Aislings! Wow!
+
+![Unknown 260 mentored](/assets/img/records/mentored/mentored-260.png)
 
 ### Hubaes
 (Coming soon!)
@@ -30,7 +32,7 @@ Here's a collection of records related to an increasing number on an Aisling's l
 ### Scars
 NaLyd definitely has the most scars of any Aisling's legend, yup! A whopping 131. How embarassing! xD
 
-![NaLyd 131 scars](/assets/img/records/scars/nalyd-131-jan-21-2024.png)
+![NaLyd Scars](/assets/img/records/scars/sgrios-scar-133-nalyd.png)
 
 ### Arrests
 (Coming soon! Spoilers: it's Ishikawa, surprise!! Claimed to be 3151 [pending verification])
@@ -41,7 +43,7 @@ NaLyd definitely has the most scars of any Aisling's legend, yup! A whopping 131
 ### Hwarone Kills
 Glasken showed a very high number of war murders! Wow, 28k!
 
-![Glasken 28k kills](/assets/img/records/hwarone-kills/glasken-28000-jan-24-2024.png)
+![Glasken Hwarone Kills](/assets/img/records/hwarone-kills/glasken-28000-jan-24-2024.png)
 
 ### Blackstar Runs
 (Coming soon!)
@@ -50,18 +52,29 @@ Glasken showed a very high number of war murders! Wow, 28k!
 (Coming soon!)
 
 ### Gem Polishing
-Awarded to Archer Dylanlan, who as of Deoch 201, has been involved in 6000 gem polishes since his birth in Deoch 51.
+Awarded to Mighty Archer Dylanlan, who as of Deoch 201, has been involved in 6100 extra gem polishes (beyond Gem Smith 10) since his birth in Deoch 51.
 
 Surely no other Aisling has a higher count than this, right??
-![Dylanlan 6k Gems](/assets/img/records/gem-polishing/dylanlan-6000-gem-polish-jan-15-2024.png)
 
-(How to confidently verify this one? :(((((((
+![Dylanlan Gems](/assets/img/records/gem-polishing/involved-in-gem-polishing-6100-jan-27-2024.png)
 
 ### Blade Smithing
-(Coming soon!)
+Awarded to Mighty Archer Dylanlan, who as of Deoch 201, has been involved in 201 extra blade smiths (beyond Blade Smith 10) since his birth in Deoch 51.
+
+Surely no other Aisling has a higher count than this, right??
+
+![Dylanlan Blades Smithed](/assets/img/records/blade-smithing/involved-in-blade-smithing.png)
 
 ### Tailoring
-(Coming soon! If we can only track Tailoring(N) marks, then it might be a tie!)
+Wizardrian has somehow acquired a Tailor (15) mark! (On some Aisling, unsure which!). There have also been rumours of a Tailor (19) somewhere, crazy!
+
+![Wizadrian Tailor](/assets/img/records/tailor/tailor-15-wizadrian-deoch-201.png)
+
+
+Vamistle also had Tailor (13) all the way back in Deoch 20. Impressive!
+
+![Vamistle Tailor](/assets/img/records/tailor/tailor-13-vamistle-deoch-20.png)
+
 
 ### Wizardry Research?
 (Coming soon!)
@@ -72,7 +85,7 @@ Surely no other Aisling has a higher count than this, right??
 ### Terror of the Crypt
 Glasken again showed a very high number of terrors slain! 50, holy smokes!
 
-![Glasken 50 terrors](/assets/img/records/crypt-terror/glasken-50-jan-21-2024.png)
+![Glasken terrors](/assets/img/records/crypt-terror/glasken-50-jan-21-2024.png)
 
 ### Avid Daydreamer
 
@@ -80,7 +93,7 @@ Glasken again showed a very high number of terrors slain! 50, holy smokes!
 
 Sounds like StarNite might be the new record holder, with 24 times daydreamt! (Coming soon: a screenshot!)
 
-![Glasken 23 daydream](/assets/img/records/avid-daydreamer/glasken-23-jan-21-2024.png)
+![Glasken daydream](/assets/img/records/avid-daydreamer/glasken-23-jan-21-2024.png)
 
 ### Daily Quests??
 (Coming soon! One for each quest might be overkill, but whatevs)
@@ -97,11 +110,16 @@ Sounds like StarNite might be the new record holder, with 24 times daydreamt! (C
 # Most Banked Light Belts
 This award goes to the Aisling who currently owns the most Light Belt items in their bank account.
 
-It is currently awarded to the Mighty Warrior Protein, who as of Deoch 201, has banked over 1,00 Light Belts since his birth in Deoch 108. That's more than 1 Light Belt per Deoch!! Incredible!!
+It is currently awarded to the Mighty Warrior Protein, who as of Deoch 201, has banked over 3,00 Light Belts since his birth in Deoch 108. That's more than 3 Light Belt per Deoch!! Incredible!!
 
-Surely no other Aisling has a higher count than this.
+Surely no other Aisling has a higher count than this?
 
-(Screenshot excluded for brevity. You can certainly trust Protein - he would never lie!!)
+![Protein Light Belts](/assets/img/records/light-belts/protein-300-jan-27-2024.png)
+
+
+# Interesting Legend Marks
+
+A collection of interesting legend marks, but not necessarily "beatable"
 
 # Speedruns
 A collection of quests or bosses that were completed in the quickest time, perhaps?
@@ -122,13 +140,3 @@ Smallest group: ???
 
 Lowest collective HP/MP: ???
 
-# Misc
-
-### Most Health
-Final?
-
-### Most Mana
-(Coming soon!)
-
-### Largest Weight Capacity?
-(Coming soon!)
