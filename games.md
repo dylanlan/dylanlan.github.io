@@ -10,9 +10,9 @@ But here are various games that can be played within "a" Temuair:
 
 - [Name Lottery]({{ site.data.urls.name_lottery }})
 - [Names on Legends]({{ site.data.urls.names_on_legends }})
-- [Temuair World Records]({{ site.data.urls.temuair_records }})
-- [Cursed Mail]({{ site.data.urls.cursed_mail }})
+- [Temuair World Records]({{ site.data.urls.records }})
 - [Typos]({{ site.data.urls.typos }})
+- [Cursed Mail]({{ site.data.urls.cursed_mail }})
 - [Multiverse]({{ site.data.urls.multiverse }})
 - (More coming soon!)
 
