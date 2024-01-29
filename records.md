@@ -19,26 +19,37 @@ Here's a collection of records related to an increasing number on an Aisling's l
 (Tricky part: the private legend marks... Either need to exclude private marks, or think up some reliable verification method, hmmm...)
 
 ### Mentors
-Someone has mentored 260 Aislings! Wow!
+Ishikawa has mentored 420 other Aislings. Blaze it!
 
-![Unknown 260 mentored](/assets/img/records/mentored/mentored-260.png)
+![Ishikawa mentored](/assets/img/records/mentored/mentored-420-ishikawa.png)
 
-### Hubaes
-(Coming soon!)
+### Sabonim Hubaes
+Ishikawa has also taught 168 monks all about the sabonim and the hubae. Wow!
+
+![Ishikawa sabonim](/assets/img/records/sabonim/sabonim-168-ishikawa.png)
 
 ### Divorces
 (Coming soon!)
 
 ### Scars
-NaLyd definitely has the most scars of any Aisling's legend, yup! A whopping 131. How embarassing! xD
+NaLyd definitely has the most scars of any Aisling's legend, yup! A whopping 133. How embarassing! xD
 
 ![NaLyd Scars](/assets/img/records/scars/sgrios-scar-133-nalyd.png)
 
-### Arrests
-(Coming soon! Spoilers: it's Ishikawa, surprise!! Claimed to be 3151 [pending verification])
+### Sentenced Criminals
+Ishikawa is well known for jailing unruly Aislings. Does anyone else ever have a chance of beating this record?!
+
+![Ishikawa arrests](/assets/img/records/sentenced-criminals/sentenced-criminals-3151-ishikawa-jan-2024.png)
 
 ### Adorations
-(Coming soon!)
+Ishikawa also has a whopping 15 adorations of Danaan. Oh my Danaan! Maybe BioMagus can save us?!
+
+![Ishikawa adorations](/assets/img/records/adoration-of-danaan/adoration-of-danaan-15-ishikawa.png)
+
+### Adorations
+Ishikawa also has 35 separate educations. What a nerd!!
+
+![Ishikawa educated](/assets/img/records/educated/educated-35-ishikawa.png)
 
 ### Hwarone Kills
 Glasken showed a very high number of war murders! Wow, 28k!
@@ -119,7 +130,7 @@ Surely no other Aisling has a higher count than this?
 
 # Interesting Legend Marks
 
-A collection of interesting legend marks, but not necessarily "beatable"
+A collection of interesting legend marks, but not necessarily "beatable" (Coming soon)
 
 # Speedruns
 A collection of quests or bosses that were completed in the quickest time, perhaps?
