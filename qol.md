@@ -16,6 +16,7 @@ If you're curious about bugs / features of this site itself, check out its own [
 
 ### Skills / Spells (QoL)
 - Many skills take wayyyy too long to level up to 100/100, yet are still required to master (eg: wind blade). Even though the dojo exists, it'd still be nice to trim them down from like 24 hours to 8 hours, or something
+- Essential items for skills/spells should have a minimum guaranteed drop chance. Maybe somewhere between 1% to 20%? Loot drop chances should be publicly available, and should not change without at least a notice / changelog entry
 
 ### Religion (QoL)
 - Allow everyone to benefit from a mass sermon rewards (regardless of which deity they worship)
