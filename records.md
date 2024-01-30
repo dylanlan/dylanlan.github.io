@@ -28,6 +28,11 @@ Ishikawa has also taught 168 monks all about the sabonim and the hubae. Wow!
 
 ![Ishikawa sabonim](/assets/img/records/sabonim/sabonim-168-ishikawa.png)
 
+### Judge
+Cinaed has been a judge 25 times. The most judgiest-judge of all!
+
+![Cinaed judge](/assets/img/records/judge/judge-25-cinaed.png)
+
 ### Divorces
 (Coming soon!)
 
@@ -37,7 +42,7 @@ NaLyd definitely has the most scars of any Aisling's legend, yup! A whopping 133
 ![NaLyd Scars](/assets/img/records/scars/sgrios-scar-133-nalyd.png)
 
 ### Sentenced Criminals
-Ishikawa is well known for jailing unruly Aislings. Does anyone else ever have a chance of beating this record?!
+Ishikawa is well known for jailing unruly Aislings. 3151?! That's a lot of unruliness! Does anyone else ever have a chance of beating this record?!
 
 ![Ishikawa arrests](/assets/img/records/sentenced-criminals/sentenced-criminals-3151-ishikawa-jan-2024.png)
 
