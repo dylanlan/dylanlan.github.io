@@ -17,11 +17,11 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    faraday (2.7.4)
-      faraday-net_http (>= 2.0, < 3.1)
-      ruby2_keywords (>= 0.0.4)
-    faraday-net_http (3.0.2)
-    faraday-retry (2.0.0)
+    faraday (2.9.0)
+      faraday-net_http (>= 2.0, < 3.2)
+    faraday-net_http (3.1.0)
+      net-http
+    faraday-retry (2.2.0)
       faraday (~> 2.0)
     ffi (1.16.3)
     ffi (1.16.3-x64-mingw-ucrt)
@@ -81,6 +81,8 @@ GEM
     multi_json (1.15.0)
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
+    net-http (0.4.1)
+      uri
     nio4r (2.7.0)
     octokit (4.25.1)
       faraday (>= 1, < 3)
@@ -131,6 +133,7 @@ GEM
     tzinfo-data (1.2023.4)
       tzinfo (>= 1.0.0)
     unicode-display_width (2.5.0)
+    uri (0.13.0)
     wdm (0.1.1)
     webrick (1.8.1)
 
