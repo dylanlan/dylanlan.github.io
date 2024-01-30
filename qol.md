@@ -14,6 +14,9 @@ If you're curious about bugs / features of this site itself, check out its own [
 - "You are distracted", when trying to use certain popups for quests / dialogue etc. Often need to just retry.
 - Coming soon: Maybe just one or two more bugs (right??)
 
+### Skills / Spells (QoL)
+- Many skills take wayyyy to long to level up to 100/100, yet are still required to master (eg: wind blade). Even though the dojo exists, it'd still be nice to trim them down from like 24 hours to 8 hours, or something
+
 ### Religion (QoL)
 - Allow everyone to benefit from a mass sermon rewards (regardless of which deity they worship)
 - Allow anyone to become a "priest" of a religion, not just the literal priest class
