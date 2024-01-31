@@ -15,7 +15,16 @@ Tridemp is an entirely new player, who tried out Darkages for the first time in 
 
 He excitedly created a Wizard Aisling, joined the new guild Sradagan, and went on many adventures.
 
+But he accidentally didn't pay enough attention to certain game restrictions, and permanently ruined his character by being unable to progress.
+
+He was unable to experience at least the remaining 50% of the game.
+
+Was all hope lost?
+
 # Adventures
+
+In his first few weeks, he went on many fun adventures with Sradagan.
+
 Adventure Logs:
 - [Lynith Sea]({{ site.data.urls.lynith_sea }})
 - [Oren Sewers]({{ site.data.urls.oren_sewers }})
@@ -60,7 +69,7 @@ Here was the moment of realization:
 
 # Panic
 
-The Sradagan frantically started coming up with potential fixes / workarounds.
+The Sradagan guild frantically started coming up with potential fixes / workarounds.
 
 We tried:
 - Buying stats at the Temple of Choosing (Only for Master Aislings).
@@ -71,20 +80,20 @@ We tried:
 - [Tweeting KRU](https://twitter.com/dylanlan51/status/1750759361650278601).
 - Whispering "And", one of the Game Masters in-game.
 - Chatting to "And" in an Arena Battle (and getting wrecked xDD).
-- Buying a Kruna Shop item to see if it can help learn ard ioc (But it only supports "previous class" spells, not "current class").
+- Buying a Kruna Shop item to see if it can help learn Ard Ioc (But it only supports "previous class" spells, not "current class").
 
 
 # Halp Plz
 
-We tried asking the community for any other ideas, but received quite pessimistic advice.
+We were curious if the Temuair community had any other ideas.
 
-Most said it would be impossible, or take forever, and that he should simply create a new Aisling instead.
+But most said it would be impossible or take forever, and that he should simply create a new Aisling instead.
 
 But Tridemp did not want to do that, for multiple reasons:
 - He wanted his desired name: "Tridemp". He did not want to use a different name.
 - He had already acquired 57 legend marks over multiple weeks, and did not want to redo all that work.
 
-We tried reaching out to the community, and received a lot of pessimism: [Non-Believers]()
+We continued trying to reach out to the community for guidance, and received a lot of .... well .... pessimism: [Non-Believers]({{ site.data.urls.tridemp_non_believers }})
 
 # Kru Plz
 
