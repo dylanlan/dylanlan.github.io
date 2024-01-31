@@ -17,6 +17,7 @@ If you're curious about bugs / features of this site itself, check out its own [
 ### Skills / Spells (QoL)
 - Many skills take wayyyy too long to level up to 100/100, yet are still required to master (eg: wind blade). Even though the dojo exists, it'd still be nice to trim them down from like 24 hours to 8 hours, or something
 - Essential items for skills/spells should have a minimum guaranteed drop chance. Maybe somewhere between 1% to 20%? Loot drop chances should be publicly available, and should not change without at least a notice / changelog entry
+- Alternatively, require _more_ items and increase the drop rate. Or make certain items a guaranteed drop from special quests
 
 ### Religion (QoL)
 - Allow everyone to benefit from a mass sermon rewards (regardless of which deity they worship)
@@ -59,4 +60,4 @@ Some data storage is still showing its 90s side, and would be great to update:
 ### Misc Feature Suggestions
 - The ability to learn skills / spells from other Aislings, not just Mundanes. Different or same requirements? Either case could be interesting!
 - Show the Aisling name when viewing their legend marks! That'd make it much easier to understand whose legend you're viewing in a screenshot
-
+- The ability to list more than 20 "friend" in-game. Many people are playing 2-5 characters nowadays, so the list can fill up really quickly!
