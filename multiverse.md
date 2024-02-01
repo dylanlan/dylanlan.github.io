@@ -13,6 +13,9 @@ If so, here's a growing list of unique, creative, and welcoming alternate realit
 
 ## Hybrasyl
 
+![Hybrasyl Icon](/assets/img/darkages/hybrasyl-icon.png)
+
+
 Hybrasyl is a well-documented and exceptionally accurate private server for Dark Ages.
 
 Current state: Alpha
@@ -46,6 +49,8 @@ Current state: Released
 
 
 ## Zolian
+
+![Zolian Icon](/assets/img/darkages/zolian-icon.png)
 
 Zolian is a server based on Dungeons & Dragons, Final Fantasy, Diablo 3, Zelda, Elder Scrolls, World of Warcraft and many other MMORPGs.
 
