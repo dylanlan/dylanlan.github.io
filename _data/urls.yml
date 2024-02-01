@@ -1,11 +1,12 @@
-# Main Pages
+# Main Pages / Info
 qol: /qol
 blog-qol: /blog-qol
 context: /context
 sradagan: /guild
-definitions: /words
+words: /words
 multiverse: /multiverse
 records: /records
+rare-items: /rare-items
 
 # Awakenings
 nalyd_reawaken: /awakening/2023/12/10/nalyd-reawakening
@@ -35,14 +36,7 @@ nalyd_landon_letters: /letters/2024/01/04/nalyd-landon-letters
 nalyd_laurier_letters: /letters/2024/01/13/nalyd-laurier-letters
 
 # Games
-name_lottery: /games/2024/01/08/name-lottery
-cursed_mail: /games/2024/01/10/cursed-mail
-temuair_records: /games/2024/01/13/temuair-records
+name_lottery: /name-lottery
+cursed_mail: /cursed-mail
 names_on_legends: /games/2024/01/24/names-on-legends
 typos: /typos
-item_info: /games/2024/01/24/item-info
-
-# Misc
-darkages_bugs: /misc/2024/01/04/darkages-bugs
-blog_bugs: /misc/2024/01/04/blog-bugs
-mottos: /misc/2024/01/04/mottos

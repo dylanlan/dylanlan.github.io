@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: page
 title:  Mottos
-date:   2024-01-04
-categories: misc
+permalink: /mottos/
 ---
 
-This is just a collection of various mottos or phrases that I've found inspiring:
+This is just a collection of various mottos or phrases that I've found inspiring.
 
 #### A.I.R.O
 
@@ -39,8 +38,6 @@ I pronounce this acronym like "Air"
 
 Make Temuair Fun Again
 
-TODO: consider MTGA, MDAFA, or MDAGA instead??
-
 This is a trigger phrase for many - there is a lot of baggage attached.
 
 But I think that the "Make <thing> <better> Again" sentiment can have some validitiy. Sometimes, there can be certain aspects of the past, which have been lost. If those lost things were generally positive, and desireable by nearly all members of a community, then it might be worth attempting to revive those lost aspects. Of course we can never 100% replicate the past - we'd need a time machine. But we can make a valiant effort to discover and mimic what was lost, in an attempt to rekindle a dying flame.
@@ -48,3 +45,8 @@ But I think that the "Make <thing> <better> Again" sentiment can have some valid
 I think, for this phrase to be useful, we need to throw away any notions of toxic politics, walls, or insurrections.
 
 I don't know how to pronounce this one yet, but "mutt-uh-fuh" is what I've got so far, haha
+
+Alternates to consider:
+- Make Temuair Great Again (MTGA)
+- Make Dark Ages Fun Again (MDAFA)
+- Make Dark Ages Great Again (MDAGA)

@@ -4,7 +4,7 @@ title:  Context
 permalink: /context/
 ---
 
-Here's an attempt at briefly explaining why this website exists, and what it's all about!
+Here's an attempt at briefly explaining why this [Darkages](https://www.darkages.com/) fan site exists, and what it's all about!
 
 #### History
 

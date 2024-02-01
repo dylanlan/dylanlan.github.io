@@ -1,14 +1,9 @@
 ---
-layout: post
-title:  "Name Lottery"
-date:   2024-01-08
-categories: games
+layout: page
+title:  Name Lottery
+permalink: /name-lottery/
 ---
-<!---
-# TODO:
-# header: thumbnails/sradagan-header.png
-# thumbnail: thumbnails/sradagan-thumbnail.png
---->
+
 Hello there! Are you wanting to play Darkages, but can't come up with a good name for your Aisling? If so, then step right up!
 
 ### **N**ames for **A**islings **L**ottery (which **Y**ields **D**elight!)

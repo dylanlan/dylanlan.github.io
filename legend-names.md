@@ -1,21 +1,26 @@
 ---
-layout: post
-title:  "Names on Legends"
-date:   2024-01-24
-categories: games
-header: thumbnails/names-on-legends-header.png
-thumbnail: thumbnails/names-on-legends-thumbnail.png
+layout: page
+title:  Legend Names
+permalink: /legend-names/
 ---
 Hello there! Is your Aisling's legend super boring and normie? Want to spice it up a bit? Then you came to the right place!
 
 ### **N**ames for **A**islings **L**egends (which **Y**ields **D**elight!)
 
 Current Names in Service:
+
+E-for-everyone:
+- BerryJuice
+
+R-for-adult:
 - Alcohol
 - Prostitute
 - Puberty
 - BDSM
 - Murderer
+
+P-for-potential:
+- DonkeyKong
 
 #### Rules
 
@@ -34,5 +39,5 @@ I'm not sure what all the possible legend marks are nowadays, but some options a
 
 #### Price
 
-1 Light Belt per transaction! Price will change depending on supply/demand
+1 Mighty Light Belt per transaction! Price will change depending on supply/demand
 
