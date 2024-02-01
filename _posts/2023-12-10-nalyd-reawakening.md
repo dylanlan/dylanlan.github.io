@@ -9,7 +9,7 @@ thumbnail: thumbnails/nalyd-reawakening-thumbnail.png
 
 Here's a bit more history and context about some motivations for helping create the Sradagan guild, and this website itself, for anyone curious!
 
-The Aisling NaLyd was created around February 15th, 2007 (Deoch 65), but later went into a deep slumber around September 5, 2010 (Deoch 95), for something mysteriously known as "IRL Priorities". He journeyed to other gaming communities, and explored other interests, but alas, nothing quite awakened his passion as deeply as Temuair has.
+The Aisling `NaLyd` was created around February 15th, 2007 (Deoch 65), and here are some [ancient memories]({{ site.data.urls.nalyd_awaken }}) from those times. He later went into a deep slumber around September 5, 2010 (Deoch 95), for something mysteriously known as "IRL Priorities". He journeyed to other gaming communities, and explored other interests, but alas, nothing quite awakened his passion as deeply as Temuair had, has, and will.
 
 #### Tangent
 He tried joining something called the "Smash Bros" community around 2010, which was great fun! But, the "Game Masters" of that game did not enjoy when the players had "too much fun" playing their games, or tried to create their own "community events", or create "quality of life modifications"....
