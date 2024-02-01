@@ -9,6 +9,7 @@ records: /records
 rare-items: /rare-items
 
 # Awakenings
+nalyd_awaken: /awakening/2007/02/15/nalyd-awakening
 nalyd_reawaken: /awakening/2023/12/10/nalyd-reawakening
 sradagan_created: /awakening/2024/01/08/protein-sradagan
 enter_temuair: /awakening/2024/01/12/entering-temuair
@@ -38,5 +39,10 @@ nalyd_laurier_letters: /letters/2024/01/13/nalyd-laurier-letters
 # Games
 name_lottery: /name-lottery
 cursed_mail: /cursed-mail
-names_on_legends: /games/2024/01/24/names-on-legends
+legend_names: /legend-names
 typos: /typos
+
+# IRL
+piano_glue: /adventure/2024/01/31/fix-piano
+
+

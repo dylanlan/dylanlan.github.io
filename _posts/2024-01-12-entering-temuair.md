@@ -3,6 +3,7 @@ layout: post
 title:  "Entering Temuair"
 date:   2024-01-12
 categories: awakening
+thumbnail: darkages/icon.png
 ---
 
 Have you created a new character (Aisling) and want to start playing in the game world (Temuair), but not sure what to do?? Let's follow a mini-adventure of two brave Aislings, to find out some options!

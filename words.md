@@ -4,7 +4,11 @@ title:  Word Definitions
 permalink: /words/
 ---
 
-An attempt to explain the various words that are used in the world of Darkages
+An attempt to explain the various words that are used in the world of Darkages!
+
+Most words are intended to have Gaelic pronunciations, so feel free to check out this site to pronounce words "properly":
+
+[Gaelic Pronunciations](https://learngaelic.scot/dictionary/index.jsp?abairt=cail&slang=both&wholeword=false)
 
 
 # General
