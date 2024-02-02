@@ -3,6 +3,8 @@ layout: post
 title:  "Welcome to dylanlan.ninja!"
 date:   2024-01-08
 categories: awakening
+thumbnail: dylanlan/selfie-squished.png
+header: thumbnails/hello-temuair-header.png
 ---
 
 TODO: ICON AND HEADER
