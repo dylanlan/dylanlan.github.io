@@ -11,31 +11,30 @@ Hello there! Are you wanting to play Darkages, but can't come up with a good nam
 #### Current Names
 
 New:
-- Danger (M)
-- Jewels (F)
+- Cinder (F)
+- Volcano (M)
 
 1 week old:
+- Royal (M)
+- Secret (F)
+
+Choppping Block:
 - Lapras (F)
 - Ghoul (M)
 
-2 weeks old:
+First come firt served:
 - Bully (M)
 - Cathonic (M)
-
-Chopping Block:
 - Beethoven (M)
 - Cowboy (M)
-- Dora (F)
-- Fraud (F)
+- Fraud (M)
 - Goofy (M)
 - Hydrogen (M)
 - Italy (M)
 - Loop (M)
-- Never (M)
 - Organ (F)
 - Vigor (M)
 - Whip (F)
-
 
 #### Rules
 

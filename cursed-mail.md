@@ -12,32 +12,33 @@ Try to figure out which word in each of these mail letters is making it undelive
 
 
 1. Easiest
-![1-easy](/assets/img/cursed-mail/1-easy.png)
+
+![1-easy](/assets/img/cursed-mail/1-easy.png){: width="100%" }
 
     Answer: ?
 
 2. Medium
-![2-medium](/assets/img/cursed-mail/2-medium.png)
+![2-medium](/assets/img/cursed-mail/2-medium.png){: width="100%" }
 
     Answer: ?
 
 3. Hard
-![2-medium](/assets/img/cursed-mail/3-hard.png)
+![2-medium](/assets/img/cursed-mail/3-hard.png){: width="100%" }
 
     Answer: ?
 
 4. Silly
-![2-medium](/assets/img/cursed-mail/4-silly.png)
+![2-medium](/assets/img/cursed-mail/4-silly.png){: width="100%" }
 
     Answer: ?
 
 5. Harder (ChatGPT helped with these next two letters. I apologize for the word salad)
-![2-medium](/assets/img/cursed-mail/5-harder.png)
+![2-medium](/assets/img/cursed-mail/5-harder.png){: width="100%" }
 
     Answer: ?
 
 6. Hardest
-![2-medium](/assets/img/cursed-mail/6-hardest.png)
+![2-medium](/assets/img/cursed-mail/6-hardest.png){: width="100%" }
 
     Answer: ?
 

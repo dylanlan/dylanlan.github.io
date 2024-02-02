@@ -1,12 +1,12 @@
 # Main Pages / Info
 qol: /qol
-blog-qol: /blog-qol
+blog_qol: /blog-qol
 context: /context
 sradagan: /guild
 words: /words
 multiverse: /multiverse
 records: /records
-rare-items: /rare-items
+rare_items: /rare-items
 
 # Awakenings
 nalyd_awaken: /awakening/2007/02/15/nalyd-awakening

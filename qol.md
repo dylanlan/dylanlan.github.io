@@ -6,7 +6,7 @@ permalink: /qol/
 
 A random and incomplete list of various known bugs or quality of life suggestions for Darkages!
 
-If you're curious about bugs / features of this site itself, check out its own [QoL]({{ site.data.urls.blog-qol }}) page
+If you're curious about bugs / features of this site itself, check out its own [Website QoL]({{ site.data.urls.blog_qol }}) page
 
 
 ### Misc Bugs

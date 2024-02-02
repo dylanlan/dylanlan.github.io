@@ -195,6 +195,11 @@ Malache has summoned a Sgath 10 times as of Deoch 61. Double Digits Sgaths!
 
 ![Malache](/assets/img/records/sgath-summoning/sgath-summoning-10-malache.png)
 
+### Survived Mech Invasion
+Aon has survived 1279 mech invasions! Mighty!
+
+![Aon](/assets/img/records/survived-mech-invasion/survived-mech-invasion-1279-aon-deoch-127.png)
+
 ### Tailoring
 Wizardrian has somehow acquired a Tailor (15) mark! (On some Aisling, to be confirmed!). There have also been rumours of a Tailor (19) somewhere, crazy!
 

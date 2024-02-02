@@ -55,16 +55,3 @@ Coming soon (TM):
 - Nobis 2nd/3rd floor
 - Defeating Law
 
-
-#### Misc
-
-Uncategorized posts go here for now
-
-- [Darkages Bugs]({{ site.data.urls.qol }})
-- [Blog Bugs]({{ site.data.urls.blog_bugs }})
-- [Mottos]({{ site.data.urls.mottos }})
-
-
-
-
-

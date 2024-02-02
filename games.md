@@ -15,6 +15,5 @@ You can win yourself a fabulous prize from some of them!
 - [Legend Names]({{ site.data.urls.legend_names }})
 - [Typos]({{ site.data.urls.typos }})
 - [Cursed Mail]({{ site.data.urls.cursed_mail }})
-- [Multiverse]({{ site.data.urls.multiverse }})
 - (More coming soon!)
 
