@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  Tridemp Non-Believers
-date:   2024-01-29
+date:   2024-01-20
 categories: awakening
+thumbnail: thumbnails/tridemp-non-believer-thumbnail.png
+header: thumbnails/tridemp-non-believer-header.png
 ---
 
 Here is a collection of helpful advice from the community, regarding how to Master an Aisling that had used an unfortunate stat plan.
@@ -126,5 +128,5 @@ Note: this is a biased view of the community, since it only represents a handful
 
 I was really hoping for more optimism from people, but I'm guessing there's a fear of being targetted by the nay-sayers.
 
-These 57 screenshots were the opinions of only 5 people.
+These 57 screenshots were the opinions of only 9 different people.
 

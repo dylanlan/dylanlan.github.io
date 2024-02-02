@@ -3,6 +3,8 @@ layout: post
 title:  Arena Circuit
 date:   2024-01-28
 categories: adventure
+thumbnail: thumbnails/arena-circuit-thumbnail.png
+header: thumbnails/arena-circuit-header.png
 ---
 
 

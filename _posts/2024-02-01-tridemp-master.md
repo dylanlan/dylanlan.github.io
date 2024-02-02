@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  Tridemp Master Disaster
-date:   2024-01-30
+date:   2024-02-01
 categories: awakening
+thumbnail: thumbnails/tridemp-master-disaster-thumbnail.png
+header: thumbnails/tridemp-master-disaster-header.png
 ---
 
 Code Name: The Un-Brickening
@@ -97,5 +99,17 @@ We continued trying to reach out to the community for guidance, and received a l
 
 # Kru Plz
 
-We continued trying to contact KRU. Until eventually....... nothing ever happened.
+We continued trying to contact KRU. Tridemp and I both created a support tickets, hoping that two tickets would have more chance of being heard than one.
+
+![Kru Ticket](/assets/img/awakening/others/tridemp/support-ticket.png)
+
+And we got a reply a week later! Apparently just an "auto-reply", though. This specific quest requires a lot of patience.
+
+![Kru Reply](/assets/img/awakening/others/tridemp/support-ticket-auto-reply.png)
+
+Next time, on USDA:
+- Will Tridemp be able to master?!
+- Can he finally enjoy the rest of the game?
+
+Tune in next time to find out!
 

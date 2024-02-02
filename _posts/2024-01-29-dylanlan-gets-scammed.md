@@ -3,6 +3,8 @@ layout: post
 title:  Dylanlan Gets Scammed
 date:   2024-01-29
 categories: legends-adventure
+header: thumbnails/dylanlan-scammed-header.png
+thumbnail: thumbnails/dylanlan-scammed-thumbnail.png
 ---
 
 Dylanlan tried to be a tricky rogue, and double his chances at a random wheel raffle prize.
