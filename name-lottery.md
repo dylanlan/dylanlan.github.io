@@ -18,7 +18,7 @@ New:
 - Royal (M)
 - Secret (F)
 
-Choppping Block:
+3 weeks old:
 - Lapras (F)
 - Ghoul (M)
 
@@ -42,8 +42,8 @@ I will post a weekly collection of Aisling names that anyone can claim, free of 
 
 If you're interested in a name, just tell me:
 
-1. Which (1) Aisling name you want
-2. How I should contact you (eg: Discord ID, email address, or in-game DA character to mail)
+1. Which (1) Aisling name you want this week.
+2. How I should contact you (eg: Discord ID, email address, or in-game DA character to mail).
 
 You can contact me by direct message to Discord ID `dylanlan2`, or by sending an in-game mail to `Dylanlan` or `NaLyd`.
 
@@ -56,8 +56,10 @@ At the end of the weekend (likely Sunday night), each requested name will be cla
 - If a name was only requested by one person, then they win that name!
 - If a name had multiple people interested, then I will [randomly](https://wheelofnames.com) pick who wins the name!
 - If a name had zero interest, it will roll over into the next week.
+- After 3 weeks, an unclaimed name will change to a first-come-first-served system, rather than waiting & randomly picking.
 
 Winners of each name will be sent the Aisling's password (via requested contact method).
+
 Make sure to change the password if you don't want me stealing the Aisling back at some point!!
 
 #### More Rules...

@@ -66,7 +66,7 @@ Arohanui has banished the shade of blackstar 389 times. Impressive!
 ![Arohanui](/assets/img/records/banished-imperial-shade-of-blackstar/banished-imperial-shade-389-arohanui.png)
 
 ### Blade Smithing
-Awarded to Mighty Archer Dylanlan, who as of Deoch 201, has been involved in 201 extra blade smiths (beyond Blade Smith 10) since his birth in Deoch 51.
+Awarded to Mighty Archer Dylanlan, who as of Deoch 201, has been involved in 204 extra blade smiths (beyond Blade Smith 10) since his birth in Deoch 51.
 
 That's a little over 1 blade smith per Deoch! Wow!
 
