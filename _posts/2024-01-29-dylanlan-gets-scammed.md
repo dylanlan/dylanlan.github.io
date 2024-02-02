@@ -29,9 +29,13 @@ He made sure to voice his interest in the raffle, so that a paper trail would ex
 
 ![Start](/assets/img/legends-of-chaos/how-i-got-scammed-in-this-new-dope-video-game/i-would-like-to-speak-to-a-manager-please/interested-1.png)
 
-Dylanlan tried using his higgle tactic, which seemed to work successfully. At least so far.
+The raffle was posted a second time, and Dylanlan figured it was a good time to try out his Higgle tactic.
 
-![Start](/assets/img/legends-of-chaos/how-i-got-scammed-in-this-new-dope-video-game/i-would-like-to-speak-to-a-manager-please/rules-1.png)
+![Start](/assets/img/legends-of-chaos/how-i-got-scammed-in-this-new-dope-video-game/i-would-like-to-speak-to-a-manager-please/rules-2.png)
+
+Dylanlan attempts to higgle. It appeared to succeed!
+
+![Start](/assets/img/legends-of-chaos/how-i-got-scammed-in-this-new-dope-video-game/i-would-like-to-speak-to-a-manager-please/yay.png)
 
 There were originally 11 unique names in the wheel, and Dylanlan was 2 of them. Only a sly increase from 9% odds, to 18%. Not great, not terrible.
 
