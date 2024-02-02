@@ -6,7 +6,24 @@ permalink: /links/
 Here is a collection of various links to other useful websites related to Darkages!
 
 
-# Recent / Relevant
+# Content Creators
+
+#### Claudine
+- [Youtube](https://www.youtube.com/@SineadMcCauley)
+- [Main Web Site](https://sevmccauley.wixsite.com/claudine)
+- [Legends Age of Chaos Site](https://sevmccauley.wixsite.com/legends)
+- [Fragments of Temuair Site](https://sevmccauley.wixsite.com/fragments)
+
+#### Viveena
+- [Youtube](https://www.youtube.com/@viveenachay6271)
+
+#### m'lady productions
+- [Youtube](https://www.youtube.com/@mladyproductions157)
+
+#### XIZORD
+- [Youtube](https://www.youtube.com/@Freakazoidx)
+
+# Recent / Relevant Sites
 
 #### Vorlof
 
