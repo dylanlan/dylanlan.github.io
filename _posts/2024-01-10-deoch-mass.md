@@ -27,7 +27,7 @@ Frudo was still missing, and the mass sermon was about to get started.
 
 ![Mass Starting](/assets/img/deoch/mass/mass-starting.png)
 
-Thankfully Frudo appeared just in time, along with our dear leader, PaladinJack!
+Thankfully Frudo appeared just in time, along with our dear leader, `Aon` (formerly PaladinJack)!
 
 ![Mass Start](/assets/img/deoch/mass/mass-start.png)
 

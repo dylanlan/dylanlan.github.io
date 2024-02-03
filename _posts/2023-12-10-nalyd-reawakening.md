@@ -61,7 +61,7 @@ Dylanlan decided to hang out with other Dark Horizons guildmates in Pravat Cave,
 
 Necrean was there. At Pravat Cave. Necrean found NaLyd, 17 years later (~138 Deochs). Unfortunately, there was too much excitement in the moment to remember to take any screenshots, but it was quite the reconnecting indeed! (NaLyd did not get much sleep that night).
 
-Necrean had unfortunately lost her Aisling to a purge long ago. But she had a new Aisling, PaladinJack! And had also recently created a new Aisling, Frudo, who was in the middle of coordinating a quest to the Lynith Sea with some lower leveled Aisling friends. And it sounded like Frudo needed some special ring to be able to do this quest, hmmm, that almost sounds familiar.
+Necrean had unfortunately lost her Aisling to a purge long ago. But she had a new Aisling, Aon (formerly PaladinJack)! And had also recently created a new Aisling, Frudo, who was in the middle of coordinating a quest to the Lynith Sea with some lower leveled Aisling friends. And it sounded like Frudo needed some special ring to be able to do this quest, hmmm, that almost sounds familiar.
 
 NaLyd was intrigued! A pre-master quest?! It had been far too many years since he experienced that joy. He absolutely must join this quest - it was no question.
 

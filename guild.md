@@ -13,7 +13,7 @@ Here's an example Sradagan adventure, if you're curious what shenanigans we get 
 
 And here's a link to a [Sradagan Adventure Playlist](https://www.youtube.com/watch?v=2z7GUTVjLZ4&list=PL6LD2x2A2qLHF22-bc2L1DK71sd5Q3ScE)
 
-Feel free to reach out to `PaladinJack` (guild leader) or `Protein` (someday council) in-game, if you have any questions about the guild or are curious about how to join!
+Feel free to reach out to `Aon` (guild leader) or `Protein` (someday council) in-game, if you have any questions about the guild or are curious about how to join!
 
 Here are a few related posts:
 
