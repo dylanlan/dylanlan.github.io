@@ -15,7 +15,7 @@ gem 'puma'
 # Plugins
 group :jekyll_plugins do
     gem 'devlopr', '~> 0.4.5'
-    gem 'jgd', '~> 1.12'
+    gem 'jgd', '~> 1.14'
     # TODO: figure out if I need feed or seo-tag???
     # gem 'jekyll-feed', '~> 0.17.0'
     gem 'jekyll-paginate', '~> 1.1.0'
