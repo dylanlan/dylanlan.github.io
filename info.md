@@ -11,3 +11,4 @@ Random information about the world of Temuair
 - [Darkages Bugs]({{ site.data.urls.qol }})
 - [Blog Bugs]({{ site.data.urls.blog_qol }})
 - [Mottos]({{ site.data.urls.mottos }})
+- [Temuair Piano Music]({{ site.data.urls.music }})
