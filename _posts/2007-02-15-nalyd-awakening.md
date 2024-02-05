@@ -19,7 +19,7 @@ Together, would they DESTROY ALL MONSTERS IN TEMUAIR?!! Well, not quite. But the
 Here are some scattered memories of NaLyd's first awakening!
 
 
-# Pre Master
+## Pre Master
 
 The earliest screenshot that exists of NaLyd is from  `February 15, 2007 at 10:47pm MT`.
 
@@ -66,7 +66,7 @@ He was very excited to become a Master Aisling, and start experiencing the rest 
 ![Erg](/assets/img/awakening/me/nalyd/2007-03-22_21-49-50-rp12.png)
 
 
-# Master
+## Master
 
 I was apparently too excited to save screenshots of becoming a Master (woops!), but here was my earliest memory afterwards!
 
@@ -142,7 +142,7 @@ And perhaps one day, he would be able to acquire even more powerful gear, that w
 
 ![Erg](/assets/img/awakening/me/nalyd/2007-04-14_22-52-36-r6r0.png)
 
-# Summoner
+## Summoner
 
 The first screenshot of NaLyd as a Summoner, while... hunting Nobis..... how predictable.
 

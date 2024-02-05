@@ -9,7 +9,7 @@ header: thumbnails/tridemp-master-disaster-header.png
 
 Code Name: The Un-Brickening
 
-# Context
+## Context
 
 Here's a tale of disaster and perseverence!
 
@@ -23,7 +23,7 @@ He was unable to experience at least the remaining 50% of the game.
 
 Was all hope lost?
 
-# Adventures
+## Adventures
 
 In his first few weeks, he went on many fun adventures with Sradagan.
 
@@ -44,7 +44,7 @@ Videos:
 - [Pentagram Quest](https://youtu.be/O-IvBDSggSY?si=tJ_HyhtYg_acAtuX)
 
 
-# Disaster
+## Disaster
 
 He successfully "subbed" and changed his class to Priest, while retaining his Wizard spells. This is called becoming a "Wiest".
 
@@ -62,14 +62,14 @@ He had 41 Int, but needed an additional 37 Int stats to reach 78 Int to be able 
 
 ![Tridemp Stats](/assets/img/awakening/others/tridemp/tridemp-stats.png)
 
-# Realization
+## Realization
 
 Here was the moment of realization: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wdwPtfno_tM?si=f7N44eph1VEZbsRd&amp;start=97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-# Panic
+## Panic
 
 The Sradagan guild frantically started coming up with potential fixes / workarounds.
 
@@ -85,7 +85,7 @@ We tried:
 - Buying a Kruna Shop item to see if it can help learn Ard Ioc (But it only supports "previous class" spells, not "current class").
 
 
-# Halp Plz
+## Halp Plz
 
 We were curious if the Temuair community had any other ideas.
 
@@ -97,7 +97,7 @@ But Tridemp did not want to do that, for multiple reasons:
 
 We continued trying to reach out to the community for guidance, and received a lot of .... well .... pessimism: [Non-Believers]({{ site.data.urls.tridemp_non_believers }})
 
-# Kru Plz
+## Kru Plz
 
 We continued trying to contact KRU. Tridemp and I both created a support tickets, hoping that two tickets would have more chance of being heard than one.
 
