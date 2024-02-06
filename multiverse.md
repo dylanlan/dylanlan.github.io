@@ -38,6 +38,8 @@ Current state: Released
 
 ## Legends
 
+![Legends Icon](/assets/img/legends-of-chaos/logo.png)
+
 Legends: Age of Chaos is a love letter to the olden days of Temuair. Heavily focused on balanced gameplay, a rich and engaging story, as well as scheduled community & GM hosted events.
 
 Current state: Released
