@@ -1,0 +1,18 @@
+picture_path: nalyd-skulling
+preview:
+  filename: nalyd-skull
+  original: 1.png
+  sizes:
+  - 1.png
+  thumbnail: 1.png
+pictures:
+- filename: nalyd-skull
+  original: 1.png
+  sizes:
+  - 1.png
+  thumbnail: 1.png
+- filename: nalyd-skull
+  original: 2.png
+  sizes:
+  - 2.png
+  thumbnail: 2.png

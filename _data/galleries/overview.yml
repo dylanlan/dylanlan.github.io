@@ -8,3 +8,13 @@
     sizes:
     - solo-mass-thumbnail.png
     thumbnail: solo-mass-thumbnail.png
+-
+  title: NaLyd Skulling
+  directory: gallery/nalyd-skulling
+  url: nalyd-skulling
+  preview:
+    filename: 1
+    original: 1.png
+    sizes:
+    - 1.png
+    thumbnail: 1.png
