@@ -38,7 +38,7 @@ Current state: Released
 
 ## Legends
 
-![Legends Icon](/assets/img/legends-of-chaos/logo.png)
+![Legends Icon](/assets/img/legends-of-chaos/logo.png){: width="100" }
 
 Legends: Age of Chaos is a love letter to the olden days of Temuair. Heavily focused on balanced gameplay, a rich and engaging story, as well as scheduled community & GM hosted events.
 
@@ -52,7 +52,7 @@ Current state: Released
 
 ## Zolian
 
-![Zolian Icon](/assets/img/zolian/spinning-logo.gif)
+![Zolian Icon](/assets/img/zolian/spinning-logo.gif){: width="100" }
 
 Zolian is a server based on Dungeons & Dragons, Final Fantasy, Diablo 3, Zelda, Elder Scrolls, World of Warcraft and many other MMORPGs.
 
