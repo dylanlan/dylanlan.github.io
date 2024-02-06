@@ -60,6 +60,8 @@ Current state: Beta
 
 - [Download](https://www.thebucknetwork.com/zolian)
 - [Discord](https://discord.gg/WbP2wU5CcB)
+- [Fan Site](https://youhavereachedmayl.wixsite.com/zolianguide)
+- [Dev Site](https://www.thebucknetwork.com/ZolianInfo)
 
 ## Unora
 
