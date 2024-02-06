@@ -91,6 +91,12 @@ A list of recent-ish Sgrios mass sermons that have taken place within the game!
 
 A handy resource for converting the in-game years (Deochs), to in-real-life years. The dates aren't 100% accurate, possibly due to some drift from our old-pal Daylight Savings Time
 
+#### Alvino's Downloads
+
+[https://www.thebucknetwork.com/Downloads](https://www.thebucknetwork.com/Downloads)
+
+An amazing list of old official clients and music, as well as various tools.
+
 #### Kiomi's File Mirror
 
 [https://kiomisfilemirror.com/downloads/](https://kiomisfilemirror.com/downloads/)

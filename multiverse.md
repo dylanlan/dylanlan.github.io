@@ -34,7 +34,7 @@ Current state: Released
 - [Client Fix](https://drive.google.com/file/d/1lqhoEeBkJ89eOVNpBpI9SiR-DgtdlGCo/view?usp=drive_link)
 - [Discord](https://discord.gg/FC7msfwDue)
 - [Outdated Website](https://fragmentsoftemuair1.wixsite.com/website/downloads)
-- [Fan Site](https://temuair.github.io/fot/)
+- [Aldair's Fan Site](https://temuair.github.io/fot/)
 
 ## Legends
 
@@ -44,13 +44,13 @@ Current state: Released
 
 - [Download](https://drive.google.com/file/d/1R6tSZ8SYC-A38VZoj2FnwpACnP2gjikn/edit)
 - [Discord](https://discord.gg/YekJdzKzQR)
-- [Fan Site](https://sevmccauley.wixsite.com/legends)
+- [Claudine's Fan Site](https://sevmccauley.wixsite.com/legends)
 - [Reddit](https://www.reddit.com/r/Darkages/comments/13nrgfw/legends_age_of_chaos_private_server/)
 
 
 ## Zolian
 
-![Zolian Icon](/assets/img/darkages/zolian-icon.png)
+![Zolian Icon](/assets/img/zolian/spinning-logo.gif)
 
 Zolian is a server based on Dungeons & Dragons, Final Fantasy, Diablo 3, Zelda, Elder Scrolls, World of Warcraft and many other MMORPGs.
 
@@ -60,8 +60,8 @@ Current state: Beta
 
 - [Download](https://www.thebucknetwork.com/zolian)
 - [Discord](https://discord.gg/WbP2wU5CcB)
-- [Fan Site](https://youhavereachedmayl.wixsite.com/zolianguide)
 - [Dev Site](https://www.thebucknetwork.com/ZolianInfo)
+- [May's Fan Site](https://youhavereachedmayl.wixsite.com/zolianguide)
 
 ## Unora
 
