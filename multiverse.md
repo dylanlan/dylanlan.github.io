@@ -13,7 +13,7 @@ If so, here's a growing list of unique, creative, and welcoming alternate realit
 
 ## Hybrasyl
 
-![Hybrasyl Icon](/assets/img/darkages/hybrasyl-icon.png)
+![Legends Icon](/assets/img/hybrasyl/hybrasyl-512x512.png){: width="100" }
 
 
 Hybrasyl is a well-documented and exceptionally accurate private server for Dark Ages.
