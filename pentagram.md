@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pentagram
-permalink: /pentagram
+title: Aon Pentagram
+permalink: /aon-pentagram
 ---
 
 
