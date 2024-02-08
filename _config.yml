@@ -8,15 +8,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    # - text: Home
-    #   url: /
-    # - text: About
-    #   url: /about
     - text: About
-      url: /context
+      url: /about
     - text: Get Started
       url: /get-started
-    - text: Adventure Log
+    - text: Guild
+      url: /guild
+    - text: Adventures
       url: /blog
     - text: QoL
       url: /qol
@@ -28,9 +26,6 @@ urls:
       url: /info  
     - text: Memories
       url: /gallery
-    # - text: Contact
-    #   url : /contact
-
 
 # Edit Author details (For multi authors check _data/authors.yml)
 

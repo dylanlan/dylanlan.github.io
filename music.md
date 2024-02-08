@@ -15,3 +15,6 @@ Here are some random piano songs that I improvised and recorded.
 - [Sgrios v1.0](https://www.youtube.com/watch?v=2vOCps1hhMo)
 - [Sgrios v2.0](https://www.youtube.com/watch?v=OOKTXhpfbY8)
 
+## Glioca vs. Sgrios
+
+- [Glioca vs Sgrios v1.0](https://www.youtube.com/watch?v=bBbsMw_iS-A)
