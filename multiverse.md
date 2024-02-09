@@ -67,4 +67,14 @@ Current state: Beta
 
 ## Unora
 
-Coming soon!
+![Unora Icon](/assets/img/unora/logo.png){: width="100" }
+
+Welcome to Unora, a realm where the echoes of the Great Divine War still resonate through the land, sky, and seas. In this mystical world, players embark on a journey through a landscape shaped by the cataclysmic Battle of Elemental Harmony, where gods clashed in a display of unimaginable power. The legacies of Ignatar, Geolith, Zephyra, and Aquaedon are woven into the very fabric of Unora, offering a rich tapestry of lore and adventure. As players explore this diverse and dynamic environment, they will encounter remnants of the fallen deities, each area reflecting the essence and turmoil of the gods who once presided over them. The aftermath of the war has left a world filled with mystery, conflict, and a delicate balance maintained by the remaining goddesses – Theselene, Serendael, Skandara, and Miraelis.
+
+The Unora Project invites players to delve into a unique experience, blending elements from Nexus TK, LoD, and DarkAges, to forge a distinct gaming adventure. Our open beta in late April is an opportunity for enthusiasts to immerse themselves in a world rich in lore and complexity. We are dedicated to creating an engaging, player-driven narrative, where every discovery, from items and skills to spells and dialogues, contributes to the unfolding story. Your participation, feedback, and insights are invaluable in refining Unora, ensuring an immersive and captivating experience for all. Join us in shaping a world where the remnants of a divine war pave the path for new legends and adventures.
+
+Current state: Closed Alpha
+
+Next phase: Open Beta in late April
+
+- [Discord](https://discord.gg/FBK9dhMy)
