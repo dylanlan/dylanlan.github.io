@@ -7,12 +7,137 @@ preview:
   thumbnail: 1.png
 pictures:
 - filename: nalyd-skull
+  original: 0.png
+  sizes:
+  - 0.png
+  thumbnail: 0.png
+- filename: nalyd-skull
   original: 1.png
   sizes:
   - 1.png
   thumbnail: 1.png
 - filename: nalyd-skull
-  original: 2.png
+  original: 3.png
   sizes:
-  - 2.png
-  thumbnail: 2.png
+  - 3.png
+  thumbnail: 3.png
+- filename: nalyd-skull
+  original: 4.png
+  sizes:
+  - 4.png
+  thumbnail: 4.png
+- filename: nalyd-skull
+  original: 5.png
+  sizes:
+  - 5.png
+  thumbnail: 5.png
+- filename: nalyd-skull
+  original: 6.png
+  sizes:
+  - 6.png
+  thumbnail: 6.png
+- filename: nalyd-skull
+  original: 7.png
+  sizes:
+  - 7.png
+  thumbnail: 7.png
+- filename: nalyd-skull
+  original: 8.png
+  sizes:
+  - 8.png
+  thumbnail: 8.png
+- filename: nalyd-skull
+  original: 9.png
+  sizes:
+  - 9.png
+  thumbnail: 9.png
+- filename: nalyd-skull
+  original: 10.png
+  sizes:
+  - 10.png
+  thumbnail: 10.png
+- filename: nalyd-skull
+  original: 11.png
+  sizes:
+  - 11.png
+  thumbnail: 11.png
+- filename: nalyd-skull
+  original: 12.png
+  sizes:
+  - 12.png
+  thumbnail: 12.png
+- filename: nalyd-skull
+  original: 13.png
+  sizes:
+  - 13.png
+  thumbnail: 13.png
+- filename: nalyd-skull
+  original: 14.png
+  sizes:
+  - 14.png
+  thumbnail: 14.png
+- filename: nalyd-skull
+  original: 15.png
+  sizes:
+  - 15.png
+  thumbnail: 15.png
+- filename: nalyd-skull
+  original: 16.png
+  sizes:
+  - 16.png
+  thumbnail: 16.png
+- filename: nalyd-skull
+  original: 17.png
+  sizes:
+  - 17.png
+  thumbnail: 17.png
+- filename: nalyd-skull
+  original: 18.png
+  sizes:
+  - 18.png
+  thumbnail: 18.png
+- filename: nalyd-skull
+  original: 19.png
+  sizes:
+  - 19.png
+  thumbnail: 19.png
+- filename: nalyd-skull
+  original: 20.png
+  sizes:
+  - 20.png
+  thumbnail: 20.png
+- filename: nalyd-skull
+  original: 21.png
+  sizes:
+  - 21.png
+  thumbnail: 21.png
+- filename: nalyd-skull
+  original: 22.png
+  sizes:
+  - 22.png
+  thumbnail: 22.png
+- filename: nalyd-skull
+  original: 23.png
+  sizes:
+  - 23.png
+  thumbnail: 23.png
+- filename: nalyd-skull
+  original: 24.png
+  sizes:
+  - 24.png
+  thumbnail: 24.png
+- filename: nalyd-skull
+  original: 25.png
+  sizes:
+  - 25.png
+  thumbnail: 25.png
+- filename: nalyd-skull
+  original: 26.png
+  sizes:
+  - 26.png
+  thumbnail: 26.png
+- filename: nalyd-skull
+  original: 27.png
+  sizes:
+  - 27.png
+  thumbnail: 27.png
