@@ -18,3 +18,23 @@
     sizes:
     - 1.png
     thumbnail: 1.png
+-
+  title: Stone Client
+  directory: gallery/stone-client
+  url: stone-client
+  preview:
+    filename: 1
+    original: 1.png
+    sizes:
+    - 1.png
+    thumbnail: 1.png
+-
+  title: Temuair Events
+  directory: gallery/temuair-events
+  url: temuair-events
+  preview:
+    filename: 1
+    original: 1.png
+    sizes:
+    - 1.png
+    thumbnail: 1.png
