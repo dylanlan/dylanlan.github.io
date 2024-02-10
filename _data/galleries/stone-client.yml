@@ -1,10 +1,10 @@
 picture_path: stone-client
 preview:
   filename: stone-client
-  original: 1.png
+  original: 0.png
   sizes:
-  - 1.png
-  thumbnail: 1.png
+  - 0.png
+  thumbnail: 0.png
 pictures:
 - filename: stone-client
   original: 0.png
