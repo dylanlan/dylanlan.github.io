@@ -1,6 +1,5 @@
 ---
 layout: page
-title:  Entering Temuair
 permalink: /get-started/
 ---
 Curious how to play this mysterious game? Worry not! Here is a handy guide to help you get started.
@@ -10,6 +9,8 @@ Curious how to play this mysterious game? Worry not! Here is a handy guide to he
 If you just want to play for free, you can download the game right now, and get started! It's easiest to play on Windows, but also possible to play on Linux using [Wine](https://www.winehq.org/). I'm unsure about Macs!
 
 If you've already created a character, but you're not sure what to do next, check out this guide: [Entering Temuair]({{ site.data.urls.enter_temuair }})
+
+You can find an old Darkages Manual from 1999 [here]({{ site.data.urls.old_da_manual }})
 
 You can install Darkages and create a new character in just 7 simple steps! (lucky!)
 
