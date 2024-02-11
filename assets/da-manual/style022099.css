@@ -1,0 +1,29 @@
+h1 {
+        font: bold 14pt Arial,Verdana,Helvetica,sans-serif;
+        color: rgb(80,143,170);
+}
+h3 {    
+		text-align: right;
+}
+.text { 
+        font: normal 12pt Arial,Verdana,Helvetica,sans-serif;
+        color: rgb(110,128,127);
+}
+table {
+		font normal 12pt Arial,Verdana,Helvetica,sans-serif;
+		color: rgb(110,128,127);
+}
+b {		
+		font: bold 12pt Arial,Verdana,Helvetica,sans-serif;
+		color: rgb(110,128,127);
+}
+i {
+        font: italic 12pt Arial,Verdana,Helvetica,sans-serif;
+        color: rgb(110,128,127);
+}
+a {
+        font: 12pt Arial,Verdana,Helvetica,sans-serif;
+        text-decoration: none;
+        color: rgb(19,119,193);
+}
+

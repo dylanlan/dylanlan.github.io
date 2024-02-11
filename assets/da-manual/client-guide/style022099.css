@@ -1,0 +1,61 @@
+h1 {
+        font: bold 14pt Arial,Verdana,Helvetica,sans-serif;
+        color: rgb(80,143,170);
+}
+h3 {    text-align: right;
+}
+.text { 
+        font: normal 12pt Arial,Verdana,Helvetica,sans-serif;
+        color: rgb(110,128,127);
+}
+.srctext {
+	font: normal 12pt Arial,Verdana,Helvetica,sans-serif;
+	color: rgb(0,0,0);
+}
+table {
+	font normal 12pt Arial,Verdana,Helvetica,sans-serif;
+	color: rgb(110,128,127);
+}
+.links {
+        font: bold 12pt Arial,Verdana,Helvetica,sans-serif;
+        color: rgb(19,119,193);
+}
+b.warning {
+	font: bold 12pt Arial,Verdana,Helvetica,sans-serif;
+        color: rgb(231,32,34);
+}
+b {	font: bold 12pt Arial,Verdana,Helvetica,sans-serif;
+	color: rgb(110,128,127);
+}
+i {
+        font: italic 12pt Arial,Verdana,Helvetica,sans-serif;
+        color: rgb(110,128,127);
+}
+a {
+        font: 12pt Arial,Verdana,Helvetica,sans-serif;
+        text-decoration: none;
+        color: rgb(19,119,193);
+}
+a.shref {
+	font: oblique 12pt Arial,Verdana,Helvetica,sans-serif;
+	text-decoration: none;
+	color: rgb(192,192,192);
+}
+.rellinks {
+        font: normal 10pt Arial,Verdana,Helvetica,sans-serif;
+        color: rgb(255,255,255);
+        background-color: rgb(28,113,108);
+}
+.forums {
+	font: normal 10pt Arial,Verdana,Helvetica,sans-serif;
+	color: rgb(255,255,255);
+}
+
+.forum_text {
+	background-color: rgb(28,113,108);
+}
+a.forum {
+	font: normal 10pt Arial, Verdana, Helvetica, sans-serif;
+	color: rgb(192,192,192);
+}
+
