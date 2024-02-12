@@ -24,9 +24,9 @@ Malache currently has this record, at 217 admitted citizens. This is back from D
 ![Malache](/assets/img/records/admitted-citizen/admitted-citizen-217-malache.png)
 
 ### Adorations
-Ishikawa has a whopping 15 adorations of Danaan. Oh my Danaan! Maybe BioMagus can save us?!
+BioMagus has the most Adorations. It's not even close.
 
-![Ishikawa](/assets/img/records/adoration-of-danaan/adoration-of-danaan-15-ishikawa.png)
+![Ishikawa](/assets/img/records/adoration-of-danaan/adoration-of-danaan-24-biomagus.png)
 
 ### Arena Battles
 Acesin has been in many many arena battles. 1621, in fact!
@@ -58,7 +58,7 @@ Acesin has attended class at Mileth College 23 times. That's nearly 24!
 
 Sounds like StarNite might be the new record holder, with 24 times daydreamt! (Coming soon: a screenshot!)
 
-![Glasken](/assets/img/records/avid-daydreamer/avid-daydreamer-23-glasken-deoch-201.png)
+![Glasken](/assets/img/records/avid-daydreamer/avid-daydreamer-23-glasken-deoch-201.png){: width="50" }
 
 ### Banished Imperial Shade of Blackstar
 Arohanui has banished the shade of blackstar 389 times. Impressive!
@@ -72,7 +72,7 @@ That's a little over 1 blade smith per Deoch! Wow!
 
 Surely no other Aisling has a higher count than this, right??
 
-![Dylanlan](/assets/img/records/blade-smithing/involved-in-blade-smithing-204-dylanlan-deoch-201.png)
+![Dylanlan](/assets/img/records/blade-smithing/involved-in-blade-smithing-204-dylanlan-deoch-201.png){: width="50%" }
 
 ### Completed Daily Quest
 Arohanui has completed the main Daily Quest 57 times! That's almost two months!
@@ -120,9 +120,9 @@ Arohanui has been divorced 3 times. I guess saving Temuair so many times has its
 ![Arohanui](/assets/img/records/divorced/divorced-3-arohanui.png)
 
 ### Educated
-Ishikawa has 35 separate educations. What a nerd!!
+Giggles has 94 separate educations. What a nerd!!
 
-![Ishikawa](/assets/img/records/educated/educated-35-ishikawa.png)
+![Ishikawa](/assets/img/records/educated/educated-94-giggles-deoch-188.png)
 
 ### Found Lucky Clovers
 Arohanui has found 28 clovers. Lucky!
@@ -141,6 +141,11 @@ Ishikawa has guided 59 Monks. That's almost 60!
 
 ![Ishikawa](/assets/img/records/guided-monk/guided-monk-59-ishikawa.png)
 
+### Has Defeated Oren Pirates
+BioMagus has defeated 390 of Oren's Pirates! From all the way back in Deoch 33!
+
+![Arohanui](/assets/img/records/has-defeated-pirates/has-defeated-pirates-390-biomagus-deoch-33.png)
+
 ### Hwarone Kills
 Arohanui has claimed a very high number of war murders! Wow, 29,924!
 
@@ -152,9 +157,9 @@ Arohanui has smacked insects to claim the tournament prize 21 times. I can't eve
 ![Arohanui](/assets/img/records/insect-event/insect-event-21-arohanui-deoch-200.png)
 
 ### Judge
-Cinaed has been a judge 25 times. The most judgiest-judge of all!
+Eternalty has been a judge 48 times. Eternalty: the judgiest-judge, eternally!
 
-![Cinaed](/assets/img/records/judge/judge-25-cinaed.png)
+![Cinaed](/assets/img/records/judge/judge-48-eternalty.png)
 
 # Most Banked Light Belts
 This prestigious award goes to the Aisling who currently owns the most Light Belt items in their bank account.
@@ -215,9 +220,14 @@ Glasken again showed a very high number of terrors slain! 50, holy smokes!
 ![Glasken](/assets/img/records/terror-of-crypt/terror-of-crypt-50-glasken.png)
 
 ### Won Pit Fights
-Vamistle has won 19 Pit Fights. Don't put me in a pit with him!
+Eternalty has won 40 Pit Fights. Don't put me in a pit with them!
 
-![Vamistle](/assets/img/records/won-pit-fights/won-pit-fights-19-vamistle.png)
+![Vamistle](/assets/img/records/won-pit-fights/won-pit-fights-40-eternalty.png)
+
+### Zombie Slayer Record
+Giggles has slain 1015 zombies. 
+
+![Vamistle](/assets/img/records/zombie-slayer-record/zombie-slayer-1015-giggles-deoch-168.png)
 
 # Interesting Legend Marks
 
@@ -232,6 +242,11 @@ BioMagus. Enough said.
 Don't mess with BioMagus.
 
 ![BioMagus](/assets/img/records/misc/killed-dark-aislings-31.png)
+
+### Arcane Gauntlet
+Hihaku was the first Aisling to recover the Arcane Gauntlet. So cool!
+
+![Hihaku](/assets/img/records/misc/arcane-gauntlet-hihaku-deoch-54.png)
 
 # Speedruns
 A collection of quests or bosses that were completed in the quickest time, perhaps?
