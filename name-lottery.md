@@ -11,18 +11,19 @@ Hello there! Are you wanting to play Darkages, but can't come up with a good nam
 #### Current Names
 
 New:
-- Cinder (F)
-- Volcano (M)
+- Sewer (M)
+- Breeze (F)
 
 1 week old:
+- Cinder (F)
+
+3 weeks old:
 - Royal (M)
 - Secret (F)
 
-3 weeks old:
+First come first served:
 - Lapras (F)
 - Ghoul (M)
-
-First come firt served:
 - Bully (M)
 - Cathonic (M)
 - Beethoven (M)
@@ -35,6 +36,8 @@ First come firt served:
 - Organ (F)
 - Vigor (M)
 - Whip (F)
+
+Deadline to request for this week: Sunday, February 18th around 8pm MT
 
 #### Rules
 
