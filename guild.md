@@ -14,8 +14,8 @@ Here's an example Sradagan Adventure, if you're curious what shenanigans we get 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cGNNuCuwkhE?si=pehNkP5tMq0ljP8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 More links:
-- [Sradagan Adventure Playlist](https://www.youtube.com/watch?v=cGNNuCuwkhE&list=PL6LD2x2A2qLHF22-bc2L1DK71sd5Q3ScE&index=22)
-- [Dylanlan's Temuair Music](https://www.youtube.com/watch?v=bBbsMw_iS-A&list=PL6LD2x2A2qLFEAd6xN69dE-YgEIrYOFZw&index=8)
+- [Sradagan Adventure Playlist](https://www.youtube.com/watch?v=3O29iIsXRls&list=PL6LD2x2A2qLHF22-bc2L1DK71sd5Q3ScE&index=33)
+- [Dylanlan's Temuair Music](https://www.youtube.com/watch?v=I3pugSh2YBI&list=PL6LD2x2A2qLFEAd6xN69dE-YgEIrYOFZw&index=15)
 - [Sradagan's Awakening]({{ site.data.urls.sradagan_created }}) (Guild creation)
 - [NaLyd's Reawakening]({{ site.data.urls.nalyd_reawaken }}) (NaLyd's motivations)
 - (Coming soon: More LOREE?!!)
