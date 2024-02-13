@@ -46,6 +46,7 @@ Current state: Released
 
 - [Download](https://drive.google.com/file/d/1R6tSZ8SYC-A38VZoj2FnwpACnP2gjikn/edit)
 - [Discord](https://discord.gg/YekJdzKzQR)
+- [Server Status](https://stats.uptimerobot.com/rv4Dmcrmwp)
 - [Claudine's Fan Site](https://sevmccauley.wixsite.com/legends)
 - [Reddit](https://www.reddit.com/r/Darkages/comments/13nrgfw/legends_age_of_chaos_private_server/)
 
