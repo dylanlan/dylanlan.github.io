@@ -22,5 +22,4 @@ More links:
 
 Feel free to reach out to `Aon` (guild leader), or `NaLyd` / `Protein` (someday council) in-game, if you have any questions about the guild or are curious about how to join!
 
-Here are a few related posts:
-
+Or feel free to direct message "dylanlan2" on Discord!
