@@ -6,6 +6,8 @@ permalink: /about/
 
 Here's an attempt at briefly explaining this fan site that you're currently looking at. It's for an old video game called [Darkages](https://www.darkages.com/).
 
+If you want to play the game for free, check out the [Getting Started Guide]({{ site.data.urls.get_started }})
+
 ### Context
 
 [Darkages](https://www.darkages.com/) is an old [MMORPG](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) computer game, first released in 1999.
