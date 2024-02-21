@@ -11,31 +11,6 @@ Are you bored of the official Temuair by Kru, and want to check out other option
 
 If so, here's a growing list of unique, creative, and welcoming alternate realities of Temuair!
 
-## Hybrasyl
-
-![Legends Icon](/assets/img/hybrasyl/hybrasyl-512x512.png){: width="100" }
-
-
-Hybrasyl is a well-documented and exceptionally accurate private server for Dark Ages.
-
-Current state: Alpha
-
-- [Website](https://www.hybrasyl.com/)
-- [Discord](https://discord.gg/6xhf6Ck2ra)
-
-
-## Fragments
-
-Fragments of Temuair (FoT) is a game that is awaiting a better description!
-
-Current state: Released
-
-- [Download](https://drive.google.com/file/d/1Eq9aYV3K497oPbMy-du26FQ30EpHK5Sv/view?usp=sharing)
-- [Client Fix](https://drive.google.com/file/d/1lqhoEeBkJ89eOVNpBpI9SiR-DgtdlGCo/view?usp=drive_link)
-- [Discord](https://discord.gg/FC7msfwDue)
-- [Outdated Website](https://fragmentsoftemuair1.wixsite.com/website/downloads)
-- [Aldair's Fan Site](https://temuair.github.io/fot/)
-
 ## Legends
 
 ![Legends Icon](/assets/img/legends-of-chaos/logo.png){: width="100" }
@@ -43,6 +18,8 @@ Current state: Released
 Legends: Age of Chaos is a love letter to the olden days of Temuair. Heavily focused on balanced gameplay, a rich and engaging story, as well as scheduled community & GM hosted events.
 
 Current state: Released
+
+Player count: ~30 to 40
 
 - [Download](https://drive.google.com/file/d/1R6tSZ8SYC-A38VZoj2FnwpACnP2gjikn/edit)
 - [Discord](https://discord.gg/YekJdzKzQR)
@@ -61,10 +38,40 @@ Many of the grind mechanics are from traditional Hack and Slashers that you know
 
 Current state: Beta
 
+Player count: ~10 to 20
+
 - [Download](https://www.thebucknetwork.com/zolian)
 - [Discord](https://discord.gg/WbP2wU5CcB)
 - [Dev Site](https://www.thebucknetwork.com/ZolianInfo)
 - [May's Fan Site](https://youhavereachedmayl.wixsite.com/zolianguide)
+
+## Fragments
+
+Fragments of Temuair (FoT) is a game that is awaiting a better description!
+
+Current state: Released
+
+Player count: ~5 to 10
+
+- [Download](https://drive.google.com/file/d/1Eq9aYV3K497oPbMy-du26FQ30EpHK5Sv/view?usp=sharing)
+- [Client Fix](https://drive.google.com/file/d/1lqhoEeBkJ89eOVNpBpI9SiR-DgtdlGCo/view?usp=drive_link)
+- [Discord](https://discord.gg/FC7msfwDue)
+- [Outdated Website](https://fragmentsoftemuair1.wixsite.com/website/downloads)
+- [Aldair's Fan Site](https://temuair.github.io/fot/)
+
+## Hybrasyl
+
+![Legends Icon](/assets/img/hybrasyl/hybrasyl-512x512.png){: width="100" }
+
+
+Hybrasyl is a well-documented and exceptionally accurate private server for Dark Ages.
+
+Current state: Alpha
+
+Player count: ~0 to 3
+
+- [Website](https://www.hybrasyl.com/)
+- [Discord](https://discord.gg/6xhf6Ck2ra)
 
 ## Unora
 
@@ -77,5 +84,7 @@ The Unora Project invites players to delve into a unique experience, blending el
 Current state: Closed Alpha
 
 Next phase: Open Beta in late April
+
+Player count: 0
 
 - [Discord](https://discord.gg/FBK9dhMy)
