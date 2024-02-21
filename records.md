@@ -147,9 +147,9 @@ BioMagus has defeated 390 of Oren's Pirates! From all the way back in Deoch 33!
 ![Arohanui](/assets/img/records/has-defeated-pirates/has-defeated-pirates-390-biomagus-deoch-33.png)
 
 ### Hwarone Kills
-Arohanui has claimed a very high number of war murders! Wow, 29,924!
+Shikaix has claimed a very high number of war murders! Wow, 43,243!
 
-![Arohanui](/assets/img/records/hwarone-kills/hwarone-kills-29924-arohanui-deoch-166.png)
+![Arohanui](/assets/img/records/hwarone-kills/hwarone-kills-43243-shikaix.png)
 
 ### Insect Event
 Arohanui has smacked insects to claim the tournament prize 21 times. I can't even!
