@@ -11,33 +11,32 @@ Hello there! Are you wanting to play Darkages, but can't come up with a good nam
 #### Current Names
 
 New:
-- Sewer (M)
-- Breeze (F)
+- Army (M)
+- Horse (F)
 
 1 week old:
-- Cinder (F)
+- Sewer (M)
 
-3 weeks old:
-- Royal (M)
-- Secret (F)
+2 weeks old:
+- Cinder (F) 🟡 - requested
 
 First come first served:
+- Royal (M)
+- Secret (F)
 - Lapras (F)
 - Ghoul (M)
 - Bully (M)
 - Cathonic (M)
-- Beethoven (M)
 - Cowboy (M)
 - Fraud (M)
 - Goofy (M)
 - Hydrogen (M)
-- Italy (M)
 - Loop (M)
 - Organ (F)
 - Vigor (M)
 - Whip (F)
 
-Deadline to request for this week: Sunday, February 18th around 8pm MT
+Deadline to request for this week: Sunday, February 25th around 8pm MT
 
 #### Rules
 
