@@ -12,6 +12,7 @@ If you're curious about bugs / features of this site itself, check out its own [
 ### Misc Bugs
 - "You are too busy", when trying to polish gems. Need to log off and log back in to fix it. Annoying.
 - "You are distracted", when trying to use certain popups for quests / dialogue etc. Often need to just retry.
+- Bosses can "despawn" if they don't see an Aisling for a short amount of time (eg: 1-5 seconds?). This is an absolute nightmare for certain quests, eg: Eingren Manor to get Demon Lord's Notes, since it can take 5-6+ hours to get to the boss, and then it can mysteriously disappear and you need to start over...
 - Coming soon: Maybe just one or two more bugs (right??)
 
 ### Skills / Spells (QoL)
