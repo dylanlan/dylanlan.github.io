@@ -11,14 +11,19 @@ Hello there! Are you wanting to play Darkages, but can't come up with a good nam
 #### Current Names
 
 New:
+- DuffBeer (M)
+- Friday (F)
+
+1 week old:
+- Caterpie (F)
+- Poliwrath (M)
+
+2 weeks old:
 - Army (M)
 - Horse (F)
 
-1 week old:
+3 weeks old:
 - Sewer (M)
-
-2 weeks old:
-- Cinder (F) 🟡 - requested
 
 First come first served:
 - Royal (M)
@@ -28,7 +33,6 @@ First come first served:
 - Bully (M)
 - Cathonic (M)
 - Cowboy (M)
-- Fraud (M)
 - Goofy (M)
 - Hydrogen (M)
 - Loop (M)
@@ -36,7 +40,7 @@ First come first served:
 - Vigor (M)
 - Whip (F)
 
-Deadline to request for this week: Sunday, February 25th around 8pm MT
+Deadline to request for this week: Sunday, March 17th around 8pm MT
 
 #### Rules
 
