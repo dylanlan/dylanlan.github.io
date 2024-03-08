@@ -12,6 +12,7 @@ If you're curious about bugs / features of this site itself, check out its own [
 ### Misc Bugs
 - "You are too busy", when trying to polish gems. Need to log off and log back in to fix it. Annoying.
 - "You are distracted", when trying to use certain popups for quests / dialogue etc. Often need to just retry.
+- It's possible to "overkill" a monster, where you do _soooo_ much damage, that it ends up doing 0 damage. Woops, too stronk. See "Bit limitations" section
 - Bosses can "despawn" if they don't see an Aisling for a short amount of time (eg: 1-5 seconds?). This is an absolute nightmare for certain quests, eg: Eingren Manor to get Demon Lord's Notes, since it can take 5-6+ hours to get to the boss, and then it can mysteriously disappear and you need to start over...
 - Coming soon: Maybe just one or two more bugs (right??)
 
@@ -62,3 +63,94 @@ Some data storage is still showing its 90s side, and would be great to update:
 - The ability to learn skills / spells from other Aislings, not just Mundanes. Different or same requirements? Either case could be interesting!
 - Show the Aisling name when viewing their legend marks! That'd make it much easier to understand whose legend you're viewing in a screenshot
 - The ability to list more than 20 "friend" in-game. Many people are playing 2-5 characters nowadays, so the list can fill up really quickly!
+
+
+
+
+
+
+
+Misc suggestions from Discord: https://discord.com/channels/498183649888567307/596448547713450043/597029476022353941
+
+Kru Suggestions - Paxon, Urek, Lux, Windscars, M, Slashremix, SwordFish, KateUpton, DilZ, Six, Ender, Dose, Jinori, Vorlof, Eirien, SaintAsher, Quinton, Kronk
+Atsuma, Rocandy, Kronk, Cthak, Merisa, Claudine
+
+PLEASE ADVERTISE THE GAME! STEAM?!? ANYTHING! Very many suggestions and upvotes on adding the game to Steam.
+
+Possible consider Free to Play, 20 year old game. Make the difference up in Kruna + increased players.
+Quality of Life Suggestions: 
+Make buying Stats/Hp/MP easier instant ascend maybe to one stat?
+Daily quests - 22/23 hours so they can be repeated at the same time daily
+Reduce BlackStar to match other dungeons 4-12hrs
+Daily Skills/Spells obtainable forever with X/Y amount of daily tokens.
+Reduce summoner spell costs
+LOD style flying blimps to easily navigate to map like Suomi/Undine
+Ascending "Killer" NPC
+An FAQ on the website, alleviate the email spam with questions
+Blackstar shortcut if you have armor++++ 
+Show open/used bank spaces
+Fix monster kill counts, where killing too many other creatures forgets your kills.
+Make all or more of the daily quests give tokens rather then 5 days of farming for 2 day skill.
+Make Light Necks more easily obtainable for new players/Returning players
+Rework the Hubae system to have a self learning option for dugons.
+Rework current skills/spells 70% of them are borderline useless
+Balance the pure/sub path without making overpowered classes stronger by handing out already existing abilities.
+ie: Warriors learn Wolf fang fist (Now all morriors are slightly better) Monks learn wallop, wiz learn pramh
+This may close the gap between some subs/pures without further buffing Prizards.
+Raise Hit% cap on Nerve Stimulant.
+"Clear Stone" spell for already masters hunting Deep CR for master sets. Non-masters would still need
+a 5 man group.
+Replace the 5-class requirements on some quests to "any 5 people"
+Teleport Feather to Kruna Shop = Instant profit.
+Alternatively: Make it F2P and make subscriptions still worthwhile (Double XP)
+Subscription ability to world shout with a cooldown.
+Log multiple characters from the same account at the same time while registered. (Subscription only idea)
+More cosmestics better emotes for Kruna
+Kruna for when you reg/auto renew
+Subscription hunting areas. Do away with the 50% bonus weekends, instead offer a sub service and premium service which offer
+50% exp boost premium offer double xp and 100 kruna a month. 
+Relics usable on 1st inventory slot.
+more potions to restore mana, priests have no way to restore mana like wizzards.
+Hunting Suggestions:
+Chaduals 2 
+Decrease Greens in SW2 make it huntable again.
+More MTG mob rooms for hunting / Seperate of Creant areas so newer players can hunt there like in the past.
+Increase Spawn Rate in SW1 for regular mobs in the larger rooms (33/35)
+Increased XP rates in CR, Nobis, or more mob rooms 
+Lower HP/AC/MR on Dark Clerics in CR
+Lower HP/AC/MR on Beetles in Nobis
+Double exp/ap items obtainable outside of rare events. 
+Item drops on Blackstar miniboss Skill/Spell items or doubles something worthwhile
+More hunting areas, the current ones are always full.
+Buff Unknown Depths, Chaos, Eingren Manor, Fire Canyon, Cursed Home
+Equalize areas XP similar to the level of West Woodlands
+Areas based on class hunting, cast certain spells and act differently based on class
+1-99 Improvements:
+
+Revamp 1-99, So many people join and quit not being able to do anything on their own. Streamlining 1-99 would help.
+Items/XP items only for insights 1-99
+Re-do damage on all low level weapons to make them less useless. (Wooden Club 50 / DSS level 20 only useful weapons)
+Spiked Club does less damage then wooden club?
+Solo hunting options for 1-99 areas.
+Tasks a player can do solo that gets more challenging as they progress.
+Make the 1-99 experiance more fun, not use a item to jump to master in 10 minutes.
+More low level skills/spells exclusive for 1-99. 
+Low level pure/sub skills that you lose at master.
+Possibly 1-99 who choose to stay 1-99 buy stats at a lower cap then masters.
+Class Improvements:
+Bards -3 line or -1 for curses (Bards should be better then a GM priest)
+0 line DF / 1 line Pramh / 0 line Mor Dion / 0 line Demise
+A spell only obtainable by sub-paths.
+Politics-
+Ranger system national voting, heavier requirements (In office x amount of times, x deochs old, no jails/no jails in x amount of time.
+
+Quests- 
+Creat more questlines to lesser-known areas of Temuair and Medenia. (Ex: Demon Lord's Notes quest, Arsaigh Aon)
+Give the world more life, and seem larger. Word has it Suomi Troupe works hard on quest lines, why not implement their work?
+Instead of having everything in one place (BlackStar) important questlines/things to do continue to be in respective towns.
+PVP- Castle battles need revamping, Announce which guilds hold a castle every 4-6 hours, Days its been held, Castle pieces HP to 75mil,
+increase AoE damage, Increase outside piece to 50mil, give slow regain. REWARDS
+NPCS inside castle cast Dia Aite, Dia Fas, EXP buff. Gold that guild leader can collect like 200mil ever 7 days.
+Random daily rewards for each member Ie: Andor Chests, Queen Chests, WD chests, or Satchel of goods.
+
+
