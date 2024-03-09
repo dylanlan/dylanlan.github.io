@@ -54,11 +54,9 @@ Acesin has attended class at Mileth College 23 times. That's nearly 24!
 ![Acesin](/assets/img/records/attended-class/attended-class-23-acesin.png){: width="100%" }
 
 ### Avid Daydreamer
-~~Glasken even has time to daydream during his hefty record setting. 23 times daydreamt!~~
+Glasken has too much time to daydream during his Temuair travels. 25 times daydreamt!
 
-Sounds like StarNite might be the new record holder, with 24 times daydreamt! (Coming soon: a screenshot!)
-
-![Glasken](/assets/img/records/avid-daydreamer/avid-daydreamer-23-glasken-deoch-201.png){: width="100%" }
+![Glasken](/assets/img/records/avid-daydreamer/avid-daydreamer-25-glasken-deoch-202.png){: width="100%" }
 
 ### Banished Imperial Shade of Blackstar
 Arohanui has banished the shade of blackstar 389 times. Impressive!
@@ -157,9 +155,9 @@ Arohanui has smacked insects to claim the tournament prize 21 times. I can't eve
 ![Arohanui](/assets/img/records/insect-event/insect-event-21-arohanui-deoch-200.png){: width="100%" }
 
 ### Judge
-Eternalty has been a judge 48 times. Eternalty: the judgiest-judge, eternally!
+Yukii has been a judge 48 times. Yukii: the judgiest-judge, eternally!
 
-![Cinaed](/assets/img/records/judge/judge-48-eternalty.png){: width="100%" }
+![Cinaed](/assets/img/records/judge/judge-58-yukii.png){: width="100%" }
 
 # Most Banked Light Belts
 This prestigious award goes to the Aisling who currently owns the most Light Belt items in their bank account.
