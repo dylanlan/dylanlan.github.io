@@ -70,6 +70,7 @@ Make sure to change the password if you don't want me stealing the Aisling back 
 
 #### More Rules...
 
+- Any verified players that are wanting to create their first Aisling can request a name without needing to wait the full week!
 - Only request a single name per week, please
 - Please only request a name if you have actual plans to use it, at some point. I want to discourage excessive hoarding without using, like I've done :(
 - If a name goes unclaimed for more than 3 weeks in a row, it will get archived to an "uninteresting" list.
