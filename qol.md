@@ -63,6 +63,7 @@ Some data storage is still showing its 90s side, and would be great to update:
 - The ability to learn skills / spells from other Aislings, not just Mundanes. Different or same requirements? Either case could be interesting!
 - Show the Aisling name when viewing their legend marks! That'd make it much easier to understand whose legend you're viewing in a screenshot
 - The ability to list more than 20 "friend" in-game. Many people are playing 2-5 characters nowadays, so the list can fill up really quickly!
+- Maybe a toggle-able confirmation before dropping an item on an NPC / Pet? It seems incredibly risky that rare items could be accidentally deleted by a "misclick" drag and drop
 
 
 
