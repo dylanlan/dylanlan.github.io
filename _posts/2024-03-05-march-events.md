@@ -6,6 +6,6 @@ categories: adventures
 thumbnail: thumbnails/clover.png
 ---
 
-March events are coming soon! (TM). Click here for a list of the expected events: [March Events]({{ site.data.urls.march_events }})
+March events are live until March 27th! Click here for a list of the expected events: [March Events]({{ site.data.urls.march_events }})
 
 Check out [www.darkages.com](www.darkages.com) for the official event dates!
