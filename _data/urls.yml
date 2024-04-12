@@ -9,6 +9,7 @@ records: /records
 rare_items: /rare-items
 music: /music
 poetry: /poetry
+hidden_lore: /hidden-lore
 
 # Awakenings
 nalyd_awaken: /awakening/2007/02/15/nalyd-awakening
