@@ -93,9 +93,9 @@ Arohanui has crafted logs 21 times. Yay deforestation!
 ![Arohanui](/assets/img/records/crafted-yule-logs-for-the-inns/crafted-yule-logs-for-the-inns-21-arohanui.png){: width="100%" }
 
 ### Defeated Giant Floppy
-Arohanui has defeated the giant floppy 741 times! Holy smokes!
+Nupps has defeated the giant floppy 1188 times! Holy smokes!
 
-![Arohanui](/assets/img/records/defeated-giant-floppy/defeated-giant-floppy-741-arohanui-deoch-194.png){: width="100%" }
+![Nupps](/assets/img/records/defeated-giant-floppy/defeated-giant-floppy-1188-nupps-deoch-203.png){: width="100%" }
 
 ### Defeated Muisir Villain
 Arohanui has defeated the Muisir Villain 18 times. Take that, weird Muisir thing!
@@ -120,12 +120,12 @@ Arohanui has been divorced 3 times. I guess saving Temuair so many times has its
 ### Educated
 Giggles has 94 separate educations. What a nerd!!
 
-![Ishikawa](/assets/img/records/educated/educated-94-giggles-deoch-188.png){: width="100%" }
+![Giggles](/assets/img/records/educated/educated-94-giggles-deoch-188.png){: width="100%" }
 
 ### Found Lucky Clovers
 Arohanui has found 28 clovers. Lucky!
 
-![Ishikawa](/assets/img/records/found-lucky-clovers/found-lucky-clovers-28-arohanui-deoch-171.png){: width="100%" }
+![Arohanui](/assets/img/records/found-lucky-clovers/found-lucky-clovers-28-arohanui-deoch-171.png){: width="100%" }
 
 ### Gem Polishing
 Awarded to Mighty Archer Dylanlan, who as of Deoch 201, has been involved in 6100 extra gem polishes (beyond Gem Smith 10) since his birth in Deoch 51.
@@ -142,31 +142,46 @@ Ishikawa has guided 59 Monks. That's almost 60!
 ### Has Defeated Oren Pirates
 BioMagus has defeated 390 of Oren's Pirates! From all the way back in Deoch 33!
 
-![Arohanui](/assets/img/records/has-defeated-pirates/has-defeated-pirates-390-biomagus-deoch-33.png){: width="100%" }
+![BioMagus](/assets/img/records/has-defeated-pirates/has-defeated-pirates-390-biomagus-deoch-33.png){: width="100%" }
+
+### Helped Clean Bank
+FrauLynn has helped Antonio clean his bank 7 times!
+
+![FrauLynn](/assets/img/records/clean-bank/clean-bank-7-fraulynn-deoch-203.png){: width="100%" }
 
 ### Hwarone Kills
 Shikaix has claimed a very high number of war murders! Wow, 43,243!
 
-![Arohanui](/assets/img/records/hwarone-kills/hwarone-kills-43243-shikaix.png){: width="100%" }
+![Shikaix](/assets/img/records/hwarone-kills/hwarone-kills-43243-shikaix.png){: width="100%" }
 
 ### Insect Event
 Arohanui has smacked insects to claim the tournament prize 21 times. I can't even!
 
 ![Arohanui](/assets/img/records/insect-event/insect-event-21-arohanui-deoch-200.png){: width="100%" }
 
+### Jailed
+FrauLynn has been jailed 6 times. Oh nooooo!
+
+![FrauLynn](/assets/img/records/jailed/jailed-6-fraulynn-deoch-180.png){: width="100%" }
+
 ### Judge
 Yukii has been a judge 48 times. Yukii: the judgiest-judge, eternally!
 
-![Cinaed](/assets/img/records/judge/judge-58-yukii.png){: width="100%" }
+![Yukii](/assets/img/records/judge/judge-58-yukii.png){: width="100%" }
+
+### Loved by Suomi Mundanes
+Glasken has been loved by Suomi Mundanes 11 times, wow!
+
+![Glasken](/assets/img/records/loved-by-suomi-mundanes/loved-by-suomi-mundanes-11-glasken-deoch-201.png){: width="100%" }
 
 # Most Banked Light Belts
 This prestigious award goes to the Aisling who currently owns the most Light Belt items in their bank account.
 
-It is currently awarded to the Mighty Warrior Protein, who as of Deoch 201, has banked over 3,00 Light Belts since his birth in Deoch 108. That's more than 3 Light Belt per Deoch!! Incredible!!
+It is currently awarded to the Mighty Warrior Protein, who as of Deoch 203, has banked over 1,058 Light Belts since his birth in Deoch 108. That's more than 11 Light Belt per Deoch!! Incredible!!
 
 Surely no other Aisling has a higher count than this?
 
-![Protein](/assets/img/records/light-belts/protein-300-jan-27-2024.png){: width="100%" }
+![Protein](/assets/img/records/light-belts/protein-1058-april-20-2024.png){: width="100%" }
 
 ### Mentored
 Ishikawa has mentored 420 other Aislings. Blaze it!
@@ -184,9 +199,9 @@ Ishikawa has taught 168 monks all about the sabonim and the hubae. Wow!
 ![Ishikawa](/assets/img/records/sabonim/sabonim-168-ishikawa.png){: width="100%" }
 
 ### Scars
-NaLyd definitely has the most Sgrios scars of any Aisling's legend, yup! A whopping 133. How embarassing! xD
+FrauLynn has been scarred by Sgrios a whopping 450 times. They must be good friends by now!
 
-![NaLyd](/assets/img/records/scars/sgrios-scar-133-nalyd.png){: width="100%" }
+![FrauLynn](/assets/img/records/scars/sgrios-scar-450-fraulynn.png){: width="100%" }
 
 ### Sentenced Criminals
 Ishikawa is well known for jailing unruly Aislings. 3151?! That's a lot of unruliness! Does anyone else ever have a chance of beating this record?!
@@ -220,12 +235,12 @@ Glasken again showed a very high number of terrors slain! 50, holy smokes!
 ### Won Pit Fights
 Eternalty has won 40 Pit Fights. Don't put me in a pit with them!
 
-![Vamistle](/assets/img/records/won-pit-fights/won-pit-fights-40-eternalty.png){: width="100%" }
+![Eternalty](/assets/img/records/won-pit-fights/won-pit-fights-40-eternalty.png){: width="100%" }
 
 ### Zombie Slayer Record
 Giggles has slain 1015 zombies. 
 
-![Vamistle](/assets/img/records/zombie-slayer-record/zombie-slayer-1015-giggles-deoch-168.png){: width="100%" }
+![Giggles](/assets/img/records/zombie-slayer-record/zombie-slayer-1015-giggles-deoch-168.png){: width="100%" }
 
 # Interesting Legend Marks
 
