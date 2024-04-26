@@ -10,22 +10,22 @@ Hello there! Are you wanting to play Darkages, but can't come up with a good nam
 
 #### Current Names
 
-New:
+New Lottery Names:
+- Advanced (M)
+- Affinity (F)
+- Minerva (M)
+- Spring (F)
+
+Deadline to request one of these new names for this week: Sunday, April 28th around 8pm MT
+
+First come first served names:
 - DuffBeer (M)
 - Friday (F)
-
-1 week old:
 - Caterpie (F)
 - Poliwrath (M)
-
-2 weeks old:
 - Army (M)
 - Horse (F)
-
-3 weeks old:
 - Sewer (M)
-
-First come first served:
 - Royal (M)
 - Secret (F)
 - Lapras (F)
@@ -40,11 +40,11 @@ First come first served:
 - Vigor (M)
 - Whip (F)
 
-Deadline to request for this week: Sunday, March 17th around 8pm MT
+
 
 #### Rules
 
-I will post a weekly collection of Aisling names that anyone can claim, free of charge. No strings attached, and the rules are simple, I swear!
+I will post a weekly collection of new Aisling names that anyone can claim, free of charge. No strings attached, and the rules are simple, I swear!
 
 If you're interested in a name, just tell me:
 
@@ -57,12 +57,12 @@ Note that the Aisling gender is (M) for male, and (F) for female.
 
 #### Winners
 
-At the end of the weekend (likely Sunday night), each requested name will be claimed as follows:
+At the end of the weekend (likely Sunday night), each requested lottery name will be claimed as follows:
 
 - If a name was only requested by one person, then they win that name!
 - If a name had multiple people interested, then I will [randomly](https://wheelofnames.com) pick who wins the name!
-- If a name had zero interest, it will roll over into the next week.
-- After 3 weeks, an unclaimed name will change to a first-come-first-served system, rather than waiting & randomly picking.
+- If a name had zero interest, it will move to the "first-come-first-served" names, which don't use a lottery system.
+- If you want a first-come-first-served name, just ask for it!
 
 Winners of each name will be sent the Aisling's password (via requested contact method).
 
@@ -70,10 +70,9 @@ Make sure to change the password if you don't want me stealing the Aisling back 
 
 #### More Rules...
 
-- Any verified players that are wanting to create their first Aisling can request a name without needing to wait the full week!
+- Any new players that are wanting to create their first Aisling can request a name without needing to wait the full week!
 - Only request a single name per week, please
 - Please only request a name if you have actual plans to use it, at some point. I want to discourage excessive hoarding without using, like I've done :(
-- If a name goes unclaimed for more than 3 weeks in a row, it will get archived to an "uninteresting" list.
 
 Note: most lottery Aislings will have been born around the 108th deoch (which was after the last name purge happened), and will still be a level 1 peasant.
 
