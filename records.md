@@ -93,9 +93,9 @@ Arohanui has crafted logs 21 times. Yay deforestation!
 ![Arohanui](/assets/img/records/crafted-yule-logs-for-the-inns/crafted-yule-logs-for-the-inns-21-arohanui.png){: width="100%" }
 
 ### Defeated Giant Floppy
-Nupps has defeated the giant floppy 1188 times! Holy smokes!
+PopaEggs has defeated the giant floppy 2470 times! Truly the Popa of floppy eggs!
 
-![Nupps](/assets/img/records/defeated-giant-floppy/defeated-giant-floppy-1188-nupps-deoch-203.png){: width="100%" }
+![Nupps](/assets/img/records/defeated-giant-floppy/defeated-giant-floppy-2470-popaeggs-deoch-203.png){: width="100%" }
 
 ### Defeated Muisir Villain
 Arohanui has defeated the Muisir Villain 18 times. Take that, weird Muisir thing!
