@@ -8,6 +8,7 @@ Random information about the world of Temuair
 
 - [Words]({{ site.data.urls.words }})
 - [Multiverse]({{ site.data.urls.multiverse }})
+- [Famous Legends]({{ site.data.urls.famous_legends }})
 - [Hidden Lore]({{ site.data.urls.hidden_lore }})
 - [Darkages Bugs]({{ site.data.urls.qol }})
 - [Blog Bugs]({{ site.data.urls.blog_qol }})
