@@ -219,13 +219,9 @@ Aon has survived 1279 mech invasions! Mighty!
 ![Aon](/assets/img/records/survived-mech-invasion/survived-mech-invasion-1279-aon-deoch-127.png){: width="100%" }
 
 ### Tailoring
-Wizardrian has somehow acquired a Tailor (15) mark! (On some Aisling, to be confirmed!). There have also been rumours of a Tailor (19) somewhere, crazy!
+Greenslade has achieved a Tailor (19) mark!
 
-![Wizadrian](/assets/img/records/tailor/tailor-15-wizadrian-deoch-201.png){: width="100%" }
-
-Vamistle also had Tailor (13) all the way back in Deoch 20. Impressive!
-
-![Vamistle](/assets/img/records/tailor/tailor-13-vamistle-deoch-20.png){: width="100%" }
+![Wizadrian](/assets/img/records/tailor/tailor-19-greenslade-deoch-131.png){: width="100%" }
 
 ### Terror of the Crypt
 Glasken again showed a very high number of terrors slain! 50, holy smokes!
