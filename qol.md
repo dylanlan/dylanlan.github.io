@@ -51,6 +51,7 @@ Super painful to use, for multiple reasons:
 - Cannot easily deposit/withdraw multiples of certain items (eg: need to use word macros "I will deposit [item]" to quickly deposit/withdraw multiples of items such as gems)
 - Cannot use "word macros" to deposit certain items (eg: identified gems), and some item names are too long to use with skill macros
 - Cannot easily acquire more bank space (except for a single, annual event...)
+- Bank word macros need different names for certain items (eg: "Cursed Cathonic Shield", "Black Pirate Bandana", "Red Nose Wear", "Dion Da Asgall Tiota Necklace", "Asgall Dion Asgall Tiota Necklace")
 
 ### Bit limitations (QoL)
 Some data storage is still showing its 90s side, and would be great to update:
