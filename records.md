@@ -253,7 +253,7 @@ Hihaku was the first Aisling to recover the Arcane Gauntlet. So cool!
 
 ![Hihaku](/assets/img/records/misc/arcane-gauntlet-hihaku-deoch-54.png){: width="100%" }
 
-# Speedruns
+<!-- # Speedruns
 A collection of quests or bosses that were completed in the quickest time, perhaps?
 
 Or maybe we should create a category on [speedrun.com](https://www.speedrun.com/) for Darkages??
@@ -270,5 +270,5 @@ Quickest time: ???
 
 Smallest group: ???
 
-Lowest collective HP/MP: ???
+Lowest collective HP/MP: ??? -->
 

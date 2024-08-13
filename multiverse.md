@@ -11,6 +11,8 @@ Are you bored of the official Temuair by Kru, and want to check out other option
 
 If so, here's a growing list of unique, creative, and welcoming alternate realities of Temuair!
 
+(Descriptions and state were based from ~May 2024)
+
 
 ## Unora
 

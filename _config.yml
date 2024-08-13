@@ -20,10 +20,8 @@ urls:
       url: /qol
     - text: Links
       url: /links
-    - text: Games
-      url: /games
-    - text: Info
-      url: /info  
+    - text: Misc
+      url: /misc
     - text: Memories
       url: /gallery
 

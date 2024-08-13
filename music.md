@@ -6,6 +6,8 @@ permalink: /music/
 
 Here are some random piano songs that I improvised and recorded.
 
+- [Full playlist](https://www.youtube.com/watch?v=8GWSxaos-ME&list=PL6LD2x2A2qLFEAd6xN69dE-YgEIrYOFZw)
+
 ## Glioca
 - [Glioca v3.0](https://www.youtube.com/watch?v=I3pugSh2YBI)
 - [Glioca v2.0](https://www.youtube.com/watch?v=PkIRQ51b4Fk)

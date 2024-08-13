@@ -8,6 +8,10 @@ Here is a collection of various links to other useful websites related to Darkag
 
 # Content Creators
 
+#### Brittany
+
+- [Youtube](https://www.youtube.com/@BrittanyHamaru)
+
 #### Claudine
 - [Youtube](https://www.youtube.com/@SineadMcCauley)
 - [Main Web Site](https://sevmccauley.wixsite.com/claudine)

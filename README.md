@@ -1,6 +1,11 @@
 ### dylanlan.ninja - a nerdy and nostalgic passion project
 
-TODO: Fill this out xD
+
+## Running locally
+
+1. Install ruby and jekyll: https://jekyllrb.com/docs/installation/
+2. Run `bundle install`
+3. Run `bundle exec jekyll serve --livereload --incremental` (or the `./start.ps1` script on Windows)
 
 ## Licence
 

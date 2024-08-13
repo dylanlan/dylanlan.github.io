@@ -30,7 +30,6 @@ The game has a unique in-game religion system, where "Mass sermons" are held by 
 - [Sgrios Mass]({{ site.data.urls.sgrios_mass }})
 - [Sgrios Forsaken]({{ site.data.urls.sgrios_forsook }})
 - [Deoch Mass]({{ site.data.urls.deoch_mass }})
-- (Coming soon: Glioca mass!)
 
 If you want to hear some of my piano music inspired by some of the religions, you can find them here: [Temuair Piano Music]({{ site.data.urls.music }})
 
@@ -39,7 +38,6 @@ If you want to hear some of my piano music inspired by some of the religions, yo
 The game has an interesting in-game college system, where players can give "Lectures" about various in-game topics. There is also an Art/Lore Contest system, which encourages creative writing, art, music, or other mediums, to help keep the game world a vibrant and interesting place
 
 - [Mileth College]({{ site.data.urls.protein_school }})
-- (Coming soon: Sradagan Art / Lore Submissions!)
 
 ### Quests & Hunting
 
@@ -51,14 +49,4 @@ The game has over 60 quests in the "early-game" (before becoming a Master), and 
 - [Oren Sewers]({{ site.data.urls.oren_sewers }})
 - [Cthonic Remains 10]({{ site.data.urls.cr_10 }})
 - [West Woodland Wolf]({{ site.data.urls.ww_wolf }})
-
-
-Coming soon (TM):
-- Pentagram
-- Dragon Scale Sword
-- Cthonic Remains 56
-- Arena Circuit
-- Nobis 2nd/3rd floor
-- Defeating Law
-- Plamit
 
