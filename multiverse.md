@@ -26,7 +26,7 @@ Current state: Open Beta
 
 Player count: ~30
 
-- [Discord](https://discord.gg/QD4crkqG)
+- [Discord](https://discord.gg/DkPWnUuvnN)
 
 ## Legends
 
