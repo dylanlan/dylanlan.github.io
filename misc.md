@@ -4,10 +4,10 @@ title:  Misc
 permalink: /misc/
 ---
 
-Random information about the world of Temuair
+Random things related to the world of Temuair
 
-- [Darkages Bugs]({{ site.data.urls.qol }})
+- [Name Giveaway]({{ site.data.urls.names }})
 - [Famous Legends]({{ site.data.urls.famous_legends }})
+- [World Records]({{ site.data.urls.records }})
 - [Multiverse]({{ site.data.urls.multiverse }})
-- [Name Lottery]({{ site.data.urls.name_lottery }})
-- [Temuair World Records]({{ site.data.urls.records }})
+- [Music]({{ site.data.urls.music }})

@@ -97,7 +97,7 @@ A handy resource for converting the in-game years (Deochs), to in-real-life year
 
 #### Alvino's Downloads
 
-[https://www.thebucknetwork.com/Downloads](https://www.thebucknetwork.com/Downloads)
+[https://www.thebucknetwork.com/Tools](https://www.thebucknetwork.com/Tools)
 
 An amazing list of old official clients and music, as well as various tools.
 

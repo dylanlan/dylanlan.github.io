@@ -95,11 +95,11 @@ But Tridemp did not want to do that, for multiple reasons:
 - He wanted his desired name: "Tridemp". He did not want to use a different name.
 - He had already acquired 57 legend marks over multiple weeks, and did not want to redo all that work.
 
-We continued trying to reach out to the community for guidance, and received a lot of .... well .... pessimism: [Non-Believers]({{ site.data.urls.tridemp_non_believers }})
+We continued trying to reach out to the community for guidance, and received a lot of .... well .... pessimism :(
 
 ## Kru Plz
 
-We continued trying to contact KRU. Tridemp and I both created a support tickets, hoping that two tickets would have more chance of being heard than one.
+We continued trying to contact KRU. Tridemp and I both created a support ticket, hoping that two tickets would have more chance of being heard than one.
 
 ![Kru Ticket](/assets/img/awakening/others/tridemp/support-ticket.png)
 
@@ -111,5 +111,5 @@ Next time, on USDA:
 - Will Tridemp be able to master?!
 - Can he finally enjoy the rest of the game?
 
-Tune in next time to find out!
+Tune in next time to find out! (spoilers: still bricked a year later `;.;`)
 

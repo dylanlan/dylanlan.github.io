@@ -45,7 +45,7 @@ You can install Darkages and create a new character in just 7 simple steps! (luc
 7. Welcome to Temuair! If everything worked as expected, then you should now be in the tutorial area!
 ![Darkages Begin](/assets/img/darkages/tutorial.png){: width="100%" }
 
-Next Guide: [Entering Temuair]({{ site.data.urls.entering_temuair }})
+Next Guide: [Entering Temuair]({{ site.data.urls.enter_temuair }})
 
 
 ## Linux
