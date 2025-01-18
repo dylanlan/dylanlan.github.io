@@ -17,12 +17,8 @@ New Names:
 - Amazing (M)
 - Bronze (M)
 - Mystery (F)
-- Myth (F)
-- Potato (F)
 - Rare (M)
-- Shrimp (M)
 - Talos (M)
-- Tiger (M)
 
 Unclaimed Names:
 - Advanced (M)
@@ -39,7 +35,6 @@ Unclaimed Names:
 - Cowboy (M)
 - Goofy (M)
 - Hydrogen (M)
-- Loop (M)
 - Organ (F)
 - Vigor (M)
 - Whip (F)
