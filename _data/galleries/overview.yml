@@ -1,40 +1,32 @@
 -
-  title: Canals
-  directory: gallery/canals
-  url: canals
+  title: Best of 2024
+  directory: gallery/2024
+  url: '2024'
   preview:
-    filename: solo-mass-aug-20-2008
-    original: solo-mass-aug-20-2008.png
-    sizes:
-    - solo-mass-thumbnail.png
-    thumbnail: solo-mass-thumbnail.png
+    thumbnail: 2024-thumbnail.png
+
 -
   title: NaLyd Skulling
   directory: gallery/nalyd-skulling
   url: nalyd-skulling
   preview:
-    filename: 1
-    original: 1.png
-    sizes:
-    - 1.png
     thumbnail: 1.png
 -
   title: Stone Client
   directory: gallery/stone-client
   url: stone-client
   preview:
-    filename: 1
-    original: 1.png
-    sizes:
-    - 1.png
     thumbnail: 1.png
 -
-  title: Temuair Events
+  title: Old Temuair Events
   directory: gallery/temuair-events
   url: temuair-events
   preview:
-    filename: 1
-    original: 1.png
-    sizes:
-    - 1.png
     thumbnail: 1.png
+
+-
+  title: Canals
+  directory: gallery/canals
+  url: canals
+  preview:
+    thumbnail: solo-mass-thumbnail.png
