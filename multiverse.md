@@ -59,7 +59,7 @@ Player count: ~10 to 20
 
 - [Download](https://www.thebucknetwork.com/zolian)
 - [Discord](https://discord.gg/WbP2wU5CcB)
-- [Dev Site](https://www.thebucknetwork.com/ZolianInfo)
+- [Item Info](https://www.thebucknetwork.com/DataPages/ZolianInfo)
 - [May's Fan Site](https://youhavereachedmayl.wixsite.com/zolianguide)
 
 ## Fragments
