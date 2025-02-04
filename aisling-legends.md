@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Famous Legends
-permalink: /famous-legends/
+title: Aisling Legends
+permalink: /aisling-legends/
 ---
 
-Here's a collection of various Famous Aisling profiles and legend marks over the years!
+Here's a collection of various Aisling profiles and legend marks over the years!
 
 TO FIX:
 - Brittany
