@@ -19,7 +19,6 @@ New Names:
 - Enchanted (M)
 - Magnet (F)
 - PingPong (M)
-- Salad (F)
 - Saphire (F)
 - Steak (M)
 - Tree (F)
