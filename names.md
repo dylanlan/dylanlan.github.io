@@ -13,14 +13,23 @@ Hello there! Are you wanting to play Darkages, but can't come up with a good nam
 First come first served, to get these Aisling names!
 
 New Names:
+- Brad (M)
+- Checkmate (M)
+- Dynamic (F)
+- Enchanted (M)
+- Magnet (F)
+- PingPong (M)
+- Salad (F)
+- Saphire (F)
+- Steak (M)
+- Tree (F)
+
+Unclaimed Names:
 - Alien (M)
 - Amazing (M)
 - Bronze (M)
 - Mystery (F)
-- Rare (M)
 - Talos (M)
-
-Unclaimed Names:
 - Advanced (M)
 - Affinity (F)
 - Minerva (M)
@@ -50,4 +59,3 @@ Note:
 - Requesting more than 1 name per week is discouraged
 - Please only request a name if you have actual plans to use it, at some point. I want to discourage excessive hoarding without using, like I've done `:(`
 - Most of these Aislings will have been born around the 108th deoch (which was after the last name purge happened), and will still be a level 1 peasant
-
