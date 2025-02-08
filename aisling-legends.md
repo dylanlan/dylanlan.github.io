@@ -14,6 +14,10 @@ TO FIX:
 - Yukii
 - Vamistle 2007
 
+## 2025
+
+- [San](/assets/img/famous-legends/san-2025.png)
+
 ## 2024
 
 - [Acesin](/assets/img/famous-legends/acesin-2024.png)
