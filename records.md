@@ -119,9 +119,9 @@ Giggles has 94 separate educations. What a nerd!!
 ![Giggles](/assets/img/records/educated/educated-94-giggles-deoch-188.png){: width="100%" }
 
 ### Found Lucky Clovers
-Arohanui has found 28 clovers. Lucky!
+Ramanayan has found 67 clovers. Lucky!
 
-![Arohanui](/assets/img/records/found-lucky-clovers/found-lucky-clovers-28-arohanui-deoch-171.png){: width="100%" }
+![Arohanui](/assets/img/records/found-lucky-clovers/found-lucky-clovers-67-ramanayan-deoch-182.png){: width="100%" }
 
 ### Gem Polishing
 Awarded to Mighty Archer Dylanlan, who as of Deoch 201, has been involved in 6100 extra gem polishes (beyond Gem Smith 10) since his birth in Deoch 51.
@@ -165,6 +165,11 @@ Yukii has been a judge 48 times. Yukii: the judgiest-judge, eternally!
 
 ![Yukii](/assets/img/records/judge/judge-58-yukii.png){: width="100%" }
 
+### Loved by Mileth Mundanes
+San has been loved by Mileth Mundanes 9 times. They will never love me even once ;.;
+
+![San](/assets/img/records/loved-by-suomi-mundanes/loved-by-mileth-mundanes-9-san-deoch-163.png){: width="100%" }
+
 ### Loved by Suomi Mundanes
 Glasken has been loved by Suomi Mundanes 11 times, wow!
 
@@ -185,14 +190,14 @@ Ishikawa has mentored 420 other Aislings. Blaze it!
 ![Ishikawa](/assets/img/records/mentored/mentored-420-ishikawa.png){: width="100%" }
 
 ### Received a Gift from Arcella
-Arohanui has received 51 gifts from Arcella. I think someone has a secret admirer!
+San has received 69 gifts from Arcella. I think someone has a secret admirer!
 
-![Arohanui](/assets/img/records/received-a-gift-from-arcella/received-a-gift-from-arcella-51-arohanui-deoch-186.png){: width="100%" }
+![San](/assets/img/records/received-a-gift-from-arcella/received-a-gift-from-arcella-69-san-deoch-165.png){: width="100%" }
 
 ### Sabonim Hubaes
-Ishikawa has taught 168 monks all about the sabonim and the hubae. Wow!
+San has taught 183 monks all about the sabonim and the hubae. Wow!
 
-![Ishikawa](/assets/img/records/sabonim/sabonim-168-ishikawa.png){: width="100%" }
+![San](/assets/img/records/sabonim/sabonim-161-san.png){: width="100%" }
 
 ### Scars
 FrauLynn has been scarred by Sgrios a whopping 450 times. They must be good friends by now!
@@ -215,9 +220,14 @@ Aon has survived 1279 mech invasions! Mighty!
 ![Aon](/assets/img/records/survived-mech-invasion/survived-mech-invasion-1279-aon-deoch-127.png){: width="100%" }
 
 ### Tailoring
-Greenslade has achieved a Tailor (19) mark!
+Greenslade has possibly achieved a Tailor (19) mark! Incredible!
 
 ![Wizadrian](/assets/img/records/tailor/tailor-19-greenslade-deoch-131.png){: width="100%" }
+
+### Terror of the Alley
+San has apparently defeated the Terror of the Alley 30 times! Rumours are that some of those terrors were from the crypt, but we'll never know since the legend mark is shared xD
+
+![San](/assets/img/records/terror-of-alley/terror-of-alley-30-san-deoch-162.png){: width="100%" }
 
 ### Terror of the Crypt
 Glasken again showed a very high number of terrors slain! 50, holy smokes!
