@@ -197,7 +197,7 @@ San has received 69 gifts from Arcella. I think someone has a secret admirer!
 ### Sabonim Hubaes
 San has taught 183 monks all about the sabonim and the hubae. Wow!
 
-![San](/assets/img/records/sabonim/sabonim-161-san.png){: width="100%" }
+![San](/assets/img/records/sabonim/sabonim-183-san-deoch-161.png){: width="100%" }
 
 ### Scars
 FrauLynn has been scarred by Sgrios a whopping 450 times. They must be good friends by now!
