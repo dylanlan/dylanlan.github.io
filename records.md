@@ -168,7 +168,7 @@ Yukii has been a judge 48 times. Yukii: the judgiest-judge, eternally!
 ### Loved by Mileth Mundanes
 San has been loved by Mileth Mundanes 9 times. They will never love me even once ;.;
 
-![San](/assets/img/records/loved-by-suomi-mundanes/loved-by-mileth-mundanes-9-san-deoch-163.png){: width="100%" }
+![San](/assets/img/records/loved-by-mileth-mundanes/loved-by-mileth-mundanes-9-san-deoch-163.png){: width="100%" }
 
 ### Loved by Suomi Mundanes
 Glasken has been loved by Suomi Mundanes 11 times, wow!
