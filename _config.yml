@@ -16,6 +16,8 @@ urls:
       url: /guild
     - text: Adventures
       url: /blog
+    - text: College
+      url: /college
     - text: QoL
       url: /qol
     - text: Links
