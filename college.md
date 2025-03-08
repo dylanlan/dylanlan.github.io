@@ -8,6 +8,7 @@ Here are some links to Mileth College system submissions:
 
 # Mine
 - (DRAFT!) [Temuair's Feral Fountains of February](https://docs.google.com/document/d/1W2O6W5e5S2XUGSIUgl-VcXYLj7NBoLp8RmpOtGCoJ_M/edit?tab=t.0)
+- (DRAFT!) [Memory Amnesia](https://docs.google.com/document/d/1pkh7gsn6QBq9fvKQPD1ZpkfnEhY-zL5FHMLuXYCaSSw/edit?usp=sharing)
 - [2025 Memory of the Cycle](https://novus-imperia.com/college/2025.htm)
 
 
