@@ -6,7 +6,7 @@ permalink: /guild/
 
 ![Sradagan Logo](/assets/img/sradagan/icons/logo-blank-background.png){: width="200" }
 
-`Sradagan` is a new guild of Aislings in Darkages, which formed on January 8th, 2024 at around 10:07 AM MT, and recreated on February 1st, 2024. Its name means `little sparks` in Gaelic, and its primary goal is to help new or returning players in the world of Darkages!
+`Sradagan` is a guild of Aislings in Darkages, which formed as a Fellowship on January 8th, 2024 at around 10:07 AM MT, and was recreated on February 1st, 2024. It became an official guild on May 2nd, 2024, around 2pm MT. Its name means `little sparks` in Gaelic, and its primary goal is to help new or returning players in the world of Darkages!
 
 Here's an example Sradagan Adventure, if you're curious what shenanigans we get up to!
 
