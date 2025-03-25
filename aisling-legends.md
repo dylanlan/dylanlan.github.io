@@ -16,6 +16,7 @@ TO FIX:
 
 ## 2025
 
+- [Krytos](/assets/img/aisling-legends/krytos-2025.png)
 - [San](/assets/img/aisling-legends/san-2025.png)
 
 ## 2024
