@@ -16,8 +16,30 @@ TO FIX:
 
 ## 2025
 
+- [Ailred](/assets/img/aisling-legends/ailred-2025.png)
+- [blueskye](/assets/img/aisling-legends/blueskye-2025.png)
+- [DoomHealer](/assets/img/aisling-legends/doomhealer-2025.png)
+- [Falconlady](/assets/img/aisling-legends/falconlady-2025.png)
 - [Krytos](/assets/img/aisling-legends/krytos-2025.png)
+- [Mayheart](/assets/img/aisling-legends/mayheart-2025.png)
+- [melon](/assets/img/aisling-legends/melon-2025.png)
+- [niZon](/assets/img/aisling-legends/nizon-2025.png)
+- [notvorlof](/assets/img/aisling-legends/notvorlof-2025.png)
+- [Paramour](/assets/img/aisling-legends/paramour-2025.png)
+- [PinkLily](/assets/img/aisling-legends/pinklily-2025.png)
+- [Rorrik](/assets/img/aisling-legends/rorrik-2025.png)
+- [SaintAsher](/assets/img/aisling-legends/saintasher-2025.png)
 - [San](/assets/img/aisling-legends/san-2025.png)
+- [Snooze](/assets/img/aisling-legends/snooze-2025.png)
+- [StarSparkler](/assets/img/aisling-legends/starsparkler-2025.png)
+- [Ulli](/assets/img/aisling-legends/ulli-2025.png)
+- [Wastedd](/assets/img/aisling-legends/wastedd-2025.png)
+- [Willco](/assets/img/aisling-legends/willco-2025.png)
+- [Xoody](/assets/img/aisling-legends/xoody-2025.png)
+- [xYourAngelx](/assets/img/aisling-legends/xyourangelx-2025.png)
+- [Zaos](/assets/img/aisling-legends/zaos-2025.png)
+- [Zaxa](/assets/img/aisling-legends/zaxa-2025.png)
+- [ZerA](/assets/img/aisling-legends/zera-2025.png)
 
 ## 2024
 
@@ -36,6 +58,7 @@ TO FIX:
 - [Como](/assets/img/aisling-legends/como-2024.png)
 - [Demylo](/assets/img/aisling-legends/demylo-2024.png)
 - [Disarray](/assets/img/aisling-legends/disarray-2024.png)
+- [Dylanlan](/assets/img/aisling-legends/dylanlan-2024.png)
 - [Dynamus](/assets/img/aisling-legends/dynamus-2024.png)
 - [Eiscego](/assets/img/aisling-legends/eiscego-2024.png)
 - [Eternalty](/assets/img/aisling-legends/eternalty-2024.png)
@@ -56,17 +79,22 @@ TO FIX:
 - [Leemon](/assets/img/aisling-legends/leemon-2024.png)
 - [makeup](/assets/img/aisling-legends/makeup-2024.png)
 - [Makunouchi](/assets/img/aisling-legends/makunouchi-2024.png)
+- [Merisa](/assets/img/aisling-legends/merisa-2024.png)
 - [Moogle](/assets/img/aisling-legends/moogle-2024.png)
 - [MrMvP](/assets/img/aisling-legends/mrmvp-2024.png)
 - [Naena](/assets/img/aisling-legends/naena-2024.png)
+- [NaLyd](/assets/img/aisling-legends/nalyd-2024.png)
+- [NeoxBahamut](/assets/img/aisling-legends/neoxbahamut-2024.png)
 - [NoirGato](/assets/img/aisling-legends/noirgato-2024.png)
 - [Peppita](/assets/img/aisling-legends/peppita-2024.png)
 - [Ramanayan](/assets/img/aisling-legends/ramanayan-2024.png)
 - [Renvo](/assets/img/aisling-legends/renvo-2024.png)
+- [ReyaKeely](/assets/img/aisling-legends/reyakeely-2024.png)
 - [Ridiickai](/assets/img/aisling-legends/ridiickai-2024.png)
 - [Set](/assets/img/aisling-legends/set-2024.png)
 - [Sick](/assets/img/aisling-legends/sick-2024.png)
 - [Srgious](/assets/img/aisling-legends/srgious-2024.png)
+- [SunYukii](/assets/img/aisling-legends/sunyukii-2024.png)
 - [Tazz](/assets/img/aisling-legends/tazz-2024.png)
 - [Telme](/assets/img/aisling-legends/telme-2024.png)
 - [TriDemp](/assets/img/aisling-legends/tridemp-2024.png)
@@ -78,6 +106,11 @@ TO FIX:
 - [Yukii](/assets/img/aisling-legends/yukii-2024.png)
 - [Zurf](/assets/img/aisling-legends/zurf-2024.png)
 
+
+## 2008
+
+- [PrincessM](/assets/img/aisling-legends/princessm-2008.png)
+- [TrainerWiz](/assets/img/aisling-legends/trainerwiz-2008.png)
 
 ## 2007
 
