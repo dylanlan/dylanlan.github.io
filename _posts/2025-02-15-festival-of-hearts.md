@@ -46,11 +46,11 @@ Lover's Garden: Participants used whatever items they saw fit to create a garden
 ![9](/assets/img/troupe/foh-2025/9.png){: width="100%" }
 
 
-Love Ballad: Aislings stepped up on stage and shared their season-inspired poem! Whether sonnet or free verse, all forms were welcome.
+Love Ballad: Aislings stepped up on stage and shared their season-inspired poem! Whether sonnet or free verse, all forms were welcome:
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/NYI3MdGIAts?si=tnksxKOjY-JGiBuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Broken Heart Trivia: in this trivia contest, aislings will be tested on their knowledge of romance lore. Details about the format and rules will be provided at the event.
+Broken Heart Trivia: In this trivia contest, aislings were tested on their knowledge of romance lore:
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/ObZQldjEhsA?si=sQ_yeohqOlT8Y5w0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

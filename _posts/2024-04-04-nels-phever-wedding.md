@@ -12,7 +12,7 @@ Nels and Phever had an epic and elegant wedding in Blackstar!
 
 ## Full video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lBrcjoU0Nok?si=yQgJGvUK87vcUTnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/lBrcjoU0Nok?si=yQgJGvUK87vcUTnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Highlights:

@@ -31,7 +31,7 @@ Winners:
 
 A social deduction game hosted within Darkages itself! Based on: [Mafia](https://en.wikipedia.org/wiki/Mafia_(party_game))
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FTuc4uFw0I0?si=R6HLt1G_a0j6mUZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/FTuc4uFw0I0?si=R6HLt1G_a0j6mUZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <details><summary>Winners:</summary>Grimlok!</details>
 
@@ -45,7 +45,7 @@ An enticing game of chance where there are 3 boxes. You can attempt to open one 
 
 A PvP tournament based on using the freezing skill Wolf Fang Fist
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nKfSEpANDwA?si=Y88b01wZ5zpNCbvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/nKfSEpANDwA?si=Y88b01wZ5zpNCbvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <details><summary>Winner:</summary>Moogle!</details>
 

@@ -11,7 +11,7 @@ Have you created a new character (Aisling) and want to start playing in the game
 
 Here's a video of what can be done next:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QtC6EF-nuJo?si=9c8IQKgnHGBPbTZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/QtC6EF-nuJo?si=9c8IQKgnHGBPbTZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 Or, you can follow along these screenshots, if you'd rather!
