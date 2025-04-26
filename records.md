@@ -178,16 +178,16 @@ Glasken has been loved by Suomi Mundanes 11 times, wow!
 # Most Banked Light Belts
 This prestigious award goes to the Aisling who currently owns the most Light Belt items in their bank account.
 
-It is currently awarded to the Mighty Warrior Protein, who as of Deoch 203, has banked over 1,058 Light Belts since his birth in Deoch 108. That's more than 11 Light Belt per Deoch!! Incredible!!
+It is currently awarded to the Mighty Peasant named LightBelts, who as of Deoch 211, has banked over 7,720 Light Belts since his birth in Deoch 201. That's more than 770 Light Belt per Deoch!! Incredible!!
 
 Surely no other Aisling has a higher count than this?
 
-![Protein](/assets/img/records/light-belts/protein-1058-april-20-2024.png){: width="100%" }
+![LightBelts](/assets/img/records/light-belts/lightbelts-7720-april-25-2025.png){: width="100%" }
 
 ### Mentored
-Ishikawa has mentored 420 other Aislings. Blaze it!
+Brittany has mentored 500 other Aislings. So wise!
 
-![Ishikawa](/assets/img/records/mentored/mentored-420-ishikawa.png){: width="100%" }
+![Brittany](/assets/img/records/mentored/mentored-500-brittany-deoch-204.png){: width="100%" }
 
 ### Received a Gift from Arcella
 San has received 69 gifts from Arcella. I think someone has a secret admirer!

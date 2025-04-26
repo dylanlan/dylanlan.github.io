@@ -6,28 +6,7 @@ permalink: /links/
 Here is a collection of various links to other useful websites related to Darkages!
 
 
-# Content Creators
-
-#### Brittany
-
-- [Youtube](https://www.youtube.com/@BrittanyHamaru)
-
-#### Claudine
-- [Youtube](https://www.youtube.com/@SineadMcCauley)
-- [Main Web Site](https://sevmccauley.wixsite.com/claudine)
-- [Legends Age of Chaos Site](https://sevmccauley.wixsite.com/legends)
-- [Fragments of Temuair Site](https://sevmccauley.wixsite.com/fragments)
-
-#### Viveena
-- [Youtube](https://www.youtube.com/@viveenachay6271)
-
-#### m'lady productions
-- [Youtube](https://www.youtube.com/@mladyproductions157)
-
-#### XIZORD
-- [Youtube](https://www.youtube.com/@Freakazoidx)
-
-# Recent / Relevant Sites
+# Useful Sites
 
 #### Vorlof
 
@@ -35,17 +14,17 @@ Here is a collection of various links to other useful websites related to Darkag
 
 Has a ton of useful information about nearly every aspect of the game!
 
-#### DA-Wizard
-
-[https://www.da-wizard.com](https://www.da-wizard.com)
-
-An amazing resource for game knowledge that has existed for decades!
-
 #### Discord Server
 
 [https://discord.gg/6EtMS7UkVT](https://discord.gg/6EtMS7UkVT)
 
 Has a fairly active user base, and is a great resource for connecting with people or asking any questions about the world of Darkages!
+
+#### DA-Wizard
+
+[https://www.da-wizard.com](https://www.da-wizard.com)
+
+An amazing resource for game knowledge that has existed for decades!
 
 #### Reddit
 
@@ -107,6 +86,31 @@ An amazing list of old official clients and music, as well as various tools.
 
 A great list of various programs, tools, downloads, and other links!
 
+# Content Creators
+
+#### Ulli
+
+- [Youtube](https://www.youtube.com/@Valkyrie_Veil)
+
+#### Brittany
+
+- [Youtube](https://www.youtube.com/@BrittanyHamaru)
+
+#### Claudine
+- [Youtube](https://www.youtube.com/@SineadMcCauley)
+- [Main Web Site](https://sevmccauley.wixsite.com/claudine)
+- [Legends Age of Chaos Site](https://sevmccauley.wixsite.com/legends)
+- [Fragments of Temuair Site](https://sevmccauley.wixsite.com/fragments)
+
+#### Viveena
+- [Youtube](https://www.youtube.com/@viveenachay6271)
+
+#### m'lady productions
+- [Youtube](https://www.youtube.com/@mladyproductions157)
+
+#### XIZORD
+- [Youtube](https://www.youtube.com/@Freakazoidx)
+
 
 # Old
 
@@ -148,6 +152,6 @@ A list of old guilds and members, from the official website. Unsure which year i
 
 #### Great Peasant Escape
 
-[https://www.youtube.com/watch?v=ojqNmcHjoqg](https://www.youtube.com/watch?v=ojqNmcHjoqg)
+[https://www.youtube.com/watch?v=GxIBRlHMAfE](https://www.youtube.com/watch?v=GxIBRlHMAfE)
 
 An amazing fan video from 2008 or earlier. Worth taking a look, it's only 4 minutes long!

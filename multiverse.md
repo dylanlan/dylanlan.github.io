@@ -11,7 +11,9 @@ Are you bored of the official Temuair by Kru, and want to check out other option
 
 If so, here's a growing list of unique, creative, and welcoming alternate realities of Temuair!
 
-(Descriptions and state were based from ~May 2024)
+Player counts were based on April 25, 2025. For reference, the official retail Dark Ages game had 126 Aislings online around the same time:
+
+![Player Count](/assets/img/multiverse/retail-online-126-april-25-2025.png){: width="50%" }
 
 
 ## Unora
@@ -24,7 +26,9 @@ The Unora Project invites players to delve into a unique experience, blending el
 
 Current state: Open Beta
 
-Player count: ~30
+Player Count: ~100
+
+![Player Count](/assets/img/multiverse/unora-online-105-april-25-2025.png){: width="50%" }
 
 - [Discord](https://discord.gg/DkPWnUuvnN)
 
@@ -36,9 +40,11 @@ Legends: Age of Chaos is a love letter to the olden days of Temuair. Heavily foc
 
 Current state: Released
 
-Player count: ~30 to 40
+Player count: ~5
 
-- [Download](https://drive.google.com/file/d/1R6tSZ8SYC-A38VZoj2FnwpACnP2gjikn/edit)
+![Player Count](/assets/img/multiverse/legends-online-5-april-25-2025.png){: width="50%" }
+
+- [Download](https://drive.google.com/file/d/1GYmI7VT5ZRpuCQBxDr8gYifkDXHzOSTM/)
 - [Discord](https://discord.gg/YekJdzKzQR)
 - [Server Status](https://stats.uptimerobot.com/rv4Dmcrmwp)
 - [Claudine's Fan Site](https://sevmccauley.wixsite.com/legends)
@@ -55,7 +61,9 @@ Many of the grind mechanics are from traditional Hack and Slashers that you know
 
 Current state: Beta
 
-Player count: ~10 to 20
+Player count: ~3
+
+![Player Count](/assets/img/multiverse/zolian-online-3-april-25-2025.png){: width="50%" }
 
 - [Download](https://www.thebucknetwork.com/zolian)
 - [Discord](https://discord.gg/WbP2wU5CcB)
@@ -68,7 +76,9 @@ Fragments of Temuair (FoT) is a game that is awaiting a better description!
 
 Current state: Released
 
-Player count: ~5 to 10
+Player count: ~6
+
+![Player Count](/assets/img/multiverse/fragments-online-6-april-25-2025.png){: width="50%" }
 
 - [Download](https://drive.google.com/file/d/1Eq9aYV3K497oPbMy-du26FQ30EpHK5Sv/view?usp=sharing)
 - [Client Fix](https://drive.google.com/file/d/1lqhoEeBkJ89eOVNpBpI9SiR-DgtdlGCo/view?usp=drive_link)
@@ -85,7 +95,9 @@ Hybrasyl is a well-documented and exceptionally accurate private server for Dark
 
 Current state: Alpha
 
-Player count: ~0 to 3
+Player count: ~1
+
+![Player Count](/assets/img/multiverse/hybrasyl-online-1-april-25-2025.png){: width="50%" }
 
 - [Website](https://www.hybrasyl.com/)
 - [Discord](https://discord.gg/6xhf6Ck2ra)
