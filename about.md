@@ -14,7 +14,7 @@ If you want to play the game for free, check out the [Getting Started Guide]({{ 
 
 It was quite popular in the 2000s, but has had a dwindling community since then. I, myself, have very fond memories of the game, mostly from 2005-2010. This website is an attempt to re-ignite interest in the game, and see if the developers of the game can work on new features and bugfixes faster than they have in the past decade or two, so that it can become an even more fun game.
 
-[Definitions]({{ site.data.urls.definitions }}) can be helpful, if you're confused by some of the words in this site!
+[Definitions]({{ site.data.urls.words }}) can be helpful, if you're confused by some of the words in this site!
 
 ### Sradagan
 
