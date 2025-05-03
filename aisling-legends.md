@@ -6,23 +6,31 @@ permalink: /aisling-legends/
 
 Here's a collection of various Aisling profiles and legend marks over the years!
 
-TO FIX:
-- Brittany
-- Hihaku
-- Venezia
-- Ishikawa
-- Yukii
-- Vamistle 2007
+Note that some of them have the last chunk of their legend marks duplicated, due to a limitation in how I'm stitching them together which needs manual fixing
 
 ## 2025
 
+- [Adriela](/assets/img/aisling-legends/adriela-2025.png)
 - [Ailred](/assets/img/aisling-legends/ailred-2025.png)
+- [bladeg](/assets/img/aisling-legends/bladeg-2025.png)
+- [bladejdg](/assets/img/aisling-legends/bladejdg-2025.png)
 - [blueskye](/assets/img/aisling-legends/blueskye-2025.png)
+- [Bojingies](/assets/img/aisling-legends/bojingies-2025.png)
+- [cutiejg](/assets/img/aisling-legends/cutiejg-2025.png)
+- [DancingWing](/assets/img/aisling-legends/dancingwind-2025.png)
+- [Drucilla](/assets/img/aisling-legends/drucilla-2025.png)
 - [DoomHealer](/assets/img/aisling-legends/doomhealer-2025.png)
 - [Falconlady](/assets/img/aisling-legends/falconlady-2025.png)
+- [Firemayden](/assets/img/aisling-legends/firemayden-2025.png)
+- [Hoshiko](/assets/img/aisling-legends/hoshiko-2025.png)
+- [Jerry](/assets/img/aisling-legends/jerry-2025.png)
 - [Krytos](/assets/img/aisling-legends/krytos-2025.png)
+- [mavrik](/assets/img/aisling-legends/mavrik-2025.png)
 - [Mayheart](/assets/img/aisling-legends/mayheart-2025.png)
 - [melon](/assets/img/aisling-legends/melon-2025.png)
+- [Mintofkali](/assets/img/aisling-legends/mintofkali-2025.png)
+- [NeroZeroXe](/assets/img/aisling-legends/nerozeroxe-2025.png)
+- [Never](/assets/img/aisling-legends/never-2025.png)
 - [niZon](/assets/img/aisling-legends/nizon-2025.png)
 - [notvorlof](/assets/img/aisling-legends/notvorlof-2025.png)
 - [Paramour](/assets/img/aisling-legends/paramour-2025.png)
@@ -33,13 +41,16 @@ TO FIX:
 - [Snooze](/assets/img/aisling-legends/snooze-2025.png)
 - [StarSparkler](/assets/img/aisling-legends/starsparkler-2025.png)
 - [Ulli](/assets/img/aisling-legends/ulli-2025.png)
+- [Tristam](/assets/img/aisling-legends/tristam-2025.png)
 - [Wastedd](/assets/img/aisling-legends/wastedd-2025.png)
 - [Willco](/assets/img/aisling-legends/willco-2025.png)
 - [Xoody](/assets/img/aisling-legends/xoody-2025.png)
 - [xYourAngelx](/assets/img/aisling-legends/xyourangelx-2025.png)
+- [Yawgmoth](/assets/img/aisling-legends/yawgmoth-2025.png)
 - [Zaos](/assets/img/aisling-legends/zaos-2025.png)
 - [Zaxa](/assets/img/aisling-legends/zaxa-2025.png)
 - [ZerA](/assets/img/aisling-legends/zera-2025.png)
+- [Zwuji](/assets/img/aisling-legends/zwuji-2025.png)
 
 ## 2024
 
