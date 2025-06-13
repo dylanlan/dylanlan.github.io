@@ -301,3 +301,113 @@ pictures:
   sizes:
   - 59.png
   thumbnail: 59.png
+- filename: stone-client
+  original: 60.png
+  sizes:
+  - 60.png
+  thumbnail: 60.png
+- filename: stone-client
+  original: 61.png
+  sizes:
+  - 61.png
+  thumbnail: 61.png
+- filename: stone-client
+  original: 62.png
+  sizes:
+  - 62.png
+  thumbnail: 62.png
+- filename: stone-client
+  original: 63.png
+  sizes:
+  - 63.png
+  thumbnail: 63.png
+- filename: stone-client
+  original: 64.png
+  sizes:
+  - 64.png
+  thumbnail: 64.png
+- filename: stone-client
+  original: 65.png
+  sizes:
+  - 65.png
+  thumbnail: 65.png
+- filename: stone-client
+  original: 66.png
+  sizes:
+  - 66.png
+  thumbnail: 66.png
+- filename: stone-client
+  original: 67.png
+  sizes:
+  - 67.png
+  thumbnail: 67.png
+- filename: stone-client
+  original: 68.png
+  sizes:
+  - 68.png
+  thumbnail: 68.png
+- filename: stone-client
+  original: 69.png
+  sizes:
+  - 69.png
+  thumbnail: 69.png
+- filename: stone-client
+  original: 70.png
+  sizes:
+  - 70.png
+  thumbnail: 70.png
+- filename: stone-client
+  original: 71.jpg
+  sizes:
+  - 71.jpg
+  thumbnail: 71.jpg
+- filename: stone-client
+  original: 72.png
+  sizes:
+  - 72.png
+  thumbnail: 72.png
+- filename: stone-client
+  original: 73.png
+  sizes:
+  - 73.png
+  thumbnail: 73.png
+- filename: stone-client
+  original: 74.png
+  sizes:
+  - 74.png
+  thumbnail: 74.png
+- filename: stone-client
+  original: 75.png
+  sizes:
+  - 75.png
+  thumbnail: 75.png
+- filename: stone-client
+  original: 76.png
+  sizes:
+  - 76.png
+  thumbnail: 76.png
+- filename: stone-client
+  original: 77.png
+  sizes:
+  - 77.png
+  thumbnail: 77.png
+- filename: stone-client
+  original: 78.jpg
+  sizes:
+  - 78.jpg
+  thumbnail: 78.jpg
+- filename: stone-client
+  original: 79.jpg
+  sizes:
+  - 79.jpg
+  thumbnail: 79.jpg
+- filename: stone-client
+  original: 80.png
+  sizes:
+  - 80.png
+  thumbnail: 80.png
+- filename: stone-client
+  original: 81.jpg
+  sizes:
+  - 81.jpg
+  thumbnail: 81.jpg
