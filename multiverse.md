@@ -11,9 +11,9 @@ Are you bored of the official Temuair by Kru, and want to check out other option
 
 If so, here's a growing list of unique, creative, and welcoming alternate realities of Temuair!
 
-Player counts were based on April 25, 2025. For reference, the official retail Dark Ages game had 126 Aislings online around the same time:
+Player counts were based on June 17, 2025. For reference, the official retail Dark Ages game had 588 Aislings online around the same time, but that number is quite inflated from tons of new players after the famous Bindo youtube video which was released May 30 and had over 2.5m views by June 17. Time will tell how many new players actually stick around long term!
 
-![Player Count](/assets/img/multiverse/retail-online-126-april-25-2025.png){: width="50%" }
+![Player Count](/assets/img/multiverse/retail-online-588-june-17-2025.png){: width="50%" }
 
 
 ## Unora
@@ -28,7 +28,7 @@ Current state: Open Beta
 
 Player Count: ~100
 
-![Player Count](/assets/img/multiverse/unora-online-105-april-25-2025.png){: width="50%" }
+![Player Count](/assets/img/multiverse/unora-online-137-june-17-2025.png){: width="50%" }
 
 - [Discord](https://discord.gg/DkPWnUuvnN)
 
@@ -63,7 +63,7 @@ Current state: Beta
 
 Player count: ~3
 
-![Player Count](/assets/img/multiverse/zolian-online-3-april-25-2025.png){: width="50%" }
+![Player Count](/assets/img/multiverse/zolian-online-3-june-17-2025.png){: width="50%" }
 
 - [Download](https://www.thebucknetwork.com/zolian)
 - [Discord](https://discord.gg/WbP2wU5CcB)
@@ -78,7 +78,7 @@ Current state: Released
 
 Player count: ~6
 
-![Player Count](/assets/img/multiverse/fragments-online-6-april-25-2025.png){: width="50%" }
+![Player Count](/assets/img/multiverse/fragments-online-3-june-17-2025.png){: width="50%" }
 
 - [Download](https://drive.google.com/file/d/1Eq9aYV3K497oPbMy-du26FQ30EpHK5Sv/view?usp=sharing)
 - [Client Fix](https://drive.google.com/file/d/1lqhoEeBkJ89eOVNpBpI9SiR-DgtdlGCo/view?usp=drive_link)
