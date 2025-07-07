@@ -5,9 +5,7 @@ permalink: /records/
 header: thumbnails/records-header.png
 thumbnail: thumbnails/records-thumbnail.png
 ---
-This is just an early alpha side project focused on figuring out which Aisling holds various interesting records!
-
-If you contact Protein, NaLyd, or Dylanlan about a record that you might own, and let me take a screenshot of your legend, you might be rewarded with a bright, glowing prize!!
+This is just an early alpha side project focused on figuring out which Aislings hold various interesting records!
 
 The hope is to have a collection of verifiable and beatable records, showcasing some of the most impressive Aislings across Temuair!
 
@@ -16,7 +14,7 @@ The hope is to have a collection of verifiable and beatable records, showcasing 
 # Legend Mark Records
 Here's a collection of records related to an increasing number on an Aisling's legend. They should be verifiable by viewing the Aisling's legend.
 
-(Tricky part: the private legend marks... Either need to exclude private marks, or think up some reliable verification method, hmmm...)
+If you contact me about a record that you might own and let me take a screenshot of your legend, I can add you to this list!
 
 ### Admitted Citizens
 Malache currently has this record, at 217 admitted citizens. This is back from Deoch 61, and almost certainly out of date!
