@@ -47,9 +47,9 @@ Acesin has an impressive arena battle win rate! 938/1621, which is roughly 58%. 
 ![Acesin](/assets/img/records/arena-victories-win-rate/arena-victories-win-rate-938-1621-acesin-deoch-201.png){: width="100%" }
 
 ### Attended Class
-Acesin has attended class at Mileth College 23 times. That's nearly 24!
+Giggles has attended class at Mileth College 138 times. What a keener!
 
-![Acesin](/assets/img/records/attended-class/attended-class-23-acesin.png){: width="100%" }
+![Acesin](/assets/img/records/attended-class/attended-class-138-giggles-deoch-192.png){: width="100%" }
 
 ### Avid Daydreamer
 Glasken has too much time to daydream during his Temuair travels. 25 times daydreamt!
@@ -102,9 +102,9 @@ Arohanui has defeated the Muisir Villain 18 times. Take that, weird Muisir thing
 ![Arohanui](/assets/img/records/defeated-muisir-villain/defeated-muisir-villain-18-arohanui.png){: width="100%" }
 
 ### Defended Mt. Merry from Yeti
-Arohanui has defended Mt. Merry and defeated the Yeti 633 times. I can't even count that high!
+Wizadrian has defended Mt. Merry and defeated the Yeti 982 times. I can't even count that high!
 
-![Arohanui](/assets/img/records/defended-mt-merry-and-defeated-the-yeti/defended-mt-merry-and-defeated-the-yeti-633-arohanui.png){: width="100%" }
+![Arohanui](/assets/img/records/defended-mt-merry-and-defeated-the-yeti/defended-mt-merry-and-defeated-the-yeti-982-wizadrian-deoch-201.png){: width="100%" }
 
 ### Defended Temuair from Chadul Army Invasion
 Arohanui has defended Temuair from Chadul Invastion 66 times. Thanks for keeping us all safe!
@@ -263,9 +263,9 @@ Warginald has achieved a Tailor (19) mark! Incredible!
 ![Warginald](/assets/img/records/tailor/tailor-19-warginald-deoch-212.png){: width="100%" }
 
 ### Taught a Class
-Laurier has taught 56 classes at Mileth College. Inspiring!
+Laurier has taught 60 classes at Mileth College. Inspiring!
 
-![Laurier](/assets/img/records/taught-class/taught-class-56-laurier-deoch-201.png){: width="100%" }
+![Laurier](/assets/img/records/taught-class/taught-class-60-laurier-deoch-208.png){: width="100%" }
 
 ### Terror of the Alley
 San has apparently defeated the Terror of the Alley 30 times! Rumours are that some of those terrors were from the crypt, but we'll never know since the legend mark is shared xD
