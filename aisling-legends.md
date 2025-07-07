@@ -4,168 +4,241 @@ title: Aisling Legends
 permalink: /aisling-legends/
 ---
 
+<input type="text" id="search" placeholder="Search names..." style="margin-bottom: 1em; padding: 0.5em; width: 100%;" />
+
 Here's a collection of various Aisling profiles and legend marks over the years!
 
 Note that some of them have the last chunk of their legend marks duplicated, due to a limitation in how I'm stitching them together which needs manual fixing
 
 ## 2025
 
-- [Adriela](/assets/img/aisling-legends/adriela-2025.png)
-- [Ailred](/assets/img/aisling-legends/ailred-2025.png)
-- [Amarranth](/assets/img/aisling-legends/amarranth-2025.png)
-- [Angelic](/assets/img/aisling-legends/angelic-2025.png)
-- [Angelynn](/assets/img/aisling-legends/angelynn-2025.png)
-- [Bindo](/assets/img/aisling-legends/bindo-2025.png)
-- [binnie](/assets/img/aisling-legends/binnie-2025.png)
-- [bladeg](/assets/img/aisling-legends/bladeg-2025.png)
-- [bladejdg](/assets/img/aisling-legends/bladejdg-2025.png)
-- [bLuEjR](/assets/img/aisling-legends/bluejr-2025.png)
-- [blueskye](/assets/img/aisling-legends/blueskye-2025.png)
-- [Bojingies](/assets/img/aisling-legends/bojingies-2025.png)
-- [Bruiser](/assets/img/aisling-legends/bruiser-2025.png)
-- [cutiejg](/assets/img/aisling-legends/cutiejg-2025.png)
-- [DancingWind](/assets/img/aisling-legends/dancingwind-2025.png)
-- [Dionia](/assets/img/aisling-legends/dionia-2025.png)
-- [DoubleMint](/assets/img/aisling-legends/doublemint-2025.png)
-- [Drucilla](/assets/img/aisling-legends/drucilla-2025.png)
-- [DoomHealer](/assets/img/aisling-legends/doomhealer-2025.png)
-- [Elzhi](/assets/img/aisling-legends/elzhi-2025.png)
-- [eLZioN](/assets/img/aisling-legends/elzion-2025.png)
-- [Falconlady](/assets/img/aisling-legends/falconlady-2025.png)
-- [Firemayden](/assets/img/aisling-legends/firemayden-2025.png)
-- [Hoshiko](/assets/img/aisling-legends/hoshiko-2025.png)
-- [iShallHeal](/assets/img/aisling-legends/ishallheal-2025.png)
-- [JadeAkaino](/assets/img/aisling-legends/jadeakaino-2025.png)
-- [Jennifer](/assets/img/aisling-legends/jennifer-2025.png)
-- [Jerry](/assets/img/aisling-legends/jerry-2025.png)
-- [Kedian](/assets/img/aisling-legends/kedian-2025.png)
-- [Khloe](/assets/img/aisling-legends/khloe-2025.png)
-- [Krytos](/assets/img/aisling-legends/krytos-2025.png)
-- [Lancelot](/assets/img/aisling-legends/lancelot-2025.png)
-- [Lexem](/assets/img/aisling-legends/lexem-2025.png)
-- [LovenPretty](/assets/img/aisling-legends/lovenpretty-2025.png)
-- [Lux](/assets/img/aisling-legends/lux-2025.png)
-- [mavrik](/assets/img/aisling-legends/mavrik-2025.png)
-- [Mayheart](/assets/img/aisling-legends/mayheart-2025.png)
-- [melon](/assets/img/aisling-legends/melon-2025.png)
-- [Mintofkali](/assets/img/aisling-legends/mintofkali-2025.png)
-- [Nenya](/assets/img/aisling-legends/nenya-2025.png)
-- [NeroZeroXe](/assets/img/aisling-legends/nerozeroxe-2025.png)
-- [Never](/assets/img/aisling-legends/never-2025.png)
-- [niZon](/assets/img/aisling-legends/nizon-2025.png)
-- [notvorlof](/assets/img/aisling-legends/notvorlof-2025.png)
-- [panda](/assets/img/aisling-legends/panda-2025.png)
-- [Paramour](/assets/img/aisling-legends/paramour-2025.png)
-- [PinkLily](/assets/img/aisling-legends/pinklily-2025.png)
-- [Rocandy](/assets/img/aisling-legends/rocandy-2025.png)
-- [Rorrik](/assets/img/aisling-legends/rorrik-2025.png)
-- [Rune](/assets/img/aisling-legends/rune-2025.png)
-- [SaintAsher](/assets/img/aisling-legends/saintasher-2025.png)
-- [San](/assets/img/aisling-legends/san-2025.png)
-- [Seidon](/assets/img/aisling-legends/seidon-2025.png)
-- [SilentNite](/assets/img/aisling-legends/silentnite-2025.png)
-- [Snooze](/assets/img/aisling-legends/snooze-2025.png)
-- [Somae](/assets/img/aisling-legends/somae-2025.png)
-- [StarShine](/assets/img/aisling-legends/starshine-2025.png)
-- [StarSparkler](/assets/img/aisling-legends/starsparkler-2025.png)
-- [Ulli](/assets/img/aisling-legends/ulli-2025.png)
-- [Tristam](/assets/img/aisling-legends/tristam-2025.png)
-- [Theowin](/assets/img/aisling-legends/theowin-2025.png)
-- [Thubub](/assets/img/aisling-legends/thubub-2025.png)
-- [Twinkle](/assets/img/aisling-legends/twinkle-2025.png)
-- [TwinkleStar](/assets/img/aisling-legends/twinklestar-2025.png)
-- [Ubrei](/assets/img/aisling-legends/ubrei-2025.png)
-- [Vamistle](/assets/img/aisling-legends/vamistle-2025.png)
-- [Wastedd](/assets/img/aisling-legends/wastedd-2025.png)
-- [Willco](/assets/img/aisling-legends/willco-2025.png)
-- [Xoody](/assets/img/aisling-legends/xoody-2025.png)
-- [xYourAngelx](/assets/img/aisling-legends/xyourangelx-2025.png)
-- [Yawgmoth](/assets/img/aisling-legends/yawgmoth-2025.png)
-- [Zaos](/assets/img/aisling-legends/zaos-2025.png)
-- [Zaxa](/assets/img/aisling-legends/zaxa-2025.png)
-- [Zeix](/assets/img/aisling-legends/zeix-2025.png)
-- [ZerA](/assets/img/aisling-legends/zera-2025.png)
-- [zGerbz](/assets/img/aisling-legends/zgerbz-2025.png)
-- [ZhongFou](/assets/img/aisling-legends/zhongfou-2025.png)
-- [ZoD](/assets/img/aisling-legends/zod-2025.png)
-- [Zwuji](/assets/img/aisling-legends/zwuji-2025.png)
+<ul id="name-list-2025"></ul>
 
 ## 2024
 
-- [Acesin](/assets/img/aisling-legends/acesin-2024.png)
-- [Alvino](/assets/img/aisling-legends/alvino-2024.png)
-- [And](/assets/img/aisling-legends/and-2024.png)
-- [Aon](/assets/img/aisling-legends/aon-2024.png)
-- [AresFalco](/assets/img/aisling-legends/aresfalco-2024.png)
-- [Arohanui](/assets/img/aisling-legends/arohanui-2024.png)
-- [Auzric](/assets/img/aisling-legends/auzric-2024.png)
-- [Bea](/assets/img/aisling-legends/bea-2024.png)
-- [BioMagus](/assets/img/aisling-legends/biomagus-2024.png)
-- [BoJingles](/assets/img/aisling-legends/bojingles-2024.png)
-- [Brittany](/assets/img/aisling-legends/brittany-2024.png)
-- [Cazbrileth](/assets/img/aisling-legends/cazbrileth-2024.png)
-- [Como](/assets/img/aisling-legends/como-2024.png)
-- [Demylo](/assets/img/aisling-legends/demylo-2024.png)
-- [Disarray](/assets/img/aisling-legends/disarray-2024.png)
-- [Dylanlan](/assets/img/aisling-legends/dylanlan-2024.png)
-- [Dynamus](/assets/img/aisling-legends/dynamus-2024.png)
-- [Eiscego](/assets/img/aisling-legends/eiscego-2024.png)
-- [Eternalty](/assets/img/aisling-legends/eternalty-2024.png)
-- [Exonyte](/assets/img/aisling-legends/exonyte-2024.png)
-- [FatalRevenge](/assets/img/aisling-legends/fatalrevenge-2024.png)
-- [FFnine](/assets/img/aisling-legends/ffnine-2024.png)
-- [Final](/assets/img/aisling-legends/final-2024.png)
-- [FrauLynn](/assets/img/aisling-legends/fraulynn-2024.png)
-- [Giggles](/assets/img/aisling-legends/giggles-2024.png)
-- [Hihaku](/assets/img/aisling-legends/hihaku-2024.png)
-- [Huhuman](/assets/img/aisling-legends/huhuman-2024.png)
-- [Ishikawa](/assets/img/aisling-legends/ishikawa-2024.png)
-- [Jaice](/assets/img/aisling-legends/jaice-2024.png)
-- [JessicaP](/assets/img/aisling-legends/jessicap-2024.png)
-- [Kald](/assets/img/aisling-legends/kald-2024.png)
-- [Kallina](/assets/img/aisling-legends/kallina-2024.png)
-- [Laurier](/assets/img/aisling-legends/laurier-2024.png)
-- [Leemon](/assets/img/aisling-legends/leemon-2024.png)
-- [makeup](/assets/img/aisling-legends/makeup-2024.png)
-- [Makunouchi](/assets/img/aisling-legends/makunouchi-2024.png)
-- [Merisa](/assets/img/aisling-legends/merisa-2024.png)
-- [Moogle](/assets/img/aisling-legends/moogle-2024.png)
-- [MrMvP](/assets/img/aisling-legends/mrmvp-2024.png)
-- [Naena](/assets/img/aisling-legends/naena-2024.png)
-- [NaLyd](/assets/img/aisling-legends/nalyd-2024.png)
-- [NeoxBahamut](/assets/img/aisling-legends/neoxbahamut-2024.png)
-- [NoirGato](/assets/img/aisling-legends/noirgato-2024.png)
-- [Peppita](/assets/img/aisling-legends/peppita-2024.png)
-- [Ramanayan](/assets/img/aisling-legends/ramanayan-2024.png)
-- [Renvo](/assets/img/aisling-legends/renvo-2024.png)
-- [ReyaKeely](/assets/img/aisling-legends/reyakeely-2024.png)
-- [Ridiickai](/assets/img/aisling-legends/ridiickai-2024.png)
-- [Set](/assets/img/aisling-legends/set-2024.png)
-- [Sick](/assets/img/aisling-legends/sick-2024.png)
-- [Srgious](/assets/img/aisling-legends/srgious-2024.png)
-- [SunYukii](/assets/img/aisling-legends/sunyukii-2024.png)
-- [Tazz](/assets/img/aisling-legends/tazz-2024.png)
-- [Telme](/assets/img/aisling-legends/telme-2024.png)
-- [TriDemp](/assets/img/aisling-legends/tridemp-2024.png)
-- [Venezia](/assets/img/aisling-legends/venezia-2024.png)
-- [Viveena](/assets/img/aisling-legends/viveena-2024.png)
-- [Warginald](/assets/img/aisling-legends/warginald-2024.png)
-- [Wizadrian](/assets/img/aisling-legends/wizadrian-2024.png)
-- [yLo](/assets/img/aisling-legends/ylo-2024.png)
-- [Yukii](/assets/img/aisling-legends/yukii-2024.png)
-- [Zurf](/assets/img/aisling-legends/zurf-2024.png)
-
+<ul id="name-list-2024"></ul>
 
 ## 2008
 
-- [PrincessM](/assets/img/aisling-legends/princessm-2008.png)
-- [TrainerWiz](/assets/img/aisling-legends/trainerwiz-2008.png)
+<ul id="name-list-2008"></ul>
 
 ## 2007
 
-- [BioMagus](/assets/img/aisling-legends/biomagus-2007.png)
-- [Franees](/assets/img/aisling-legends/franees-2007.png)
-- [Galaxis](/assets/img/aisling-legends/galaxis-2007.png)
-- [Malache](/assets/img/aisling-legends/malache-2007.png)
-- [Shoguo](/assets/img/aisling-legends/shoguo-2007.png)
-- [Vamistle](/assets/img/aisling-legends/vamistle-2007.png)
+<ul id="name-list-2007"></ul>
+
+
+<script>
+    const names2025 = [
+        'Adriela',
+        'Ailred',
+        'Amarranth',
+        'Angelic',
+        'Angelynn',
+        'Arpina',
+        'bearly',
+        'beerbottle',
+        'Bindo',
+        'binnie',
+        'bladeg',
+        'bladejdg',
+        'blader',
+        'Blanche',
+        'BlueFountain',
+        'bLuEjR',
+        'blueskye',
+        'Bojingies',
+        'Bruiser',
+        'Bywyd',
+        'Carnaugh',
+        'Cherrius',
+        'cutiejg',
+        'DancingWind',
+        'Dionia',
+        'Doms',
+        'DoubleMint',
+        'DoomHealer',
+        'Drucilla',
+        'Duplico',
+        'Elzhi',
+        'eLZioN',
+        'Falconlady',
+        'FFeightBest',
+        'Firemayden',
+        'Hien',
+        'Hoshiko',
+        'impuneToo',
+        'iShallHeal',
+        'JadeAkaino',
+        'Jennifer',
+        'Jerry',
+        'Kedian',
+        'Khloe',
+        'Kimchii',
+        'Krytos',
+        'Lancelot',
+        'Landon',
+        'Lexem',
+        'LlamaTacoo',
+        'LovenPretty',
+        'Lux',
+        'mavrik',
+        'Mayheart',
+        'melon',
+        'Mintofkali',
+        'MlKE',
+        'Nenya',
+        'NeroZeroXe',
+        'Never',
+        'niZon',
+        'notvorlof',
+        'OceanWind',
+        'panda',
+        'Paramour',
+        'PinkLily',
+        'Protoman',
+        'Raiphie',
+        'Rocandy',
+        'Rorrik',
+        'Rune',
+        'SaintAsher',
+        'San',
+        'Seidon',
+        'SilentNite',
+        'Snooze',
+        'Somae',
+        'StarShine',
+        'StarSparkler',
+        'Ulli',
+        'Tristam',
+        'Theowin',
+        'Thubub',
+        'Twinkle',
+        'TwinkleStar',
+        'Ubrei',
+        'Vamistle',
+        'VanMorgan',
+        'Wastedd',
+        'Willco',
+        'Xoody',
+        'xYourAngelx',
+        'Yawgmoth',
+        'Zaos',
+        'Zaxa',
+        'Zeix',
+        'ZerA',
+        'zGerbz',
+        'ZhongFou',
+        'ZoD',
+        'Zwuji',
+    ];
+    const names2024 = [
+        'Acesin',
+        'Alvino',
+        'And',
+        'Aon',
+        'AresFalco',
+        'Arohanui',
+        'Auzric',
+        'Bea',
+        'BioMagus',
+        'BoJingles',
+        'Brittany',
+        'Cazbrileth',
+        'Como',
+        'Demylong',
+        'Disarray',
+        'Dylanlan',
+        'Dynamus',
+        'Eiscego',
+        'Eternalty',
+        'Exonyte',
+        'FatalRevenge',
+        'FFninen',
+        'Final',
+        'FrauLynn',
+        'Giggles',
+        'Hihaku',
+        'Huhuman',
+        'Ishikawa',
+        'Jaice',
+        'JessicaP',
+        'Kald',
+        'Kallina',
+        'Laurier',
+        'Leemon',
+        'makeup',
+        'Makunouchi',
+        'Merisa',
+        'Moogle',
+        'MrMvP',
+        'Naena',
+        'NaLyd',
+        'NeoxBahamut',
+        'NoirGato',
+        'Peppita',
+        'Ramanayan',
+        'Renvo',
+        'ReyaKeely',
+        'Ridiickai',
+        'Set',
+        'Sick',
+        'Srgious',
+        'SunYukii',
+        'Tazz',
+        'Telme',
+        'TriDemp',
+        'Venezia',
+        'Viveena',
+        'Warginald',
+        'Wizadrian',
+        'yLo',
+        'Yukii',
+        'Zurf',
+    ];
+    const names2008 = [
+        'PrincessM',
+        'TrainerWiz',
+    ];
+    const names2007 = [
+        'BioMagus',
+        'Franees',
+        'Galaxis',
+        'Malache',
+        'Shoguo',
+        'Vamistle',
+    ];
+    const years = [2025, 2024, 2008, 2007];
+    const nameList2025 = document.getElementById('name-list-2025');
+    const nameList2024 = document.getElementById('name-list-2024');
+    const nameList2008 = document.getElementById('name-list-2008');
+    const nameList2007 = document.getElementById('name-list-2007');
+
+    function appendNames(nameList, names, year) {
+        names.forEach(function(name) {
+            const li = document.createElement('li');
+            const link = document.createElement('a');
+            const lowercase = name.toLowerCase();
+            link.href = `/assets/img/aisling-legends/${lowercase}-${year}.png`;
+            link.textContent = name;
+            li.appendChild(link);
+            nameList.appendChild(li);
+        });
+    }
+
+    appendNames(nameList2025, names2025, 2025);
+    appendNames(nameList2024, names2024, 2024);
+    appendNames(nameList2008, names2008, 2008);
+    appendNames(nameList2007, names2007, 2007);
+
+    document.getElementById('search').addEventListener('input', function () {
+        const filter = this.value.toLowerCase();
+        years.forEach(function(year) {
+            const listItems = document.querySelectorAll(`#name-list-${year} li`);
+
+            listItems.forEach(function (li) {
+                const text = li.textContent.toLowerCase();
+                li.style.display = text.includes(filter) ? '' : 'none';
+            });
+        });
+    });
+</script>
