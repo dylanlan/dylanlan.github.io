@@ -29,11 +29,11 @@ Regardless, he decided to awaken once again to see how the world of Temuair was 
 
 The first thing on NaLyd's mind upon reawakening, was to reach Ability 99 and finally complete his ancient weapon!
 
-![NaLyd Awakens](/assets/img/awakening/nalyd-awakens.png)
+![NaLyd Awakens](/assets/img/awakening/nalyd-awakens.png){: width="100%" }
 
 But he also still had fond memories of hunting with a certain Pure Archer named Necrean, back around August of 2007 (Deoch 70). NaLyd wasn't sure how to contact Necrean, but was able to reconnect with a different Pure Archer buddy from the past! One of the first things that NaLyd did in the world of Temuair was battle through the vicious sewers of Loures Canals, re-enacting some great old memories of defeating giant blobs in small parties, around 2008 (Deoch 78).
 
-![NaLyd Nostalgia](/assets/img/awakening/nalyd-nostalgia-canals.png)
+![NaLyd Nostalgia](/assets/img/awakening/nalyd-nostalgia-canals.png){: width="100%" }
 
 On one extremely fateful day, January 3rd 2024 (Deoch 201 - NaLyd's newest favourite), NaLyd noticed that there was a Deoch mass sermon being held in Suomi, and decided to check it out. He had never been much of a religion enthusiast back in the day, but thought it would be fun to see what it's like. NaLyd had been searching in-game and in-Discord for Necrean for almost a month at this point, nearly giving up hope of ever reconnecting!
 
@@ -41,23 +41,23 @@ The sermon was being held by an ever so friendly Aisling, Landon! And this Deoch
 
 NaLyd had never been much of a role player before - he preferred to focus on killing monsters and gaining items/gold/spells instead. However, since this mass was being held in Suomi, NaLyd decided it would be rude not to attempt role playing, and gave it a shot. It turns out that it can actually be quite a thrilling experience!
 
-![Landon](/assets/img/awakening/landon.png)
+![Landon](/assets/img/awakening/landon.png){: width="100%" }
 
 Here is a quick memory from the mass sermon itself. It seems like sermons have had dwindling attendance for a bit of time - surely just temporarily! If you want the full sermon text, or want to check out previous masses held by Landon, be sure to visit his [Blog](https://deochtemple.blogspot.com/2024/01/deoch-mass-1-3-2024-new-path.html)
 
-![Deoch Mass](/assets/img/awakening/deoch-mass.png)
+![Deoch Mass](/assets/img/awakening/deoch-mass.png){: width="100%" }
 
 After the sermon, NaLyd quickly desired to return to Loures Canals, for nostalgia's sake yet again. But he then noticed that he had been given an inspiring item from the Deoch mass: "Deoch's Flame". NaLyd has always been a big fan of fire - neat!
 
-![Deoch Flame](/assets/img/awakening/deoch-flame.png)
+![Deoch Flame](/assets/img/awakening/deoch-flame.png){: width="100%" }
 
 NaLyd was feeling especially inspired and nostalgic after this sermon, and got accepted into the guild Dark Horizons on his alternate character, Dylanlan, shortly thereafter.
 
-![Dark Horizons](/assets/img/awakening/dark-horizons.png)
+![Dark Horizons](/assets/img/awakening/dark-horizons.png){: width="100%" }
 
 Dylanlan decided to hang out with other Dark Horizons guildmates in Pravat Cave, full of excitement from meeting new Aislings. Little did he know, this chill hangout would alter his Temuairan course forever.
 
-![Pravat](/assets/img/awakening/pravat.png)
+![Pravat](/assets/img/awakening/pravat.png){: width="100%" }
 
 Necrean was there. At Pravat Cave. Necrean found NaLyd, 17 years later (~138 Deochs). Unfortunately, there was too much excitement in the moment to remember to take any screenshots, but it was quite the reconnecting indeed! (NaLyd did not get much sleep that night).
 

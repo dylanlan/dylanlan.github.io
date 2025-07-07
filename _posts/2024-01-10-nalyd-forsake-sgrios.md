@@ -11,39 +11,39 @@ NaLyd, having been a Worshipper of Sgrios for 125 long deochs, decides that it h
 
 NaLyd will be attending a Deoch mass sermon soon, and wishes to become a worshipper of Deoch.
 
-![NaLyd Dubhaim](/assets/img/sgrios/forsaken/nalyd-dubhaim.png)
+![NaLyd Dubhaim](/assets/img/sgrios/forsaken/nalyd-dubhaim.png){: width="100%" }
 
 The Dubhaim monsters stared at NaLyd, as if warning him about what a mistake it is to upset Sgrios. Luckily NaLyd did not get cornered by these beasts, like poor Protein did.
 
-![NaLyd Judged](/assets/img/sgrios/forsaken/nalyd-judged.png)
+![NaLyd Judged](/assets/img/sgrios/forsaken/nalyd-judged.png){: width="100%" }
 
 NaLyd entered the temple, amazed at all the renovations that had happened since last time he set foot inside.
 
-![NaLyd Enters](/assets/img/sgrios/forsaken/nalyd-enters.png)
+![NaLyd Enters](/assets/img/sgrios/forsaken/nalyd-enters.png){: width="100%" }
 
 NaLyd wondered if the servant even remembered him after this long. Or if he even knew NaLyd when he had joined the temple.
 
-![NaLyd Greets](/assets/img/sgrios/forsaken/nalyd-greets.png)
+![NaLyd Greets](/assets/img/sgrios/forsaken/nalyd-greets.png){: width="100%" }
 
 NaLyd took a moment to reflect on his past. Sgrios worshipper by CurethEevil, all the way back in Deoch 76. Such lovely memories. But it was time to move onto new adventures!
 
-![NaLyd Worshipper](/assets/img/sgrios/forsaken/nalyd-worshipper.png)
+![NaLyd Worshipper](/assets/img/sgrios/forsaken/nalyd-worshipper.png){: width="100%" }
 
 NaLyd asks Greim to help initiate the forsookening. Deep breaths.
 
-![NaLyd Leaving](/assets/img/sgrios/forsaken/nalyd-leaving.png)
+![NaLyd Leaving](/assets/img/sgrios/forsaken/nalyd-leaving.png){: width="100%" }
 
 Sorrow wasn't quite the correct word, but some mix of slight sadness and intense nostalgia flowed through NaLyd
 
-![NaLyd Forsakes](/assets/img/sgrios/forsaken/nalyd-forsakes.png)
+![NaLyd Forsakes](/assets/img/sgrios/forsaken/nalyd-forsakes.png){: width="100%" }
 
 NaLyd would not be visiting Sgrios that day. Sometime in the future, definitely, but not today.
 
-![NaLyd Goodbye](/assets/img/sgrios/forsaken/nalyd-goodbye.png)
+![NaLyd Goodbye](/assets/img/sgrios/forsaken/nalyd-goodbye.png){: width="100%" }
 
 NaLyd glanced at his legend. Deoch 201, eh? Maybe he will return to Sgrios in another 100 Deoches or so.
 
-![NaLyd Legend](/assets/img/sgrios/forsaken/nalyd-legend.png)
+![NaLyd Legend](/assets/img/sgrios/forsaken/nalyd-legend.png){: width="100%" }
 
 For today, NaLyd only had one deity on his mind. Deoch - the eternal flame.
 

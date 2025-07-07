@@ -15,11 +15,11 @@ Success! However, we quickly learned that each of us must kill two of those wret
 
 Fear not, young Aislings! We were fortunate to have some helpful siblings assist us with the murders. Through the power of poison and some ever-so-sneaky rogue traps, we were all able to acquire our required kill counts, and reached the end of the sewers.
 
-![Oren Sewers Quest Struggle](/assets/img/adventures/sradagan-oren-sewers-16-minute-kill.png)
+![Oren Sewers Quest Struggle](/assets/img/adventures/sradagan-oren-sewers-16-minute-kill.png){: width="100%" }
 
 What's this? Just a dinky fountain amidst a filthy, monster-laden sewer? Our disappointment was building - surely this epic quest was not so anti-climactic? We took a quick drink from the fountain, parched from the furious battles. Gasp! This was no ordinary fountain, and this was no ordinary water. Vitality! One by one, each of our health and mana levels were permanently increased! A glorious day indeed!
 
-![Oren Sewers Quest Success](/assets/img/adventures/sradagan-oren-sewers-success.png)
+![Oren Sewers Quest Success](/assets/img/adventures/sradagan-oren-sewers-success.png){: width="100%" }
 
 Next Adventure: [Cthonic Remains 10]({{ site.data.urls.cr_10 }})
 

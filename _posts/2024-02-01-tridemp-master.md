@@ -60,7 +60,7 @@ He was already the maximum level 99, he didn't have any spare stats to spend, an
 
 He had 41 Int, but needed an additional 37 Int stats to reach 78 Int to be able to learn the required Ard Ioc spell. This would be .... tricky for Tridemp.
 
-![Tridemp Stats](/assets/img/awakening/others/tridemp/tridemp-stats.png)
+![Tridemp Stats](/assets/img/awakening/others/tridemp/tridemp-stats.png){: width="100%" }
 
 ## Realization
 
@@ -101,11 +101,11 @@ We continued trying to reach out to the community for guidance, and received a l
 
 We continued trying to contact KRU. Tridemp and I both created a support ticket, hoping that two tickets would have more chance of being heard than one.
 
-![Kru Ticket](/assets/img/awakening/others/tridemp/support-ticket.png)
+![Kru Ticket](/assets/img/awakening/others/tridemp/support-ticket.png){: width="100%" }
 
 And we got a reply a week later! Apparently just an "auto-reply", though. This specific quest requires a lot of patience.
 
-![Kru Reply](/assets/img/awakening/others/tridemp/support-ticket-auto-reply.png)
+![Kru Reply](/assets/img/awakening/others/tridemp/support-ticket-auto-reply.png){: width="100%" }
 
 Next time, on USDA:
 - Will Tridemp be able to master?!

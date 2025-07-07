@@ -11,71 +11,71 @@ After attending such an eventful [Sgrios Mass]({{ site.data.urls.sgrios_mass }})
 
 The Fellowship scrambled to get to Suomi, and barely made it on time. But their dear leader Frudo was missing
 
-![Pre Mass](/assets/img/deoch/mass/pre-mass.png)
+![Pre Mass](/assets/img/deoch/mass/pre-mass.png){: width="100%" }
 
 Protein noticed that a Frog somehow got into the Shrine, and decided to make fun of it.
 
-![Taunt Froggy](/assets/img/deoch/mass/taunt-froggy.png)
+![Taunt Froggy](/assets/img/deoch/mass/taunt-froggy.png){: width="100%" }
 
 Protein saw another epic sword, and wanted to compare with his! While doing so, he noticed that one of his Sgrios scars from the previous mass got removed by a Kind Aisling named Repertoire.
 
 Protein will remember to compare epic swords more often in the future - surely that act was being rewarded!
 
-![Protein Scar Removed](/assets/img/deoch/mass/protein-scar-removed.png)
+![Protein Scar Removed](/assets/img/deoch/mass/protein-scar-removed.png){: width="100%" }
 
 Frudo was still missing, and the mass sermon was about to get started.
 
-![Mass Starting](/assets/img/deoch/mass/mass-starting.png)
+![Mass Starting](/assets/img/deoch/mass/mass-starting.png){: width="100%" }
 
 Thankfully Frudo appeared just in time, along with our dear leader, `Aon` (formerly PaladinJack)!
 
-![Mass Start](/assets/img/deoch/mass/mass-start.png)
+![Mass Start](/assets/img/deoch/mass/mass-start.png){: width="100%" }
 
 The Fllowship members all got into a comfy position as the mass started. Also COMO was lurking in the fog for some reason.
 
-![Mass Middle](/assets/img/deoch/mass/mass-middle.png)
+![Mass Middle](/assets/img/deoch/mass/mass-middle.png){: width="100%" }
 
 It was a long and interesting mass sermon, but Protein got a bit overwhelmed by all the words. If you want to check out Landon's full sermon, you can find it [here](https://deochtemple.blogspot.com/2024/01/deoch-mass-1-10-2024-geas.html)
 
-![Mass End](/assets/img/deoch/mass/mass-end.png)
+![Mass End](/assets/img/deoch/mass/mass-end.png){: width="100%" }
 
 Protein has learned that it is customary to give thanks after a mass ends.
 
-![Mass Thanks](/assets/img/deoch/mass/mass-thanks.png)
+![Mass Thanks](/assets/img/deoch/mass/mass-thanks.png){: width="100%" }
 
 NaLyd had desperately wanted to become a Deoch worshipper at this mass, and being directly praying to the eternal flame.
 
 However, NaLyd had heard a rumour that one of his adolescent decisions might prevent him from being accepted. He wants to confirm the rumours with Landon
 
-![NaLyd Question](/assets/img/deoch/mass/nalyd-question.png)
+![NaLyd Question](/assets/img/deoch/mass/nalyd-question.png){: width="100%" }
 
 Landon confirmed NaLyd's fears. Since NaLyd had decided to become a Necromancer many deochs ago, he was no longer welcome as a worshipper to Deoch. It seems that reanimating the dead always comes with a string or two attached.
 
-![Landon Answer](/assets/img/deoch/mass/landon-answer.png)
+![Landon Answer](/assets/img/deoch/mass/landon-answer.png){: width="100%" }
 
 Protein enjoyed his time, and excitedly awaits the next mass sermon.
 
-![Protein Again](/assets/img/deoch/mass/protein-again.png)
+![Protein Again](/assets/img/deoch/mass/protein-again.png){: width="100%" }
 
 NaLyd lamented his Necromatic decision, entered the denial stage of grief, and tried to blame Sgrios
 
-![NaLyd Sgrios](/assets/img/deoch/mass/nalyd-sgrios.png)
+![NaLyd Sgrios](/assets/img/deoch/mass/nalyd-sgrios.png){: width="100%" }
 
 NaLyd jumped to acceptance, and realizes that it might take awhile before he can worship Deoch again. He should've cherished the previous sermon that he had attended more. He did not realize that his Sgrios affiliation was the only thing that had allowed him to collect a Deoch Flame.
 
-![NaLyd Acceptance](/assets/img/deoch/mass/nalyd-acceptance.png)
+![NaLyd Acceptance](/assets/img/deoch/mass/nalyd-acceptance.png){: width="100%" }
 
 NaLyd almost forgot a request to Landon - to help consecrate some Deoch shields. Deoch Wooden Shields would be immensely useful for future Sradagan adventures.
 
-![Deoch Shields](/assets/img/deoch/mass/deoch-shields.png)
+![Deoch Shields](/assets/img/deoch/mass/deoch-shields.png){: width="100%" }
 
 Protein became impatient, and tried to pretend to be a talking statue. Protein still had a lot of maturing to do..
 
-![Protein Disrespecting](/assets/img/deoch/mass/protein-disrespecting.png)
+![Protein Disrespecting](/assets/img/deoch/mass/protein-disrespecting.png){: width="100%" }
 
 NaLyd gave a final thanks to Landon. Truly an inspirational Aisling
 
-![NaLyd Thanks](/assets/img/deoch/mass/nalyd-thanks.png)
+![NaLyd Thanks](/assets/img/deoch/mass/nalyd-thanks.png){: width="100%" }
 
 Protein learned a lot about Deoch that day. But NaLyd had received quite unfortunate news.
 

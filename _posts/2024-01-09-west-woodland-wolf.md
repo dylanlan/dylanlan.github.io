@@ -13,17 +13,17 @@ There had been stories of a dwarf named Throttler, deep in the Woodlands of the 
 
 (Coming soon: more descriptions of these memories)
 
-![Wolf Start](/assets/img/adventures/west-woodland-wolf/wolf-start.png)
+![Wolf Start](/assets/img/adventures/west-woodland-wolf/wolf-start.png){: width="100%" }
 
-![Wolf Area](/assets/img/adventures/west-woodland-wolf/wolf-area.png)
+![Wolf Area](/assets/img/adventures/west-woodland-wolf/wolf-area.png){: width="100%" }
 
-![Wolf Found](/assets/img/adventures/west-woodland-wolf/wolf.png)
+![Wolf Found](/assets/img/adventures/west-woodland-wolf/wolf.png){: width="100%" }
 
-![Wolf End](/assets/img/adventures/west-woodland-wolf/wolf-end.png)
+![Wolf End](/assets/img/adventures/west-woodland-wolf/wolf-end.png){: width="100%" }
 
-![Protein Proud](/assets/img/adventures/west-woodland-wolf/protein-proud.png)
+![Protein Proud](/assets/img/adventures/west-woodland-wolf/protein-proud.png){: width="100%" }
 
-![Wolf Legend](/assets/img/adventures/west-woodland-wolf/wolf-legend.png)
+![Wolf Legend](/assets/img/adventures/west-woodland-wolf/wolf-legend.png){: width="100%" }
 
 Next Adventure: [Mileth College]({{ site.data.urls.protein_school }})
 
