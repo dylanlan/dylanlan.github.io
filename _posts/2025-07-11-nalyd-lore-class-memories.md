@@ -9,6 +9,8 @@ header: thumbnails/nalyd-first-class-header.png
 
 New teacher NaLyd hosts his first Mileth College Class as an introduction to in-game screenshots.
 
+The College Entry related to this class can be found here: [Memory Guide]({{ site.data.urls.memory_guide }})
+
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/mNYEhGJ-g1Q?si=5--ZXOlkHrCPyMyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Full Class text
