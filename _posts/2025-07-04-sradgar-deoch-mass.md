@@ -7,14 +7,11 @@ thumbnail: thumbnails/sradgar-mass-thumbnail.png
 header: thumbnails/sradgar-mass-header.png
 ---
 
-Fiery Deoch Priest SradGar hosted a Mass sermon about the influx of New Sparks we've seen, and about Deoch's alliance with Glioca.
-
+Fiery Deoch Priest SradGar hosted his first Mass sermon about the influx of New Sparks we've seen, and about Deoch's alliance with Glioca.
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/abhnvFkcmQw?si=_nwWEv4L8SkpC6UV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 # Full Sermon text
-
 
 Alright, let's get started!
 
