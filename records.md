@@ -24,7 +24,7 @@ Malache currently has this record, at 217 admitted citizens. This is back from D
 ### Adorations
 BioMagus has the most Adorations. It's not even close.
 
-![Ishikawa](/assets/img/records/adoration-of-danaan/adoration-of-danaan-24-biomagus.png){: width="100%" }
+![BioMagus](/assets/img/records/adoration-of-danaan/adoration-of-danaan-24-biomagus.png){: width="100%" }
 
 ### Arena Battles
 Acesin has been in many many arena battles. 1621, in fact!
@@ -49,12 +49,12 @@ Acesin has an impressive arena battle win rate! 938/1621, which is roughly 58%. 
 ### Attended Class
 Giggles has attended class at Mileth College 138 times. What a keener!
 
-![Acesin](/assets/img/records/attended-class/attended-class-138-giggles-deoch-192.png){: width="100%" }
+![Giggles](/assets/img/records/attended-class/attended-class-138-giggles-deoch-192.png){: width="100%" }
 
 ### Avid Daydreamer
-Glasken has too much time to daydream during his Temuair travels. 25 times daydreamt!
+StarSparkler has too much time to daydream during their Temuair travels. 34 times daydreamt!
 
-![Glasken](/assets/img/records/avid-daydreamer/avid-daydreamer-25-glasken-deoch-202.png){: width="100%" }
+![StarSparkler](/assets/img/records/avid-daydreamer/avid-daydreamer-34-starsparkler-deoch-180.png){: width="100%" }
 
 ### Banished Imperial Shade of Blackstar
 Arohanui has banished the shade of blackstar 389 times. Impressive!
@@ -67,34 +67,35 @@ Awarded to Mighty Archer Hihaku, who as of Deoch 202, has been involved in 529 e
 ![Hihaku](/assets/img/records/blade-smithing/involved-in-blade-smithing-529-hihaku-deoch-202.png){: width="100%" }
 
 ### Broke up love
-Reyakeely has broken up 50 pairs of lovers!
+Jaylinn has broken up 84 pairs of lovers!
 
-![impuneToo](/assets/img/records/broke-up-love/broke-up-love-50-reyakeely-deoch-171.png){: width="100%" }
+![Jaylinn](/assets/img/records/broke-up-love/broke-up-love-84-jaylinn-deoch-110.png){: width="100%" }
 
 ### Completed Daily Quest
-Arohanui has completed the main Daily Quest 57 times! That's almost two months!
+StarShine has completed the main Daily Quest 570 times! That's a lot of days!
 
-![Arohanui](/assets/img/records/completed-daily-quest/completed-daily-quest-57-arohanui.png){: width="100%" }
+![StarShine](/assets/img/records/completed-daily-quest/completed-daily-quest-570-starshine-deoch-211.png){: width="100%" }
 
 ### Completed Lost Ruins Daily Quest
 Arohanui has completed the Lost Ruins Daily Quest 278 times! That's over nine months!
 
-![Arohanui](/assets/img/records/completed-lost-ruins-daily-quest/completed-lost-ruins-daily-quest-278-arohanui.png){: width="100%" }
+![Arohanui](/assets/img/records/completed-lost-ruins-daily-quest/completed-lost-ruins-daily-quest-278-arohanui-deoch-201.png){: width="100%" }
 
 ### Completed Sacred Forest Daily Quest
-Acesin has completed the Sacred Forest Daily Quest 142 times! That's a lot of sacredness!
 
-![Acesin](/assets/img/records/completed-sacred-forest-daily/completed-sacred-forest-daily-142-acesin.png){: width="100%" }
+Ariesyeo has completed the Sacred Forest Daily Quest 544 times! That's a lot of sacredness!
+
+![ariesyeo](/assets/img/records/completed-sacred-forest-daily/completed-sacred-forest-daily-544-ariesyeo-deoch-209.png){: width="100%" }
 
 ### Crafted Yule Logs for the Inns
-Arohanui has crafted logs 21 times. Yay deforestation!
+StarShine has crafted yule logs 69 times. Yay deforestation!
 
-![Arohanui](/assets/img/records/crafted-yule-logs-for-the-inns/crafted-yule-logs-for-the-inns-21-arohanui.png){: width="100%" }
+![StarShine](/assets/img/records/crafted-yule-logs-for-the-inns/crafted-yule-logs-for-the-inns-69-starshine-deoch-208.png){: width="100%" }
 
 ### Defeated Giant Floppy
-PopaEggs has defeated the giant floppy 2470 times! Truly the Popa of floppy eggs!
+LovenPretty has defeated the giant floppy 3911 times!
 
-![Nupps](/assets/img/records/defeated-giant-floppy/defeated-giant-floppy-2470-popaeggs-deoch-203.png){: width="100%" }
+![LovenPretty](/assets/img/records/defeated-giant-floppy/defeated-giant-floppy-3911-lovenpretty-deoch-211.png){: width="100%" }
 
 ### Defeated Muisir Villain
 Arohanui has defeated the Muisir Villain 18 times. Take that, weird Muisir thing!
@@ -104,7 +105,7 @@ Arohanui has defeated the Muisir Villain 18 times. Take that, weird Muisir thing
 ### Defended Mt. Merry from Yeti
 Wizadrian has defended Mt. Merry and defeated the Yeti 982 times. I can't even count that high!
 
-![Arohanui](/assets/img/records/defended-mt-merry-and-defeated-the-yeti/defended-mt-merry-and-defeated-the-yeti-982-wizadrian-deoch-201.png){: width="100%" }
+![Wizadrian](/assets/img/records/defended-mt-merry-and-defeated-the-yeti/defended-mt-merry-and-defeated-the-yeti-982-wizadrian-deoch-201.png){: width="100%" }
 
 ### Defended Temuair from Chadul Army Invasion
 Arohanui has defended Temuair from Chadul Invastion 66 times. Thanks for keeping us all safe!
@@ -122,14 +123,14 @@ Giggles has 94 separate educations. What a nerd!!
 ![Giggles](/assets/img/records/educated/educated-94-giggles-deoch-188.png){: width="100%" }
 
 ### Exiled
-ReyaKeely has exiled 45 Aislings!
+Viveena has exiled 67 Aislings!
 
-![ReyaKeely](/assets/img/records/exiled/exiled-45-reyakeely-deoch-77.png){: width="100%" }
+![Viveena](/assets/img/records/exiled/exiled-67-viveena-deoch-88.png){: width="100%" }
 
 ### Found Lucky Clovers
-Giggles has found 117 clovers. Lucky!
+TwinkleStar has found 152 clovers. Lucky!
 
-![Giggles](/assets/img/records/found-lucky-clovers/found-lucky-clovers-117-giggles-deoch-201.png){: width="100%" }
+![TwinkleStar](/assets/img/records/found-lucky-clovers/found-lucky-clovers-152-twinklestar-deoch-211.png){: width="100%" }
 
 ### Gem Polishing
 Awarded to Mighty Archer Dylanlan, who as of Deoch 201, has been involved in 6100 extra gem polishes (beyond Gem Smith 10) since his birth in Deoch 51.
@@ -154,9 +155,9 @@ Srgious has defeated 666 of Oren's Pirates!
 ![Srgious](/assets/img/records/has-defeated-pirates/has-defeated-pirates-666-srgious-deoch-65.png){: width="100%" }
 
 ### Helped Clean Bank
-FrauLynn has helped Antonio clean his bank 7 times!
+DancingWind has helped Antonio clean his bank 8 times!
 
-![FrauLynn](/assets/img/records/clean-bank/clean-bank-7-fraulynn-deoch-203.png){: width="100%" }
+![DancingWind](/assets/img/records/helped-clean-bank/helped-clean-bank-8-dancingwind-deoch-211.png){: width="100%" }
 
 ### Herbalist
 Angelic has reached Herbalist (14)!
@@ -171,12 +172,12 @@ Shikaix has claimed a very high number of war murders! Wow, 43,243!
 ### Initiated Worshipper
 impuneToo has initiated a lot of worshippers: 916!
 
-![Merisa](/assets/img/records/initiated-worshipper/initiated-worshipper-916-impunetoo-deoch-212.png){: width="100%" }
+![impuneToo](/assets/img/records/initiated-worshipper/initiated-worshipper-916-impunetoo-deoch-212.png){: width="100%" }
 
 ### Insect Event
 Neoxbahamut has smacked insects to claim the tournament prize 56 times. I can't even!
 
-![Arohanui](/assets/img/records/insect-event/insect-event-56-neoxbahamut-deoch-210.png){: width="100%" }
+![Neoxbahamut](/assets/img/records/insect-event/insect-event-56-neoxbahamut-deoch-210.png){: width="100%" }
 
 ### Jailed
 FrauLynn has been jailed 6 times. Oh nooooo!
@@ -184,14 +185,14 @@ FrauLynn has been jailed 6 times. Oh nooooo!
 ![FrauLynn](/assets/img/records/jailed/jailed-6-fraulynn-deoch-180.png){: width="100%" }
 
 ### Joined Lovers
-ReyaKeely has been the matchmaker for 80 couples!
+Nioreh has been the matchmaker for 185 couples!
 
-![Angelic](/assets/img/records/joined-lovers/joined-lovers-80-reyakeely-deoch-171.png){: width="100%" }
+![Nioreh](/assets/img/records/joined-lovers/joined-lovers-185-nioreh-deoch-70.png){: width="100%" }
 
 ### Judge
-Yukii has been a judge 48 times. Yukii: the judgiest-judge, eternally!
+Yukii has been a judge 62 times. Yukii: the judgiest-judge!
 
-![Yukii](/assets/img/records/judge/judge-58-yukii.png){: width="100%" }
+![Yukii](/assets/img/records/judge/judge-62-yukii-deoch-203.png){: width="100%" }
 
 ### Loved by Mileth Mundanes
 San has been loved by Mileth Mundanes 9 times. They will never love me even once ;.;
@@ -199,9 +200,9 @@ San has been loved by Mileth Mundanes 9 times. They will never love me even once
 ![San](/assets/img/records/loved-by-mileth-mundanes/loved-by-mileth-mundanes-9-san-deoch-163.png){: width="100%" }
 
 ### Loved by Suomi Mundanes
-Glasken has been loved by Suomi Mundanes 11 times, wow!
+Glasken has been loved by Suomi Mundanes 14 times, wow!
 
-![Glasken](/assets/img/records/loved-by-suomi-mundanes/loved-by-suomi-mundanes-11-glasken-deoch-201.png){: width="100%" }
+![Glasken](/assets/img/records/loved-by-suomi-mundanes/loved-by-suomi-mundanes-14-glasken-deoch-208.png){: width="100%" }
 
 ### Mentored
 Jerry has mentored 1145 other Aislings. So wise!
@@ -228,9 +229,9 @@ Jerry has murdered 1,000 Tagor Citizens, what a monster!
 ![Jerry](/assets/img/records/murdered-tagor-citizens/murdered-tagor-citizens-1000-jerry-deoch-174.png){: width="100%" }
 
 ### Received a Gift from Arcella
-San has received 69 gifts from Arcella. I think someone has a secret admirer!
+Zera has received 91 gifts from Arcella. I think someone has a secret admirer!
 
-![San](/assets/img/records/received-a-gift-from-arcella/received-a-gift-from-arcella-69-san-deoch-165.png){: width="100%" }
+![Zera](/assets/img/records/received-a-gift-from-arcella/received-a-gift-from-arcella-91-zera-deoch-165.png){: width="100%" }
 
 ### Sabonim Hubaes
 Huhuman has taught 593 monks all about the sabonim and the hubae. Wow!
@@ -248,14 +249,14 @@ Ishikawa is well known for jailing unruly Aislings. 3151?! That's a lot of unrul
 ![Ishikawa](/assets/img/records/sentenced-criminals/sentenced-criminals-3151-ishikawa-jan-2024.png){: width="100%" }
 
 ### Sgath Summoning
-Malache has summoned a Sgath 10 times as of Deoch 61. Double Digits Sgaths!
+Zeix has summoned a Sgath 19 times as of Deoch 89. So many Sgaths!
 
-![Malache](/assets/img/records/sgath-summoning/sgath-summoning-10-malache.png){: width="100%" }
+![Zeix](/assets/img/records/sgath-summoning/sgath-summoning-19-zeix-deoch-89.png){: width="100%" }
 
 ### Survived Mech Invasion
-Aon has survived 1279 mech invasions! Mighty!
+FrauLynn has survived 1759 mech invasions! Mighty!
 
-![Aon](/assets/img/records/survived-mech-invasion/survived-mech-invasion-1279-aon-deoch-127.png){: width="100%" }
+![Aon](/assets/img/records/survived-mech-invasion/survived-mech-invasion-1759-fraulynn-deoch-160.png){: width="100%" }
 
 ### Tailoring
 Warginald has achieved a Tailor (19) mark! Incredible!
