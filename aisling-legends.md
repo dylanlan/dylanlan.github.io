@@ -8,7 +8,7 @@ permalink: /aisling-legends/
 
 Here's a collection of various Aisling profiles and legend marks over the years!
 
-Note that some of them have the last chunk of their legend marks duplicated, due to a limitation in how I'm stitching them together which needs manual fixing
+The newer years (2024+) include full legend marks, but the older years (2010 and earlier) are mostly just profiles.
 
 ## 2025
 
@@ -21,8 +21,6 @@ Note that some of them have the last chunk of their legend marks duplicated, due
 <div class="year-scroll">
     <ul id="name-list-2024"></ul>
 </div>
-
-Most profiles from older years are missing legend marks
 
 ## 2010
 

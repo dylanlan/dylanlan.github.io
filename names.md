@@ -12,32 +12,24 @@ Hello there! Are you wanting to play Darkages, but can't come up with a good nam
 
 First come first served, to get these Aisling names!
 
-New Names:
-- Binary (M)
-- Evolve (F)
-- Fragment (F)
-- Hannibal (M)
-- Imagination (F)
-- Magnet (F)
-- Poodle (F)
-- Rabid (M)
-
 Unclaimed Names:
 - Advanced (M)
 - Affinity (F)
 - Army (M)
+- Binary (M)
 - Brad (M)
 - Bronze (M)
 - Caterpie (F)
 - Cowboy (M)
 - DuffBeer (M)
 - Dynamic (F)
-- Horse (F)
+- Fragment (F)
+- Imagination (F)
 - Magnet (F)
-- Minerva (M)
 - Organ (F)
-- PingPong (M)
 - Poliwrath (M)
+- Poodle (F)
+- Rabid (M)
 - Saphire (F)
 - Sewer (M)
 - Steak (M)

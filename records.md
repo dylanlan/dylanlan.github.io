@@ -4,13 +4,13 @@ title:  Temuair World Records
 permalink: /records/
 ---
 
+# Legend Mark Records
+
 <input type="text" id="search" placeholder="Search records..." style="margin-bottom: 1em; padding: 0.5em; width: 100%;" />
 
 This project aims to have a collection of verifiable and beatable records, showcasing some of the most impressive Aislings across Temuair!
 
 If you contact me about a record that you might own and let me take a screenshot of your legend, I can add you to this list!
-
-# Legend Mark Records
 
 <div class="record-section">
 <h3>Acquired Lonely Santa's Satchel</h3>
