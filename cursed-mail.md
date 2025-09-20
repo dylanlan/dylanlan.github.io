@@ -11,39 +11,60 @@ It's not obvious which words are disallowed, and it can be very tricky to figure
 Try to figure out which word in each of these mail letters is making it undeliverable:
 
 
-1. Easiest
+Easiest
 
 ![1-easy](/assets/img/cursed-mail/1-easy.png){: width="100%" }
 
-    Answer: ?
+<details><summary>Answer:</summary>
+lollipop
+</details>
+<br/>
 
-2. Medium
+Medium
+
 ![2-medium](/assets/img/cursed-mail/2-medium.png){: width="100%" }
 
-    Answer: ?
+<details><summary>Answer:</summary>
+bioinformatics
+</details>
+<br/>
 
-3. Hard
+Hard
+
 ![2-medium](/assets/img/cursed-mail/3-hard.png){: width="100%" }
 
-    Answer: ?
+<details><summary>Answer:</summary>
+kafkaesque
+</details>
+<br/>
 
-4. Silly
+Silly
+
 ![2-medium](/assets/img/cursed-mail/4-silly.png){: width="100%" }
 
-    Answer: ?
+<details><summary>Answer:</summary>
+thx
+</details>
+<br/>
 
-5. Harder (ChatGPT helped with these next two letters. I apologize for the word salad)
+Harder (ChatGPT helped with these next two letters. I apologize for the word salad)
+
 ![2-medium](/assets/img/cursed-mail/5-harder.png){: width="100%" }
 
-    Answer: ?
+<details><summary>Answer:</summary>
+roflcopter
+</details>
+<br/>
 
-6. Hardest
+Hardest
+
 ![2-medium](/assets/img/cursed-mail/6-hardest.png){: width="100%" }
 
-    Answer: ?
+<details><summary>Answer:</summary>
+brbizzare
+</details>
+<br/>
 
 This game was just a silly way to recreate some personal frustration of trying to send a mail in-game. I hope you had fun, or at least learned something!
-
-If you figure out any of these riddles, feel free to DM `dylanlan2` on Discord, specifying which word was the problematic one for which puzzle number! Protein will happily (or reluctantly) offer a fresh Light Belt in-game for every correct answer! But he might yoink a Light Belt, for incorrect answers, so be careful!
 
 (Hint: the curse words can be in-game acronym keywords that get expanded to a word or phrase)

@@ -10,16 +10,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: About
       url: /about
-    - text: Get Started
-      url: /get-started
-    - text: Guild
-      url: /guild
     - text: Adventures
       url: /blog
-    - text: College
-      url: /college
-    - text: QoL
-      url: /qol
+    - text: Profiles
+      url: /aisling-legends
+    - text: Records
+      url: /records
     - text: Links
       url: /links
     - text: Misc

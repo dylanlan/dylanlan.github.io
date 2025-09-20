@@ -4,7 +4,7 @@ title:  Darkages Bugs or Quality of Life Suggestions
 permalink: /qol/
 ---
 
-A random and incomplete list of various known bugs or quality of life suggestions for Darkages!
+A random and incomplete list of various known bugs or suggested improvements for Darkages!
 
 If you're curious about bugs / features of this site itself, check out its own [Website QoL]({{ site.data.urls.blog_qol }}) page
 

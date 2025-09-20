@@ -8,7 +8,7 @@ permalink: /records/
 
 <input type="text" id="search" placeholder="Search records..." style="margin-bottom: 1em; padding: 0.5em; width: 100%;" />
 
-This project aims to have a collection of verifiable and beatable records, showcasing some of the most impressive Aislings across Temuair!
+This page aims to have a collection of verifiable and beatable legend mark records, showcasing some of the most impressive Aislings feats across Temuair! Note that these records are a work-in-progress, and are only from the Aislings I've seen in-game since 2024.
 
 If you contact me about a record that you might own and let me take a screenshot of your legend, I can add you to this list!
 

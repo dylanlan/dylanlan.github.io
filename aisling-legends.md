@@ -4,39 +4,43 @@ title: Aisling Legends
 permalink: /aisling-legends/
 ---
 
+# Aisling Profiles
+
 <input type="text" id="search" placeholder="Search names..." style="margin-bottom: 1em; padding: 0.5em; width: 100%;" />
 
 Here's a collection of various Aisling profiles and legend marks over the years!
 
-The newer years (2024+) include full legend marks, but the older years (2010 and earlier) are mostly just profiles.
-
-## 2025
+## 2025 Legends
 
 <div class="year-scroll">
     <ul id="name-list-2025"></ul>
 </div>
 
-## 2024
+## 2024 Legends
 
 <div class="year-scroll">
     <ul id="name-list-2024"></ul>
 </div>
 
-## 2010
+## 2010 Profiles
 
-<ul id="name-list-2010"></ul>
+<div class="year-scroll">
+    <ul id="name-list-2010"></ul>
+</div>
 
-## 2009
+## 2009 Profiles
 
-<ul id="name-list-2009"></ul>
+<div class="year-scroll">
+    <ul id="name-list-2009"></ul>
+</div>
 
-## 2008
+## 2008 Profiles
 
 <div class="year-scroll">
     <ul id="name-list-2008"></ul>
 </div>
 
-## 2007
+## 2007 Profiles
 
 <div class="year-scroll">
     <ul id="name-list-2007"></ul>

@@ -12,6 +12,7 @@ music: /music
 poetry: /poetry
 hidden_lore: /hidden-lore
 aisling_legends: /aisling-legends
+legend_marks: /legend-marks
 
 # Awakenings
 nalyd_awaken: /awakening/2007/02/15/nalyd-awakening
@@ -31,6 +32,7 @@ crypt_terror: /adventure/2024/01/11/moose-crypt-terror
 porte_experiment: /adventure/2024/01/14/porte-moose-experiment
 
 # College
+college: /college
 memory_guide: /college/memory-guide
 feral_fountains: /college/feral-fountains
 
