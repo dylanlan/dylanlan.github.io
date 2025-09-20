@@ -421,9 +421,9 @@ If you contact me about a record that you might own and let me take a screenshot
 </div>
 
 <div class="record-section">
-<h3>Involved in Gem Polishing</h3>
-<p>dylanlan currently has this record, at 8677</p>
-<img src="/assets/img/records/involved-in-gem-polishing/involved-in-gem-polishing-8677-dylanlan-deoch-.png" width="100%" />
+<h3>Jailed</h3>
+<p>enuff currently has this record, at 3</p>
+<img src="/assets/img/records/jailed/jailed-3-enuff-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -484,6 +484,12 @@ If you contact me about a record that you might own and let me take a screenshot
 <h3>Mileth Altar Worshipper</h3>
 <p>srgious currently has this record, at 102 as of Deoch 201</p>
 <img src="/assets/img/records/mileth-altar-worshipper/mileth-altar-worshipper-102-srgious-deoch-201.png" width="100%" />
+</div>
+
+<div class="record-section">
+<h3>Murdered Tagor citizens</h3>
+<p>joneleth currently has this record, at 20</p>
+<img src="/assets/img/records/murdered-tagor-citizens/murdered-tagor-citizens-20-joneleth-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -596,8 +602,8 @@ If you contact me about a record that you might own and let me take a screenshot
 
 <div class="record-section">
 <h3>Zombie Slayer Record</h3>
-<p>elsielsa currently has this record, at 1556</p>
-<img src="/assets/img/records/zombie-slayer-record/zombie-slayer-record-1556-elsielsa-deoch-.png" width="100%" />
+<p>firewind currently has this record, at 2265</p>
+<img src="/assets/img/records/zombie-slayer-record/zombie-slayer-record-2265-firewind-deoch-.png" width="100%" />
 </div>
 
 <script>

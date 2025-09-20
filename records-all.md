@@ -517,6 +517,12 @@
 </div>
 
 <div class="record-section">
+<h3>Jailed</h3>
+<p>enuff currently has this record, at 3</p>
+<img src="/assets/img/records/jailed/jailed-3-enuff-deoch-.png" width="100%" />
+</div>
+
+<div class="record-section">
 <h3>Joined to a lover</h3>
 <p>nioreh currently has this record, at 185 as of Deoch 70</p>
 <img src="/assets/img/records/joined-to-a-lover/joined-to-a-lover-185-nioreh-deoch-70.png" width="100%" />
@@ -580,6 +586,12 @@
 <h3>Mileth Clave Bard</h3>
 <p>kedian currently has this record, at 2 as of Deoch 10</p>
 <img src="/assets/img/records/mileth-clave-bard/mileth-clave-bard-2-kedian-deoch-10.png" width="100%" />
+</div>
+
+<div class="record-section">
+<h3>Murdered Tagor citizens</h3>
+<p>joneleth currently has this record, at 20</p>
+<img src="/assets/img/records/murdered-tagor-citizens/murdered-tagor-citizens-20-joneleth-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -716,6 +728,6 @@
 
 <div class="record-section">
 <h3>Zombie Slayer Record</h3>
-<p>elsielsa currently has this record, at 1556</p>
-<img src="/assets/img/records/zombie-slayer-record/zombie-slayer-record-1556-elsielsa-deoch-.png" width="100%" />
+<p>firewind currently has this record, at 2265</p>
+<img src="/assets/img/records/zombie-slayer-record/zombie-slayer-record-2265-firewind-deoch-.png" width="100%" />
 </div>
