@@ -20,17 +20,15 @@ Here is a fun collection of most types of legend marks in-game!
   <thead>
     <tr>
       <th>Aisling</th>
-      <th>Deoch</th>
-      <th>Text</th>
-      <th>Image</th>
+      <th style="display:none;">SearchText</th>
+      <th>Mark</th>
     </tr>
   </thead>
   <tbody>
     {% for mark in site.data.legend-marks %}
     <tr>
       <td>{{ mark.aisling }}</td>
-      <td>{{ mark.deoch }}</td>
-      <td>{{ mark.text }}</td>
+      <td style="display:none;">{{ mark.text | replace_first: '- ', '' }}</td>
       <td><img src="/assets/img/legend-marks/{{ mark.image }}" alt="{{ mark.text }}" style="height: 50px;" loading="lazy"></td>
     </tr>
     {% endfor %}
@@ -44,7 +42,7 @@ Here is a fun collection of most types of legend marks in-game!
 <script>
   $(document).ready(function () {
     $('#legendMarkTable').DataTable({
-        pageLength: 10,
+        pageLength: 50,
         scrollX: true,
         responsive: true,
         order: [[2, 'desc']],
