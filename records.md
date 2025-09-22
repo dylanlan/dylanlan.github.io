@@ -98,8 +98,8 @@ If you contact me about a record that you might own and let me take a screenshot
 
 <div class="record-section">
 <h3>Banished the Imperial Shade of Blackstar</h3>
-<p>arohanui currently has this record, at 389 as of Deoch 165</p>
-<img src="/assets/img/records/banished-the-imperial-shade-of-blackstar/banished-the-imperial-shade-of-blackstar-389-arohanui-deoch-165.png" width="100%" />
+<p>botakyy currently has this record, at 427 as of Deoch 179</p>
+<img src="/assets/img/records/banished-the-imperial-shade-of-blackstar/banished-the-imperial-shade-of-blackstar-427-botakyy-deoch-179.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -224,8 +224,8 @@ If you contact me about a record that you might own and let me take a screenshot
 
 <div class="record-section">
 <h3>Defended Temuair from Chadul Army Invasion</h3>
-<p>wizadrian currently has this record, at 95 as of Deoch 179</p>
-<img src="/assets/img/records/defended-temuair-from-chadul-army-invasion/defended-temuair-from-chadul-army-invasion-95-wizadrian-deoch-179.png" width="100%" />
+<p>botakyy currently has this record, at 103 as of Deoch 190</p>
+<img src="/assets/img/records/defended-temuair-from-chadul-army-invasion/defended-temuair-from-chadul-army-invasion-103-botakyy-deoch-190.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -236,8 +236,8 @@ If you contact me about a record that you might own and let me take a screenshot
 
 <div class="record-section">
 <h3>Divorced</h3>
-<p>sick currently has this record, at 38 as of Deoch 200</p>
-<img src="/assets/img/records/divorced/divorced-38-sick-deoch-200.png" width="100%" />
+<p>merynn currently has this record, at 42 as of Deoch 214</p>
+<img src="/assets/img/records/divorced/divorced-42-merynn-deoch-214.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -308,8 +308,8 @@ If you contact me about a record that you might own and let me take a screenshot
 
 <div class="record-section">
 <h3>Found Lucky Clovers</h3>
-<p>twinklestar currently has this record, at 152</p>
-<img src="/assets/img/records/found-lucky-clovers/found-lucky-clovers-152-twinklestar-deoch-.png" width="100%" />
+<p>giggles currently has this record, at 213</p>
+<img src="/assets/img/records/found-lucky-clovers/found-lucky-clovers-213-giggles-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -422,8 +422,8 @@ If you contact me about a record that you might own and let me take a screenshot
 
 <div class="record-section">
 <h3>Jailed</h3>
-<p>enuff currently has this record, at 3</p>
-<img src="/assets/img/records/jailed/jailed-3-enuff-deoch-.png" width="100%" />
+<p>disarray currently has this record, at 6</p>
+<img src="/assets/img/records/jailed/jailed-6-disarray-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -518,8 +518,8 @@ If you contact me about a record that you might own and let me take a screenshot
 
 <div class="record-section">
 <h3>Respected Citizen by</h3>
-<p>biomagus currently has this record, at 26 as of Deoch 55</p>
-<img src="/assets/img/records/respected-citizen-by/respected-citizen-by-26-biomagus-deoch-55.png" width="100%" />
+<p>ayleen currently has this record, at 28 as of Deoch 46</p>
+<img src="/assets/img/records/respected-citizen-by/respected-citizen-by-28-ayleen-deoch-46.png" width="100%" />
 </div>
 
 <div class="record-section">
