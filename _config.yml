@@ -1,7 +1,7 @@
 title: dylanlan-ninja
 subtitle: A Temuairan Respite
 description: >- # this means to ignore newlines until "baseurl:"
- A collection of adventures, information, and projects from Dylanlan, all related to the 2000s MMORPG called <a href="https://www.darkages.com" target="_blank">Darkages</a>
+ A collection of adventures, information, and projects from Dylanlan, all related to the 2000s MMORPG called Dark Ages.
 
 url: "https://dylanlan.ninja" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
