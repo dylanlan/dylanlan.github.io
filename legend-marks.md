@@ -29,7 +29,7 @@ Here is a fun collection of most types of legend marks in-game!
     <tr>
       <td>{{ mark.aisling }}</td>
       <td style="display:none;">{{ mark.text | replace_first: '- ', '' }}</td>
-      <td><img src="/assets/img/legend-marks/{{ mark.image }}" alt="{{ mark.text }}" style="height: 50px;" loading="lazy"></td>
+      <td><img class="legend-mark-img" src="/assets/img/legend-marks/{{ mark.image }}" alt="{{ mark.text }}" style="height: 40px;" loading="lazy"></td>
     </tr>
     {% endfor %}
   </tbody>

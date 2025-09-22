@@ -595,6 +595,24 @@ header {
     width: 0;
 }
 
+@media (max-width: 1200px) {
+  .legend-mark-img {
+    height: 40px !important;
+  }
+}
+
+@media (max-width: 800px) {
+  .legend-mark-img {
+    height: 20px !important;
+  }
+}
+
+@media (max-width: 400px) {
+  .legend-mark-img {
+    height: 10px !important;
+  }
+}
+
 
 /* Homepage project cards*/
 
