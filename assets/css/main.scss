@@ -9,5 +9,17 @@
 
 
 .main-container {
-    width: 90%;
+    width: 80%;
+}
+
+@media (max-width: 1200px) {
+    .main-container {
+        width: 90% !important;
+    }
+}
+
+@media (max-width: 800px) {
+    .main-container {
+        width: 100% !important;
+    }
 }
