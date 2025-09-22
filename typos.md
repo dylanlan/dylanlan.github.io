@@ -19,6 +19,8 @@ Coming Soon: more screenshots!
 - I cannot take any more or your items
 - O, if your lover discovered?
 - Arena dude when reviving you??
+- 0 hours / minutes since last loged in
+- Riona's greeting says mundane = computer peronality
 
 
 
