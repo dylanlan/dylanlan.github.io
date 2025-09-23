@@ -4,13 +4,18 @@ title:  Temuair World Records
 permalink: /records/
 ---
 
-# Legend Mark Records
-
 <input type="text" id="search" placeholder="Search records..." style="margin-bottom: 1em; padding: 0.5em; width: 100%;" />
 
-This page aims to have a collection of verifiable and beatable legend mark records, showcasing some of the most impressive Aislings feats across Temuair! Note that these records are a work-in-progress, and are only from the Aislings I've seen in-game since 2024.
+This page aims to have a collection of verifiable and beatable records, showcasing some of the most impressive Aislings feats across Temuair! Note that these records are a work-in-progress, and are only from the Aislings I've seen in-game since 2024:
 
-If you contact me about a record that you might own and let me take a screenshot of your legend, I can add you to this list!
+- [Legend Marks](#legend-mark-records)
+- [Items](#banked-item-records)
+
+If you contact me about a record that you might own and send me a screenshot, I can add you to this list!
+
+# Legend Mark Records
+
+These records are for various types of legend marks that have been repeated the most times!
 
 <div class="record-section">
 <h3>Acquired Lonely Santa's Satchel</h3>
@@ -605,6 +610,38 @@ If you contact me about a record that you might own and let me take a screenshot
 <p>firewind currently has this record, at 2265</p>
 <img src="/assets/img/records/zombie-slayer-record/zombie-slayer-record-2265-firewind-deoch-.png" width="100%" />
 </div>
+
+
+
+# Banked Item Records
+
+These records are simply for Aislings who have banked the most of a certain item!
+
+<div class="record-section">
+<h3>Fomorian Rags</h3>
+<p>Warp currently has this record, at 30 of them banked!</p>
+<img src="/assets/img/records/items-banked/fomorian-rag-30-warp.png" width="100%" />
+</div>
+
+<div class="record-section">
+<h3>Hy-brasyl Fragments</h3>
+<p>Warp currently has this record, at 1,153 of them banked!</p>
+<img src="/assets/img/records/items-banked/hy-brasyl-fragments-1153-warp.png" width="100%" />
+</div>
+
+<div class="record-section">
+<h3>Light Belts</h3>
+<p>LightBelts currently has this record, at 8,039 of them banked!</p>
+<img src="/assets/img/records/items-banked/light-belts-8039-lightbelts.png" width="100%" />
+</div>
+
+<div class="record-section">
+<h3>World Shout Bundles</h3>
+<p>Ailred currently has this record, at 313 of them banked!</p>
+<img src="/assets/img/records/items-banked/world-shout-bundles-313-ailred.png" width="100%" />
+</div>
+
+
 
 <script>
 document.getElementById('search').addEventListener('input', function () {
