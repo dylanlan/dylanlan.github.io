@@ -590,8 +590,8 @@
 
 <div class="record-section">
 <h3>Murdered Tagor citizens</h3>
-<p>joneleth currently has this record, at 20</p>
-<img src="/assets/img/records/murdered-tagor-citizens/murdered-tagor-citizens-20-joneleth-deoch-.png" width="100%" />
+<p>xemanox currently has this record, at 69</p>
+<img src="/assets/img/records/murdered-tagor-citizens/murdered-tagor-citizens-69-xemanox-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
