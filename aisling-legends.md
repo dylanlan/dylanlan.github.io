@@ -75,10 +75,27 @@ Here's a collection of various Aisling profiles and legend marks over the years!
         const filter = this.value.toLowerCase();
         years.forEach(function(year) {
             const listItems = document.querySelectorAll(`#name-list-${year} li`);
+            let visibleCount = 0;
             listItems.forEach(function (li) {
                 const text = li.textContent.toLowerCase();
-                li.style.display = text.includes(filter) ? '' : 'none';
+                const isVisible = text.includes(filter);
+                li.style.display = isVisible ? '' : 'none';
+                if (isVisible) visibleCount++;
             });
+            
+            const nameList = document.getElementById(`name-list-${year}`);
+            const header = nameList.closest('div').previousElementSibling;
+            if (visibleCount === 0) {
+                if (header && header.tagName.startsWith('H')) {
+                    header.style.display = 'none';
+                }
+                nameList.closest('div').style.display = 'none';
+            } else {
+                if (header && header.tagName.startsWith('H')) {
+                    header.style.display = '';
+                }
+                nameList.closest('div').style.display = '';
+            }
         });
     });
 </script>
