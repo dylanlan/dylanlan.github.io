@@ -20,8 +20,8 @@
 
 <div class="record-section">
 <h3>Adoration of Danaan</h3>
-<p>biomagus currently has this record, at 25 as of Deoch 20</p>
-<img src="/assets/img/records/adoration-of-danaan/adoration-of-danaan-25-biomagus-deoch-20.png" width="100%" />
+<p>biomagus currently has this record, at 26 as of Deoch 20</p>
+<img src="/assets/img/records/adoration-of-danaan/adoration-of-danaan-26-biomagus-deoch-20.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -74,8 +74,8 @@
 
 <div class="record-section">
 <h3>Avid Temuairian Daydreamer</h3>
-<p>starsparkler currently has this record, at 34 as of Deoch 180</p>
-<img src="/assets/img/records/avid-temuairian-daydreamer/avid-temuairian-daydreamer-34-starsparkler-deoch-180.png" width="100%" />
+<p>starphoenix currently has this record, at 42 as of Deoch 180</p>
+<img src="/assets/img/records/avid-temuairian-daydreamer/avid-temuairian-daydreamer-42-starphoenix-deoch-180.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -86,8 +86,8 @@
 
 <div class="record-section">
 <h3>Banished the Imperial Shade of Blackstar</h3>
-<p>botakyy currently has this record, at 427 as of Deoch 179</p>
-<img src="/assets/img/records/banished-the-imperial-shade-of-blackstar/banished-the-imperial-shade-of-blackstar-427-botakyy-deoch-179.png" width="100%" />
+<p>entar currently has this record, at 447 as of Deoch 170</p>
+<img src="/assets/img/records/banished-the-imperial-shade-of-blackstar/banished-the-imperial-shade-of-blackstar-447-entar-deoch-170.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -314,8 +314,8 @@
 
 <div class="record-section">
 <h3>Divorced</h3>
-<p>merynn currently has this record, at 42 as of Deoch 214</p>
-<img src="/assets/img/records/divorced/divorced-42-merynn-deoch-214.png" width="100%" />
+<p>merynn currently has this record, at 55 as of Deoch 214</p>
+<img src="/assets/img/records/divorced/divorced-55-merynn-deoch-214.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -535,6 +535,12 @@
 </div>
 
 <div class="record-section">
+<h3>Killed Dark Aislings</h3>
+<p>biomagus currently has this record, at 31</p>
+<img src="/assets/img/records/killed-dark-aislings/killed-dark-aislings-31-biomagus-deoch-.png" width="100%" />
+</div>
+
+<div class="record-section">
 <h3>Last Held Mass</h3>
 <p>dethf currently has this record, at 44</p>
 <img src="/assets/img/records/last-held-mass/last-held-mass-44-dethf-deoch-.png" width="100%" />
@@ -668,8 +674,8 @@
 
 <div class="record-section">
 <h3>Slew Terror of the Crypt</h3>
-<p>glasken currently has this record, at 50 as of Deoch 98</p>
-<img src="/assets/img/records/slew-terror-of-the-crypt/slew-terror-of-the-crypt-50-glasken-deoch-98.png" width="100%" />
+<p>artur currently has this record, at 130 as of Deoch 71</p>
+<img src="/assets/img/records/slew-terror-of-the-crypt/slew-terror-of-the-crypt-130-artur-deoch-71.png" width="100%" />
 </div>
 
 <div class="record-section">
