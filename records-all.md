@@ -518,8 +518,8 @@
 
 <div class="record-section">
 <h3>Jailed</h3>
-<p>disarray currently has this record, at 6</p>
-<img src="/assets/img/records/jailed/jailed-6-disarray-deoch-.png" width="100%" />
+<p>booya currently has this record, at 12</p>
+<img src="/assets/img/records/jailed/jailed-12-booya-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -640,6 +640,12 @@
 <h3>Respected Citizen by</h3>
 <p>ayleen currently has this record, at 28 as of Deoch 46</p>
 <img src="/assets/img/records/respected-citizen-by/respected-citizen-by-28-ayleen-deoch-46.png" width="100%" />
+</div>
+
+<div class="record-section">
+<h3>Sabonim of Dugon</h3>
+<p>huhuman currently has this record, at 695 as of Deoch 38</p>
+<img src="/assets/img/records/sabonim-of-dugon/sabonim-of-dugon-695-huhuman-deoch-38.png" width="100%" />
 </div>
 
 <div class="record-section">
