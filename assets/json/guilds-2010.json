@@ -1,27 +1,17 @@
 {
-  "Tempest": {
-    "Member": [
-      "Dylanlan"
-    ]
-  },
   "Avant Garde": {
-    "Leader": [
-      "Dyven"
-    ]
-  },
-  "Luna Arcanus": {
-    "Member": [
-      "klori"
-    ]
+    "Leader": ["Dyven"]
   },
   "Kaleidoscope": {
-    "Member": [
-      "NaLyd"
-    ]
+    "Member": ["NaLyd"]
+  },
+  "Luna Arcanus": {
+    "Member": ["klori"]
   },
   "Requiem": {
-    "Member": [
-      "wiLdstAr"
-    ]
+    "Member": ["wiLdstAr"]
+  },
+  "Tempest": {
+    "Member": ["Dylanlan"]
   }
 }

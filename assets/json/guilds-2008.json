@@ -1,187 +1,99 @@
 {
-  "Agnos Armonia": {
-    "Member": [
-      "Akhuma"
-    ]
+  "Aeterna": {
+    "Council": ["ROGGiN"]
   },
-  "Cult de Carrot": {
-    "Member": [
-      "Alycia",
-      "Glitch",
-      "Kagado",
-      "Sends",
-      "StarMaiden"
-    ],
-    "Council": [
-      "Firewind"
-    ]
+  "Agnos Armonia": {
+    "Member": ["Akhuma"]
   },
   "Bregan D'aerth": {
-    "Member": [
-      "Arare"
-    ]
+    "Member": ["Arare"]
   },
-  "Lag": {
-    "Leader": [
-      "aRESFaLCo"
-    ]
-  },
-  "Hashishin": {
-    "Council": [
-      "Arikon"
-    ],
-    "Member": [
-      "niZon"
-    ]
-  },
-  "Meitheal Siora": {
-    "Member": [
-      "Arzath",
-      "PrincessM"
-    ],
-    "Council": [
-      "CaptainBilly"
-    ]
-  },
-  "Shin Hwa": {
-    "Member": [
-      "Auzric"
-    ]
-  },
-  "GodkompIex": {
-    "Member": [
-      "Boos",
-      "KaoKan",
-      "Merciless",
-      "TrainerWiz"
-    ],
-    "Council": [
-      "XZorvion"
-    ]
-  },
-  "Europa": {
-    "Member": [
-      "CandyFloss"
-    ],
-    "Council": [
-      "DinoBabe"
-    ]
-  },
-  "Shinigami": {
-    "Member": [
-      "Celebros",
-      "CurethEevil",
-      "NaLyd",
-      "Runella"
-    ]
-  },
-  "Klaus Solis": {
-    "Member": [
-      "Chronoblade"
-    ]
-  },
-  "Lunitari": {
-    "Member": [
-      "Dieu",
-      "FairyHealer"
-    ]
-  },
-  "Genesis": {
-    "Leader": [
-      "Galaxis"
-    ],
-    "Member": [
-      "Rollson"
-    ]
-  },
-  "Phoenix Rising": {
-    "Council": [
-      "iLyria"
-    ]
-  },
-  "Peasant": {
-    "Leader": [
-      "Jalapeno"
-    ]
-  },
-  "Escutcheon": {
-    "Council": [
-      "Komoku"
-    ]
-  },
-  "Leven en Dood": {
-    "Member": [
-      "kropu"
-    ]
-  },
-  "Super Stars": {
-    "Council": [
-      "makeup"
-    ]
-  },
-  "Fiel Capilla": {
-    "Member": [
-      "Martrim"
-    ]
-  },
-  "Empire": {
-    "Council": [
-      "Narala"
-    ],
-    "Member": [
-      "Venist"
-    ]
-  },
-  "Jedi Knights": {
-    "Council": [
-      "Necrean"
-    ]
-  },
-  "Heroes": {
-    "Leader": [
-      "Ramia"
-    ]
-  },
-  "Aeterna": {
-    "Council": [
-      "ROGGiN"
-    ]
-  },
-  "Mathain": {
-    "Member": [
-      "Roshlin"
-    ]
-  },
-  "Team Orange": {
-    "Leader": [
-      "RouXoriana"
-    ]
-  },
-  "TwiSteD CiRcLe": {
-    "Member": [
-      "Sakra"
-    ]
-  },
-  "SG QuaLmE": {
-    "Leader": [
-      "Saraden"
-    ]
+  "Cult de Carrot": {
+    "Council": ["Firewind"],
+    "Member": ["Alycia","Glitch","Kagado","Sends","StarMaiden"]
   },
   "Dark Heaven": {
-    "Member": [
-      "ShadowRand"
-    ]
-  },
-  "Tiarnach": {
-    "Member": [
-      "SPHINXER",
-      "SpIack",
-      "StankoviC"
-    ]
+    "Member": ["ShadowRand"]
   },
   "Desolate Wind": {
-    "Member": [
-      "Xerge"
-    ]
+    "Member": ["Xerge"]
+  },
+  "Empire": {
+    "Council": ["Narala"],
+    "Member": ["Venist"]
+  },
+  "Escutcheon": {
+    "Council": ["Komoku"]
+  },
+  "Europa": {
+    "Council": ["DinoBabe"],
+    "Member": ["CandyFloss"]
+  },
+  "Fiel Capilla": {
+    "Member": ["Martrim"]
+  },
+  "Genesis": {
+    "Leader": ["Galaxis"],
+    "Member": ["Rollson"]
+  },
+  "GodkompIex": {
+    "Council": ["XZorvion"],
+    "Member": ["Boos","KaoKan","Merciless","TrainerWiz"]
+  },
+  "Hashishin": {
+    "Council": ["Arikon"],
+    "Member": ["niZon"]
+  },
+  "Heroes": {
+    "Leader": ["Ramia"]
+  },
+  "Jedi Knights": {
+    "Council": ["Necrean"]
+  },
+  "Klaus Solis": {
+    "Member": ["Chronoblade"]
+  },
+  "Lag": {
+    "Leader": ["aRESFaLCo"]
+  },
+  "Leven en Dood": {
+    "Member": ["kropu"]
+  },
+  "Lunitari": {
+    "Member": ["Dieu","FairyHealer"]
+  },
+  "Mathain": {
+    "Member": ["Roshlin"]
+  },
+  "Meitheal Siora": {
+    "Council": ["CaptainBilly"],
+    "Member": ["Arzath","PrincessM"]
+  },
+  "Peasant": {
+    "Leader": ["Jalapeno"]
+  },
+  "Phoenix Rising": {
+    "Council": ["iLyria"]
+  },
+  "SG QuaLmE": {
+    "Leader": ["Saraden"]
+  },
+  "Shin Hwa": {
+    "Member": ["Auzric"]
+  },
+  "Shinigami": {
+    "Member": ["Celebros","CurethEevil","NaLyd","Runella"]
+  },
+  "Super Stars": {
+    "Council": ["makeup"]
+  },
+  "Team Orange": {
+    "Leader": ["RouXoriana"]
+  },
+  "Tiarnach": {
+    "Member": ["SPHINXER","SpIack","StankoviC"]
+  },
+  "TwiSteD CiRcLe": {
+    "Member": ["Sakra"]
   }
 }

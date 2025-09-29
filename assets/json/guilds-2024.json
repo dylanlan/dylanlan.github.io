@@ -1,232 +1,93 @@
 {
-  "Dark Horizons": {
-    "Member": [
-      "Abigor",
-      "Ancalime",
-      "angrymax",
-      "brinx",
-      "Brox",
-      "Dylanlan",
-      "FRAULYNN",
-      "Ganjalique",
-      "Hihaku",
-      "Jiin",
-      "Lexem",
-      "melon",
-      "NagisaChan",
-      "Nupps",
-      "Rubius",
-      "SunYukii",
-      "Whitehall"
-    ],
-    "Council": [
-      "Brittany",
-      "oTil",
-      "Venezia",
-      "Yukii"
-    ]
-  },
-  "Fire Nation": {
-    "Member": [
-      "Acesin",
-      "Chamiel",
-      "Firecon",
-      "Leemon",
-      "Monicka",
-      "Ramanayan"
-    ],
-    "Leader": [
-      "eiscego"
-    ],
-    "Council": [
-      "Iglis",
-      "Laurier",
-      "safe",
-      "Set"
-    ]
-  },
-  "Kame Sennin": {
-    "Council": [
-      "Aeacus",
-      "MrMvP",
-      "Viveena",
-      "yLo"
-    ],
-    "Member": [
-      "BlueJr",
-      "Como",
-      "disarray",
-      "eZe",
-      "final",
-      "kao",
-      "Poker"
-    ]
-  },
-  "Holy Templar": {
-    "Council": [
-      "Alvino"
-    ]
-  },
-  "Sradagan": {
-    "Leader": [
-      "Aon"
-    ],
-    "Member": [
-      "Fen",
-      "NaLyd",
-      "Tridemp",
-      "vstampede"
-    ]
-  },
-  "ORC TOWN": {
-    "Member": [
-      "AresFalco",
-      "Diablos",
-      "Japjll",
-      "QUiGS",
-      "Seal",
-      "Srgious",
-      "Zurf"
-    ],
-    "Council": [
-      "Eternalty",
-      "Nioreh"
-    ]
-  },
-  "Legion": {
-    "Member": [
-      "Arohanui"
-    ]
-  },
-  "Milkshakes": {
-    "Leader": [
-      "Bea"
-    ],
-    "Member": [
-      "Warginald"
-    ],
-    "Council": [
-      "Wizadrian"
-    ]
-  },
-  "Cult de Carrot": {
-    "Leader": [
-      "BioMagus"
-    ],
-    "Member": [
-      "Cazbrileth",
-      "Tridane"
-    ]
-  },
-  "Lag": {
-    "Council": [
-      "BoJingIes",
-      "Enoxze",
-      "Kald",
-      "Kallina",
-      "Peppita",
-      "ridiickai",
-      "Telme"
-    ],
-    "Member": [
-      "Greggius",
-      "makeup"
-    ]
+  "Alternative": {
+    "Member": ["FatalRevenge"]
   },
   "Apotheosis": {
-    "Member": [
-      "DemyLo"
-    ],
-    "Council": [
-      "NoirGato",
-      "Perspective",
-      "Rafael"
-    ]
+    "Council": ["NoirGato","Perspective","Rafael"],
+    "Member": ["DemyLo"]
   },
-  "Euphoria": {
-    "Council": [
-      "Dynamus",
-      "Tazz"
-    ]
-  },
-  "Tiarnach": {
-    "Council": [
-      "eXonyte"
-    ],
-    "Member": [
-      "sick"
-    ]
-  },
-  "Alternative": {
-    "Member": [
-      "FatalRevenge"
-    ]
-  },
-  "Nie Alleine": {
-    "Member": [
-      "Giggles"
-    ]
-  },
-  "Renaissance": {
-    "Council": [
-      "Huhuman",
-      "Moogle",
-      "Naena"
-    ]
+  "Cult de Carrot": {
+    "Leader": ["BioMagus"],
+    "Member": ["Cazbrileth","Tridane"]
   },
   "Dark Heaven": {
-    "Member": [
-      "Hyrule"
-    ]
+    "Member": ["Hyrule"]
   },
-  "Tuatha de Deo": {
-    "Member": [
-      "Ishikawa"
-    ],
-    "Council": [
-      "Merisa"
-    ]
+  "Dark Horizons": {
+    "Council": ["Brittany","oTil","Venezia","Yukii"],
+    "Member": ["Abigor","Ancalime","angrymax","brinx","Brox","Dylanlan","FRAULYNN","Ganjalique","Hihaku","Jiin","Lexem","melon","NagisaChan","Nupps","Rubius","SunYukii","Whitehall"]
   },
-  "Shinigami": {
-    "Council": [
-      "Jaice"
-    ]
+  "Euphoria": {
+    "Council": ["Dynamus","Tazz"]
   },
-  "Harmonia": {
-    "Council": [
-      "Jerry",
-      "Makunouchi"
-    ]
-  },
-  "Misneach": {
-    "Leader": [
-      "Makeii"
-    ]
-  },
-  "Via ad Astra": {
-    "Council": [
-      "NeoxBahamut",
-      "ReyaKeely"
-    ]
+  "Fire Nation": {
+    "Leader": ["eiscego"],
+    "Council": ["Iglis","Laurier","safe","Set"],
+    "Member": ["Acesin","Chamiel","Firecon","Leemon","Monicka","Ramanayan"]
   },
   "GLUCK GLUCK": {
-    "Member": [
-      "PopaEggs"
-    ]
+    "Member": ["PopaEggs"]
+  },
+  "Harmonia": {
+    "Council": ["Jerry","Makunouchi"]
+  },
+  "Holy Templar": {
+    "Council": ["Alvino"]
   },
   "iPvE": {
-    "Leader": [
-      "Renvo"
-    ]
+    "Leader": ["Renvo"]
   },
-  "Ouroboros": {
-    "Council": [
-      "undefined"
-    ]
+  "Kame Sennin": {
+    "Council": ["Aeacus","MrMvP","Viveena","yLo"],
+    "Member": ["BlueJr","Como","disarray","eZe","final","kao","Poker"]
+  },
+  "Lag": {
+    "Council": ["BoJingIes","Enoxze","Kald","Kallina","Peppita","ridiickai","Telme"],
+    "Member": ["Greggius","makeup"]
+  },
+  "Legion": {
+    "Member": ["Arohanui"]
+  },
+  "Milkshakes": {
+    "Leader": ["Bea"],
+    "Council": ["Wizadrian"],
+    "Member": ["Warginald"]
+  },
+  "Misneach": {
+    "Leader": ["Makeii"]
+  },
+  "Nie Alleine": {
+    "Member": ["Giggles"]
   },
   "ONE MORE TIME": {
-    "Leader": [
-      "XiaoLei"
-    ]
+    "Leader": ["XiaoLei"]
+  },
+  "ORC TOWN": {
+    "Council": ["Eternalty","Nioreh"],
+    "Member": ["AresFalco","Diablos","Japjll","QUiGS","Seal","Srgious","Zurf"]
+  },
+  "Ouroboros": {
+    "Council": ["undefined"]
+  },
+  "Renaissance": {
+    "Council": ["Huhuman","Moogle","Naena"]
+  },
+  "Shinigami": {
+    "Council": ["Jaice"]
+  },
+  "Sradagan": {
+    "Leader": ["Aon"],
+    "Member": ["Fen","NaLyd","Tridemp","vstampede"]
+  },
+  "Tiarnach": {
+    "Council": ["eXonyte"],
+    "Member": ["sick"]
+  },
+  "Tuatha de Deo": {
+    "Council": ["Merisa"],
+    "Member": ["Ishikawa"]
+  },
+  "Via ad Astra": {
+    "Council": ["NeoxBahamut","ReyaKeely"]
   }
 }
