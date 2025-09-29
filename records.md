@@ -635,6 +635,12 @@ These records are simply for Aislings who have banked the most of a certain item
 </div>
 
 <div class="record-section">
+<h3>Hy-brasyl Boots</h3>
+<p>NeoxBahamut currently has this record, at 1,085 of them banked!</p>
+<img src="/assets/img/records/items-banked/hy-brasyl-boots-1085-neoxbahamut.png" width="100%" />
+</div>
+
+<div class="record-section">
 <h3>Hy-brasyl Fragments</h3>
 <p>Warp currently has this record, at 1,153 of them banked!</p>
 <img src="/assets/img/records/items-banked/hy-brasyl-fragments-1153-warp.png" width="100%" />
