@@ -32,8 +32,8 @@
 
 <div class="record-section">
 <h3>Aided Captain Spack Jarrow retrieve coins</h3>
-<p>glasken currently has this record, at 10</p>
-<img src="/assets/img/records/aided-captain-spack-jarrow-retrieve-coins/aided-captain-spack-jarrow-retrieve-coins-10-glasken-deoch-190.png" width="100%" />
+<p>duergar currently has this record, at 14</p>
+<img src="/assets/img/records/aided-captain-spack-jarrow-retrieve-coins/aided-captain-spack-jarrow-retrieve-coins-14-duergar-deoch-190.png" width="100%" />
 </div>
 
 <div class="record-section">

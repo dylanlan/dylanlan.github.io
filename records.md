@@ -44,8 +44,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Aided Captain Spack Jarrow retrieve coins</h3>
-<p>Glasken currently has this record, at 10</p>
-<img src="/assets/img/records/aided-captain-spack-jarrow-retrieve-coins/aided-captain-spack-jarrow-retrieve-coins-10-glasken-deoch-190.png" width="100%" />
+<p>Duergar currently has this record, at 14</p>
+<img src="/assets/img/records/aided-captain-spack-jarrow-retrieve-coins/aided-captain-spack-jarrow-retrieve-coins-14-duergar-deoch-190.png" width="100%" />
 </div>
 
 <div class="record-section">
