@@ -230,8 +230,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Divorced</h3>
-<p>Merynn currently has this record, at 55</p>
-<img src="/assets/img/records/divorced/divorced-55-merynn-deoch-214.png" width="100%" />
+<p>Merynn currently has this record, at 124</p>
+<img src="/assets/img/records/divorced/divorced-124-merynn-deoch-215.png" width="100%" />
 </div>
 
 <div class="record-section">
