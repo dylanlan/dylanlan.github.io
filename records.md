@@ -253,9 +253,9 @@ These records are for various types of legend marks that have been repeated the 
 </div>
 
 <div class="record-section">
-<h3>Eulogy to Adranuch at Pravat</h3>
-<p>StarShine currently has this record, at 24</p>
-<img src="/assets/img/records/eulogy-to-adranuch-at-pravat/eulogy-to-adranuch-at-pravat-24-starshine-deoch-24.png" width="100%" />
+<h3>Completed Daily Quest</h3>
+<p>giller currently has this record, at 665</p>
+<img src="/assets/img/records/completed-daily-quest/completed-daily-quest-665-giller-deoch-215.png" width="100%" />
 </div>
 
 <div class="record-section">
