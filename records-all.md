@@ -380,8 +380,8 @@
 
 <div class="record-section">
 <h3>Fair Marshal</h3>
-<p>ramanayan currently has this record, at 5</p>
-<img src="/assets/img/records/fair-marshal/fair-marshal-5-ramanayan-deoch-.png" width="100%" />
+<p>barb currently has this record, at 6</p>
+<img src="/assets/img/records/fair-marshal/fair-marshal-6-barb-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
