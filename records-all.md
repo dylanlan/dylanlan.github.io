@@ -296,14 +296,14 @@
 
 <div class="record-section">
 <h3>Defended Mt. Merry and Defeated the Yeti</h3>
-<p>wizadrian currently has this record, at 982</p>
-<img src="/assets/img/records/defended-mt-merry-and-defeated-the-yeti/defended-mt-merry-and-defeated-the-yeti-982-wizadrian-deoch-201.png" width="100%" />
+<p>wizadrian currently has this record, at 1485</p>
+<img src="/assets/img/records/defended-mt-merry-and-defeated-the-yeti/defended-mt-merry-and-defeated-the-yeti-1485-wizadrian-deoch-209.png" width="100%" />
 </div>
 
 <div class="record-section">
 <h3>Defended Temuair from Chadul Army Invasion</h3>
-<p>botakyy currently has this record, at 103</p>
-<img src="/assets/img/records/defended-temuair-from-chadul-army-invasion/defended-temuair-from-chadul-army-invasion-103-botakyy-deoch-190.png" width="100%" />
+<p>wizadrian currently has this record, at 179</p>
+<img src="/assets/img/records/defended-temuair-from-chadul-army-invasion/defended-temuair-from-chadul-army-invasion-179-wizadrian-deoch-179.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -392,8 +392,8 @@
 
 <div class="record-section">
 <h3>Freed cursed mundanes in Abel</h3>
-<p>wizadrian currently has this record, at 201</p>
-<img src="/assets/img/records/freed-cursed-mundanes-in-abel/freed-cursed-mundanes-in-abel-201-wizadrian-deoch-181.png" width="100%" />
+<p>wizadrian currently has this record, at 343</p>
+<img src="/assets/img/records/freed-cursed-mundanes-in-abel/freed-cursed-mundanes-in-abel-343-wizadrian-deoch-181.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -518,8 +518,8 @@
 
 <div class="record-section">
 <h3>Jailed</h3>
-<p>booya currently has this record, at 12</p>
-<img src="/assets/img/records/jailed/jailed-12-booya-deoch-.png" width="100%" />
+<p>booya currently has this record, at 15</p>
+<img src="/assets/img/records/jailed/jailed-15-booya-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
