@@ -1,0 +1,38 @@
+{
+  "Cail": {
+    "Cleric": ["Laurier"]
+  },
+  "Ceannlaidir": {
+    "High Priest": ["ReyaKeely"],
+    "Priest": ["Airy","Makunouchi"],
+    "Acolyte": ["Alvino","Escort","eZe","final","NeoxBahamut","Perspective","SunYukii"]
+  },
+  "Deoch": {
+    "Cleric": ["Srgious"],
+    "Priest": ["Cazbrileth","Nioreh","safe","Viveena"],
+    "Acolyte": ["Aon","XiaoLei"]
+  },
+  "Fiosachd": {
+    "Priest": ["Arohanui","brib","disarray","makeup","Moogle","Naena","Set","Telme"],
+    "Acolyte": ["auzric","eXonyte","Giggles","Hihaku","Kald","Kavita","Lantern","Lexem","QUiGS","Rafael","Reodirru","Rubius"]
+  },
+  "Glioca": {
+    "High Priest": ["Merisa"],
+    "Priest": ["Ancalime","Hyrule","Leemon","Poker","Tridane"],
+    "Acolyte": ["angrymax","DemyLo","Ganjalique","Huhuman","Ishikawa","Jerry","MrMvP","Tazz"]
+  },
+  "Gramail": {
+    "Priest": ["Fen"],
+    "Acolyte": ["Aeacus","Brittany","Dynamus","Eternalty","NoirGato","Seal"]
+  },
+  "Luathas": {
+    "High Priest": ["Ramanayan"],
+    "Minister": ["NagisaChan"],
+    "Priest": ["Iglis"],
+    "Acolyte": ["BioMagus","Kallina","Makeii"]
+  },
+  "Sgrios": {
+    "Priest": ["Diablos","eiscego","sick","Tridemp"],
+    "Acolyte": ["AceShimizu","Como","Enoxze","kao","oTil","Peppita","Venezia","Whitehall"]
+  }
+}
