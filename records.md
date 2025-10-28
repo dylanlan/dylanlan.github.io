@@ -20,8 +20,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Acquired Lonely Santa's Satchel</h3>
-<p>niZon currently has this record, at 3</p>
-<img src="/assets/img/records/acquired-lonely-santas-satchel/acquired-lonely-santas-satchel-3-nizon-deoch-185.png" width="100%" />
+<p>Brian currently has this record, at 3</p>
+<img src="/assets/img/records/acquired-lonely-santas-satchel/acquired-lonely-santas-satchel-3-brian-deoch-185.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -230,14 +230,14 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Divorced</h3>
-<p>Merynn currently has this record, at 124</p>
-<img src="/assets/img/records/divorced/divorced-124-merynn-deoch-215.png" width="100%" />
+<p>Nioreh currently has this record, at 172</p>
+<img src="/assets/img/records/divorced/divorced-172-nioreh-deoch-69.png" width="100%" />
 </div>
 
 <div class="record-section">
 <h3>Drank The Famous Green Ale</h3>
-<p>StarSparkler currently has this record, at 8</p>
-<img src="/assets/img/records/drank-the-famous-green-ale/drank-the-famous-green-ale-8-starsparkler-deoch-.png" width="100%" />
+<p>Starlett currently has this record, at 12</p>
+<img src="/assets/img/records/drank-the-famous-green-ale/drank-the-famous-green-ale-12-starlett-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -446,8 +446,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Lured Fire Serpent Out</h3>
-<p>Jerry currently has this record, at 3</p>
-<img src="/assets/img/records/lured-fire-serpent-out/lured-fire-serpent-out-3-jerry-deoch-.png" width="100%" />
+<p>Firewind currently has this record, at 3</p>
+<img src="/assets/img/records/lured-fire-serpent-out/lured-fire-serpent-out-3-firewind-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -458,8 +458,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Mentored</h3>
-<p>Jerry currently has this record, at 1145</p>
-<img src="/assets/img/records/mentored/mentored-1145-jerry-deoch-211.png" width="100%" />
+<p>Jerry currently has this record, at 1570</p>
+<img src="/assets/img/records/mentored/mentored-1570-jerry-deoch-215.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -470,8 +470,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Murdered Tagor citizens</h3>
-<p>xEMANOx currently has this record, at 69</p>
-<img src="/assets/img/records/murdered-tagor-citizens/murdered-tagor-citizens-69-xemanox-deoch-.png" width="100%" />
+<p>Jerry currently has this record, at 1000</p>
+<img src="/assets/img/records/murdered-tagor-citizens/murdered-tagor-citizens-1000-jerry-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -494,8 +494,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Recovered Candy Treats</h3>
-<p>impuneToo currently has this record, at 6</p>
-<img src="/assets/img/records/recovered-candy-treats/recovered-candy-treats-6-impunetoo-deoch-207.png" width="100%" />
+<p>Starlett currently has this record, at 7</p>
+<img src="/assets/img/records/recovered-candy-treats/recovered-candy-treats-7-starlett-deoch-215.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -606,8 +606,8 @@ These are records for legend marks that are no longer obtainable
 
 <div class="record-section">
 <h3>Killed Dark Aislings</h3>
-<p>BioMagus currently has this record, at 31</p>
-<img src="/assets/img/records/killed-dark-aislings/killed-dark-aislings-31-biomagus-deoch-.png" width="100%" />
+<p>JadeAkaino currently has this record, at 47</p>
+<img src="/assets/img/records/killed-dark-aislings/killed-dark-aislings-47-jadeakaino-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">

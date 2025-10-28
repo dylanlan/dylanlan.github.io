@@ -1,9 +1,15 @@
 # Legend Mark Records
 
 <div class="record-section">
+<h3>Able to Sponsor</h3>
+<p>nalyd currently has this record, at 10</p>
+<img src="/assets/img/records/able-to-sponsor/able-to-sponsor-10-nalyd-deoch-.png" width="100%" />
+</div>
+
+<div class="record-section">
 <h3>Acquired Lonely Santa's Satchel</h3>
-<p>nizon currently has this record, at 3</p>
-<img src="/assets/img/records/acquired-lonely-santas-satchel/acquired-lonely-santas-satchel-3-nizon-deoch-185.png" width="100%" />
+<p>brian currently has this record, at 3</p>
+<img src="/assets/img/records/acquired-lonely-santas-satchel/acquired-lonely-santas-satchel-3-brian-deoch-185.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -92,8 +98,8 @@
 
 <div class="record-section">
 <h3>Blade Smith</h3>
-<p>brittany currently has this record, at 10</p>
-<img src="/assets/img/records/blade-smith/blade-smith-10-brittany-deoch-.png" width="100%" />
+<p>bladej currently has this record, at 10</p>
+<img src="/assets/img/records/blade-smith/blade-smith-10-bladej-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -266,8 +272,8 @@
 
 <div class="record-section">
 <h3>Consecrated the Holy Danaan</h3>
-<p>final currently has this record, at 7</p>
-<img src="/assets/img/records/consecrated-the-holy-danaan/consecrated-the-holy-danaan-7-final-deoch-212.png" width="100%" />
+<p>challenge currently has this record, at 7</p>
+<img src="/assets/img/records/consecrated-the-holy-danaan/consecrated-the-holy-danaan-7-challenge-deoch-213.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -314,14 +320,14 @@
 
 <div class="record-section">
 <h3>Divorced</h3>
-<p>merynn currently has this record, at 55</p>
-<img src="/assets/img/records/divorced/divorced-55-merynn-deoch-214.png" width="100%" />
+<p>nioreh currently has this record, at 172</p>
+<img src="/assets/img/records/divorced/divorced-172-nioreh-deoch-69.png" width="100%" />
 </div>
 
 <div class="record-section">
 <h3>Drank The Famous Green Ale</h3>
-<p>starsparkler currently has this record, at 8</p>
-<img src="/assets/img/records/drank-the-famous-green-ale/drank-the-famous-green-ale-8-starsparkler-deoch-.png" width="100%" />
+<p>starlett currently has this record, at 12</p>
+<img src="/assets/img/records/drank-the-famous-green-ale/drank-the-famous-green-ale-12-starlett-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -536,8 +542,8 @@
 
 <div class="record-section">
 <h3>Killed Dark Aislings</h3>
-<p>biomagus currently has this record, at 31</p>
-<img src="/assets/img/records/killed-dark-aislings/killed-dark-aislings-31-biomagus-deoch-.png" width="100%" />
+<p>jadeakaino currently has this record, at 47</p>
+<img src="/assets/img/records/killed-dark-aislings/killed-dark-aislings-47-jadeakaino-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -560,8 +566,8 @@
 
 <div class="record-section">
 <h3>Lured Fire Serpent Out</h3>
-<p>jerry currently has this record, at 3</p>
-<img src="/assets/img/records/lured-fire-serpent-out/lured-fire-serpent-out-3-jerry-deoch-.png" width="100%" />
+<p>firewind currently has this record, at 3</p>
+<img src="/assets/img/records/lured-fire-serpent-out/lured-fire-serpent-out-3-firewind-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -578,8 +584,8 @@
 
 <div class="record-section">
 <h3>Mentored</h3>
-<p>jerry currently has this record, at 1145</p>
-<img src="/assets/img/records/mentored/mentored-1145-jerry-deoch-211.png" width="100%" />
+<p>jerry currently has this record, at 1570</p>
+<img src="/assets/img/records/mentored/mentored-1570-jerry-deoch-215.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -596,8 +602,8 @@
 
 <div class="record-section">
 <h3>Murdered Tagor citizens</h3>
-<p>xemanox currently has this record, at 69</p>
-<img src="/assets/img/records/murdered-tagor-citizens/murdered-tagor-citizens-69-xemanox-deoch-.png" width="100%" />
+<p>jerry currently has this record, at 1000</p>
+<img src="/assets/img/records/murdered-tagor-citizens/murdered-tagor-citizens-1000-jerry-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -626,8 +632,8 @@
 
 <div class="record-section">
 <h3>Recovered Candy Treats</h3>
-<p>impunetoo currently has this record, at 6</p>
-<img src="/assets/img/records/recovered-candy-treats/recovered-candy-treats-6-impunetoo-deoch-207.png" width="100%" />
+<p>starlett currently has this record, at 7</p>
+<img src="/assets/img/records/recovered-candy-treats/recovered-candy-treats-7-starlett-deoch-215.png" width="100%" />
 </div>
 
 <div class="record-section">
