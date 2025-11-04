@@ -230,8 +230,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Divorced</h3>
-<p>Nioreh currently has this record, at 172</p>
-<img src="/assets/img/records/divorced/divorced-172-nioreh-deoch-69.png" width="100%" />
+<p>Connecter currently has this record, at 214</p>
+<img src="/assets/img/records/divorced/divorced-214-connecter-deoch-215.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -320,7 +320,7 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Gem Smith</h3>
-<p>billy currently has this record, at 69</p>
+<p>Billy currently has this record, at 69</p>
 <img src="/assets/img/records/gem-smith/gem-smith-69-billy-deoch-.png" width="100%" />
 </div>
 
@@ -440,8 +440,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Loved by Suomi Mundanes</h3>
-<p>Glasken currently has this record, at 14</p>
-<img src="/assets/img/records/loved-by-suomi-mundanes/loved-by-suomi-mundanes-14-glasken-deoch-208.png" width="100%" />
+<p>Glasken currently has this record, at 18</p>
+<img src="/assets/img/records/loved-by-suomi-mundanes/loved-by-suomi-mundanes-18-glasken-deoch-215.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -482,8 +482,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Performed divorce of</h3>
-<p>Nioreh currently has this record, at 165</p>
-<img src="/assets/img/records/performed-divorce-of/performed-divorce-of-165-nioreh-deoch-66.png" width="100%" />
+<p>Connecter currently has this record, at 214</p>
+<img src="/assets/img/records/performed-divorce-of/performed-divorce-of-214-connecter-deoch-215.png" width="100%" />
 </div>
 
 <div class="record-section">
