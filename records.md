@@ -56,14 +56,14 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Arena Battles</h3>
-<p>Ambitioon currently has this record, at 2318</p>
-<img src="/assets/img/records/arena-battles/arena-battles-2318-ambitioon-deoch-.png" width="100%" />
+<p>Ambitioon currently has this record, at 2327</p>
+<img src="/assets/img/records/arena-battles/arena-battles-2327-ambitioon-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
 <h3>Arena Victories</h3>
-<p>Ambitioon currently has this record, at 1173</p>
-<img src="/assets/img/records/arena-victories/arena-victories-1173-ambitioon-deoch-.png" width="100%" />
+<p>Ambitioon currently has this record, at 1178</p>
+<img src="/assets/img/records/arena-victories/arena-victories-1178-ambitioon-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -320,8 +320,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Gem Smith</h3>
-<p>Blader currently has this record, at 12</p>
-<img src="/assets/img/records/gem-smith/gem-smith-12-blader-deoch-.png" width="100%" />
+<p>billy currently has this record, at 69</p>
+<img src="/assets/img/records/gem-smith/gem-smith-69-billy-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">

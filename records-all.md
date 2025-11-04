@@ -50,14 +50,14 @@
 
 <div class="record-section">
 <h3>Arena Battles</h3>
-<p>acesin currently has this record, at 1621</p>
-<img src="/assets/img/records/arena-battles/arena-battles-1621-acesin-deoch-.png" width="100%" />
+<p>ambitioon currently has this record, at 2327</p>
+<img src="/assets/img/records/arena-battles/arena-battles-2327-ambitioon-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
 <h3>Arena Victories</h3>
-<p>set currently has this record, at 946</p>
-<img src="/assets/img/records/arena-victories/arena-victories-946-set-deoch-.png" width="100%" />
+<p>ambitioon currently has this record, at 1178</p>
+<img src="/assets/img/records/arena-victories/arena-victories-1178-ambitioon-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
@@ -410,8 +410,8 @@
 
 <div class="record-section">
 <h3>Gem Smith</h3>
-<p>blader currently has this record, at 12</p>
-<img src="/assets/img/records/gem-smith/gem-smith-12-blader-deoch-.png" width="100%" />
+<p>billy currently has this record, at 69</p>
+<img src="/assets/img/records/gem-smith/gem-smith-69-billy-deoch-.png" width="100%" />
 </div>
 
 <div class="record-section">
