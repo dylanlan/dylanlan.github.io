@@ -84,7 +84,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Acesin at 1621
 <br/>
-3rd: Set at 1437
+3rd: huhuman at 1556
 </details>
 </div>
 
@@ -93,9 +93,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>Ambitioon currently has this record, at 1178</p>
 <img src="/assets/img/records/arena-victories/arena-victories-1178-ambitioon-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Set at 946
+2nd: huhuman at 1000
 <br/>
-3rd: Acesin at 938
+3rd: Set at 946
 </details>
 </div>
 
@@ -150,7 +150,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: lTiramisul at 447
 <br/>
-3rd: xREDSTARx at 432
+3rd: XlRaddylX at 445
 </details>
 </div>
 
@@ -392,7 +392,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Nioreh at 172
 <br/>
-3rd: Merynn at 55
+3rd: Merynn at 124
 </details>
 </div>
 
@@ -825,12 +825,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Received a Gift from Arcella</h3>
-<p>ZerA currently has this record, at 91</p>
-<img src="/assets/img/records/received-a-gift-from-arcella/received-a-gift-from-arcella-91-zera-deoch-.png" width="100%" />
+<p>GAR currently has this record, at 96</p>
+<img src="/assets/img/records/received-a-gift-from-arcella/received-a-gift-from-arcella-96-gar-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: XerAm at 87
+2nd: ZerA at 91
 <br/>
-3rd: Eugeine at 85
+3rd: XerAm at 87
 </details>
 </div>
 
@@ -847,8 +847,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Sabonim of Dugon</h3>
-<p>Huhuman currently has this record, at 695</p>
-<img src="/assets/img/records/sabonim-of-dugon/sabonim-of-dugon-695-huhuman-deoch-38.png" width="100%" />
+<p>huhuman currently has this record, at 731</p>
+<img src="/assets/img/records/sabonim-of-dugon/sabonim-of-dugon-731-huhuman-deoch-38.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: StarShine at 404
 <br/>

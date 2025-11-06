@@ -9,12 +9,12 @@
     "Member": ["ageoldblue"]
   },
   "Alternative": {
-    "Member": ["Aerian","balis","icon","phase"]
+    "Member": ["Acadami","Aerian","balis","icon","phase"]
   },
   "Amarna": {
     "Leader": ["Mylok"],
     "Council": ["Azara","Firewind","Mez","Moebious","Strauss","Tidux","Truten","xLiMiTeD"],
-    "Member": ["Amarasha","eLement","FairyTale","Jakobe","Landiss","Quantize","Reznov","Sythe","xEMANOx"]
+    "Member": ["Amarasha","eLement","FairyTale","Jakobe","Landiss","Marker","Quantize","Reznov","Sythe","xEMANOx"]
   },
   "Anaman Pact": {
     "Council": ["Jillabrea"]
@@ -61,8 +61,11 @@
   },
   "Chocolate": {
     "Leader": ["Yukii"],
-    "Council": ["Brittany","Everdeen","Giller","Solei"],
+    "Council": ["Brittany","Everdeen","Giller"],
     "Member": ["Alda","Amarranth","ArTeMisX","AuraLei","Ayeisha","Banananut","BaoBun","Barb","Basilica","Billy","Bindo","boomers","Brox","BunBao","Cannalily","Capex","CrimsonChaos","Divided","DraigSr","Duster","Dylanlan","Eidon","Euen","Falcore","Goar","islington","Joneleth","Lancelot","Lazlow","Lilenos","Llienos","Lumie","Machamp","ManBearPig","MarioKart","Mobility","mouseferatu","NagaTartarus","Omit","Payie","Reciprocity","Relimie","Renva","sednia","Selyna","Sinione","Sinitoo","Slye","SmrtArcher","StarSparkler","Suprememacro","SwordMan","ThiefsBoss","Trisshia","Verran","ViviOrnitier","Vyomi","xTHETICKx","Zeix","Zephie"]
+  },
+  "CirqueDeSolei": {
+    "Leader": ["Solei"]
   },
   "Cult de Carrot": {
     "Leader": ["BioMagus"],
@@ -75,7 +78,7 @@
   "Dark Horizons": {
     "Leader": ["Willco"],
     "Council": ["BallzDeep","blueskye","Brandyn","Chrystyne","JRoC","Lunasande","Mayheart","Mimi","Pyrotos","Silverthorn","xChibax","xshroudx","Yawgmoth"],
-    "Member": ["Adriela","Alamedus","Artur","aussie","Azaria","baekho","bearhood","Beerbottle","BladeG","bladej","Bladejdg","bluenokkad","BonG","Bresias","CapLocK","carthus","cedoni","Chiriko","Cupport","Cutiejg","dabtized","dantespirit","Dashrender","dAtmAn","DoubleMint","Drucilla","Edith","fenixstuf","Gerbil","Glasken","GustaveJr","Hand","Henrietta","Hogland","impuneToo","Justen","Kamiko","Khat","Klue","Krynn","LeonX","Lexem","litespirit","Lixstiek","LLamaTacoO","LovenPretty","Madeira","MadSoul","Magwich","melon","meryl","munches","NatsukiChan","NeroZeroXe","Niko","Nissan","nokkad","notvorlof","Nylan","Onix","Orlem","Ozmo","Parhelia","pipper","prizmaiden","Raged","Raiphie","Ramsey","Recca","ReikaSama","Rikidesu","Rikidez","Robinson","SaintAsher","San","sata","sealla","shroud","Sinlock","snooze","Somae","Sotar","sousuke","Squeel","StrykerX","TacoCorp","Toxi","Tukee","Turkin","TwinkleStar","Ukkyo","Ulli","velani","Vesran","Wastedd","Whips","WhipsJr","xYoUrAnGeLx","Zaxa","zspartanz","Zular","Zwuji"]
+    "Member": ["Adriela","Alamedus","Artur","aussie","Azaria","baekho","bearhood","Beerbottle","BladeG","bladej","Bladejdg","bluenokkad","BonG","Bresias","CapLocK","carthus","cedoni","Chiriko","Cupport","Cutiejg","dabtized","dantespirit","Dashrender","dAtmAn","DoubleMint","Drucilla","Edith","fenixstuf","Gerbil","Glasken","GustaveJr","Hand","Henrietta","Hogland","impuneToo","Jubei","Justen","Kamiko","Khat","Klue","Krynn","LeonX","Lexem","litespirit","Lixstiek","LLamaTacoO","LovenPretty","Madeira","MadSoul","Magwich","melon","meryl","munches","NatsukiChan","NeroZeroXe","Niko","Nissan","nokkad","notvorlof","Nylan","Onix","Orlem","Ozmo","Parhelia","pipper","prizmaiden","Raged","Raiphie","Ramsey","Recca","ReikaSama","Rikidesu","Rikidez","Robinson","SaintAsher","San","sata","sealla","shroud","Sinlock","snooze","Somae","Sotar","sousuke","Squeel","StrykerX","TacoCorp","Toxi","Tukee","Turkin","TwinkleStar","Ukkyo","Ulli","velani","Vesran","Wastedd","Whips","WhipsJr","xYoUrAnGeLx","Zaxa","zspartanz","Zular","Zwuji"]
   },
   "Daydreaming": {
     "Member": ["base"]
@@ -129,7 +132,7 @@
   },
   "Lag": {
     "Council": ["Aerotek","BoJingIes","BoJingIez","BoJingles","BoJinglez","Bruiser","Davido","Drea","Kallina","Krazalid","Nairobi","palantir","Ridiickai"],
-    "Member": ["Ana","ArcaneFalco","ArchMage","BearesFalco","bearly","Connecter","Crucified","Darkrai","Dayron","Determined","Drakkir","Dram","Duergar","Dylanz","Elexius","Elsen","Enuff","EvilXiaoRyu","Greenthumb","Jeph","justalyne","kahn","Kannas","LonelyRydia","Malldrea","MariJayne","Naliene","Pennie","Raybone","RhubarbPie","SnortDope","TangBao","Teyo","UreJestEnuff","Zorvi"]
+    "Member": ["Ana","ArcaneFalco","ArchMage","BearesFalco","bearly","Crucified","Darkrai","Dayron","Determined","Drakkir","Dram","Duergar","Dylanz","Elexius","Elsen","Enuff","EvilXiaoRyu","Greenthumb","Jeph","justalyne","kahn","Kannas","LonelyRydia","Malldrea","MariJayne","Naliene","Pennie","Raybone","RhubarbPie","SnortDope","TangBao","Teyo","UreJestEnuff","Zorvi"]
   },
   "Leven en Dood": {
     "Council": ["Kiunsu"],
@@ -153,7 +156,7 @@
   },
   "Meallaire": {
     "Leader": ["Suspected"],
-    "Council": ["Alustria","Erynn","Kheten","Tipapoute"],
+    "Council": ["Alustria","Eranyata","Erynn","Kheten","Tipapoute"],
     "Member": ["Anger","DinnerRoLL","Lycaon","Vakr"]
   },
   "Meitheal Siora": {
@@ -175,7 +178,7 @@
   },
   "Myrmidons": {
     "Council": ["Cherrius","Kaisen","myesha","Paandaa","panda","tomodachi"],
-    "Member": ["Churries","Haerowen","Meenah","tryst"]
+    "Member": ["Churries","Connecter","Haerowen","Meenah","tryst"]
   },
   "Nie Alleine": {
     "Member": ["Giggles"]
@@ -198,7 +201,7 @@
     "Council": ["Never"]
   },
   "Renaissance": {
-    "Leader": ["Huhuman"],
+    "Leader": ["huhuman"],
     "Council": ["Moogle","Naena","Ramia"],
     "Member": ["aiseirighadh","CHARITIE","Dynamus","kao","Kimchii","Rune","Set","Tylenol","vaas","vali","XerAm","ZerA"]
   },
@@ -269,6 +272,9 @@
   "TwiSteD CiRcLe": {
     "Council": ["Xoo","Xoody"],
     "Member": ["ariesyeo"]
+  },
+  "Ultrin Her'Tan": {
+    "Member": ["Gattsu"]
   },
   "Unforgiven": {
     "Member": ["Programming","Saudi"]
