@@ -8,6 +8,8 @@ permalink: /legend-marks/
 
 Here is a fun collection of most types of legend marks in-game!
 
+<a href="/assets/csv/legend-marks.csv">Raw File</a>
+
 <!-- DataTables CSS -->
 <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
 

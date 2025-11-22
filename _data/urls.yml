@@ -13,6 +13,8 @@ poetry: /poetry
 hidden_lore: /hidden-lore
 aisling_legends: /aisling-legends
 legend_marks: /legend-marks
+guild_members: /guild-members
+temple_clergy: /temple-clergy
 
 # Awakenings
 nalyd_awaken: /awakening/2007/02/15/nalyd-awakening
