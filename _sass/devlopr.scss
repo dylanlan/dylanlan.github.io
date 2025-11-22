@@ -244,6 +244,11 @@ header {
 }
 .navbar-dark .navbar-nav .nav-link {
     color: var(--nav-link-color) !important;
+    transition: color 0.3s ease;
+    
+    &:hover {
+        color: #ff7601 !important;
+    }
 }
 .navbar-dark .navbar-toggler {
     border-color:transparent !important;
