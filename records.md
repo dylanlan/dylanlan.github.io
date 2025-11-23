@@ -847,8 +847,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Sabonim of Dugon</h3>
-<p>huhuman currently has this record, at 731</p>
-<img src="/assets/img/records/sabonim-of-dugon/sabonim-of-dugon-731-huhuman-deoch-38.png" width="100%" />
+<p>huhuman currently has this record, at 732</p>
+<img src="/assets/img/records/sabonim-of-dugon/sabonim-of-dugon-732-huhuman-deoch-38.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: StarShine at 404
 <br/>
@@ -935,10 +935,10 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Taught a Class at Mileth College</h3>
-<p>Laurier currently has this record, at 71</p>
-<img src="/assets/img/records/taught-a-class-at-mileth-college/taught-a-class-at-mileth-college-71-laurier-deoch-175.png" width="100%" />
+<p>Moogle currently has this record, at 73</p>
+<img src="/assets/img/records/taught-a-class-at-mileth-college/taught-a-class-at-mileth-college-73-moogle-deoch-189.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Moogle at 59
+2nd: Laurier at 71
 <br/>
 3rd: snooze at 56
 </details>
