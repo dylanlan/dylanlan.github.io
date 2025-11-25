@@ -613,6 +613,30 @@ header {
 //     transform: scale3d(2, 2, 1) !important;
 // }
 
+.links-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  border: 2px solid #666;
+}
+
+.links-table th,
+.links-table td {
+  border: 1px solid #666;
+  padding: 12px 15px;
+  text-align: left;
+}
+
+.links-table th {
+  background-color: var(--button-background-color);
+  font-weight: bold;
+  border: 2px solid #666;
+}
+
+.links-table tr:hover {
+  background-color: rgba(128, 128, 128, 0.1);
+}
+
 @media (max-width: 1200px) {
   .legend-mark-img {
     height: 40px !important;
