@@ -1,7 +1,7 @@
 {
   "Cail": {
     "High Priest": ["Nadja"],
-    "Priest": ["cohabit","Dunthar","fenixstuf","Henrietta","Lazlow","MoonRuby","NarlyFour","Parhelia","RasLuinne","Topic"],
+    "Priest": ["cohabit","Dunthar","fenixstuf","Henrietta","Iktovian","Lazlow","MoonRuby","NarlyFour","Parhelia","RasLuinne","Topic"],
     "Acolyte": ["Copeth","EclipsedMoon","Machamp","Nenya","Paelrohm","Parco","Reciprocity","SneakySummy","SneakySummy","Talarous"]
   },
   "Ceannlaidir": {
@@ -13,14 +13,14 @@
     "High Priest": ["Inuyoko"],
     "Minister": ["Landon"],
     "Cleric": ["Tristam"],
-    "Priest": ["Absobel","Alustria","Arpina","Auralite","Ayeisha","Boo","Carnaugh","Justen","Landiss","Mortimer","Oksana","Rikidesu","Rikuserge","Ruxpin","Sabrael","Safe","Sann","Shinryu","SoulEvans","SradGar","Trocair","Tux","Viveena","xxArcxx"],
+    "Priest": ["Absobel","Alustria","Arpina","Auralite","Ayeisha","Boo","Carnaugh","Justen","Landiss","Lydien","Mortimer","Oksana","Rikidesu","Rikuserge","Ruxpin","Sabrael","Safe","Sann","Shinryu","SoulEvans","SradGar","Trexie","Trocair","Tux","Viveena","xxArcxx"],
     "Acolyte": ["Amarasha","Aon","Aulevihros","Billy","BlueFountain","ChubbyMoon","CittiKAT","Deoxys","Everale","Iirenommus","Jerrica","Kedian","Lytsu","Mesmeric","NaLyd","NiaraLenore","Nylan","Quipper","Royalite","Trexie","Ulli","Whips","Xmod"]
   },
   "Fiosachd": {
     "High Priest": ["DoomHealer"],
     "Minister": ["Jabedin"],
     "Cleric": ["Klyden","Lumie","Ramia"],
-    "Priest": ["accept","AdelaideT","amaZaral","Aruga","Atiare","Azara","blueskye","Candrial","Capex","carthus","Chiriko","Cupport","Dender","disarray","Drakkir","ERAM","Eranyata","Eshana","FountainBlue","GAR","Gath","Glasken","Gracey","Haeven","HappyKitten","Hoshiko","Image","inimicus","Kimchii","kimiya","Livevil","LLamaTacoO","Llienos","LouisCyphre","Majuto","Naena","Nymea","Ozmo","phelan","Poseidon","Pumpkln","Raiphie","Rongfa","Rorrik","Set","Sixth","SpIack","StarPhoenix","StarSparkler","Strauss","Thandir","Tipapoute","Toxi","Tukee","Ultraem","Wicky","Xelly","Xephion","XlRaddylX","Yermi","ZerA","Zorvi"],
+    "Priest": ["accept","AdelaideT","Amagakure","amaZaral","Aruga","Atiare","Azara","blueskye","Candrial","Capex","carthus","Chiriko","Cupport","Dender","disarray","Drakkir","ERAM","Eranyata","Eshana","FountainBlue","GAR","Gath","Glasken","Gracey","Haeven","HappyKitten","Hoshiko","Image","inimicus","Kimchii","kimiya","Livevil","LLamaTacoO","Llienos","LouisCyphre","Majuto","Naena","Nymea","Ozmo","phelan","Poseidon","Pumpkln","Raiphie","Rongfa","Rorrik","Set","Sixth","SpIack","StarPhoenix","StarSparkler","Strauss","Thandir","Tipapoute","Toxi","Tukee","Ultraem","Wicky","Xelly","Xephion","XlRaddylX","Yermi","ZerA","Zorvi"],
     "Acolyte": ["Akko","Amarranth","Ana","ArchMage","Athi","Baronius","BladeG","bladej","Brandyn","Brianda","Cannalily","CapLocK","Chibiusa","Chigusari","coerced","Cutiejg","dangerdoom","Divided","Doms","Donan","Dram","Drez","Drucilla","DunaJr","evilabbey","Evilive","EvilJoka","EvilXiaoRyu","Firemayden","Firenerth","Firewind","Frumpie","Giggles","GustaveJr","Hains","Hogland","Insydia","JadeCloud","JohnWick","Kaien","Kheten","Khloe","Kiunsu","layfonalseif","Lexem","LiCi","LiCia","Lingueene","Linkus","Locks","LORD","loucha","Luix","MagB","Magwich","maoux","Marker","Mayheart","Mez","Mitchel","Mitmal","Moebious","Mutagen","Naskared","Orthanc","Pandsala","Pennie","Phen","pipper","Ramsey","rymie","sachertorte","sata","Scumett","sednia","Selian","Sotar","Substance","THCroniK","ThiefsBoss","Tleilandrek","TripaSeca","Truchot","Ukkyo","Vakr","WARFLAME","Wastedd","Wheaty","Willco","WinterMelon","XerAm","Zwuji"]
   },
   "Glioca": {
@@ -45,9 +45,9 @@
   },
   "Sgrios": {
     "High Priest": ["Paramour","VanMorgan"],
-    "Minister": ["PeneAnn"],
-    "Cleric": ["Phever","Wormtongue"],
-    "Priest": ["Azuth","binnie","Dethf","Diablos","eCo","eiscego","Fabuloso","FAE","GhostDemon","sealla","sick","Slye","Soundwave","Theowin"],
-    "Acolyte": ["Aerian","Aerotek","Ailred","anunnaki","AuraLei","Bieber","COMO","dabtized","Darkrai","Dharma","Dragglua","Duergar","Dylanlan","Everdeen","Jillabrea","Joneleth","kao","Lycaon","mouseferatu","MuZaTa","Naxorin","Never","Protoman","Repertoire","ResidentEvil","San","Seldrin","Shinari","STHU","Tempes","Torradh","Yukii","Zarathorn","Zephie"]
+    "Minister": ["PeneAnn","Phever"],
+    "Cleric": ["Wormtongue"],
+    "Priest": ["Azuth","binnie","Dethf","Dharma","Diablos","eCo","eiscego","Fabuloso","FAE","GhostDemon","LenorahLee","sealla","sick","Slye","Soundwave","Theowin"],
+    "Acolyte": ["Aerian","Aerotek","Ailred","anunnaki","AuraLei","Bieber","COMO","dabtized","Darkrai","Dragglua","Duergar","Dylanlan","Everdeen","Jillabrea","Joneleth","kao","Lycaon","mouseferatu","MuZaTa","Naxorin","Never","Protoman","Repertoire","ResidentEvil","San","Seldrin","Shinari","STHU","Tempes","Torradh","Yukii","Zarathorn","Zephie"]
   }
 }
