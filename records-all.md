@@ -1,15 +1,6 @@
-# Legend Mark Records
+# Simple Legend Marks
 
 These records are for various types of legend marks that have been repeated the most times!
-
-<div class="record-section">
-<h3>Acquired Lonely Santa's Satchel</h3>
-<p>Brian currently has this record, at 3</p>
-<img src="/assets/img/records/acquired-lonely-santas-satchel/acquired-lonely-santas-satchel-3-brian-deoch-185.png" width="100%" />
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: niZon at 3
-</details>
-</div>
 
 <div class="record-section">
 <h3>Admitted Citizen</h3>
@@ -831,8 +822,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Sabonim of Dugon</h3>
-<p>huhuman currently has this record, at 731</p>
-<img src="/assets/img/records/sabonim-of-dugon/sabonim-of-dugon-731-huhuman-deoch-38.png" width="100%" />
+<p>huhuman currently has this record, at 732</p>
+<img src="/assets/img/records/sabonim-of-dugon/sabonim-of-dugon-732-huhuman-deoch-38.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: StarShine at 404
 <br/>
@@ -958,6 +949,76 @@ These records are for various types of legend marks that have been repeated the 
 2nd: vanillin at 1634
 <br/>
 3rd: elsielsa at 1556
+</details>
+</div>
+
+# Complex Legend Marks
+
+These records involve multiple types of legend marks
+
+<div class="record-section">
+<h3>Active Cycles</h3>
+<p>Twinkle currently has this record, at 24</p>
+<img src="/assets/img/records//-24-twinkle-deoch-undefined.png" width="100%" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: BioMagus at 23
+<br/>
+3rd: Eternalty at 23
+</details>
+</div>
+
+<div class="record-section">
+<h3>Arena Loss Rate %</h3>
+<p>Willco currently has this record, at 29</p>
+<img src="/assets/img/records//-29-willco-deoch-undefined.png" width="100%" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: bLuEjR at 33
+<br/>
+3rd: JessicaP at 42
+</details>
+</div>
+
+<div class="record-section">
+<h3>Arena Win Rate %</h3>
+<p>final currently has this record, at 86</p>
+<img src="/assets/img/records//-86-final-deoch-undefined.png" width="100%" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: Aerian at 82
+<br/>
+3rd: Telme at 79
+</details>
+</div>
+
+<div class="record-section">
+<h3>College Award Count</h3>
+<p>Kedian currently has this record, at 9</p>
+<img src="/assets/img/records//-9-kedian-deoch-undefined.png" width="100%" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: Brittany at 7
+<br/>
+3rd: BioMagus at 6
+</details>
+</div>
+
+<div class="record-section">
+<h3>Longest Legend</h3>
+<p>BioMagus currently has this record, at 255</p>
+<img src="/assets/img/records//-255-biomagus-deoch-undefined.png" width="100%" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: Brittany at 252
+<br/>
+3rd: huhuman at 248
+</details>
+</div>
+
+<div class="record-section">
+<h3>Longest Mastering</h3>
+<p>DoomHealer currently has this record, at 192</p>
+<img src="/assets/img/records//-192-doomhealer-deoch-undefined.png" width="100%" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: Faylawin at 177
+<br/>
+3rd: Pondy at 168
 </details>
 </div>
 

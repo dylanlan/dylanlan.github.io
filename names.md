@@ -15,7 +15,6 @@ First come first served, to get these Aisling names!
 Unclaimed Names:
 - Advanced (M)
 - Affinity (F)
-- Army (M)
 - Brad (M)
 - Bronze (M)
 - Caterpie (F)
