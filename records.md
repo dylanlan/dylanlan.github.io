@@ -1018,6 +1018,12 @@ These records involve multiple types of legend marks
 </div>
 
 <div class="record-section">
+<h3>Longest College Award Claiming</h3>
+<p>Tleilandrek currently has this record, at 137 deoches between receiving a tentative noble mark and converting it to an official noble mark</p>
+<img src="/assets/img/records/longest-college-award/longest-college-award-tleilandrek-137.png" width="100%" />
+</div>
+
+<div class="record-section">
 <h3>Longest Legend</h3>
 <p><a href="/assets/img/aisling-legends/biomagus-2025.png">BioMagus</a> currently has this record, at 255 legend marks</p>
 <details class="runner-ups"><summary>Runner Ups:</summary>
