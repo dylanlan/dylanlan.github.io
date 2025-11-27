@@ -986,7 +986,7 @@ These records involve multiple types of legend marks
 
 <div class="record-section">
 <h3>Highest Arena Win Rate %</h3>
-<p>final currently has this record, at 86% (176/204)</p>
+<p>final currently has this record, at 86% (176/204). I only considered Aislings who had at least 50 total battles.</p>
 <img src="/assets/img/records/arena-win-rate/arena-win-rate-86-final.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Aerian at 82
@@ -997,7 +997,7 @@ These records involve multiple types of legend marks
 
 <div class="record-section">
 <h3>Lowest Arena Win Rate %</h3>
-<p>Willco currently has this record, at 29% (17/58)</p>
+<p>Willco currently has this record, at 29% (17/58). I only considered Aislings who had at least 50 total battles.</p>
 <img src="/assets/img/records/arena-loss-rate/arena-win-rate-29-willco.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: bLuEjR at 33
