@@ -18,9 +18,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>BioMagus currently has this record, at 26</p>
 <img src="/assets/img/records/adoration-of-danaan/adoration-of-danaan-26-biomagus-deoch-20.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: StarShine at 24
+2nd: StarFlame at 24
 <br/>
-3rd: StarSparkler at 23
+3rd: StarNite at 24
 </details>
 </div>
 
@@ -79,9 +79,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>Twinkle currently has this record, at 23</p>
 <img src="/assets/img/records/arpinas-redemption-at-astrid/arpinas-redemption-at-astrid-23-twinkle-deoch-19.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: StarSparkler at 21
+2nd: StarFlame at 21
 <br/>
-3rd: TwinkleStar at 20
+3rd: StarSparkler at 21
 </details>
 </div>
 
@@ -109,12 +109,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Avid Temuairian Daydreamer</h3>
-<p>StarPhoenix currently has this record, at 42</p>
-<img src="/assets/img/records/avid-temuairian-daydreamer/avid-temuairian-daydreamer-42-starphoenix-deoch-180.png" width="100%" />
+<p>StarNite currently has this record, at 43</p>
+<img src="/assets/img/records/avid-temuairian-daydreamer/avid-temuairian-daydreamer-43-starnite-deoch-180.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Starlett at 40
+2nd: StarFlame at 42
 <br/>
-3rd: Glasken at 35
+3rd: StarPhoenix at 42
 </details>
 </div>
 
@@ -164,12 +164,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Completed Capture the Fowl Event</h3>
-<p>StarShine currently has this record, at 9</p>
-<img src="/assets/img/records/completed-capture-the-fowl-event/completed-capture-the-fowl-event-9-starshine-deoch-.png" width="100%" />
+<p>StarsAngel currently has this record, at 11</p>
+<img src="/assets/img/records/completed-capture-the-fowl-event/completed-capture-the-fowl-event-11-starsangel-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Starlett at 8
+2nd: Daxion at 10
 <br/>
-3rd: TwinkleStar at 8
+3rd: JewelStar at 10
 </details>
 </div>
 
@@ -200,9 +200,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>StarShine currently has this record, at 1132</p>
 <img src="/assets/img/records/completed-mt-giragan-daily-quest/completed-mt-giragan-daily-quest-1132-starshine-deoch-211.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Giller at 308
+2nd: JewelStar at 749
 <br/>
-3rd: Raybone at 304
+3rd: StarsAngel at 647
 </details>
 </div>
 
@@ -222,9 +222,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>StarShine currently has this record, at 1043</p>
 <img src="/assets/img/records/completed-nobis-daily-quest/completed-nobis-daily-quest-1043-starshine-deoch-211.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Giller at 258
+2nd: JewelStar at 648
 <br/>
-3rd: TwinkleStar at 228
+3rd: StarsAngel at 564
 </details>
 </div>
 
@@ -235,7 +235,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: botakyy at 5
 <br/>
-3rd: niZon at 5
+3rd: JewelStar at 5
 </details>
 </div>
 
@@ -244,9 +244,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>StarShine currently has this record, at 845</p>
 <img src="/assets/img/records/completed-oren-daily-quest/completed-oren-daily-quest-845-starshine-deoch-211.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: TwinkleStar at 210
+2nd: JewelStar at 583
 <br/>
-3rd: Jerry at 158
+3rd: StarsAngel at 442
 </details>
 </div>
 
@@ -257,7 +257,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: blueskye at 55
 <br/>
-3rd: sata at 50
+3rd: StarNite at 51
 </details>
 </div>
 
@@ -277,9 +277,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>StarShine currently has this record, at 888</p>
 <img src="/assets/img/records/completed-shinewood-daily-quest/completed-shinewood-daily-quest-888-starshine-deoch-211.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Giller at 215
+2nd: StarsAngel at 540
 <br/>
-3rd: Wizadrian at 194
+3rd: JewelStar at 449
 </details>
 </div>
 
@@ -288,9 +288,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>StarShine currently has this record, at 69</p>
 <img src="/assets/img/records/crafted-yule-logs-for-the-inns/crafted-yule-logs-for-the-inns-69-starshine-deoch-208.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: TwinkleStar at 63
+2nd: JewelStar at 68
 <br/>
-3rd: Twinkle at 62
+3rd: StarsAngel at 67
 </details>
 </div>
 
@@ -409,20 +409,20 @@ These records are for various types of legend marks that have been repeated the 
 <p>Twinkle currently has this record, at 24</p>
 <img src="/assets/img/records/eulogy-to-arpina-at-astrid/eulogy-to-arpina-at-astrid-24-twinkle-deoch-24.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: StarSparkler at 23
+2nd: StarFlame at 23
 <br/>
-3rd: TwinkleStar at 22
+3rd: StarSparkler at 23
 </details>
 </div>
 
 <div class="record-section">
 <h3>Eulogy to Matrika at Mehadi</h3>
-<p>BioMagus currently has this record, at 23</p>
-<img src="/assets/img/records/eulogy-to-matrika-at-mehadi/eulogy-to-matrika-at-mehadi-23-biomagus-deoch-32.png" width="100%" />
+<p>StarNite currently has this record, at 24</p>
+<img src="/assets/img/records/eulogy-to-matrika-at-mehadi/eulogy-to-matrika-at-mehadi-24-starnite-deoch-24.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Starlett at 20
+2nd: BioMagus at 23
 <br/>
-3rd: Dancingwind at 16
+3rd: StarsAngel at 22
 </details>
 </div>
 
@@ -478,12 +478,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Found Lucky Clovers</h3>
-<p>Giggles currently has this record, at 213</p>
-<img src="/assets/img/records/found-lucky-clovers/found-lucky-clovers-213-giggles-deoch-.png" width="100%" />
+<p>Giggles currently has this record, at 216</p>
+<img src="/assets/img/records/found-lucky-clovers/found-lucky-clovers-216-giggles-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: TwinkleStar at 152
+2nd: Daxion at 180
 <br/>
-3rd: Giller at 144
+3rd: StarsAngel at 166
 </details>
 </div>
 
@@ -737,9 +737,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>BioMagus currently has this record, at 24</p>
 <img src="/assets/img/records/matrikas-redemption-at-mehadi/matrikas-redemption-at-mehadi-24-biomagus-deoch-19.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Starlett at 19
+2nd: StarNite at 22
 <br/>
-3rd: Vamistle at 19
+3rd: Starlett at 19
 </details>
 </div>
 
@@ -969,12 +969,12 @@ These records involve multiple types of legend marks
 
 <div class="record-section">
 <h3>Arena Loss Rate %</h3>
-<p>Willco currently has this record, at 29</p>
-<img src="/assets/img/records//-29-willco-deoch-undefined.png" width="100%" />
+<p>boars currently has this record, at 2</p>
+<img src="/assets/img/records//-2-boars-deoch-undefined.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: bLuEjR at 33
+2nd: Willco at 29
 <br/>
-3rd: JessicaP at 42
+3rd: bLuEjR at 33
 </details>
 </div>
 
@@ -1050,12 +1050,12 @@ These are records for legend marks that are no longer obtainable
 
 <div class="record-section">
 <h3>Initiated into a Motley</h3>
-<p>Blanche currently has this record, at 12</p>
-<img src="/assets/img/records/initiated-into-a-motley/initiated-into-a-motley-12-blanche-deoch-44.png" width="100%" />
+<p>Annslea currently has this record, at 12</p>
+<img src="/assets/img/records/initiated-into-a-motley/initiated-into-a-motley-12-annslea-deoch-34.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Falconlady at 12
+2nd: Blanche at 12
 <br/>
-3rd: Kedian at 12
+3rd: Falconlady at 12
 </details>
 </div>
 
