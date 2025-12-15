@@ -134,6 +134,10 @@ Recent youtube videos
 <td>My videos include quests, events, and some private servers</td>
 </tr>
 <tr>
+<td><a href="https://www.youtube.com/@RosylaStreamingNetwork">https://www.youtube.com/@RosylaStreamingNetwork</a></td>
+<td>Rosyla's videos include various guides and tutorials</td>
+</tr>
+<tr>
 <td><a href="https://www.youtube.com/@Valkyrie_Veil">https://www.youtube.com/@Valkyrie_Veil</a></td>
 <td>Ulli's videos include masses, classes, and some PVP</td>
 </tr>

@@ -1125,6 +1125,12 @@ These are records for legend marks that are no longer obtainable
 These records are simply for Aislings who have banked the most of a certain item!
 
 <div class="record-section">
+<h3>Anklets</h3>
+<p>Challenge currently has this record, at 491 of them banked!</p>
+<img src="/assets/img/records/items-banked/anklets-491-challenge.png" width="100%" />
+</div>
+
+<div class="record-section">
 <h3>Fomorian Rags</h3>
 <p>Warp currently has this record, at 30 of them banked!</p>
 <img src="/assets/img/records/items-banked/fomorian-rag-30-warp.png" width="100%" />
