@@ -1161,6 +1161,12 @@ These records are simply for Aislings who have banked the most of a certain item
 </div>
 
 <div class="record-section">
+<h3>Staff of Deliverance</h3>
+<p>Giggles currently has this record, at 13,207 of them banked!</p>
+<img src="/assets/img/records/items-banked/staff-of-deliverance-13207-giggles.png" width="100%" />
+</div>
+
+<div class="record-section">
 <h3>Wasp's Wings</h3>
 <p>Attack currently has this record, at 660 of them banked!</p>
 <img src="/assets/img/records/items-banked/wasps-wings-660-attack.png" width="100%" />
