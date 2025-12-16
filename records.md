@@ -137,12 +137,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Banished the Imperial Shade of Blackstar</h3>
-<p>Entar currently has this record, at 447</p>
-<img src="/assets/img/records/banished-the-imperial-shade-of-blackstar/banished-the-imperial-shade-of-blackstar-447-entar-deoch-170.png" width="100%" />
+<p>Bosmon currently has this record, at 1164</p>
+<img src="/assets/img/records/banished-the-imperial-shade-of-blackstar/banished-the-imperial-shade-of-blackstar-1164-bosmon-deoch-175.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: lTiramisul at 447
+2nd: Entar at 447
 <br/>
-3rd: XlRaddylX at 445
+3rd: lTiramisul at 447
 </details>
 </div>
 
