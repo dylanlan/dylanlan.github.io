@@ -40,9 +40,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>Duergar currently has this record, at 14</p>
 <img src="/assets/img/records/aided-captain-spack-jarrow-retrieve-coins/aided-captain-spack-jarrow-retrieve-coins-14-duergar-deoch-190.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Acuric at 10
+2nd: SVEDKA at 14
 <br/>
-3rd: Glasken at 10
+3rd: Acuric at 10
 </details>
 </div>
 
@@ -120,8 +120,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Banished the Imperial Shade of Blackstar</h3>
-<p>Bosmon currently has this record, at 1164</p>
-<img src="/assets/img/records/banished-the-imperial-shade-of-blackstar/banished-the-imperial-shade-of-blackstar-1164-bosmon-deoch-175.png" width="100%" />
+<p>bosmon currently has this record, at 1167</p>
+<img src="/assets/img/records/banished-the-imperial-shade-of-blackstar/banished-the-imperial-shade-of-blackstar-1167-bosmon-deoch-175.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Entar at 447
 <br/>
@@ -189,9 +189,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>Arohanui currently has this record, at 278</p>
 <img src="/assets/img/records/completed-lost-ruins-daily-quest/completed-lost-ruins-daily-quest-278-arohanui-deoch-201.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: kahn at 257
+2nd: bosmon at 260
 <br/>
-3rd: Raybone at 243
+3rd: kahn at 257
 </details>
 </div>
 
@@ -230,12 +230,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Completed Oren Ball Scavenger Hunt</h3>
-<p>blueskye currently has this record, at 5</p>
-<img src="/assets/img/records/completed-oren-ball-scavenger-hunt/completed-oren-ball-scavenger-hunt-5-blueskye-deoch-208.png" width="100%" />
+<p>bosmon currently has this record, at 6</p>
+<img src="/assets/img/records/completed-oren-ball-scavenger-hunt/completed-oren-ball-scavenger-hunt-6-bosmon-deoch-216.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: botakyy at 5
+2nd: blueskye at 5
 <br/>
-3rd: JewelStar at 5
+3rd: botakyy at 5
 </details>
 </div>
 
@@ -263,12 +263,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Completed Sacred Forest Daily Quest</h3>
-<p>ariesyeo currently has this record, at 544</p>
-<img src="/assets/img/records/completed-sacred-forest-daily-quest/completed-sacred-forest-daily-quest-544-ariesyeo-deoch-209.png" width="100%" />
+<p>aRiesyEo currently has this record, at 724</p>
+<img src="/assets/img/records/completed-sacred-forest-daily-quest/completed-sacred-forest-daily-quest-724-ariesyeo-deoch-216.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Wizadrian at 476
+2nd: bosmon at 706
 <br/>
-3rd: tragic at 353
+3rd: Wizadrian at 476
 </details>
 </div>
 
@@ -343,9 +343,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>Wizadrian currently has this record, at 179</p>
 <img src="/assets/img/records/defended-temuair-from-chadul-army-invasion/defended-temuair-from-chadul-army-invasion-179-wizadrian-deoch-179.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: botakyy at 103
+2nd: bosmon at 133
 <br/>
-3rd: Safe at 89
+3rd: botakyy at 103
 </details>
 </div>
 
@@ -417,10 +417,10 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Eulogy to Matrika at Mehadi</h3>
-<p>StarNite currently has this record, at 24</p>
-<img src="/assets/img/records/eulogy-to-matrika-at-mehadi/eulogy-to-matrika-at-mehadi-24-starnite-deoch-24.png" width="100%" />
+<p>BioMagus currently has this record, at 24</p>
+<img src="/assets/img/records/eulogy-to-matrika-at-mehadi/eulogy-to-matrika-at-mehadi-24-biomagus-deoch-32.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: BioMagus at 23
+2nd: StarNite at 24
 <br/>
 3rd: StarsAngel at 22
 </details>
@@ -467,23 +467,23 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Fair Marshal</h3>
-<p>Barb currently has this record, at 6</p>
-<img src="/assets/img/records/fair-marshal/fair-marshal-6-barb-deoch-.png" width="100%" />
+<p>MariJayne currently has this record, at 14</p>
+<img src="/assets/img/records/fair-marshal/fair-marshal-14-marijayne-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Ramanayan at 5
+2nd: Barb at 6
 <br/>
-3rd: Laurier at 4
+3rd: Ramanayan at 5
 </details>
 </div>
 
 <div class="record-section">
 <h3>Found Lucky Clovers</h3>
-<p>Giggles currently has this record, at 216</p>
-<img src="/assets/img/records/found-lucky-clovers/found-lucky-clovers-216-giggles-deoch-.png" width="100%" />
+<p>Komachu currently has this record, at 256</p>
+<img src="/assets/img/records/found-lucky-clovers/found-lucky-clovers-256-komachu-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Daxion at 180
+2nd: Giggles at 216
 <br/>
-3rd: StarsAngel at 166
+3rd: Daxion at 180
 </details>
 </div>
 
@@ -494,7 +494,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Raybone at 194
 <br/>
-3rd: kahn at 187
+3rd: Poker at 193
 </details>
 </div>
 
@@ -512,9 +512,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>Billy currently has this record, at 69</p>
 <img src="/assets/img/records/gem-smith/gem-smith-69-billy-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Blader at 12
+2nd: Adamo at 16
 <br/>
-3rd: Brittany at 11
+3rd: Blader at 12
 </details>
 </div>
 
@@ -569,7 +569,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Brittany at 44
 <br/>
-3rd: Ukkyo at 11
+3rd: KalibZandor at 34
 </details>
 </div>
 
@@ -880,7 +880,7 @@ These records are for various types of legend marks that have been repeated the 
 <p>Artur currently has this record, at 130</p>
 <img src="/assets/img/records/slew-terror-of-the-crypt/slew-terror-of-the-crypt-130-artur-deoch-71.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Ignite at 69
+2nd: Ignite at 123
 <br/>
 3rd: Glasken at 50
 </details>
@@ -943,12 +943,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Zombie Slayer Record</h3>
-<p>Firewind currently has this record, at 2265</p>
-<img src="/assets/img/records/zombie-slayer-record/zombie-slayer-record-2265-firewind-deoch-.png" width="100%" />
+<p>MariJayne currently has this record, at 2361</p>
+<img src="/assets/img/records/zombie-slayer-record/zombie-slayer-record-2361-marijayne-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: vanillin at 1634
+2nd: Firewind at 2265
 <br/>
-3rd: elsielsa at 1556
+3rd: vanillin at 1634
 </details>
 </div>
 
@@ -1001,6 +1001,17 @@ These records involve multiple types of legend marks
 </div>
 
 <div class="record-section">
+<h3>Longest Blue Mark Streak</h3>
+<p>Xephion currently has this record, at 15</p>
+<img src="/assets/img/records//-15-xephion-deoch-undefined.png" width="100%" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: Perspective at 14
+<br/>
+3rd: splyce at 13
+</details>
+</div>
+
+<div class="record-section">
 <h3>Longest Legend</h3>
 <p>BioMagus currently has this record, at 255</p>
 <img src="/assets/img/records//-255-biomagus-deoch-undefined.png" width="100%" />
@@ -1019,6 +1030,17 @@ These records involve multiple types of legend marks
 2nd: Faylawin at 177
 <br/>
 3rd: Pondy at 168
+</details>
+</div>
+
+<div class="record-section">
+<h3>Most Blue Marks</h3>
+<p>Brittany currently has this record, at 36</p>
+<img src="/assets/img/records//-36-brittany-deoch-undefined.png" width="100%" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: huhuman at 31
+<br/>
+3rd: Merisa at 29
 </details>
 </div>
 
