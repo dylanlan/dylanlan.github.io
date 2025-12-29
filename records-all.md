@@ -29,9 +29,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>StarShine currently has this record, at 23</p>
 <img src="/assets/img/records/adranuchs-redemption-at-pravat/adranuchs-redemption-at-pravat-23-starshine-deoch-19.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: StarPhoenix at 18
+2nd: Syka at 21
 <br/>
-3rd: Adriela at 16
+3rd: StarPhoenix at 18
 </details>
 </div>
 
@@ -123,9 +123,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>bosmon currently has this record, at 1167</p>
 <img src="/assets/img/records/banished-the-imperial-shade-of-blackstar/banished-the-imperial-shade-of-blackstar-1167-bosmon-deoch-175.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Entar at 447
+2nd: Botakhead at 501
 <br/>
-3rd: lTiramisul at 447
+3rd: Entar at 447
 </details>
 </div>
 
@@ -186,12 +186,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Completed Lost Ruins Daily Quest</h3>
-<p>Arohanui currently has this record, at 278</p>
-<img src="/assets/img/records/completed-lost-ruins-daily-quest/completed-lost-ruins-daily-quest-278-arohanui-deoch-201.png" width="100%" />
+<p>Vater currently has this record, at 282</p>
+<img src="/assets/img/records/completed-lost-ruins-daily-quest/completed-lost-ruins-daily-quest-282-vater-deoch-215.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: bosmon at 260
+2nd: Arohanui at 278
 <br/>
-3rd: kahn at 257
+3rd: bosmon at 260
 </details>
 </div>
 
@@ -233,9 +233,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>bosmon currently has this record, at 6</p>
 <img src="/assets/img/records/completed-oren-ball-scavenger-hunt/completed-oren-ball-scavenger-hunt-6-bosmon-deoch-216.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: blueskye at 5
+2nd: Botakhead at 6
 <br/>
-3rd: botakyy at 5
+3rd: niZon at 6
 </details>
 </div>
 
@@ -301,7 +301,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Eidon at 3381
 <br/>
-3rd: tyee at 3120
+3rd: PopaEggs at 3198
 </details>
 </div>
 
@@ -332,9 +332,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>Wizadrian currently has this record, at 1485</p>
 <img src="/assets/img/records/defended-mt-merry-and-defeated-the-yeti/defended-mt-merry-and-defeated-the-yeti-1485-wizadrian-deoch-209.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: tyee at 947
+2nd: PopaEggs at 1182
 <br/>
-3rd: Eidon at 919
+3rd: tyee at 947
 </details>
 </div>
 
@@ -384,12 +384,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Elementalist</h3>
-<p>BioMagus currently has this record, at 6</p>
-<img src="/assets/img/records/elementalist/elementalist-6-biomagus-deoch-.png" width="100%" />
+<p>NaLyd currently has this record, at 7</p>
+<img src="/assets/img/records/elementalist/elementalist-7-nalyd-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Giller at 6
+2nd: BioMagus at 6
 <br/>
-3rd: Xephion at 4
+3rd: Giller at 6
 </details>
 </div>
 
@@ -398,9 +398,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>StarShine currently has this record, at 24</p>
 <img src="/assets/img/records/eulogy-to-adranuch-at-pravat/eulogy-to-adranuch-at-pravat-24-starshine-deoch-24.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: StarPhoenix at 19
+2nd: Syka at 22
 <br/>
-3rd: Quipper at 16
+3rd: StarPhoenix at 19
 </details>
 </div>
 
@@ -695,9 +695,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>Dethf currently has this record, at 44</p>
 <img src="/assets/img/records/last-held-mass/last-held-mass-44-dethf-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Henrietta at 31
+2nd: Marrian at 34
 <br/>
-3rd: Leemon at 29
+3rd: Henrietta at 31
 </details>
 </div>
 
@@ -725,10 +725,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Lured Fire Serpent Out</h3>
-<p>Firewind currently has this record, at 3</p>
-<img src="/assets/img/records/lured-fire-serpent-out/lured-fire-serpent-out-3-firewind-deoch-.png" width="100%" />
+<p>NaLyd currently has this record, at 7</p>
+<img src="/assets/img/records/lured-fire-serpent-out/lured-fire-serpent-out-7-nalyd-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Jerry at 3
+2nd: Firewind at 3
+<br/>
+3rd: Jerry at 3
 </details>
 </div>
 
@@ -756,12 +758,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Mileth Altar Worshipper</h3>
-<p>Srgious currently has this record, at 102</p>
-<img src="/assets/img/records/mileth-altar-worshipper/mileth-altar-worshipper-102-srgious-deoch-201.png" width="100%" />
+<p>slaphealz currently has this record, at 150</p>
+<img src="/assets/img/records/mileth-altar-worshipper/mileth-altar-worshipper-150-slaphealz-deoch-216.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: ZerA at 90
+2nd: Srgious at 102
 <br/>
-3rd: Dancingwind at 76
+3rd: ZerA at 90
 </details>
 </div>
 
@@ -800,12 +802,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Received a Gift from Arcella</h3>
-<p>GAR currently has this record, at 96</p>
-<img src="/assets/img/records/received-a-gift-from-arcella/received-a-gift-from-arcella-96-gar-deoch-.png" width="100%" />
+<p>Baconator currently has this record, at 139</p>
+<img src="/assets/img/records/received-a-gift-from-arcella/received-a-gift-from-arcella-139-baconator-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: ZerA at 91
+2nd: BudBud at 121
 <br/>
-3rd: XerAm at 87
+3rd: Siiance at 119
 </details>
 </div>
 
@@ -855,12 +857,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Sgrios's scar</h3>
-<p>FRAULYNN currently has this record, at 447</p>
-<img src="/assets/img/records/sgrioss-scar/sgrioss-scar-447-fraulynn-deoch-201.png" width="100%" />
+<p>Fraulynn currently has this record, at 485</p>
+<img src="/assets/img/records/sgrioss-scar/sgrioss-scar-485-fraulynn-deoch-215.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: IShallHeal at 305
+2nd: zwuji at 314
 <br/>
-3rd: Determined at 304
+3rd: IShallHeal at 305
 </details>
 </div>
 
@@ -902,9 +904,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>Warginald currently has this record, at 19</p>
 <img src="/assets/img/records/tailor/tailor-19-warginald-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: SaintAsher at 14
+2nd: Dylanlan at 14
 <br/>
-3rd: Dylanlan at 13
+3rd: SaintAsher at 14
 </details>
 </div>
 
@@ -943,12 +945,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Zombie Slayer Record</h3>
-<p>MariJayne currently has this record, at 2361</p>
-<img src="/assets/img/records/zombie-slayer-record/zombie-slayer-record-2361-marijayne-deoch-.png" width="100%" />
+<p>Dylanlan currently has this record, at 3081</p>
+<img src="/assets/img/records/zombie-slayer-record/zombie-slayer-record-3081-dylanlan-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Firewind at 2265
+2nd: MariJayne at 2361
 <br/>
-3rd: vanillin at 1634
+3rd: Firewind at 2265
 </details>
 </div>
 
@@ -1100,10 +1102,10 @@ These are records for legend marks that are no longer obtainable
 
 <div class="record-section">
 <h3>Survived Mech Invasion</h3>
-<p>FRAULYNN currently has this record, at 1759</p>
+<p>Fraulynn currently has this record, at 1759</p>
 <img src="/assets/img/records/survived-mech-invasion/survived-mech-invasion-1759-fraulynn-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Dancingwind at 1395
+2nd: dancingwind at 1395
 <br/>
 3rd: aussie at 1339
 </details>
