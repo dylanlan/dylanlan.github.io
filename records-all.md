@@ -37,12 +37,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Aided Captain Spack Jarrow retrieve coins</h3>
-<p>Duergar currently has this record, at 14</p>
-<img src="/assets/img/records/aided-captain-spack-jarrow-retrieve-coins/aided-captain-spack-jarrow-retrieve-coins-14-duergar-deoch-190.png" width="100%" />
+<p>chantie currently has this record, at 17</p>
+<img src="/assets/img/records/aided-captain-spack-jarrow-retrieve-coins/aided-captain-spack-jarrow-retrieve-coins-17-chantie-deoch-190.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: SVEDKA at 14
+2nd: Duergar at 14
 <br/>
-3rd: Acuric at 10
+3rd: SVEDKA at 14
 </details>
 </div>
 
@@ -156,9 +156,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>blueskye currently has this record, at 400</p>
 <img src="/assets/img/records/completed-andor-daily-quest/completed-andor-daily-quest-400-blueskye-deoch-209.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Giller at 216
+2nd: chantie at 315
 <br/>
-3rd: Jerry at 158
+3rd: uriaheep at 257
 </details>
 </div>
 
@@ -180,7 +180,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: StarShine at 570
 <br/>
-3rd: Glasken at 441
+3rd: uriaheep at 463
 </details>
 </div>
 
@@ -202,7 +202,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: JewelStar at 749
 <br/>
-3rd: StarsAngel at 647
+3rd: uriaheep at 687
 </details>
 </div>
 
@@ -224,18 +224,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: JewelStar at 648
 <br/>
-3rd: StarsAngel at 564
-</details>
-</div>
-
-<div class="record-section">
-<h3>Completed Oren Ball Scavenger Hunt</h3>
-<p>bosmon currently has this record, at 6</p>
-<img src="/assets/img/records/completed-oren-ball-scavenger-hunt/completed-oren-ball-scavenger-hunt-6-bosmon-deoch-216.png" width="100%" />
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Botakhead at 6
-<br/>
-3rd: niZon at 6
+3rd: uriaheep at 639
 </details>
 </div>
 
@@ -255,9 +244,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>NeoxBahamut currently has this record, at 56</p>
 <img src="/assets/img/records/completed-quarterly-insect-event/completed-quarterly-insect-event-56-neoxbahamut-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: blueskye at 55
+2nd: pirdie at 56
 <br/>
-3rd: StarNite at 51
+3rd: blueskye at 55
 </details>
 </div>
 
@@ -455,17 +444,6 @@ These records are for various types of legend marks that have been repeated the 
 </div>
 
 <div class="record-section">
-<h3>Exiled Guild member</h3>
-<p>Ramanayan currently has this record, at 15</p>
-<img src="/assets/img/records/exiled-guild-member/exiled-guild-member-15-ramanayan-deoch-44.png" width="100%" />
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: bLuEjR at 14
-<br/>
-3rd: BIueyes at 8
-</details>
-</div>
-
-<div class="record-section">
 <h3>Fair Marshal</h3>
 <p>MariJayne currently has this record, at 14</p>
 <img src="/assets/img/records/fair-marshal/fair-marshal-14-marijayne-deoch-.png" width="100%" />
@@ -478,12 +456,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Found Lucky Clovers</h3>
-<p>Komachu currently has this record, at 256</p>
-<img src="/assets/img/records/found-lucky-clovers/found-lucky-clovers-256-komachu-deoch-.png" width="100%" />
+<p>Muhamor currently has this record, at 266</p>
+<img src="/assets/img/records/found-lucky-clovers/found-lucky-clovers-266-muhamor-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Giggles at 216
+2nd: Komachu at 256
 <br/>
-3rd: Daxion at 180
+3rd: Giggles at 216
 </details>
 </div>
 
@@ -523,9 +501,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>bluenokkad currently has this record, at 15</p>
 <img src="/assets/img/records/guard/guard-15-bluenokkad-deoch-54.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Joneleth at 9
+2nd: ZerioAgain at 11
 <br/>
-3rd: Alvino at 7
+3rd: Joneleth at 9
 </details>
 </div>
 
@@ -597,12 +575,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Has Defeated Oren's Pirates</h3>
-<p>Srgious currently has this record, at 666</p>
-<img src="/assets/img/records/has-defeated-orens-pirates/has-defeated-orens-pirates-666-srgious-deoch-.png" width="100%" />
+<p>Vesuvia currently has this record, at 1098</p>
+<img src="/assets/img/records/has-defeated-orens-pirates/has-defeated-orens-pirates-1098-vesuvia-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Jerry at 606
+2nd: Srgious at 666
 <br/>
-3rd: StarSparkler at 501
+3rd: Jerry at 606
 </details>
 </div>
 
@@ -703,12 +681,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Loved by Mileth Mundanes</h3>
-<p>San currently has this record, at 9</p>
-<img src="/assets/img/records/loved-by-mileth-mundanes/loved-by-mileth-mundanes-9-san-deoch-163.png" width="100%" />
+<p>Ant currently has this record, at 15</p>
+<img src="/assets/img/records/loved-by-mileth-mundanes/loved-by-mileth-mundanes-15-ant-deoch-216.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Kyatto at 7
+2nd: San at 9
 <br/>
-3rd: Glasken at 6
+3rd: Kyatto at 7
 </details>
 </div>
 
@@ -813,12 +791,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Respected Citizen by</h3>
-<p>Ayleen currently has this record, at 28</p>
-<img src="/assets/img/records/respected-citizen-by/respected-citizen-by-28-ayleen-deoch-46.png" width="100%" />
+<p>Audry currently has this record, at 31</p>
+<img src="/assets/img/records/respected-citizen-by/respected-citizen-by-31-audry-deoch-179.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: BioMagus at 26
+2nd: Ayleen at 28
 <br/>
-3rd: PeneAnn at 21
+3rd: BioMagus at 26
 </details>
 </div>
 
@@ -895,7 +873,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: CrazyCatWife at 4
 <br/>
-3rd: base at 3
+3rd: Zayl at 4
 </details>
 </div>
 
@@ -912,10 +890,10 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Taught a Class at Mileth College</h3>
-<p>Laurier currently has this record, at 71</p>
-<img src="/assets/img/records/taught-a-class-at-mileth-college/taught-a-class-at-mileth-college-71-laurier-deoch-175.png" width="100%" />
+<p>Moogle currently has this record, at 74</p>
+<img src="/assets/img/records/taught-a-class-at-mileth-college/taught-a-class-at-mileth-college-74-moogle-deoch-189.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Moogle at 59
+2nd: Laurier at 71
 <br/>
 3rd: snooze at 56
 </details>
@@ -998,7 +976,7 @@ These records involve multiple types of legend marks
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Brittany at 7
 <br/>
-3rd: BioMagus at 6
+3rd: Audry at 6
 </details>
 </div>
 
@@ -1069,6 +1047,17 @@ These are records for legend marks that are no longer obtainable
 2nd: Zethrian at 327
 <br/>
 3rd: Naena at 280
+</details>
+</div>
+
+<div class="record-section">
+<h3>Exiled Guild member</h3>
+<p>Ramanayan currently has this record, at 15</p>
+<img src="/assets/img/records/exiled-guild-member/exiled-guild-member-15-ramanayan-deoch-44.png" width="100%" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: bLuEjR at 14
+<br/>
+3rd: BIueyes at 8
 </details>
 </div>
 
