@@ -58,6 +58,10 @@ Incomplete lists of things I've seen
 <td>Free unused character names up for grabs</td>
 </tr>
 <tr>
+<td><a href="{{ site.data.urls.bad_words }}">Bad Word Finder</a></td>
+<td>Find blocked words in a mail or board post</td>
+</tr>
+<tr>
 <td><a href="{{ site.data.urls.college }}">College Submissions</a></td>
 <td>Mileth College submissions from me and Sradagan guildies</td>
 </tr>
@@ -72,10 +76,6 @@ Incomplete lists of things I've seen
 <tr>
 <td><a href="{{ site.data.urls.sradagan }}">Sradagan Guild</a></td>
 <td>Information about the Sradagan guild which motivated this site</td>
-</tr>
-<tr>
-<td><a href="{{ site.data.urls.cursed_mail }}">Cursed Mail</a></td>
-<td>A silly game of guessing the blocked word from in-game mail</td>
 </tr>
 </tbody>
 </table>
