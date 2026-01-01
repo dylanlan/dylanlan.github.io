@@ -19,9 +19,9 @@ Struggling to post on a board or send a mail due to hidden "curse words"? Try pa
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         const blockedWords = [
-            'lol', 'rofl', 'ioi', 'thx', 'brb', 'afk', 'internet protocol', 'password', 
+            'lol', 'lmao', 'rofl', 'ioi', 'thx', 'brb', 'afk', 'internet protocol', 'password', 
 
-            'fuck', 'shit', 'piss', 'stfu', 'wtf', 'ffs', 'bastard', 'bitch', 'slut', 'cunt', 'pussy', 'whore', 'pussy', 'vagina', 'cock', 'dick', 'penis', 'fag', 'nigger', 'nigga', 'nazi', 'gay', 'homo', 
+            'fuck', 'shit', 'piss', 'stfu', 'wtf', 'ffs', 'bastard', 'bitch', 'slut', 'cunt', 'pussy', 'whore', 'pussy', 'vagina', 'cock', 'dick', 'penis', 'fag', 'nigger', 'nigga', 'nazi', 'gay', 'homo', 'queer',
         ];
 
         const notBlockedWords = [
