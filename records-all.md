@@ -164,12 +164,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Completed Capture the Fowl Event</h3>
-<p>StarsAngel currently has this record, at 11</p>
-<img src="/assets/img/records/completed-capture-the-fowl-event/completed-capture-the-fowl-event-11-starsangel-deoch-.png" width="100%" />
+<p>rainbowdemon currently has this record, at 12</p>
+<img src="/assets/img/records/completed-capture-the-fowl-event/completed-capture-the-fowl-event-12-rainbowdemon-deoch-.png" width="100%" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Daxion at 10
+2nd: StarsAngel at 11
 <br/>
-3rd: JewelStar at 10
+3rd: Daxion at 10
 </details>
 </div>
 
