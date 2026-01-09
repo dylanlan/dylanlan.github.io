@@ -11,10 +11,27 @@ Are you bored of the official Temuair by Kru, and want to check out other option
 
 If so, here's a growing list of unique, creative, and welcoming alternate realities of Temuair!
 
-Player counts were based on June 17, 2025. For reference, the official retail Dark Ages game had 588 Aislings online around the same time, but that number is quite inflated from tons of new players after the famous Bindo youtube video which was released May 30 and had over 2.5m views by June 17. Time will tell how many new players actually stick around long term!
+Player counts were based on January 8, 2026 at around 5pm MT.
 
-![Player Count](/assets/img/multiverse/retail-online-588-june-17-2025.png){: width="50%" }
+- [Retail USDA](#retail-usda)
+- [Unora](#unora)
+- [Legends](#legends)
+- [Zolian](#zolian)
+- [Fragments](#fragments)
+- [Hybrasyl](#hybrasyl)
 
+
+## Retail USDA
+
+The official game from 1999
+
+Player Count: ~260
+
+![Player Count](/assets/img/multiverse/retail-online-260-jan-8-2026.png){: width="50%" }
+
+- [Download](http://darkages.com)
+- [Discord](https://discord.gg/6EtMS7UkVT)
+- [Vorlof](https://vorlof.com)
 
 ## Unora
 
@@ -24,11 +41,11 @@ Welcome to Unora, a realm where the echoes of the Great Divine War still resonat
 
 The Unora Project invites players to delve into a unique experience, blending elements from Nexus TK, LoD, and DarkAges, to forge a distinct gaming adventure. Our open beta in late April is an opportunity for enthusiasts to immerse themselves in a world rich in lore and complexity. We are dedicated to creating an engaging, player-driven narrative, where every discovery, from items and skills to spells and dialogues, contributes to the unfolding story. Your participation, feedback, and insights are invaluable in refining Unora, ensuring an immersive and captivating experience for all. Join us in shaping a world where the remnants of a divine war pave the path for new legends and adventures.
 
-Current state: Open Beta
+Current state: Open Beta (planned server wipe before Release)
 
-Player Count: ~100
+Player Count: ~76
 
-![Player Count](/assets/img/multiverse/unora-online-137-june-17-2025.png){: width="50%" }
+![Player Count](/assets/img/multiverse/unora-online-76-jan-8-2026.png){: width="50%" }
 
 - [Discord](https://discord.gg/DkPWnUuvnN)
 
@@ -40,9 +57,9 @@ Legends: Age of Chaos is a love letter to the olden days of Temuair. Heavily foc
 
 Current state: Released
 
-Player count: ~5
+Player count: ~11
 
-![Player Count](/assets/img/multiverse/legends-online-5-april-25-2025.png){: width="50%" }
+![Player Count](/assets/img/multiverse/legends-online-11-jan-8-2026.png){: width="50%" }
 
 - [Download](https://drive.google.com/file/d/1GYmI7VT5ZRpuCQBxDr8gYifkDXHzOSTM/)
 - [Discord](https://discord.gg/YekJdzKzQR)
@@ -59,11 +76,11 @@ Zolian is a server based on Dungeons & Dragons, Final Fantasy, Diablo 3, Zelda, 
 
 Many of the grind mechanics are from traditional Hack and Slashers that you know and love. Here you'll be able to build a character up and play either with friends or run solo. The main focus of Zolian is to balance the characters while breathing new life into Nexon's Darkages. That includes new music, new maps, classes, races, and pvp zones much like you would see in open world MMOs.
 
-Current state: Beta
+Current state: Released
 
-Player count: ~3
+Player count: ~8
 
-![Player Count](/assets/img/multiverse/zolian-online-3-june-17-2025.png){: width="50%" }
+![Player Count](/assets/img/multiverse/zolian-online-8-jan-8-2026.png){: width="50%" }
 
 - [Download](https://www.thebucknetwork.com/zolian)
 - [Discord](https://discord.gg/WbP2wU5CcB)
@@ -76,9 +93,9 @@ Fragments of Temuair (FoT) is a game that is awaiting a better description!
 
 Current state: Released
 
-Player count: ~6
+Player count: ~1
 
-![Player Count](/assets/img/multiverse/fragments-online-3-june-17-2025.png){: width="50%" }
+![Player Count](/assets/img/multiverse/fragments-online-1-jan-8-2026.png){: width="50%" }
 
 - [Download](https://drive.google.com/file/d/1Eq9aYV3K497oPbMy-du26FQ30EpHK5Sv/view?usp=sharing)
 - [Client Fix](https://drive.google.com/file/d/1lqhoEeBkJ89eOVNpBpI9SiR-DgtdlGCo/view?usp=drive_link)
@@ -97,7 +114,7 @@ Current state: Alpha
 
 Player count: ~1
 
-![Player Count](/assets/img/multiverse/hybrasyl-online-1-april-25-2025.png){: width="50%" }
+![Player Count](/assets/img/multiverse/hybrasyl-online-1-jan-8-2026.png){: width="50%" }
 
 - [Website](https://www.hybrasyl.com/)
 - [Discord](https://discord.gg/6xhf6Ck2ra)
