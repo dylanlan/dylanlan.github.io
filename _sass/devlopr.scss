@@ -600,6 +600,21 @@ header {
     width: 0;
 }
 
+.gallery-container {
+    max-width: 95% !important;
+    margin: auto !important;
+}
+
+#lg-zoom-in, #lg-zoom-out, #lg-share {
+    display: none !important;
+}
+
+.lg-outer .lg-item .lg-img-wrap .lg-image,
+.lg-outer .lg-item .lg-object {
+    transform: scale(2) !important;
+    transform-origin: center center !important;
+}
+
 // .lg-sub-html {
 //     padding: 40px !important;
 //     font-size: 30px !important;
