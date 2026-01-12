@@ -12,11 +12,28 @@
     </div>
 </div>
 
+<style>
+  #imageGallery{% if include.id_number %}-{{ include.id_number }}{% endif %} img {
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+  }
+</style>
+
 <script type="text/javascript">
     $(document).ready(function() {
-        $("#imageGallery").lightGallery({
+        $("#imageGallery{% if include.id_number %}-{{ include.id_number }}{% endif %}").lightGallery({
           thumbnail: false,
-          selector: '.image'
+          selector: '.image',
+          mode: 'lg-fade',
+          cssEasing: 'cubic-bezier(0.25, 0, 0.25, 1)',
+          speed: 400,
+          download: true,
+          counter: true,
+          actualSize: true,
+          zoom: true,
+          scale: 1,
+          enableDrag: true,
+          enableSwipe: true
         });
     });
 </script>

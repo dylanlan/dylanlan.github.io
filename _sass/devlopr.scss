@@ -619,22 +619,11 @@ header {
     transform-origin: center center !important;
 }
 
-// .img-thumbnail {
-//     transform: scale(0.5) !important;
-// }
-
-// .lg-sub-html {
-//     padding: 40px !important;
-//     font-size: 30px !important;
-// }
-
-// .lg-sub-html h4 {
-//     font-size: 30px !important;
-// }
-
-// .lg-image {
-//     transform: scale3d(2, 2, 1) !important;
-// }
+.lg-image {
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}
 
 .links-table {
   width: 100%;
