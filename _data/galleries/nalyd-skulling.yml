@@ -2,142 +2,88 @@ picture_path: nalyd-skulling
 preview:
   filename: nalyd-skull
   original: 1.png
-  sizes:
-  - 1.png
-  thumbnail: 1.png
 pictures:
-- filename: nalyd-skull
-  original: 0.png
-  sizes:
-  - 0.png
+- original: 0.png
   thumbnail: 0.png
-- filename: nalyd-skull
-  original: 1.png
-  sizes:
-  - 1.png
+  title: "Baby NaLyd redded after skulling (( 2007 ))"
+- original: 1.png
   thumbnail: 1.png
-- filename: nalyd-skull
-  original: 3.png
-  sizes:
-  - 3.png
+  title: "Skulling when soloing Nobis after becoming a Grand Master. Forgot to dion when switching rooms!"
+- original: 2.png
+  thumbnail: 2.png
+  title: "Trying to help some non master Aislings hunt in CR 29, and I ended up dying myself, woops!"
+- original: 3.png
   thumbnail: 3.png
-- filename: nalyd-skull
-  original: 4.png
-  sizes:
-  - 4.png
+  title: "Nobis was dangerous even when hunting with a priest!"
+- original: 4.png
   thumbnail: 4.png
-- filename: nalyd-skull
-  original: 5.png
-  sizes:
-  - 5.png
+  title: "Possibly my last time skulling as a Grand Master"
+- original: 5.png
   thumbnail: 5.png
-- filename: nalyd-skull
-  original: 6.png
-  sizes:
-  - 6.png
+  title: "3-manning Andor with a pure bard and pure archer ended in disaster"
+- original: 6.png   
   thumbnail: 6.png
-- filename: nalyd-skull
-  original: 7.png
-  sizes:
-  - 7.png
+  title: "Hunting Andor with an even bigger group also ran into struggles"
+- original: 7.png
   thumbnail: 7.png
-- filename: nalyd-skull
-  original: 8.png
-  sizes:
-  - 8.png
+  title: "Arena Circuit quest gone wrong"
+- original: 8.png
   thumbnail: 8.png
-- filename: nalyd-skull
-  original: 9.png
-  sizes:
-  - 9.png
+  title: "More Nobis skulling. This will be a common theme."
+- original: 9.png
   thumbnail: 9.png
-- filename: nalyd-skull
-  original: 10.png
-  sizes:
-  - 10.png
+  title: "Nobis again!"
+- original: 10.png
   thumbnail: 10.png
-- filename: nalyd-skull
-  original: 11.png
-  sizes:
-  - 11.png
+  title: "Skulling from soloing Noam Plains. Only slightly embarrassing."
+- original: 11.png
   thumbnail: 11.png
-- filename: nalyd-skull
-  original: 12.png
-  sizes:
-  - 12.png
+  title: "Thanks for redding me Hihaku! Sorry we both ended up dying :("
+- original: 12.png
   thumbnail: 12.png
-- filename: nalyd-skull
-  original: 13.png
-  sizes:
-  - 13.png
+  title: "A possible murder in Mileth Crypt? Suspect #1 is #2 in the chat log"
+- original: 13.png
   thumbnail: 13.png
-- filename: nalyd-skull
-  original: 14.png
-  sizes:
-  - 14.png
+  title: "Immediate death after entering Nobis"
+- original: 14.png
   thumbnail: 14.png
-- filename: nalyd-skull
-  original: 15.png
-  sizes:
-  - 15.png
+  title: "The mass blob boss in Loures Canals was notorious for killing entire groups"
+- original: 15.png
   thumbnail: 15.png
-- filename: nalyd-skull
-  original: 16.png
-  sizes:
-  - 16.png
+  title: "I stuck around a bit too long"
+- original: 16.png
   thumbnail: 16.png
-- filename: nalyd-skull
-  original: 17.png
-  sizes:
-  - 17.png
+  title: "Upon relogging, it at least places you at the Loures Canals entrance, which makes a much easier rescue"
+- original: 17.png
   thumbnail: 17.png
-- filename: nalyd-skull
-  original: 18.png
-  sizes:
-  - 18.png
+  title: "An official offer for me to join Shinigami"
+- original: 18.png
   thumbnail: 18.png
-- filename: nalyd-skull
-  original: 19.png
-  sizes:
-  - 19.png
+  title: "I'm pretty sure I joined Shinigami after this point, hah"
+- original: 19.png
   thumbnail: 19.png
-- filename: nalyd-skull
-  original: 20.png
-  sizes:
-  - 20.png
+  title: "Another skulling in Canals! Most of these will be Nobis or Canals"
+- original: 20.png
   thumbnail: 20.png
-- filename: nalyd-skull
-  original: 21.png
-  sizes:
-  - 21.png
+  title: "Another Nobis death, woops"
+- original: 21.png
   thumbnail: 21.png
-- filename: nalyd-skull
-  original: 22.png
-  sizes:
-  - 22.png
+  title: "Ooh a Veltain Mines skulling - a nice change of scenery!"
+- original: 22.png
   thumbnail: 22.png
-- filename: nalyd-skull
-  original: 23.png
-  sizes:
-  - 23.png
+  title: "oop, Canals again"
+- original: 23.png
   thumbnail: 23.png
-- filename: nalyd-skull
-  original: 24.png
-  sizes:
-  - 24.png
+  title: "Nobis yet again!"
+- original: 24.png
   thumbnail: 24.png
-- filename: nalyd-skull
-  original: 25.png
-  sizes:
-  - 25.png
+  title: "A rough day of piling, getting rescued, and needing another rescue"
+- original: 25.png
   thumbnail: 25.png
-- filename: nalyd-skull
-  original: 26.png
-  sizes:
-  - 26.png
+  title: ":/"
+- original: 26.png
   thumbnail: 26.png
-- filename: nalyd-skull
-  original: 27.png
-  sizes:
-  - 27.png
+  title: "Veltain Mines 2nd boss was a spooky one"
+- original: 27.png
   thumbnail: 27.png
+  title: "Canals again. We'll, uh, stop here for now :D..."
