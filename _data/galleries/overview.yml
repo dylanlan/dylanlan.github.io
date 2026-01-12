@@ -1,4 +1,11 @@
 -
+  title: Best of 2025
+  directory: gallery/2025
+  url: '2025'
+  preview:
+    thumbnail: 2025-thumbnail.png
+
+-
   title: Best of 2024
   directory: gallery/2024
   url: '2024'
