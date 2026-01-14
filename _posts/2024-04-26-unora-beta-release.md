@@ -16,10 +16,14 @@ Welcome to Unora, a realm where the echoes of the Great Divine War still resonat
 The Unora Project invites players to delve into a unique experience, blending elements from Nexus TK, LoD, and DarkAges, to forge a distinct gaming adventure. Our open beta is an opportunity for enthusiasts to immerse themselves in a world rich in lore and complexity. We are dedicated to creating an engaging, player-driven narrative, where every discovery, from items and skills to spells and dialogues, contributes to the unfolding story. Your participation, feedback, and insights are invaluable in refining Unora, ensuring an immersive and captivating experience for all. Join us in shaping a world where the remnants of a divine war pave the path for new legends and adventures.
 
 ## Links
-- Download: [https://github.com/Jinori/UnoraLaunchpad/releases/tag/Beta](https://github.com/Jinori/UnoraLaunchpad/releases/tag/Beta)
-- Discord: [https://discord.gg/QD4crkqG](https://discord.gg/QD4crkqG)
+- Download: [https://github.com/Jinori/UnoraLaunchpad/releases/tag/v3.3.2](https://github.com/Jinori/UnoraLaunchpad/releases/tag/v3.3.2)
+- Discord: [https://discord.gg/WkqbMVvDJq](https://discord.gg/WkqbMVvDJq)
 
-## Installation Instructions (from the Discord Server)
+## Installation Instructions 
+
+You should be able to just run the `UnoraLaunchpad.exe`
+
+If you run into issues, try these steps from the Discord server:
 
 When you download UnoraLauncher.exe, Windows will try to delete it due to the launcher allowing you to inject dawnd into the client. Follow these steps to ensure you can play Unora!
 

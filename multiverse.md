@@ -47,7 +47,7 @@ Player Count: ~76
 
 ![Player Count](/assets/img/multiverse/unora-online-76-jan-8-2026.png){: width="50%" }
 
-- [Discord](https://discord.gg/DkPWnUuvnN)
+- [Discord](https://discord.gg/WkqbMVvDJq)
 
 ## Legends
 
