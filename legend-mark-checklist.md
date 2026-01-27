@@ -200,8 +200,31 @@ Wanting to track which legend marks you're still missing? This tool can help you
   
   .legend-mark-text {
     flex: 1;
-    font-size: 15px;
-    color: var(--main-text-color);
+    font-size: 18px;
+  }
+
+  .legend-mark-color-white {
+    color: #fff;
+  }
+
+  .legend-mark-color-blue {
+    color: #78a0f0;
+  }
+
+  .legend-mark-color-brown {
+    color: #a04000;
+  }
+
+  .legend-mark-color-orange {
+    color: #e86808;
+  }
+
+  .legend-mark-color-yellow {
+    color: #f8d828;
+  }
+
+  .legend-mark-color-green {
+    color: #008070;
   }
   
   .legend-mark-category {
