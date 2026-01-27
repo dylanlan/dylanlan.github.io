@@ -268,16 +268,16 @@ Wanting to track which legend marks you're still missing? This tool can help you
   <div class="checklist-controls">
     <div class="character-section">
       <div class="character-input-group">
-        <label class="input-label" for="characterNameInput">New Character:</label>
-        <input type="text" id="characterNameInput" class="character-name-input" placeholder="Enter new character name...">
-        <button class="btn btn-primary" id="saveCharacterBtn">💾 Add Character</button>
+        <label class="input-label" for="characterNameInput">New Aisling:</label>
+        <input type="text" id="characterNameInput" class="character-name-input" placeholder="New aisling name...">
+        <button class="btn btn-primary" id="saveCharacterBtn">➕ Add Aisling</button>
       </div>
       <div class="character-input-group">
-        <label class="input-label" for="characterSelect">Choose Character:</label>
+        <label class="input-label" for="characterSelect">Choose Aisling:</label>
         <select id="characterSelect" class="character-select">
-          <option value="">-- Select Character --</option>
+          <option value="">-- Select Aisling --</option>
         </select>
-        <button class="btn btn-danger" id="deleteCharacterBtn">🗑️ Delete Character</button>
+        <button class="btn btn-danger" id="deleteCharacterBtn">🗑️ Delete Aisling</button>
       </div>
     </div>
     
