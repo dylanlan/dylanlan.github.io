@@ -1,23 +1,23 @@
 example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtainable,color,icon,text,aisling,description
 ,Political,"Mileth,Rucesion",,,No,Yes,Yes,White,Person,- Able to Sponsor,NaLyd,How many Aislings you are able to sponsor for poltical positions in your town
 ,Quest,Sick Child,,,No,No,Yes,Brown,Person,- Aided the Pact of Anaman,SneakySummy,
-,Religious,Cail,,,No,No,Yes,White,Priest,- Cail Probate by,EightProbate,
-,Religious,Cail,Temple Rank,,No,No,Yes,White,Priest,- Cail Worshipper by,SmrtDruid,
-,Religious,Ceannlaidir,,,No,No,Yes,White,Priest,- Ceannlaidir Probate by,EightProbate,
-,Religious,Ceannlaidir,Temple Rank,,No,No,Yes,White,Priest,- Ceannlaidir Worshipper by,Smash,
-,Religious,Deoch,,,No,No,Yes,White,Priest,- Deoch Probate by,EightProbate,
-,Religious,Deoch,Temple Rank,,No,No,Yes,White,Priest,- Deoch Worshipper by,BeagAthar,
-,Religious,Fiosachd,,,No,No,Yes,White,Priest,- Fiosachd Probate by,EightProbate,
-,Religious,Fiosachd,Temple Rank,,No,No,Yes,White,Priest,- Fiosachd Worshipper by,MarioKart,
-,Religious,Glioca,,,No,No,Yes,White,Priest,- Glioca Probate by,WisJunk,
-,Religious,Glioca,Temple Rank,,No,No,Yes,White,Priest,- Glioca Worshipper by,SmrtGlad,
-,Religious,Gramail,,,No,No,Yes,White,Priest,- Gramail Probate by,EightProbate,
-,Religious,Gramail,Temple Rank,,No,No,Yes,White,Priest,- Gramail Worshipper by,ShockyShock,
-,Class,Monk,,Yes,No,Yes,Yes,White,Monk,- Initiated Monk,Punch,Help an Aisling join the Monk class
-,Class,Priest,,Yes,No,Yes,Yes,White,Priest,- Initiated Priest,Darkrai,Help an Aisling join the Priest class
-,Class,Rogue,,Yes,No,Yes,Yes,White,Rogue,- Initiated Rogue,Dylanlan,Help an Aisling join the Rogue class
-,Class,Warrior,,Yes,No,Yes,Yes,White,Warrior,- Initiated Warrior,Onix,
-,Class,Wizard,,Yes,No,Yes,Yes,White,Wizard,- Initiated Wizard,NaLyd,Help an Aisling join the Wizard class
+,Religious,Cail,,,No,No,Yes,White,Priest,- Cail Probate by <Aisling>,EightProbate,
+,Religious,Cail,Temple Rank,,No,No,Yes,White,Priest,- Cail Worshipper by <Aisling>,SmrtDruid,
+,Religious,Ceannlaidir,,,No,No,Yes,White,Priest,- Ceannlaidir Probate by <Aisling>,EightProbate,
+,Religious,Ceannlaidir,Temple Rank,,No,No,Yes,White,Priest,- Ceannlaidir Worshipper by <Aisling>,Smash,
+,Religious,Deoch,,,No,No,Yes,White,Priest,- Deoch Probate by <Aisling>,EightProbate,
+,Religious,Deoch,Temple Rank,,No,No,Yes,White,Priest,- Deoch Worshipper by <Aisling>,BeagAthar,
+,Religious,Fiosachd,,,No,No,Yes,White,Priest,- Fiosachd Probate by <Aisling>,EightProbate,
+,Religious,Fiosachd,Temple Rank,,No,No,Yes,White,Priest,- Fiosachd Worshipper by <Aisling>,MarioKart,
+,Religious,Glioca,,,No,No,Yes,White,Priest,- Glioca Probate by <Aisling>,WisJunk,
+,Religious,Glioca,Temple Rank,,No,No,Yes,White,Priest,- Glioca Worshipper by <Aisling>,SmrtGlad,
+,Religious,Gramail,,,No,No,Yes,White,Priest,- Gramail Probate by <Aisling>,EightProbate,
+,Religious,Gramail,Temple Rank,,No,No,Yes,White,Priest,- Gramail Worshipper by <Aisling>,ShockyShock,
+,Class,Monk,,Yes,No,Yes,Yes,White,Monk,- Initiated Monk <Aisling>,Punch,Help an Aisling join the Monk class
+,Class,Priest,,Yes,No,Yes,Yes,White,Priest,- Initiated Priest <Aisling>,Darkrai,Help an Aisling join the Priest class
+,Class,Rogue,,Yes,No,Yes,Yes,White,Rogue,- Initiated Rogue <Aisling>,Dylanlan,Help an Aisling join the Rogue class
+,Class,Warrior,,Yes,No,Yes,Yes,White,Warrior,- Initiated Warrior <Aisling>,Onix,
+,Class,Wizard,,Yes,No,Yes,Yes,White,Wizard,- Initiated Wizard <Aisling>,NaLyd,Help an Aisling join the Wizard class
 ,Class,"Rogue,Warrior",,Yes,No,Yes,Yes,White,Rogue,- Involved in Blade Smithing,Dylanlan,Successfully smith a blade to increase its quality
 ,Class,Rogue,,Yes,No,Yes,Yes,White,Rogue,- Involved in Gem Polishing,Dylanlan,Successfully polish a gem to increase its quality
 ,Class,Archer,,Yes,No,No,Yes,White,Person,- Learned Archer AB40 Skill/Spell,Dylanlan,Learn an Archer AB40 skill/spell from Aman Jungle
@@ -40,14 +40,14 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Class,Summoner,,Yes,No,No,Yes,White,Person,- Learned Summoner AB40 Skill/Spell,Deoxys,
 ,Class,Summoner,,Yes,No,No,Yes,White,Person,- Learned Summoner AB50 Skill/Spell,NaLyd,Learn a Summoner AB50 skill/spell from Aman Jungle
 ,Class,Summoner,,Yes,No,No,Yes,White,Person,- Learned Summoner AB60 Skill/Spell,NaLyd,Learn a Summoner AB60 skill/spell from Aman Jungle
-,Religious,Luathas,,,No,No,Yes,White,Priest,- Luathas Probate by,EightProbate,
-,Religious,Luathas,Temple Rank,,No,No,Yes,White,Priest,- Luathas Worshipper by,SmrtArcher,
-,Guild,Coup d'etat,,,No,Yes,Yes,White,Person,- Plans coup d'etat of,"(b0b_0001 on discord, their mogue)",
-,Religious,Heresy,,,No,Yes,Yes,White,Priest,- Plans heresy on,SneakySummy,
+,Religious,Luathas,,,No,No,Yes,White,Priest,- Luathas Probate by <Aisling>,EightProbate,
+,Religious,Luathas,Temple Rank,,No,No,Yes,White,Priest,- Luathas Worshipper by <Aisling>,SmrtArcher,
+,Guild,Coup d'etat,,,No,Yes,Yes,White,Person,- Plans coup d'etat of <Aisling>,"(b0b_0001 on discord, their mogue)",
+,Religious,Heresy,,,No,Yes,Yes,White,Priest,- Plans heresy on <Aisling>,SneakySummy,
 ,Political,"Mileth,Rucesion",,,No,Yes,Yes,White,Person,- Political Clout,NaLyd,
 ,Quest,Fisk,,,No,Yes,Yes,White,Person,- Reputable,Dylanlan,Complete the Fisk's Secret quest without telling the secret. Also obtained from the one-time Wishing for Pudgy's Health event
-,Religious,Sgrios,,,No,No,Yes,White,Priest,- Sgrios Probate by,EightProbate,
-,Religious,Sgrios,Temple Rank,,No,No,Yes,White,Priest,- Sgrios Worshipper by,Dylanlan,Joined the Sgrios religion with help from another Aisling
+,Religious,Sgrios,,,No,No,Yes,White,Priest,- Sgrios Probate by <Aisling>,EightProbate,
+,Religious,Sgrios,Temple Rank,,No,No,Yes,White,Priest,- Sgrios Worshipper by <Aisling>,Dylanlan,Joined the Sgrios religion with help from another Aisling
 ,College,Artist,,,No,No,Yes,Blue,Person,- Tentative Aisling Artist,BioMagus,
 ,College,Bard,,,No,No,Yes,Blue,Person,- Tentative Aisling Bard,Moogle,
 ,College,Historian,,,No,No,Yes,Blue,Person,- Tentative Aisling Historian,Ramanayan,
@@ -72,6 +72,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,College,Artist,,,No,No,Yes,Blue,Person,- Tentative Village Artist,BioMagus,
 ,College,Bard,,,No,No,Yes,Blue,Person,- Tentative Village Bard,Dylanlan,
 ,College,Lore Keeper,,,No,No,Yes,Blue,Person,- Tentative Village Lore Keeper,Dylanlan,
+,College,Historian,,,No,No,Yes,Blue,Person,- Tentative Village Historian,,
 ,College,Memory,,,No,No,Yes,Blue,Person,- Tentative Village Memory,NaLyd,A tentative legend mark to be replaced by an actual Village Memory mark. Awarded for winning the Memory of the Cycle contest from 2025: https://novus-imperia.com/college/2025.htm
 ,College,Philosopher,,,No,No,Yes,Blue,Person,- Tentative Village Philosopher,Kedian,
 ,Event,Insect,,,Yes,Sorta,No,Blue,Person,1st Annual Insect Event- Elite Insect Catcher-,adriela,
@@ -89,8 +90,8 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,September,,,Yes,No,No,White,Person,Accumulated Gillam's precious coins,Acesin,
 ,Event,September,,,Yes,No,No,White,Person,Acquired Gillam's precious coins,ariesyeo,
 ,Event,December,,,Yes,Yes,Yes,White,Person,Acquired Lonely Santa's Satchel,Arohanui,
-,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Admitted Citizen,Malache,
-,Guild,,,,Yes,Yes,No,White,Person,Admitted Guild member,Carnaugh,
+,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Admitted Citizen <Aisling>,Malache,
+,Guild,,,,Yes,Yes,No,White,Person,Admitted Guild member <Aisling>,Carnaugh,
 ,Event,May,,,Yes,Yes,Yes,Blue,Person,Adoration of Danaan,BioMagus,Completed the annual Adoration event with two other Aislings
 ,Event,May,,,Yes,No,No,Blue,Person,Adoration of Danaan non-incrementing,AceShimizu,Non-incrementing!
 ,Event,April,,,Yes,Yes,Yes,White,Person,Adranuch's Redemption at Pravat,Carnaugh,Completed the annual Redemption event at Pravat
@@ -114,7 +115,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,College,Kedian,,,Yes,No,No,Blue,Person,Aisling Wise One,Kedian,
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Allowed to Enter Secured Caves,iShallHeal,
 ,Event,September,,,Yes,No,No,White,Person,Amassed Gillam's precious coins,Acesin,
-,Guild,,,,Yes,Yes,No,Orange,Person,Annoyed,Bywyd,
+,Guild,,,,Yes,Yes,No,Orange,Person,Annoyed <Aisling>,Bywyd,
 ,Quest,Beal na Carraige,,,Yes,No,Yes,White,Person,Archaeologist of Beal na Carraige,binnie,
 ,Arena,Battles,,,Yes,Yes,Yes,White,Shield,Arena Battles,Abigor,Participate in a hosted arena battle
 ,Quest,Arena Circuit,,,Yes,No,Yes,White,Person,Arena Circuit Champion,Krytos,Complete the Arena Circut quest at the Gladiator Arena in Medenia
@@ -123,7 +124,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Arena,Victories,,,Yes,Yes,Yes,White,Shield,Arena Victories,Abigor,Win a hosted arena battle
 ,Event,April,,,Yes,Yes,Yes,White,Person,Arpina's Redemption at Astrid,Monicka,Completed the annual Redemption event at Astrid
 ,Event,April,,,Yes,No,No,White,Person,Arpina's Redemption at Astrid non-incrementing,AceShimizu,Non-incrementing!
-,Other,Arrested,,,Yes,Yes,Yes,Orange,Person,Arrested by,AdelaideT,"Sent to jail by a ranger, for having your computer play the game while you're not present"
+,Other,Arrested,,,Yes,Yes,Yes,Orange,Person,Arrested by <Aisling>,AdelaideT,"Sent to jail by a ranger, for having your computer play the game while you're not present"
 ,Event,September,,,Yes,No,No,White,Person,Assisted Gillam's Guild,Brittany,
 ,Event,October,,,Yes,No,No,White,Person,Assisted The Temuarian Beggar,blueskye,
 ,Event,,,,Yes,No,No,White,Person,Astrid Salvation,BioMagus,
@@ -132,12 +133,12 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Class,Monk,Subbing,,Yes,No,Yes,Brown,Monk,Attempting Monk Dedication,Winkster,
 ,Class,Priest,Subbing,,Yes,No,Yes,Brown,Priest,Attempting Priest Dedication,Moondrop,
 ,Class,Rogue,Subbing,,Yes,No,Yes,Brown,Rogue,Attempting Rogue Dedication,BadArch,
-,Political,"Mileth, Rucesion",Running for position,,Yes,No,Yes,Brown,Person,Attempting to become Burgess,Aon,
-,Political,"Mileth, Rucesion",Running for position,,Yes,No,Yes,Brown,Person,Attempting to become Demagogue,Alvino,
-,Political,"Mileth, Rucesion",Running for position,,Yes,No,Yes,Brown,Person,Attempting to become Guard,NaLyd,
-,Political,"Mileth, Rucesion",Running for position,,Yes,No,Yes,Brown,Person,Attempting to become Guard Captain,anunnaki,
-,Political,"Mileth, Rucesion",Running for position,,Yes,No,Yes,Brown,Person,Attempting to become Judge,Angelique,
-,Political,"Mileth, Rucesion",Running for position,,Yes,No,Yes,Brown,Person,Attempting to become Respected Citizen,FFnine,
+,Political,"Mileth, Rucesion",Running for,,Yes,No,Yes,Brown,Person,Attempting to become Burgess,Aon,
+,Political,"Mileth, Rucesion",Running for,,Yes,No,Yes,Brown,Person,Attempting to become Demagogue,Alvino,
+,Political,"Mileth, Rucesion",Running for,,Yes,No,Yes,Brown,Person,Attempting to become Guard,NaLyd,
+,Political,"Mileth, Rucesion",Running for,,Yes,No,Yes,Brown,Person,Attempting to become Guard Captain,anunnaki,
+,Political,"Mileth, Rucesion",Running for,,Yes,No,Yes,Brown,Person,Attempting to become Judge,Angelique,
+,Political,"Mileth, Rucesion",Running for,,Yes,No,Yes,Brown,Person,Attempting to become Respected Citizen,FFnine,
 ,Political,Tagor,,,Yes,No,No,Brown,Person,Attempting to become Sheriff,"Ukkyo, Dender",Running for Sheriff of Tagor
 ,Class,Warrior,Subbing,,Yes,No,Yes,Brown,Warrior,Attempting Warrior Dedication,Kurohige,
 ,Class,Wizard,Subbing,,Yes,No,Yes,Brown,Wizard,Attempting Wizard Dedication,iGNORAMUS,
@@ -145,7 +146,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,Avid Daydreamer,,,Yes,Yes,Yes,White,Person,Avid Temuairian Daydreamer,Warginald,
 ,Arena,Balanced Arena,,,Yes,No,No,White,Heart,Balanced Arena Combatant,Amarranth,Compete in the Balanced Arena
 ,Arena,Balanced Arena,,,Yes,Yes,No,White,Person,Balanced Arena Tester,Adriela,Compete in the Balanced Arena testing
-,Quest,March,,,Yes,No,Yes,Green,Person,Banished Snakes from Lynith Beach Way,Dionia,
+,Event,March,,,Yes,No,Yes,Green,Person,Banished Snakes from Lynith Beach Way,Dionia,
 ,Quest,Blackstar,,,Yes,Yes,Yes,White,Person,Banished the Imperial Shade of Blackstar,Ailred,Defeat the boss of Blackstar Crypt
 ,Event,,,,Yes,No,No,Blue,Heart,Banrion of Temuair,Naena,Also obtained by Angelic in Deoch 22
 ,Event,,,,Yes,No,No,Blue,Heart,Baron of Temuair,Disarray,
@@ -153,27 +154,28 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,,,,Yes,No,No,White,Person,Base Warfare Winning Team,KrAzYxOnE,
 ,Quest,Aman Jungle,,,Yes,No,Yes,White,Person,Befriended the Hostile Chief,BioMagus,
 ,Event,October,,,Yes,No,No,White,Person,Befriended The Temuarian Beggar,BioMagus,
-,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Black Dugon by,Ishikawa,"As a Monk class, learn the final Black Dugon in Sapphire Stream"
+,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Black Dugon by <Aisling>,Ishikawa,"As a Monk class, learn the final Black Dugon in Sapphire Stream"
 ,Class,"Rogue, Warrior",,Yes,Yes,Yes. Max 10?,Yes,White,Rogue,Blade Smith,Dylanlan,Practice Blade Smithing as a Warrior or Rogue class to improve a weapon's quality.
-,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Blue Dugon by,Punch,
+,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Blue Dugon by <Aisling>,Punch,
 ,Event,Medenian Seal,,,Yes,No,No,White,Person,Broke the Seal,BioMagus,"One of the 5 legendary Aislings who defeated the Seal Guardians, Elemental Creants, and Seal Master to unlock Medenia"
-,Class,Priest,,Yes,Yes,Yes,Yes,Brown,Heart,Broke up love,Mayheart,
-,Relationships,Broke up,,,Yes,No. Max 1,Yes,White,Heart,Broke up with,Somae,
-,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Brown Dugon by,Punch,
-,Pet,October,,,Yes,No,Yes,White,Person,Buddy of Mummy,Bea,
+,Class,Priest,,Yes,Yes,Yes,Yes,Brown,Heart,Broke up <Aisling>'s love,Mayheart,
+,Relationships,Broke up,,,Yes,No. Max 1,Yes,White,Heart,Broke up with <Aisling>,Somae,
+,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Brown Dugon by <Aisling>,Punch,
+,Pet,October,,,Yes,No,Yes,White,Person,Buddy of Mummy <Name>,Bea,
 ,Pet,October,,,Yes,No,Yes,White,Person,Buddy of Zombie,BioMagus,
-,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,Blue,Person,Burgess by,BioMagus,
+,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,Blue,Person,Burgess by <Aisling>,Eternalty,
 ,Political,Suomi,,,Yes,No,Yes,Blue,Person,Burgess of Suomi Troupe,Laurier,
-,Religious,Cail,Temple Rank,,Yes,No,Yes,White,Priest,Cail Acolyte by,Machamp,
-,Religious,"Cail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Cail Cleric by,Laurier,
-,Religious,"Cail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Cail High Priest by,Nadja,
-,Religious,"Cail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Cail Minister by,Nadja,
-,Religious,"Cail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Cail Priest by,NarlyFour,
+,Religious,Cail,Temple Rank,,Yes,No,Yes,White,Priest,Cail Acolyte by <Aisling>,Machamp,
+,Religious,"Cail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Cail Cleric by <Aisling>,Laurier,
+,Religious,"Cail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Cail High Priest by <Aisling>,Nadja,
+,Religious,"Cail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Cail Minister by <Aisling>,Nadja,
+,Religious,"Cail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Cail Priest by <Aisling>,NarlyFour,
 ,Event,April,,,Yes,No,No,White,Person,Captured Giant Floppy,Angelique,
-,Religious,Ceannlaidir,Temple Rank,,Yes,No,Yes,White,Priest,Ceannlaidir Acolyte by,FalconLady,
-,Religious,"Ceannlaidir, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Ceannlaidir Cleric by,Annoy,
-,Religious,"Ceannlaidir, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Ceannlaidir High Priest by,Reyakeely,
-,Religious,"Ceannlaidir, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Ceannlaidir Priest by,Makunouchi,
+,Religious,Ceannlaidir,Temple Rank,,Yes,No,Yes,White,Priest,Ceannlaidir Acolyte by <Aisling>,FalconLady,
+,Religious,"Ceannlaidir, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Ceannlaidir Cleric by <Aisling>,Annoy,
+,Religious,"Ceannlaidir, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Ceannlaidir High Priest by <Aisling>,Reyakeely,
+,Religious,"Ceannlaidir, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Ceannlaidir Minister by <Aisling>,,
+,Religious,"Ceannlaidir, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Ceannlaidir Priest by <Aisling>,Makunouchi,
 ,Event,Anniversary,,,Yes,Sorta,No,Yellow,Person,Celebrated Dark Ages 20th Anniversary,Krytos,
 ,Event,Anniversary,,,Yes,Sorta,No,Yellow,Person,Celebrated Dark Ages 25th Anniversary,Krytos,
 ,Event,Anniversary,,,Yes,Sorta,No,Yellow,Person,Celebrated Deoch 200th Anniversary,Acesin,Attended the 200th Deoch Celebration Event
@@ -195,9 +197,9 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Daily Quest,Fire Canyon,,,Yes,Yes,Yes,White,Person,Completed Fire Canyon Daily Quest,eiscego,Kill 20 specific monsters in Fire Canyon
 ,Daily Quest,Gem Polishing,,,Yes,Yes,Yes,White,Person,Completed Gem Polishing Daily Quest,DoubleMint,
 ,Daily Quest,Goblin,,,Yes,Yes,Yes,White,Person,Completed Goblin Daily Quest,eiscego,
-,Guild,Geas,,,Yes,No,No,White,Person,Completed Guild Geas for,Ramanayan,
+,Guild,Geas,,,Yes,No,No,White,Person,Completed Guild Geas for <Aisling>,Ramanayan,
 ,Daily Quest,Lost Ruins,,,Yes,Yes,Yes,White,Person,Completed Lost Ruins Daily Quest,Zaxa,Kill 20 specific monsters in Lost Ruins
-,Guild,Geas,,,Yes,Yes,No,White,Person,Completed motley Geas for,Duplico,
+,Guild,Geas,,,Yes,Yes,No,White,Person,Completed motley Geas for <Aisling>,Duplico,
 ,Daily Quest,Mt Giragan,,,Yes,Yes,Yes,White,Person,Completed Mt Giragan Daily Quest,Rocandy,Kill 20 specific monsters in Mount Giragan
 ,Quest,Muisir,,,Yes,Yes,Yes,White,Person,Completed Muisir Training,Acesin,
 ,Daily Quest,New Dress,,,Yes,Yes,Yes,White,Person,Completed New Dress Daily Quest,eiscego,
@@ -206,7 +208,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,November,,,Yes,Yes,Yes,White,Person,Completed Oren Ball Scavenger Hunt,Dynamus,
 ,Daily Quest,Oren,,,Yes,Yes,Yes,White,Person,Completed Oren Daily Quest,DoubleMint,Kill 20 specific monsters in Oren
 ,Event,Insect,,,Yes,Yes,Yes,Blue,Person,Completed Quarterly Insect Event,Neoxbahamut,"Completed the ""Insect Catching Tournament"" quarterly event. Catch 20 of each insect in Mileth, Oren, Asilon, and Hwarone"
-,Religious,Geas,,,Yes,No,Yes,White,Priest,Completed religious geas for,Somae,
+,Religious,Geas,,,Yes,No,Yes,White,Priest,Completed religious geas for <Aisling>,Somae,
 ,Daily Quest,Tavaly,,,Yes,Yes,Yes,White,Person,Completed Sacred Forest Daily Quest,Neoxbahamut,Kill 20 specific monsters in Tavaly
 ,Daily Quest,Shinewood,,,Yes,Yes,Yes,White,Person,Completed Shinewood Daily Quest,Neoxbahamut,Kill 20 specific monsters in Shinewood
 ,Event,Pig Chase,,,Yes,Sorta,No,White,Person,Completed the 10th Annual Pig Chase Event,Neoxbahamut,
@@ -261,16 +263,16 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,Recurring,,,Yes,Yes,Yes,White,Person,Defended Temuair from Chadul Army Invasion,AresFalco,
 ,Event,,,,Yes,No,No,White,Person,Defender of Loures Invasion,BioMagus,
 ,Event,Messenger of the Heart,,,Yes,No,No,White,Person,Delivered Love Packages,NaLyd,
-,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,Blue,Person,Demagogue by,Nenya,
-,Religious,Deoch,Temple Rank,,Yes,No,Yes,White,Priest,Deoch Acolyte by,Deoxys,
-,Religious,"Deoch, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Deoch Cleric by,Srgious,
-,Religious,"Deoch, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Deoch High Priest by,Malache,
-,Religious,"Deoch, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Deoch Minister by,Landon,
-,Religious,"Deoch, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Deoch Priest by,Cazbrileth,
+,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,Blue,Person,Demagogue by <Aisling>,Eternalty,
+,Religious,Deoch,Temple Rank,,Yes,No,Yes,White,Priest,Deoch Acolyte by <Aisling>,Deoxys,
+,Religious,"Deoch, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Deoch Cleric by <Aisling>,Srgious,
+,Religious,"Deoch, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Deoch High Priest by <Aisling>,Malache,
+,Religious,"Deoch, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Deoch Minister by <Aisling>,Landon,
+,Religious,"Deoch, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Deoch Priest by <Aisling>,Cazbrileth,
 ,Quest,"Dark Artifact, Priest",,Yes,Yes,No,Yes,White,Person,Discovered the Cluais Jewel,Kimchii,Completed the Demon Lord's Notes quest on a Priest
 ,Quest,"Dark Artifact, Wizard",,Yes,Yes,No,Yes,White,Person,Discovered the Dark Ring,BioMagus,Completed the Demon Lord's Notes quest on a Wizard
 ,Arena,,,,Yes,No,?,Orange,Person,Disgraced Arena Host,IShallHeal,
-,Relationships,Divorced,,,Yes,Yes,Yes,Brown,Heart,Divorced,sick,
+,Relationships,Divorced,,,Yes,Yes,Yes,Brown,Heart,Divorced <Name>,sick,Divorced someone after being married to them. Note that the name on the mark does not have to match the Aisling that they got divorced from
 ,Class,Monk,Monk Form,Yes,Yes,No,Yes,White,Monk,Draco Form,Abigor,"As a Monk class, learn the Draco Form from the Combat Skill Master in Suomi"
 ,Event,March,,,Yes,Yes,Yes,White,Person,Drank The Famous Green Ale,Acesin,
 ,Quest,Plamit,Ancient Flame,,Yes,No,Yes,White,Heart,Drazul of the Ancient Flame,Dylanlan,
@@ -429,32 +431,32 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,,,,Yes,No,No,White,Person,Event Winner of Paradise Seafood Competition,Wizadrian,
 ,Event,,,,Yes,No,No,White,Person,Event- Arena Champion for Ceannlaidir,Jabedin,
 ,Event,,,,Yes,No,No,White,Person,Event- General of Ceannlaidir's Army,Krytos,
-,Religious,"Excommunication, Priest",,Yes,Yes,Yes,Yes,White,Priest,Excommunicated,Angelic,
-,Religious,Excommunication,,,Yes,Yes,Yes,Orange,Priest,Excommunicated by,Ramanayan,
-,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Exiled,Eternalty,
-,Guild,,,,Yes,No,No,Orange,Person,Exiled from Guild by,FFeightBest,
-,Political,Mileth,,,Yes,No,Yes,Orange,Person,Exiled from Mileth by,RomanVolkoff,
-,Political,Rucesion,,,Yes,No,Yes,Orange,Person,Exiled from Rucesion by,Panni,
+,Religious,"Excommunication, Priest",,Yes,Yes,Yes,Yes,White,Priest,Excommunicated <Aisling>,Angelic,
+,Religious,Excommunication,,,Yes,Yes,Yes,Orange,Priest,Excommunicated by <Aisling>,Ramanayan,
+,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Exiled <Aisling>,Eternalty,
+,Guild,,,,Yes,No,No,Orange,Person,Exiled from Guild by <Aisling>,FFeightBest,
+,Political,Mileth,,,Yes,No,Yes,Orange,Person,Exiled from Mileth by <Aisling>,RomanVolkoff,
+,Political,Rucesion,,,Yes,No,Yes,Orange,Person,Exiled from Rucesion by <Aisling>,Panni,
 ,Arena,,,,Yes,No,Yes,Orange,Person,Exiled from the Arena,Zethrian,
-,Guild,,,,Yes,Yes,No,White,Person,Exiled Guild member,Kedian,
+,Guild,,,,Yes,Yes,No,White,Person,Exiled Guild member <Aisling>,Kedian,
 ,Quest,Andor Dungeon,,,Yes,No,Yes,White,Person,Explorer of Andor Dungeon,BioMagus,
 ,Quest,Oren Sewers,,,Yes,No,Yes,White,Person,Explorer of Oren Sewers,BioMagus,
-,Event,,,,Yes,No,No,White,Person,Fair King with,Bentic (also Eternalty),
+,Event,,,,Yes,No,No,White,Person,Fair King with <Aisling>,Bentic (also Eternalty),
 ,Other,,,,Yes,Yes,Yes,White,Person,Fair Marshal,NaLyd,
-,Event,,,,Yes,No,No,White,Person,Fair Queen with,Angelic (also Secresy),
+,Event,,,,Yes,No,No,White,Person,Fair Queen with <Aisling>,Angelic (also Secresy),
 ,Event,,,,Yes,Yes,No,Blue,Person,Fall Classic 2v2 Tournament Champion,Final,
 ,Guild,Fellowship,Guild Rank,,Yes,No,Yes,White,Person,Fellowship Leader,Galaxis,
 ,Event,September,,,Yes,No,No,White,Person,Fetched Gillam's precious coins,Kallina,
-,Religious,Fiosachd,Temple Rank,,Yes,No,Yes,White,Priest,Fiosachd Acolyte by,Auzric,
-,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd Cleric by,Klyden,
-,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd High Priest by,DoomHealer,
-,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd Minister by,Jabedin,
-,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd Priest by,StarSparkler,Joined the Fiosachd religion and became Priest rank without help
+,Religious,Fiosachd,Temple Rank,,Yes,No,Yes,White,Priest,Fiosachd Acolyte by <Aisling>,Auzric,
+,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd Cleric by <Aisling>,Klyden,
+,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd High Priest by <Aisling>,DoomHealer,
+,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd Minister by <Aisling>,Jabedin,
+,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd Priest by <Aisling>,StarSparkler,Joined the Fiosachd religion and became Priest rank without help
 ,Religious,Fire,Medenian Spirit,,Yes,Yes. Max 5,Yes,Blue,Person,Fire Reverence blue,NaLyd,
 ,Religious,Fire,Medenian Spirit,,Yes,Yes. Max 5,No,White,Person,Fire Reverence white,iLyria,
 ,College,Event Host,,,Yes,Yes,No,Blue,Person,Folk Event Host,"Vendes, Graynemeade, Omner, or Riyan?",
 ,Event,Dark Light War,,,Yes,No,No,White,Rogue,Follows Pashura of the Light,BioMagus,
-,Other,Renamed,,,Yes,No,No,White,Person,Formerly known as,Bea,Change your Aisling's name by submitting a support ticket to Kru
+,Other,Renamed,,,Yes,No,No,White,Person,Formerly known as <Aisling>,Bea,Change your Aisling's name by submitting a support ticket to Kru
 ,Event,,,,Yes,Sorta,No,White,Person,Found 1st Lucky Clover,,
 ,Event,,,,Yes,Sorta,No,White,Person,Found 2nd Lucky Clovers,,
 ,Event,,,,Yes,Sorta,No,White,Person,Found 3rd Lucky Clovers,,
@@ -464,44 +466,43 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,March,,,Yes,Yes,Yes,White,Person,Found Lucky Clovers,,Found a lucky four leaf clover on the ground during the March events
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Found Luwella's House Key,,
 ,Event,December,,,Yes,Yes,Yes,White,Person,Found Santa's Peppermint Sticks,Warginald,
-,Guild,,,,Yes,No,No,Blue,Person,Founded  Guild blue,BioMagus,Blue mark but missing Guild Name
 ,Guild,,,,Yes,No,No,Blue,Person,Founded  Motley,Kedian,
 ,Guild,,,,Yes,No,No,White,Person,Founded Guild white,Kedian,White mark!
-,Guild,Founded,,,Yes,No,Yes,Blue,Person,Founded Guild with name,Kousaka,
+,Guild,Founded,,,Yes,No,Yes,Blue,Person,Founded <Name> Guild,Kousaka,
 ,Other,Unregistered,,,Yes,No,Yes,Brown,Person,Fragile Chrysalis ((Unregistered)),,
 ,Event,May,,,Yes,Yes,Yes,Blue,Person,Freed cursed mundanes in Abel,,
-,Event,February,,,Yes,No,Yes,White,Person,Friend of Faerie,,"Complete the ""Make a Wish"" February event and choose to wish for Faerie's good health"
-,Event,March,,,Yes,No,Yes,White,Person,Friend of Leprechaun,,
+,Event,February,,,Yes,No,Yes,White,Person,Friend of Faerie <Name>,,"Complete the ""Make a Wish"" February event and choose to wish for Faerie's good health"
+,Event,March,,,Yes,No,Yes,White,Person,Friend of Leprechaun <Name>,,
 ,Quest,Plamit,Ancient Flame,,Yes,No,Yes,White,Heart,Gadeu of the Ancient Flame,NaLyd,
 ,Event,September,,,Yes,No,No,White,Person,Gathered Gillam's precious coins,blueskye,
 ,Quest,Strong Winds,,,Yes,Yes,Yes,White,Person,Gathered Materials for Jowella's House,,
 ,Event,September,,,Yes,No,Yes,White,Person,Gathered Treasures for Gillam,,
 ,Class,Rogue,,Yes,Yes,Yes. No limit?,Yes,White,Rogue,Gem Smith,Dylanlan,"Practice Gem Polishing as a Rogue class. After polishing 50 gems, the ""- Involved in Gem Polishing"" Private mark will increment this public mark by one. There is some secret way to reach beyond Gem Smith (10)."
 ,Quest,Blackstar,Blackstar Rank,,Yes,No,Yes,White,Heart,General of Blackstar,SaintAsher,
-,Religious,Glioca,Temple Rank,,Yes,No,Yes,White,Priest,Glioca Acolyte by,Demylo,
-,Religious,"Glioca, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Glioca Cleric by,Zhongfou,
-,Religious,"Glioca, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Glioca High Priest by,Merisa,
-,Religious,"Glioca, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Glioca Minister by,Duplico,
-,Religious,"Glioca, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Glioca Priest by,Blissey,
+,Religious,Glioca,Temple Rank,,Yes,No,Yes,White,Priest,Glioca Acolyte by <Aisling>,Demylo,
+,Religious,"Glioca, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Glioca Cleric by <Aisling>,Zhongfou,
+,Religious,"Glioca, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Glioca High Priest by <Aisling>,Merisa,
+,Religious,"Glioca, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Glioca Minister by <Aisling>,Duplico,
+,Religious,"Glioca, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Glioca Priest by <Aisling>,Blissey,
 ,Event,Calling Stone,,,Yes,No,No,White,Person,Goblin Calling Stone for Ceannlaidir,Blader,
-,Religious,Gramail,Temple Rank,,Yes,No,Yes,White,Priest,Gramail Acolyte by,,
-,Religious,"Gramail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Gramail Cleric by,Rudito,
-,Religious,"Gramail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Gramail High Priest by,Angelique,
-,Religious,"Gramail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Gramail Minister by,Ubrei,
-,Religious,"Gramail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Gramail Priest by,Religion,
+,Religious,Gramail,Temple Rank,,Yes,No,Yes,White,Priest,Gramail Acolyte by <Aisling>,,
+,Religious,"Gramail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Gramail Cleric by <Aisling>,Rudito,
+,Religious,"Gramail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Gramail High Priest by <Aisling>,Angelique,
+,Religious,"Gramail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Gramail Minister by <Aisling>,Ubrei,
+,Religious,"Gramail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Gramail Priest by <Aisling>,Religion,
 ,Quest,Goblin War,,,Yes,No,Yes,White,Person,Great Soldier of the Goblin War,,Kill two of each goblin in Grass Field. Cannot be completed after becoming Medenian Class
-,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Green Dugon by,Punch,
+,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Green Dugon by <Aisling>,Punch,
 ,Event,Calling Stone,,,Yes,No,No,White,Person,Grimlok Calling Stone for Deoch,Carnaugh,
 ,Event,Calling Stone,,,Yes,No,No,White,Person,Grimlok Calling Stone for Luathas,BioMagus,
 ,Quest,Blackstar,Blackstar Rank,,Yes,No,Yes,White,Heart,Grunt of Blackstar,FrauLynn,
 ,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Guard,,
 ,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Guard Captain,,
-,Class,Monk,,,Yes,Yes,Yes,Blue,Monk,Guided Monk,,Guide another Aisling of the Monk class. You can get this mark on any class if you guide someone again after they sub into this class.
-,Class,Priest,,,Yes,Yes,Yes,Blue,Priest,Guided Priest,,Guide another Aisling of the Priest class. You can get this mark on any class if you guide someone again after they sub into this class.
-,Class,Rogue,,,Yes,Yes,Yes,Blue,Rogue,Guided Rogue,,Guide another Aisling of the Rogue class. You can get this mark on any class if you guide someone again after they sub into this class.
-,Class,Warrior,,,Yes,Yes,Yes,Blue,Warrior,Guided Warrior,,Guide another Aisling of the Warrior class. You can get this mark on any class if you guide someone again after they sub into this class.
-,Class,Wizard,,,Yes,Yes,Yes,Blue,Wizard,Guided Wizard,,Guide another Aisling of the Wizard class. You can get this mark on any class if you guide someone again after they sub into this class.
-,Guild,,,,Yes,No,No,White,Person,Guild by oath of,,
+,Class,Monk,,,Yes,Yes,Yes,Blue,Monk,Guided Monk <Aisling>,,Guide another Aisling of the Monk class. You can get this mark on any class if you guide someone again after they sub into this class.
+,Class,Priest,,,Yes,Yes,Yes,Blue,Priest,Guided Priest <Aisling>,,Guide another Aisling of the Priest class. You can get this mark on any class if you guide someone again after they sub into this class.
+,Class,Rogue,,,Yes,Yes,Yes,Blue,Rogue,Guided Rogue <Aisling>,,Guide another Aisling of the Rogue class. You can get this mark on any class if you guide someone again after they sub into this class.
+,Class,Warrior,,,Yes,Yes,Yes,Blue,Warrior,Guided Warrior <Aisling>,,Guide another Aisling of the Warrior class. You can get this mark on any class if you guide someone again after they sub into this class.
+,Class,Wizard,,,Yes,Yes,Yes,Blue,Wizard,Guided Wizard <Aisling>,,Guide another Aisling of the Wizard class. You can get this mark on any class if you guide someone again after they sub into this class.
+,Guild,,,,Yes,No,No,White,Person,Guild by oath of <Aisling>,,
 ,Guild,Council,Guild Rank,,Yes,No,Yes,Blue,Person,Guild Council,,
 ,Guild,Leader,Guild Rank,,Yes,No,Yes,Blue,Person,Guild Leader,BioMagus,
 ,Guild,,,,Yes,No,No,Blue,Person,Guild Master,Kedian,
@@ -515,8 +516,8 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Religious,Gramail,Forsaken,,Yes,No,Yes,White,Priest,Has forsaken Gramail,Leemon,
 ,Religious,Luathas,Forsaken,,Yes,No,Yes,White,Priest,Has forsaken Luathas,Cazbrileth,
 ,Religious,Sgrios,Forsaken,,Yes,No,Yes,White,Priest,Has forsaken Sgrios,,Joined and then left the Sgrios religion
-,Quest,,,,Yes,No,No,White,Heart,Heart of Fire with,Kedian,
-,Quest,,,,Yes,No,No,White,Heart,Heart of Moon with,Mayheart,
+,Quest,,,,Yes,No,No,White,Heart,Heart of Fire with <Aisling>,Kedian,
+,Quest,,,,Yes,No,No,White,Heart,Heart of Moon with <Aisling>,Mayheart,
 ,Event,Suomi Inn,,,Yes,No,No,White,Person,Helped Build Suomi Inn,,
 ,Event,April,,,Yes,Yes,Yes,White,Person,Helped Clean Bank,,"Completed ""Antonio's Cluttered Bank"" April event. Grants 7 additional bank slots per completion."
 ,Event,Suomi Inn,,,Yes,No,No,White,Person,Helped Design Suomi Inn,,
@@ -527,7 +528,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,Aman Jungle,,,Yes,No,Yes,White,Person,Helped Oriana find Elemus,,
 ,Event,October,,,Yes,No,No,White,Person,Helped The Temuarian Beggar,,
 ,Class,"Monk, Priest, Wizard",,Yes,Yes,Yes,Yes,White,Monk,Herbalist,,"Equip a Cloth Glove and practice herbalism at various plants in Temuair. Requires being a Monk, Priest, or Wizard class and learning Herbal Lore"
-,Religious,Priest,,Yes,Yes,Yes,Yes,Orange,Priest,Heretic by oath of,Ramanayan,
+,Religious,Priest,,Yes,Yes,Yes,Yes,Orange,Priest,Heretic by oath of <Aisling>,Ramanayan,
 ,Quest,Blackstar,Blackstar Rank,,Yes,No,Yes,White,Heart,High Warlord of Blackstar,,Complete 250 Blackstar dungeon runs and talk to Marsha in the Blackstar Crypt Lobby
 ,Political,,,,Yes,No,?,Blue,Person,Honorary Member of the Suomi Troupe,Huhuman,
 ,Quest,Wolf of WW,,,Yes,No,Yes,White,Person,Hunted down a wolf of West Woodland,,
@@ -537,13 +538,13 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Political,Hwarone,Hwarone Rank,,Yes,No,Yes,White,Person,Hwarone Soldier,,
 ,Political,Hwarone,,,Yes,Yes,Yes,White,Person,Hwarone War kills,,
 ,Quest,Tavaly,,,Yes,Yes,Yes,White,Person,Impersonating the Hostile Emissary,Lux,
-,Guild,,,,Yes,Yes,No,White,Person,Initiated into a Motley,,
-,Religious,Priest,,Yes,Yes,Yes,Yes,White,Priest,Initiated Worshipper,,
-,Religious,Heresy,,,Yes,Yes,?,White,Priest,Instigated heresy against,,
+,Guild,,,,Yes,Yes,No,White,Person,Initiated <Aisling> into a Motley,,
+,Religious,Priest,,Yes,Yes,Yes,Yes,White,Priest,Initiated Worshipper <Aisling>,,
+,Religious,Heresy,,,Yes,Yes,?,White,Priest,Instigated heresy against <Aisling>,,
 ,Quest,Tavaly,,,Yes,No,Yes,White,Person,Investigated the Sacred Ritual,Lux,
-,Other,Jailed,,,Yes,Yes,Yes,Orange,Person,Jailed,,"Sent to jail by a ranger, for violating Terms of Service"
+,Other,Jailed,,,Yes,Yes,Yes,Orange,Person,Jailed X times - last by <Aisling>,,"Sent to jail by a ranger, for violating Terms of Service"
 ,Event,September,King's Hunt,,Yes,No,Yes,White,Person,Jester Courtney's Hunt,,
-,Class,Priest,,Yes,Yes,Yes,Yes,White,Heart,Joined to a lover,,
+,Class,Priest,,Yes,Yes,Yes,Yes,White,Heart,Joined <Aisling> to a lover,,
 ,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Judge,,
 ,Event,Insect,,,Yes,No,No,White,Person,Junior Insect Catcher,xLimited,"The original legend mark from completing the first Insect Event by catching 10 of each insect. Got replaced by ""1st Annual Insect Event- Junior Insect Catcher"""
 ,Class,Monk,Monk Form,Yes,Yes,No,Yes,White,Monk,Kelberoth Form,,"As a Monk class, learn the Kelberoth Form from the Combat Skill Master in Suomi"
@@ -556,6 +557,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,,,,Yes,No,No,White,Heart,King of Loures Kingdom,Zera,
 ,Event,,,,Yes,No,No,White,Heart,King of Mileth Village,Disarray,
 ,Event,,,,Yes,No,No,White,Heart,King of Oren Kingdom,Wizadrian,
+,Event,,,,Yes,No,No,White,Heart,King of Rucesion Village,Plumbus,
 ,Event,,,,Yes,No,No,White,Heart,King of Suomi Village,Acadami,
 ,Quest,Blackstar,Blackstar Rank,,Yes,No,Yes,White,Heart,Knight of Blackstar,,Complete 50 Blackstar dungeon runs and talk to Marsha in the Blackstar Crypt Lobby
 ,Political,Knight,,,Yes,No,Yes,White,Person,Knight of Temuair,,
@@ -571,15 +573,15 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,College,Class,,,Yes,No,Yes,Blue,Person,Lord of the Arts,,
 ,Quest,Spare a Stick,,,Yes,Yes,Yes,Blue,Person,Loved by Mileth Mundanes,,"Complete the ""Spare a Stick"" quest from Callough in Mileth Weapon shop, before Insight 12. "
 ,Quest,Perfect Hairstyle,,,Yes,Yes,Yes,Blue,Person,Loved by Suomi Mundanes,,"Complete the ""Perfect Hairstyle"" quest from Eeva in Suomi Inn. Choosing Ponytale doesn't actually need any items."
-,Relationships,Glading,,,Yes,No,Yes,White,Heart,Loves,,Name of the partner you are bonded with in the Eastern Woodlands Lovers' Glade
-,Religious,Luathas,Temple Rank,,Yes,No,Yes,White,Priest,Luathas Acolyte by,,
-,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas Cleric by,Suspected,
-,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas High Priest by,Ramanayan,
-,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas Minister by,NagisaChan,
-,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas Priest by,Salgar,
+,Relationships,Glading,,,Yes,No,Yes,White,Heart,Loves <Aisling>,,Name of the partner you are bonded with in the Eastern Woodlands Lovers' Glade
+,Religious,Luathas,Temple Rank,,Yes,No,Yes,White,Priest,Luathas Acolyte by <Aisling>,,
+,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas Cleric by <Aisling>,Suspected,
+,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas High Priest by <Aisling>,Ramanayan,
+,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas Minister by <Aisling>,NagisaChan,
+,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas Priest by <Aisling>,Salgar,
 ,Quest,Lost Ruins,,,Yes,Yes,Yes,White,Person,Lured Fire Serpent Out,,
 ,Quest,"Nightmare, Rogue",,Yes,Yes,No,Yes,White,Rogue,Marauder of Gold,,
-,Relationships,Marriage,,,Yes,No,Yes,White,Heart,Married,,
+,Relationships,Marriage,,,Yes,No,Yes,White,Heart,Married <Aisling>,,
 ,Class,Master,,,Yes,No,Yes,Blue,Shield,Master,,Became a master Aisling of your class at the Temple of Choosing in Mileth
 ,Arena,Host,Arena Host,,Yes,No,Yes,White,Shield,Master Arena Host,Set,
 ,Political,Tagor,Ranger,,Yes,No,Yes,White,Person,Master Ranger,Ishikawa,
@@ -597,25 +599,25 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Guild,,,,Yes,Yes,No,Blue,Person,May appoint Guild Council,,Can also be a white mark?
 ,Political,Suomi,,,Yes,No,Yes,White,Person,Member of the Suomi Troupe,,
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Mended Jowella and Kharlo's Relationship,,
-,Relationships,Mentor,,,Yes,Yes,Yes,Blue,Person,Mentored,,
-,Relationships,Mentor,,,Yes,No,Yes,White,Person,Mentored by,,
+,Relationships,Mentor,,,Yes,Yes,Yes,Blue,Person,Mentored <Aisling>,,
+,Relationships,Mentor,,,Yes,No,Yes,White,Person,Mentored by <Aisling>,,
 ,Event,Messenger of the Heart,,,Yes,No,No,Blue,Person,Messenger of the Heart,,
 ,Class,Priest,,Yes,Yes,Yes,Yes,Blue,Priest,Mileth Altar Worshipper,,
-,Political,Mileth,,,Yes,No,Yes,White,Person,Mileth Citizen by oath of,Nurzz,
+,Political,Mileth,,,Yes,No,Yes,White,Person,Mileth Citizen by oath of <Aisling>,Nurzz,
 ,College,Bard,,,Yes,Yes,Yes,Blue,Person,Mileth Clave Bard,Kedian,
 ,College,Lore Keeper,,,Yes,Yes,Yes,Blue,Person,Mileth Clave Lore Keeper,Vamistle,
 ,College,Persona,,,Yes,Yes,Yes,Blue,Person,Mileth Clave Persona,Mayheart,
 ,College,Chancellor,,,Yes,No,Yes,Blue,Person,Mileth College Chancellor,Ramanayan,
-,Political,Mileth,,,Yes,No,Yes,White,Person,Mileth Guest by oath of,Cherrius,
+,Political,Mileth,,,Yes,No,Yes,White,Person,Mileth Guest by oath of <Aisling>,Cherrius,
 ,College,Bard,,,Yes,Yes,Yes,Blue,Person,Mileth Kingdom Bard,BioMagus,
 ,College,Persona,,,Yes,Yes,Yes,Blue,Person,Mileth Kingdom Persona,Ponder,
 ,Other,Mundane Birth,Birth,,Yes,No,Yes,White,Person,Mileth mundane birth,,
 ,College,Bard,,,Yes,Yes,Yes,Blue,Person,Mileth Village Bard,Tristam,
 ,College,Persona,,,Yes,Yes,Yes,Blue,Person,Mileth Village Persona,RasLuinne,
-,Class,Monk,,Yes,Yes,No,Yes,White,Monk,Monk by oath of,Punch,
+,Class,Monk,,Yes,Yes,No,Yes,White,Monk,Monk by oath of <Aisling>,Punch,
 ,Class,Monk,Subbing,Yes,Yes,No,Yes,Blue,Monk,Monk Dedication,,Successfully subbed from the Monk class into another class
-,Class,Monk,,Yes,Yes,No,Yes,White,Monk,"Monk, guided by",San,
-,Guild,,,,Yes,No,No,White,Person,Motley by oath of,,
+,Class,Monk,,Yes,Yes,No,Yes,White,Monk,"Monk, guided by <Aisling>",San,
+,Guild,,,,Yes,No,No,White,Person,Motley by oath of <Aisling>,,
 ,Guild,,,,Yes,No,No,Blue,Person,Motley Council,,Can also be a white mark?
 ,Guild,,,,Yes,No,No,Blue,Person,Motley Leader,Theowin,
 ,Quest,Tagor Citizens,,,Yes,No,Yes,Orange,Person,Murdered Tagor citizens,,
@@ -623,102 +625,102 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,September,,,Yes,No,No,White,Person,Obtained Gillam's precious coins,Ailred,
 ,Quest,Aman Jungle,,,Yes,No,Yes,White,Person,Obtained Hostile Disguise from Glenna,,
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Obtained the Yowien Costume,,
-,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet baby brute,BioMagus,Use the pet baby brute item and give it a name
-,Pet,Hwarone,,,Yes,No,Yes,White,Person,Owner of pet bast,,
-,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet bat,BioMagus,Use the pet smoldy item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet beetle,,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet black scorpion,BioMagus,Use the pet black scorpion item and give it a name
-,Pet,Fire Spirit,,,Yes,No,Yes,White,Person,Owner of pet blaze,,
-,Pet,August,,,Yes,No,Yes,White,Person,Owner of pet blue octopus,,Use the pet blue octopus item and give it a name
-,Pet,October,,,Yes,No,Yes,White,Person,Owner of pet boney dragon,xbudx,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet brawlfish,,
-,Pet,August,,,Yes,No,?,White,Person,Owner of pet brown octopus,,Use the pet brown octopus item and give it a name
-,Pet,Deoch 200,,,Yes,No,No,White,Person,Owner of pet carnun champion,,Use the pet carnun champion item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet centipede,,
-,Pet,Old April,,,Yes,No,?,White,Person,Owner of pet chicken,,
-,Pet,April,,,Yes,No,Yes,White,Person,Owner of pet chicks,,Use the pet chicks item and give it a name
-,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet crab,,Use the pet crab item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet cursed dog,BioMagus,Use the pet cursed dog item and give it a name
-,Pet,Tagor Pet Event,,,Yes,No,Yes,White,Person,Owner of pet deer,,
-,Pet,Server Downtime 2006,,,Yes,No,Yes,White,Person,Owner of pet dragon,,
-,Pet,April,,,Yes,No,Yes,White,Person,Owner of pet enchanted beast,,Use the pet enchanted beast item and give it a name
-,Pet,Reviving Erbie Species,,,Yes,No,Yes,White,Person,Owner of pet erbie,,
-,Pet,Pig Chase,,,Yes,No,Yes,White,Person,Owner of pet female pig,,
-,Pet,Old Floppy,,,Yes,No,Yes,White,Person,Owner of pet fenix,,Use the pet fenix item and give it a name
-,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet flame,,Use the pet flame item and give it a name
-,Pet,Earth Spirit,,,Yes,No,?,White,Person,Owner of pet fox,BioMagus,Use the pet fox item and give it a name
-,Pet,Horse of the Gods 2006,,,Yes,No,?,White,Person,Owner of pet frog,Neoxbahamut,
-,Pet,Water Spirit,,,Yes,No,?,White,Person,Owner of pet gel,BioMagus,Use the pet get item and give it a name
-,Pet,October,,,Yes,No,Yes,White,Person,Owner of pet ghost,,Use the pet ghost item and give it a name
-,Pet,April,,,Yes,No,Yes,White,Person,Owner of pet giant floppy,,Use the pet giant floppy item and give it a name
-,Pet,April,,,Yes,No,Yes,White,Person,Owner of pet golden floppy,,Use the pet golden floppy item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet green droplet,,Use the pet green droplet item and give it a name
-,Pet,Old Paradise,,,Yes,No,?,White,Person,Owner of pet green starfish,,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet green wasp,BioMagus,Use the pet green wasp item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet gremlin,,
-,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet grey yowie,BioMagus,Use the pet grey yowie item and give it a name
-,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet grim succubus,BioMagus,Use the pet grim succubus item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet grime,,
-,Pet,December,,,Yes,No,Yes,White,Person,Owner of pet holiday erbie,,
-,Pet,Server Downtime 2006,,,Yes,No,Yes,White,Person,Owner of pet horse,,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet hyena,Huhuman,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet kardi,,
-,Pet,Blackstar,,,Yes,No,Yes,White,Person,Owner of pet kelberoth,,Use the pet kelberoth item and give it a name
-,Pet,Blackstar,,,Yes,No,Yes,White,Person,Owner of pet kit,,Use the pet kit item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet kraken,,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet larva,BioMagus,Use the pet larva item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet leech,,
-,Pet,Pig Chase,,,Yes,No,Yes,White,Person,Owner of pet male pig,,
-,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet mantis,,Use the pet mantis item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet marauder,,
-,Pet,Pudgy,,,Yes,No,No,White,Person,Owner of pet mouse,,Use the pet mouse item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet nagetier,Huhuman,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet namu,BioMagus,Use the pet namu item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet nikuru,Huhuman,
-,Pet,Kruna,,,Yes,No,?,White,Person,Owner of pet pink floppy,,
-,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet polyp,,Use the pet polyp item and give it a name
-,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet pupa,,Use the pet pupa item and give it a name
-,Pet,Old Paradise,,,Yes,No,?,White,Person,Owner of pet red starfish,,Use the pet red starfish item and give it a name
-,Pet,Kruna?,,,Yes,No,Yes,White,Person,Owner of pet reindeer,Willco,
-,Pet,September,,,Yes,No,?,White,Person,Owner of pet rock scorpion,Neoxbahamut,
-,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet rouge mushroom 2,Arohanui,
-,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet rouge mushroom 3,Wizadrian,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet salog,Huhuman,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet sand rat,,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet scorpion,,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet scrummel,BioMagus,Use the pet scrummel item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet skrull,,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet smily blob,,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet smoldy,BioMagus,Use the pet smoldy item and give it a name
-,Pet,Old Insects,,,Yes,No,No,White,Person,Owner of pet snek,BioMagus,Use the pet snek item and give it a name
-,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet spinning doll,,Use the pet spinning doll item and give it a name
-,Pet,Server Downtime 2006,,,Yes,No,Yes,White,Person,Owner of pet succubus,,
-,Pet,April,,,Yes,No,Yes,White,Person,Owner of pet three-eyed eagle,,Use the pet three-eyed eagle item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet turtle,,
-,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet unmasked warrior,,Use the pet unmasked warrior item and give it a name
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet viper,,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet vulture,Huhuman,
-,Pet,July Event 2006,,,Yes,No,Yes,White,Person,Owner of pet wasp,,
-,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet white baboon,Neoxbahamut,
-,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet winter erbie,BioMagus,Use the pet winter erbie item and give it a name
-,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet wolf,,Use the pet wolf item and give it a name
-,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Pardoned exiled of,,
+,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet baby brute <Name>,BioMagus,Use the pet baby brute item and give it a name
+,Pet,Hwarone,,,Yes,No,Yes,White,Person,Owner of pet bast <Name>,,
+,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet bat <Name>,BioMagus,Use the pet smoldy item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet beetle <Name>,,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet black scorpion <Name>,BioMagus,Use the pet black scorpion item and give it a name
+,Pet,Fire Spirit,,,Yes,No,Yes,White,Person,Owner of pet blaze <Name>,,
+,Pet,August,,,Yes,No,Yes,White,Person,Owner of pet blue octopus <Name>,,Use the pet blue octopus item and give it a name
+,Pet,October,,,Yes,No,Yes,White,Person,Owner of pet boney dragon <Name>,xbudx,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet brawlfish <Name>,,
+,Pet,August,,,Yes,No,?,White,Person,Owner of pet brown octopus <Name>,,Use the pet brown octopus item and give it a name
+,Pet,Deoch 200,,,Yes,No,No,White,Person,Owner of pet carnun champion <Name>,,Use the pet carnun champion item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet centipede <Name>,,
+,Pet,Old April,,,Yes,No,?,White,Person,Owner of pet chicken <Name>,,
+,Pet,April,,,Yes,No,Yes,White,Person,Owner of pet chicks <Name>,,Use the pet chicks item and give it a name
+,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet crab <Name>,,Use the pet crab item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet cursed dog <Name>,BioMagus,Use the pet cursed dog item and give it a name
+,Pet,Tagor Pet Event,,,Yes,No,Yes,White,Person,Owner of pet deer <Name>,,
+,Pet,Server Downtime 2006,,,Yes,No,Yes,White,Person,Owner of pet dragon <Name>,,
+,Pet,April,,,Yes,No,Yes,White,Person,Owner of pet enchanted beast <Name>,,Use the pet enchanted beast item and give it a name
+,Pet,Reviving Erbie Species,,,Yes,No,Yes,White,Person,Owner of pet erbie <Name>,,
+,Pet,Pig Chase,,,Yes,No,Yes,White,Person,Owner of pet female pig <Name>,,
+,Pet,Old Floppy,,,Yes,No,Yes,White,Person,Owner of pet fenix <Name>,,Use the pet fenix item and give it a name
+,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet flame <Name>,,Use the pet flame item and give it a name
+,Pet,Earth Spirit,,,Yes,No,?,White,Person,Owner of pet fox <Name>,BioMagus,Use the pet fox item and give it a name. From Earth Reverence 5 Mass?
+,Pet,Horse of the Gods 2006,,,Yes,No,?,White,Person,Owner of pet frog <Name>,Neoxbahamut,
+,Pet,Water Spirit,,,Yes,No,?,White,Person,Owner of pet gel <Name>,BioMagus,Use the pet get item and give it a name. From Water Reverence 5 Mass?
+,Pet,October,,,Yes,No,Yes,White,Person,Owner of pet ghost <Name>,,Use the pet ghost item and give it a name
+,Pet,April,,,Yes,No,Yes,White,Person,Owner of pet giant floppy <Name>,,Use the pet giant floppy item and give it a name
+,Pet,April,,,Yes,No,Yes,White,Person,Owner of pet golden floppy <Name>,,Use the pet golden floppy item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet green droplet <Name>,,Use the pet green droplet item and give it a name
+,Pet,Old Paradise,,,Yes,No,?,White,Person,Owner of pet green starfish <Name>,,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet green wasp <Name>,BioMagus,Use the pet green wasp item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet gremlin <Name>,,
+,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet grey yowie <Name>,BioMagus,Use the pet grey yowie item and give it a name
+,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet grim succubus <Name>,BioMagus,Use the pet grim succubus item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet grime <Name>,,
+,Pet,December,,,Yes,No,Yes,White,Person,Owner of pet holiday erbie <Name>,,
+,Pet,Server Downtime 2006,,,Yes,No,Yes,White,Person,Owner of pet horse <Name>,,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet hyena <Name>,Huhuman,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet kardi <Name>,,
+,Pet,Blackstar,,,Yes,No,Yes,White,Person,Owner of pet kelberoth <Name>,,Use the pet kelberoth item and give it a name
+,Pet,Blackstar,,,Yes,No,Yes,White,Person,Owner of pet kit <Name>,,Use the pet kit item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet kraken <Name>,,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet larva <Name>,BioMagus,Use the pet larva item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet leech <Name>,,
+,Pet,Pig Chase,,,Yes,No,Yes,White,Person,Owner of pet male pig <Name>,,
+,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet mantis <Name>,,Use the pet mantis item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet marauder <Name>,,
+,Pet,Pudgy,,,Yes,No,No,White,Person,Owner of pet mouse <Name>,,Use the pet mouse item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet nagetier <Name>,Huhuman,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet namu <Name>,BioMagus,Use the pet namu item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet nikuru <Name>,Huhuman,
+,Pet,Kruna,,,Yes,No,?,White,Person,Owner of pet pink floppy <Name>,,
+,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet polyp <Name>,,Use the pet polyp item and give it a name
+,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet pupa <Name>,,Use the pet pupa item and give it a name
+,Pet,Old Paradise,,,Yes,No,?,White,Person,Owner of pet red starfish <Name>,,Use the pet red starfish item and give it a name
+,Pet,Kruna?,,,Yes,No,Yes,White,Person,Owner of pet reindeer <Name>,Willco,
+,Pet,September,,,Yes,No,?,White,Person,Owner of pet rock scorpion <Name>,Neoxbahamut,
+,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet rouge mushroom 2 <Name>,Arohanui,
+,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet rouge mushroom 3 <Name>,Wizadrian,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet salog <Name>,Huhuman,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet sand rat <Name>,,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet scorpion <Name>,,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet scrummel <Name>,BioMagus,Use the pet scrummel item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet skrull <Name>,,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet smily blob <Name>,,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet smoldy <Name>,BioMagus,Use the pet smoldy item and give it a name
+,Pet,Old Insects,,,Yes,No,No,White,Person,Owner of pet snek <Name>,BioMagus,Use the pet snek item and give it a name
+,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet spinning doll <Name>,,Use the pet spinning doll item and give it a name
+,Pet,Server Downtime 2006,,,Yes,No,Yes,White,Person,Owner of pet succubus <Name>,,
+,Pet,April,,,Yes,No,Yes,White,Person,Owner of pet three-eyed eagle <Name>,,Use the pet three-eyed eagle item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet turtle <Name>,,
+,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet unmasked warrior <Name>,,Use the pet unmasked warrior item and give it a name
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet viper <Name>,,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet vulture <Name>,Huhuman,
+,Pet,July Event 2006,,,Yes,No,Yes,White,Person,Owner of pet wasp <Name>,,
+,Pet,September,,,Yes,No,Yes,White,Person,Owner of pet white baboon <Name>,Neoxbahamut,
+,Pet,Kruna,,,Yes,No,Yes,White,Person,Owner of pet winter erbie <Name>,BioMagus,Use the pet winter erbie item and give it a name
+,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet wolf <Name>,,Use the pet wolf item and give it a name
+,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Pardoned exiled of <Name>,,
 ,Quest,"Nightmare, Monk",Monk Nightmare,Yes,Yes,Yes,Yes,White,Monk,Pattern Walker of Earth,,Complete the Nightmare quest as a monk
 ,Quest,"Nightmare, Monk",Monk Nightmare,Yes,Yes,No,Yes,White,Monk,Pattern Walker of Night,Bywyd,
 ,Quest,"Nightmare, Monk",Monk Nightmare,Yes,Yes,No,Yes,White,Monk,Pattern Walker of Sea,Ishikawa,
-,Class,Priest,,Yes,Yes,Yes,Yes,Brown,Heart,Performed divorce of,,
+,Class,Priest,,Yes,Yes,Yes,Yes,Brown,Heart,Performed divorce of <Aisling>,,
 ,Event,May,,,Yes,No,Yes,White,Person,Performed the Pentagram Ritual,Waluigi,
 ,College,Memory,,,Yes,Yes,Yes,Blue,Person,Piet Clave Memory,Kedian (also Iglis),
 ,College,Historian,,,Yes,Yes,Yes,Blue,Person,Piet Kingdom Historian,Ramanayan,
 ,Other,Mundane Birth,Birth,,Yes,No,Yes,White,Person,Piet mundane birth,makeup,
-,Religious,,,,Yes,Yes,?,White,Priest,Plans heresy on,Zwuji,Public Mark?
-,Political,"Mileth, Rucesion",,,Yes,No,Yes,White,Person,Politically Sponsored by,,
-,Class,Priest,,Yes,Yes,No,Yes,White,Priest,Priest by oath of,,Become the Priest class with help from another Aisling
+,Religious,,,,Yes,Yes,?,White,Priest,Plans heresy on <Aisling>,Zwuji,Public Mark?
+,Political,"Mileth, Rucesion",,,Yes,No,Yes,White,Person,Politically Sponsored by <Aisling>,,
+,Class,Priest,,Yes,Yes,No,Yes,White,Priest,Priest by oath of <Aisling>,,Become the Priest class with help from another Aisling
 ,Class,Priest,Subbing,Yes,Yes,No,Yes,Blue,Priest,Priest Dedication,,Successfully subbed from the Priest class into another class
-,Class,Priest,,Yes,Yes,No,Yes,White,Priest,"Priest, guided by",,Get guided by another Aisling of the Priest class
+,Class,Priest,,Yes,Yes,No,Yes,White,Priest,"Priest, guided by <Aisling>",,Get guided by another Aisling of the Priest class
 ,Quest,Blackstar,Blackstar Rank,,Yes,No,Yes,White,Heart,Private of Blackstar,Rocandy,
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Protected Luwella from Baby Brutes,,
-,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Purple Dugon by,Punch,
+,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Purple Dugon by <Aisling>,Punch,
 ,Event,,,,Yes,No,No,White,Heart,Queen of Loures Kingdom,Naena,
 ,Event,,,,Yes,No,No,White,Heart,Queen of Mileth Village,Viveena,
 ,Event,,,,Yes,No,No,White,Heart,Queen of Oren Kingdom,Tazz,
@@ -746,18 +748,18 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,Emerald Dawn,,,Yes,No,Yes,White,Person,Recovered the Emerald Knight Insignia,,
 ,Quest,"Dark Artifact, Monk",,Yes,Yes,No,Yes,White,Person,Recovered the Obsidian,,Completed the Monk's Demon Lord's Note quest
 ,Quest,Blackstar,Blackstar Rank,,Yes,No,Yes,White,Heart,Recruit of Blackstar,,
-,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Red Dugon by,,"As a monk, learn the Red Dugon in Sapphire Stream"
+,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Red Dugon by <Aisling>,,"As a monk, learn the Red Dugon in Sapphire Stream"
 ,Quest,"Dark Artifact, Warrior",,,Yes,No,Yes,White,Person,Reforged Eclipse,Jaice,
-,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,Orange,Person,Removed from office by,Jerry,
+,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,Orange,Person,Removed from office by <Aisling>,Jerry,
 ,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Respected Citizen by,,
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Returned Arcella's Stolen Bag,,
 ,Quest,Aman Jungle,,,Yes,No,Yes,White,Person,Reunited Chief Vortigern and Hostile Chief,,
 ,Event,,,,Yes,No,No,White,Person,Reviving Erbie Species,BioMagus,
-,Class,Rogue,,Yes,Yes,No,Yes,White,Rogue,Rogue by oath of,,Become the Rogue class with help from another Aisling
+,Class,Rogue,,Yes,Yes,No,Yes,White,Rogue,Rogue by oath of <Aisling>,,Become the Rogue class with help from another Aisling
 ,Class,Rogue,Subbing,Yes,Yes,No,Yes,Blue,Rogue,Rogue Dedication,,Successfully subbed from the Rogue class into another class
-,Class,Rogue,,Yes,Yes,No,Yes,White,Rogue,"Rogue, guided by",Wooper,
-,Political,Rucesion,,,Yes,No,Yes,White,Person,Rucesion Citizen by oath of,,
-,Political,Rucesion,,,Yes,No,Yes,White,Person,Rucesion Guest by oath of,Protein,Get admitted into a town while unregistered
+,Class,Rogue,,Yes,Yes,No,Yes,White,Rogue,"Rogue, guided by <Aisling>",Wooper,
+,Political,Rucesion,,,Yes,No,Yes,White,Person,Rucesion Citizen by oath of <Aisling>,,
+,Political,Rucesion,,,Yes,No,Yes,White,Person,Rucesion Guest by oath of <Aisling>,Protein,Get admitted into a town while unregistered
 ,College,Artist,,,Yes,Yes,Yes,Blue,Person,Rucesion Kingdom Artist,,
 ,College,Lore Keeper,,,Yes,Yes,Yes,Blue,Person,Rucesion Kingdom Lore Keeper,Brittany,
 ,Other,Mundane Birth,Birth,,Yes,No,Yes,White,Person,Rucesion mundane birth,Dylanlan,
@@ -769,16 +771,16 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,September,,,Yes,No,No,White,Person,Seized Gillam's precious coins,,
 ,Other,Ranger,,,Yes,Yes,Yes,Brown,Person,Sentenced Criminals,,Become a Ranger and send another Aisling to jail
 ,Quest,Blackstar,Blackstar Rank,,Yes,No,Yes,White,Heart,Servant of Blackstar,,Complete 25 Blackstar dungeon runs and talk to Marsha in the Blackstar Crypt Lobby
-,Class,Druid,,Yes,No,Sorta,Yes,White,Person,Set as first move,Punch,
-,Class,Druid,,Yes,No,Sorta,Yes,White,Person,Set as second move,Punch,
-,Class,Druid,,Yes,No,Sorta,Yes,White,Person,Set as third move,Punch,
-,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,Orange,Person,Sgath scar by,Cherrius,
-,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,Brown,Person,Sgath summoning on,,
-,Religious,Sgrios,Temple Rank,,Yes,No,Yes,White,Priest,Sgrios Acolyte by,,
-,Religious,"Sgrios, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Sgrios Cleric by,Phever,
-,Religious,"Sgrios, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Sgrios High Priest by,Paramour,
-,Religious,"Sgrios, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Sgrios Minister by,PeneAnn,
-,Religious,"Sgrios, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Sgrios Priest by,Eiscego,
+,Class,Druid,,Yes,No,Sorta,Yes,White,Person,Set <Skill> as first move,Punch,
+,Class,Druid,,Yes,No,Sorta,Yes,White,Person,Set <Skill> as second move,Punch,
+,Class,Druid,,Yes,No,Sorta,Yes,White,Person,Set <Skill> as third move,Punch,
+,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,Orange,Person,Sgath scar by <Aisling>,Cherrius,
+,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,Brown,Person,Sgath summoning on <Aisling>,,
+,Religious,Sgrios,Temple Rank,,Yes,No,Yes,White,Priest,Sgrios Acolyte by <Aisling>,,
+,Religious,"Sgrios, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Sgrios Cleric by <Aisling>,Phever,
+,Religious,"Sgrios, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Sgrios High Priest by <Aisling>,Paramour,
+,Religious,"Sgrios, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Sgrios Minister by <Aisling>,PeneAnn,
+,Religious,"Sgrios, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Sgrios Priest by <Aisling>,Eiscego,
 ,Other,Scar,,,Yes,Yes,Yes,Brown,Person,Sgrios's scar,,Die from monsters in battle
 ,Quest,Plamit,Ancient Flame,,Yes,No,Yes,White,Heart,Sinturi of the Ancient Flame,,
 ,Event,September,King's Hunt,,Yes,No,Yes,White,Person,Sir Thibault's Hunt,,
@@ -786,18 +788,19 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,Slew Terror,Terror,,Yes,Yes,Yes,Blue,Shield,Slew Terror of the Alley,San,
 ,Quest,Slew Terror,Terror,,Yes,Yes,Yes,Blue,Shield,Slew Terror of the Crypt,,
 ,Quest,Slew Terror,Terror,,Yes,Yes,Yes,Blue,Shield,Slew Terror of the Garden,CreagGar,
-,Quest,From the Heart,Small Heart,,Yes,No,Yes,White,Heart,Small Heart of Fire with,Dylanlan,
-,Quest,From the Heart,Small Heart,,Yes,No,Yes,White,Heart,Small Heart of Moon with,Angelic,
+,Quest,From the Heart,Small Heart,,Yes,No,Yes,White,Heart,Small Heart of Fire with <Aisling>,Dylanlan,
+,Quest,From the Heart,Small Heart,,Yes,No,Yes,White,Heart,Small Heart of Moon with <Aisling>,Angelic,
 ,Quest,From the Heart,Small Heart,,Yes,No,Yes,White,Heart,Small Heart of Stone,Ailred,
 ,Quest,Plamit,Ancient Flame,,Yes,No,Yes,White,Heart,Soldata of the Ancient Flame,Machamp,
-,Political,"Mileth, Rucesion",,,Yes,No,Yes,Brown,Person,Summoned to Court by,,
-,Political,Suomi,,,Yes,No,Yes,White,Person,Suomi Citizen by oath of,,
+,Political,"Mileth, Rucesion",,,Yes,No,Yes,Brown,Person,Summoned to Court by <Aisling>,,
+,Political,Suomi,,,Yes,No,Yes,White,Person,Suomi Citizen by oath of <Aisling>,,
 ,College,Historian,,,Yes,Yes,Yes,Blue,Person,Suomi Clave Historian,Ramanayan,
 ,College,Philosopher,,,Yes,Yes,Yes,Blue,Person,Suomi Clave Philosopher,Ramanayan,
 ,Political,Suomi,,,Yes,No,?,Blue,Person,Suomi Coordinator,Laurier,
 ,Political,Suomi,,,Yes,No,Yes,White,Person,Suomi Culture Advocate,,
 ,College,Philosopher,,,Yes,Yes,Yes,Blue,Person,Suomi Kingdom Philosopher,Suspected,
 ,Other,Mundane Birth,Birth,,Yes,No,Yes,White,Person,Suomi mundane birth,,
+,College,Historian,,,Yes,Yes,Yes,Blue,Person,Suomi Village Historian,,
 ,College,Lore Keeper,,,Yes,Yes,Yes,Blue,Person,Suomi Village Lore Keeper,BioMagus,
 ,College,Memory,,,Yes,No,Yes,Blue,Person,Suomi Village Memory,NaLyd,A Village Memory noble award mark. Discontinued around the year 2000 but recently revived from the Memory of the Cycle contest: https://novus-imperia.com/college/mem.htm
 ,College,Philosopher,,,Yes,Yes,Yes,Blue,Person,Suomi Village Philosopher,Kedian,
@@ -810,26 +813,26 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,,,,Yes,No,No,White,Person,Temuair Trinity Battle Champion,KrAzYxOnE,
 ,Event,,,,Yes,Yes,No,Blue,Person,The Bashelor Champion,Disarray,
 ,Other,Suomi,,,Yes,No,?,White,Person,Theatre Director,,
-,Class,Druid,,Yes,No,No,Yes,White,Person,Three Move,Punch,
+,Class,Druid,,Yes,No,No,Yes,White,Person,Three Move,Punch,Pure Druids get a 3-move combo scroll from Hwarone
 ,Quest,Fisk's Secret,Fisk's Secret,,Yes,No,Yes,White,Person,Told Fisk's Secret,Cazbrileth,
-,Class,Druid,,Yes,No,No,Yes,White,Person,Two Move,Machamp,
+,Class,Druid,,Yes,No,No,Yes,White,Person,Two Move,Machamp,Subbed Druids get a 2-move combo scroll from Hwarone
 ,Other,Mundane Birth,Birth,,Yes,No,Yes,White,Person,Undine mundane birth,Renvo,
 ,College,Artist,,,Yes,Yes,Yes,Blue,Person,Undine Village Artist,BioMagus,
 ,Class,Wizard,,Yes,Yes,No,Yes,Brown,Person,Walks the path of Necromancy,NaLyd,"Learned the ""Spion Torradh"" spell as a Wizard. Has consequences! Cannot join the Deoch or Glioca temples. (To confirm: which others?)"
-,Class,Warrior,,Yes,Yes,No,Yes,White,Warrior,Warrior by oath of,,Become the Warrior class with help from another Aisling
+,Class,Warrior,,Yes,Yes,No,Yes,White,Warrior,Warrior by oath of <Aisling>,,Become the Warrior class with help from another Aisling
 ,Class,Warrior,Subbing,Yes,Yes,No,Yes,Blue,Warrior,Warrior Dedication,ShockyShock,
-,Class,Warrior,,Yes,Yes,No,Yes,White,Warrior,"Warrior, guided by",,Get guided by another Aisling of the Warrior class
+,Class,Warrior,,Yes,Yes,No,Yes,White,Warrior,"Warrior, guided by <Aisling>",,Get guided by another Aisling of the Warrior class
 ,Religious,Water,Medenian Spirit,,Yes,Yes. Max 5,Yes,Blue,Person,Water Reverence blue,BioMagus,Pray to the Water Spirit in the Water Dungeon in Medenia many times
-,Event,February,,,Yes,No,Yes,White,Person,Went on a picnic with,,"Finished ""A Lovely Evening"" February Event with a partner"
+,Event,February,,,Yes,No,Yes,White,Person,Went on a picnic with <Aisling>,,"Finished ""A Lovely Evening"" February Event with a partner"
 ,Class,Monk,Monk Form,Yes,Yes,No,Yes,White,Monk,White Bat Form,RINALDO,
-,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,White Dugon by,Vileplume,
+,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,White Dugon by <Aisling>,Vileplume,
 ,Event,Pudgy,,,Yes,No,No,White,Person,Wished for Pudgy's Health,,
-,Class,Wizard,,Yes,Yes,No,Yes,White,Wizard,Wizard by oath of,,Become the Wizard class with help from another Aisling
+,Class,Wizard,,Yes,Yes,No,Yes,White,Wizard,Wizard by oath of <Aisling>,,Become the Wizard class with help from another Aisling
 ,Class,Wizard,Subbing,Yes,Yes,No,Yes,Blue,Wizard,Wizard Dedication,,Successfully subbed from the Wizard class into another class
-,Class,Wizard,,Yes,Yes,No,Yes,White,Wizard,"Wizard, guided by",,Get guided by another Aisling of the Wizard class
+,Class,Wizard,,Yes,Yes,No,Yes,White,Wizard,"Wizard, guided by <Aisling>",,Get guided by another Aisling of the Wizard class
 ,Class,Wizard,,Yes,Yes,Yes,Yes,White,Wizard,Wizardry Researcher,,Complete some wizardry research at Dar in Mileth
 ,Class,Warrior,,Yes,Yes,Yes,Yes,White,Shield,Won Pit Fights,,"As a Warrior class, successfully defeat your opponent in the Abel Coast pit fight building"
 ,Quest,Hat of Danaan,,,Yes,No,Yes,White,Person,Worthy of the Band of Danaan,,
 ,Quest,Hat of Danaan,,,Yes,No,Yes,White,Person,Worthy of the Cap of Danaan,,
-,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Yellow Dugon by,Punch,
+,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Yellow Dugon by <Aisling>,Punch,
 ,Event,October,,,Yes,Yes,Yes,White,Person,Zombie Slayer Record,,"Participate in the ""Zombie Slayer"" October event, by defeating waves of zombies in House Macabre up to round 15"
