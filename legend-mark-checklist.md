@@ -291,8 +291,8 @@ Wanting to track which legend marks you're still missing? This tool can help you
     </div>
     
     <div class="stats">
-      <div class="stat-item">Total: <span id="totalCount">0</span></div>
-      <div class="stat-item">Checked: <span id="checkedCount">0</span></div>
+      <div class="stat-item">Total Available: <span id="totalCount">0</span></div>
+      <div class="stat-item">Obtained: <span id="checkedCount">0</span></div>
     </div>
     
     <div class="filter-buttons">

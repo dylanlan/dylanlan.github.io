@@ -6,6 +6,7 @@
   let currentCharacter = '';
   let characterData = {};
   let statusFilter = 'all';
+  const classe = ['Monk', 'Priest', 'Rogue', 'Warrior', 'Wizard', 'Medenian', 'Druid', 'Bard', 'Archer', 'Gladiator', 'Summoner'];
 
   async function loadLegendMarks() {
     try {
@@ -158,6 +159,17 @@
     }
   }
 
+  function getMarkClasses(mark) {
+    let classes = [];
+
+    if (mark.classExclusive === 'Yes' && mark.subcategories) {
+      const markClasses = mark.subcategories.split(',').map(c => c.trim());
+      classes = classes.concat(markClasses.filter(c => classe.includes(c)));
+    }
+
+    return classes;
+  }
+
   function renderList() {
     const container = document.getElementById('legendMarksList');
     let filtered = legendMarks.filter(mark => 
@@ -177,15 +189,17 @@
       return;
     }
     
-    container.innerHTML = filtered.map(mark => `
-      <div class="legend-mark-item ${checkedMarks.has(mark.text) ? 'checked' : ''}" data-mark="${escapeHtml(mark.text)}">
-        <input type="checkbox" ${checkedMarks.has(mark.text) ? 'checked' : ''} data-mark="${escapeHtml(mark.text)}">
-        <span class="legend-mark-text">${escapeHtml(mark.text)}</span>
-        <span class="legend-mark-category" title="${escapeHtml(mark.subcategories || '')}">${escapeHtml(mark.category || 'Unknown')}</span>
-        ${mark.uniqueGroup ? `<span class="legend-mark-unique-group" title="Only 1 mark from this group can be obtained at a time">${escapeHtml(mark.uniqueGroup)}</span>` : ''}
-        ${mark.classExclusive === 'Yes' && mark.subcategories ? `<span class="legend-mark-class-exclusive" title="Class Exclusive">${escapeHtml(mark.subcategories)}</span>` : ''}
-      </div>
-    `).join('');
+    container.innerHTML = filtered.map(mark => {
+      const markClasses = getMarkClasses(mark);
+      return `
+        <div class="legend-mark-item ${checkedMarks.has(mark.text) ? 'checked' : ''}" data-mark="${escapeHtml(mark.text)}">
+          <input type="checkbox" ${checkedMarks.has(mark.text) ? 'checked' : ''} data-mark="${escapeHtml(mark.text)}">
+          <span class="legend-mark-text">${escapeHtml(mark.text)}</span>
+          <span class="legend-mark-category" title="${escapeHtml(mark.subcategories || '')}">${escapeHtml(mark.category || 'Unknown')}</span>
+          ${mark.uniqueGroup ? `<span class="legend-mark-unique-group" title="Only 1 mark from this group can be obtained at a time">${escapeHtml(mark.uniqueGroup)}</span>` : ''}
+          ${mark.classExclusive === 'Yes' && mark.subcategories ? `<span class="legend-mark-class-exclusive" title="Class Exclusive">${escapeHtml(markClasses.join(', '))}</span>` : ''}
+        </div>`;
+    }).join('');
 
     container.querySelectorAll('.legend-mark-item').forEach(item => {
       item.addEventListener('click', handleRowClick);
