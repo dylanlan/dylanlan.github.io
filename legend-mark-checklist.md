@@ -132,6 +132,27 @@ permalink: /legend-mark-checklist/
     background: #c82333;
   }
   
+  .btn-info {
+    background: #17a2b8;
+    color: white;
+  }
+  
+  .btn-info:hover {
+    background: #138496;
+  }
+  
+  .btn.active {
+    box-shadow: inset 0 0 0 2px #fff, inset 0 0 0 4px currentColor;
+    font-weight: bold;
+  }
+  
+  .filter-buttons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+  }
+  
   .legend-mark-item {
     display: flex;
     align-items: center;
@@ -204,6 +225,12 @@ permalink: /legend-mark-checklist/
       <div class="stat-item">Checked: <span id="checkedCount">0</span></div>
     </div>
     
+    <div class="filter-buttons">
+      <button class="btn btn-info" id="showAllBtn">📋 Show All</button>
+      <button class="btn btn-info" id="showCheckedBtn">✓ Show Checked Only</button>
+      <button class="btn btn-info" id="showUncheckedBtn">○ Show Unchecked Only</button>
+    </div>
+    
     <div class="action-buttons">
       <button class="btn btn-primary" id="checkAllVisibleBtn">✓ Check All Visible</button>
       <button class="btn btn-secondary" id="uncheckAllVisibleBtn">✗ Uncheck All Visible</button>
@@ -223,6 +250,7 @@ permalink: /legend-mark-checklist/
   let currentFilter = '';
   let currentCharacter = '';
   let characterData = {};
+  let statusFilter = 'all';
 
   async function loadLegendMarks() {
     try {
@@ -301,6 +329,12 @@ permalink: /legend-mark-checklist/
     updateCharacterSelect();
   }
   
+  function updateFilterButtons() {
+    document.getElementById('showAllBtn').classList.toggle('active', statusFilter === 'all');
+    document.getElementById('showCheckedBtn').classList.toggle('active', statusFilter === 'checked');
+    document.getElementById('showUncheckedBtn').classList.toggle('active', statusFilter === 'unchecked');
+  }
+  
   function saveCharacter() {
     saveCheckedState();
     const input = document.getElementById('characterNameInput');
@@ -371,9 +405,17 @@ permalink: /legend-mark-checklist/
 
   function renderList() {
     const container = document.getElementById('legendMarksList');
-    const filtered = legendMarks.filter(mark => 
+    let filtered = legendMarks.filter(mark => 
       mark.text.toLowerCase().includes(currentFilter.toLowerCase())
     );
+    
+    if (statusFilter === 'checked') {
+      filtered = filtered.filter(mark => checkedMarks.has(mark.text));
+    } else if (statusFilter === 'unchecked') {
+      filtered = filtered.filter(mark => !checkedMarks.has(mark.text));
+    }
+    
+    updateFilterButtons();
     
     if (filtered.length === 0) {
       container.innerHTML = '<div class="no-results">No legend marks found</div>';
@@ -421,6 +463,21 @@ permalink: /legend-mark-checklist/
 
   document.getElementById('searchBox').addEventListener('input', (e) => {
     currentFilter = e.target.value;
+    renderList();
+  });
+  
+  document.getElementById('showAllBtn').addEventListener('click', () => {
+    statusFilter = 'all';
+    renderList();
+  });
+  
+  document.getElementById('showCheckedBtn').addEventListener('click', () => {
+    statusFilter = 'checked';
+    renderList();
+  });
+  
+  document.getElementById('showUncheckedBtn').addEventListener('click', () => {
+    statusFilter = 'unchecked';
     renderList();
   });
 
