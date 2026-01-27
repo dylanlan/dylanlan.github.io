@@ -68,7 +68,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,College,Memory,,,No,No,No,Blue,Person,- Tentative Kingdom Memory,NaLyd,An invalid legend mark which is not redeemable for an actual Kingdom Memory mark. Kru made a mistake when trying to give a Tentative Village legend mark
 ,College,Persona,,,No,No,Yes,Blue,Person,- Tentative Kingdom Persona,Ponder,
 ,College,Philosopher,,,No,No,Yes,Blue,Person,- Tentative Kingdom Philosopher,Inuyoko,
-,College,,,,No,Yes,Yes,Blue,Person,- Tentative Noble Garment,NaLyd,
+,College,Garment,,,No,Yes,Yes,Blue,Person,- Tentative Noble Garment,NaLyd,
 ,College,Artist,,,No,No,Yes,Blue,Person,- Tentative Village Artist,BioMagus,
 ,College,Bard,,,No,No,Yes,Blue,Person,- Tentative Village Bard,Dylanlan,
 ,College,Lore Keeper,,,No,No,Yes,Blue,Person,- Tentative Village Lore Keeper,Dylanlan,
@@ -101,7 +101,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,Emerald Dawn,Emerald Dawn Aid,,Yes,No,Yes,White,Person,Aided the Necromancer Order,Auzric,
 ,Event,October,,,Yes,No,No,White,Person,Aided The Temuairian Beggar,Arohanui,
 ,Event,,,,Yes,No,No,White,Person,Aided the Undine Rebels,Krytos,
-,Other,,,,Yes,No,Yes,White,Person,Aisling,Mayheart,Created your Aisling character
+,Other,Sparked,,,Yes,No,Yes,White,Person,Aisling,Mayheart,Created your Aisling character
 ,College,Artist,,,Yes,Yes,Yes,Blue,Person,Aisling Artist,BioMagus,
 ,College,Bard,,,Yes,Yes,Yes,Blue,Person,Aisling Bard,Malache,
 ,College,Historian,,,Yes,Yes,Yes,Blue,Person,Aisling Historian,Ramanayan,
@@ -111,24 +111,24 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,Aisling of,,,Yes,No,Yes,White,Shield,Aisling of Talgonite,Somae,
 ,College,Persona,,,Yes,Yes,Yes,Blue,Person,Aisling Persona,BioMagus,
 ,College,Philosopher,,,Yes,Yes,Yes,Blue,Person,Aisling Philosopher,Kedian,
-,College,,,,Yes,No,No,Blue,Person,Aisling Wise One,Kedian,
+,College,Kedian,,,Yes,No,No,Blue,Person,Aisling Wise One,Kedian,
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Allowed to Enter Secured Caves,iShallHeal,
 ,Event,September,,,Yes,No,No,White,Person,Amassed Gillam's precious coins,Acesin,
 ,Guild,,,,Yes,Yes,No,Orange,Person,Annoyed,Bywyd,
-,Quest,,,,Yes,No,Yes,White,Person,Archaeologist of Beal na Carraige,binnie,
-,Arena,,,,Yes,Yes,Yes,White,Shield,Arena Battles,Abigor,Participate in a hosted arena battle
-,Arena,,,,Yes,No,Yes,White,Person,Arena Circuit Champion,Krytos,Complete the Arena Circut quest at the Gladiator Arena in Medenia
-,Arena,,Arena Host,,Yes,No,Yes,White,Shield,Arena Host,Vamistle,Become an Arena Host
-,Arena,,Arena Host,,Yes,No,Yes,White,Shield,Arena Host Captain,Set,Become an Arena Host Captain
-,Arena,,,,Yes,Yes,Yes,White,Shield,Arena Victories,Abigor,Win a hosted arena battle
+,Quest,Beal na Carraige,,,Yes,No,Yes,White,Person,Archaeologist of Beal na Carraige,binnie,
+,Arena,Battles,,,Yes,Yes,Yes,White,Shield,Arena Battles,Abigor,Participate in a hosted arena battle
+,Quest,Arena Circuit,,,Yes,No,Yes,White,Person,Arena Circuit Champion,Krytos,Complete the Arena Circut quest at the Gladiator Arena in Medenia
+,Arena,Host,Arena Host,,Yes,No,Yes,White,Shield,Arena Host,Vamistle,Become an Arena Host
+,Arena,Host,Arena Host,,Yes,No,Yes,White,Shield,Arena Host Captain,Set,Become an Arena Host Captain
+,Arena,Victories,,,Yes,Yes,Yes,White,Shield,Arena Victories,Abigor,Win a hosted arena battle
 ,Event,April,,,Yes,Yes,Yes,White,Person,Arpina's Redemption at Astrid,Monicka,Completed the annual Redemption event at Astrid
 ,Event,April,,,Yes,No,No,White,Person,Arpina's Redemption at Astrid non-incrementing,AceShimizu,Non-incrementing!
-,Other,,,,Yes,Yes,Yes,Orange,Person,Arrested by,AdelaideT,"Sent to jail by a ranger, for having your computer play the game while you're not present"
+,Other,Arrested,,,Yes,Yes,Yes,Orange,Person,Arrested by,AdelaideT,"Sent to jail by a ranger, for having your computer play the game while you're not present"
 ,Event,September,,,Yes,No,No,White,Person,Assisted Gillam's Guild,Brittany,
 ,Event,October,,,Yes,No,No,White,Person,Assisted The Temuarian Beggar,blueskye,
 ,Event,,,,Yes,No,No,White,Person,Astrid Salvation,BioMagus,
-,Other,,,,Yes,No,No,White,Person,Atavism Age Aisling,Kedian,
-,Other,,,,Yes,No,No,Brown,Person,Atavism Age III Aisling,BioMagus,
+,Other,Sparked,,,Yes,No,No,White,Person,Atavism Age Aisling,Kedian,
+,Other,Sparked,,,Yes,No,No,Brown,Person,Atavism Age III Aisling,BioMagus,
 ,Class,Monk,Subbing,,Yes,No,Yes,Brown,Monk,Attempting Monk Dedication,Winkster,
 ,Class,Priest,Subbing,,Yes,No,Yes,Brown,Priest,Attempting Priest Dedication,Moondrop,
 ,Class,Rogue,Subbing,,Yes,No,Yes,Brown,Rogue,Attempting Rogue Dedication,BadArch,
@@ -138,11 +138,11 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Political,"Mileth, Rucesion",Running for position,,Yes,No,Yes,Brown,Person,Attempting to become Guard Captain,anunnaki,
 ,Political,"Mileth, Rucesion",Running for position,,Yes,No,Yes,Brown,Person,Attempting to become Judge,Angelique,
 ,Political,"Mileth, Rucesion",Running for position,,Yes,No,Yes,Brown,Person,Attempting to become Respected Citizen,FFnine,
-,Political,,,,Yes,No,No,Brown,Person,Attempting to become Sheriff,"Ukkyo, Dender",Running for Sheriff of Tagor
+,Political,Tagor,,,Yes,No,No,Brown,Person,Attempting to become Sheriff,"Ukkyo, Dender",Running for Sheriff of Tagor
 ,Class,Warrior,Subbing,,Yes,No,Yes,Brown,Warrior,Attempting Warrior Dedication,Kurohige,
 ,Class,Wizard,Subbing,,Yes,No,Yes,Brown,Wizard,Attempting Wizard Dedication,iGNORAMUS,
-,College,,,,Yes,Yes,Yes,White,Person,Attended a Class at Mileth College,ariesyeo,
-,Quest,,,,Yes,Yes,Yes,White,Person,Avid Temuairian Daydreamer,Warginald,
+,College,Class,,,Yes,Yes,Yes,White,Person,Attended a Class at Mileth College,ariesyeo,
+,Quest,Avid Daydreamer,,,Yes,Yes,Yes,White,Person,Avid Temuairian Daydreamer,Warginald,
 ,Arena,Balanced Arena,,,Yes,No,No,White,Heart,Balanced Arena Combatant,Amarranth,Compete in the Balanced Arena
 ,Arena,Balanced Arena,,,Yes,Yes,No,White,Person,Balanced Arena Tester,Adriela,Compete in the Balanced Arena testing
 ,Quest,March,,,Yes,No,Yes,Green,Person,Banished Snakes from Lynith Beach Way,Dionia,
@@ -158,10 +158,10 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Blue Dugon by,Punch,
 ,Event,Medenian Seal,,,Yes,No,No,White,Person,Broke the Seal,BioMagus,"One of the 5 legendary Aislings who defeated the Seal Guardians, Elemental Creants, and Seal Master to unlock Medenia"
 ,Class,Priest,,Yes,Yes,Yes,Yes,Brown,Heart,Broke up love,Mayheart,
-,Relationships,,,,Yes,No. Max 1,Yes,White,Heart,Broke up with,Somae,
+,Relationships,Broke up,,,Yes,No. Max 1,Yes,White,Heart,Broke up with,Somae,
 ,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Brown Dugon by,Punch,
-,Event,,,,Yes,No,Yes,White,Person,Buddy of Mummy,Bea,
-,Event,,,,Yes,No,Yes,White,Person,Buddy of Zombie,BioMagus,
+,Pet,October,,,Yes,No,Yes,White,Person,Buddy of Mummy,Bea,
+,Pet,October,,,Yes,No,Yes,White,Person,Buddy of Zombie,BioMagus,
 ,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,Blue,Person,Burgess by,BioMagus,
 ,Political,Suomi,,,Yes,No,Yes,Blue,Person,Burgess of Suomi Troupe,Laurier,
 ,Religious,Cail,Temple Rank,,Yes,No,Yes,White,Priest,Cail Acolyte by,Machamp,
@@ -177,38 +177,38 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,Anniversary,,,Yes,Sorta,No,Yellow,Person,Celebrated Dark Ages 20th Anniversary,Krytos,
 ,Event,Anniversary,,,Yes,Sorta,No,Yellow,Person,Celebrated Dark Ages 25th Anniversary,Krytos,
 ,Event,Anniversary,,,Yes,Sorta,No,Yellow,Person,Celebrated Deoch 200th Anniversary,Acesin,Attended the 200th Deoch Celebration Event
-,Quest,,Reincarnation,,Yes,No,Yes,White,Person,Chadul Reincarnation,Auzric,
+,Quest,Reincarnation,Reincarnation,,Yes,No,Yes,White,Person,Chadul Reincarnation,Auzric,
 ,Quest,Blackstar,Blackstar Rank,,Yes,No,Yes,White,Heart,Champion of Blackstar,Naena,
 ,Event,Light Dark Wars,,,Yes,No,No,White,Rogue,Champion of the Dark,Krytos,Leader of the Dark Army in the Light vs Dark wars
 ,Political,Hwarone,Hwarone Rank,,Yes,No,Yes,White,Person,City Councilman,snooze,
 ,Political,Hwarone,Hwarone Rank,,Yes,No,Yes,White,Person,City Delegate,Disarray,
-,College,,,,Yes,Yes,No,Blue,Person,Clave Artist,Malache,
+,College,,,,Yes,Yes,No,Blue,Person,Clave Artist,Malache,"A Clave Artist mark that's not ""Abel"". Might've been manually applied by Kru?"
 ,Event,September,,,Yes,No,No,White,Person,Collected Gillam's precious coins,Aon,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Andor Daily Quest,eiscego,Kill 20 specific monsters in Andor
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Asilon Daily Quest,DoubleMint,Kill 20 specific monsters in Asilon Plains
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Botany Daily Quest,Jerry,
+,Daily Quest,Andor,,,Yes,Yes,Yes,White,Person,Completed Andor Daily Quest,eiscego,Kill 20 specific monsters in Andor
+,Daily Quest,Asilon,,,Yes,Yes,Yes,White,Person,Completed Asilon Daily Quest,DoubleMint,Kill 20 specific monsters in Asilon Plains
+,Daily Quest,Botany,,,Yes,Yes,Yes,White,Person,Completed Botany Daily Quest,Jerry,
 ,Event,Recurring,,,Yes,Yes,Yes,White,Person,Completed Capture the Fowl Event,StarShine,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Chadul Daily Quest,Ishikawa,Kill 20 specific monsters in Chadul
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Chaos Daily Quest,NeoxBahamut,"Kill 20 specific monsters in Chaos. Can be: Kabungki, Beetlaltic, ???"
+,Daily Quest,Chadul,,,Yes,Yes,Yes,White,Person,Completed Chadul Daily Quest,Ishikawa,Kill 20 specific monsters in Chadul
+,Daily Quest,Chaos,,,Yes,Yes,Yes,White,Person,Completed Chaos Daily Quest,NeoxBahamut,"Kill 20 specific monsters in Chaos. Can be: Kabungki, Beetlaltic, ???"
 ,Quest,Nigel,,,Yes,No,Yes,Blue,Person,Completed Ciad Quest,TwinkleStar,Talk to Nigel beside Tagor bank. For level 1-25
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Daily Quest,Abigor,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Fire Canyon Daily Quest,eiscego,Kill 20 specific monsters in Fire Canyon
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Gem Polishing Daily Quest,DoubleMint,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Goblin Daily Quest,eiscego,
-,Guild,,,,Yes,No,No,White,Person,Completed Guild Geas for,Ramanayan,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Lost Ruins Daily Quest,Zaxa,Kill 20 specific monsters in Lost Ruins
-,Guild,,,,Yes,Yes,No,White,Person,Completed motley Geas for,Duplico,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Mt Giragan Daily Quest,Rocandy,Kill 20 specific monsters in Mount Giragan
+,Daily Quest,Main,,,Yes,Yes,Yes,White,Person,Completed Daily Quest,Abigor,
+,Daily Quest,Fire Canyon,,,Yes,Yes,Yes,White,Person,Completed Fire Canyon Daily Quest,eiscego,Kill 20 specific monsters in Fire Canyon
+,Daily Quest,Gem Polishing,,,Yes,Yes,Yes,White,Person,Completed Gem Polishing Daily Quest,DoubleMint,
+,Daily Quest,Goblin,,,Yes,Yes,Yes,White,Person,Completed Goblin Daily Quest,eiscego,
+,Guild,Geas,,,Yes,No,No,White,Person,Completed Guild Geas for,Ramanayan,
+,Daily Quest,Lost Ruins,,,Yes,Yes,Yes,White,Person,Completed Lost Ruins Daily Quest,Zaxa,Kill 20 specific monsters in Lost Ruins
+,Guild,Geas,,,Yes,Yes,No,White,Person,Completed motley Geas for,Duplico,
+,Daily Quest,Mt Giragan,,,Yes,Yes,Yes,White,Person,Completed Mt Giragan Daily Quest,Rocandy,Kill 20 specific monsters in Mount Giragan
 ,Quest,Muisir,,,Yes,Yes,Yes,White,Person,Completed Muisir Training,Acesin,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed New Dress Daily Quest,eiscego,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Noam Daily Quest,eiscego,Kill 20 specific monsters in Noam Plains
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Nobis Daily Quest,Neoxbahamut,Kill 20 specific monsters in Nobis
+,Daily Quest,New Dress,,,Yes,Yes,Yes,White,Person,Completed New Dress Daily Quest,eiscego,
+,Daily Quest,Noam,,,Yes,Yes,Yes,White,Person,Completed Noam Daily Quest,eiscego,Kill 20 specific monsters in Noam Plains
+,Daily Quest,Nobis,,,Yes,Yes,Yes,White,Person,Completed Nobis Daily Quest,Neoxbahamut,Kill 20 specific monsters in Nobis
 ,Event,November,,,Yes,Yes,Yes,White,Person,Completed Oren Ball Scavenger Hunt,Dynamus,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Oren Daily Quest,DoubleMint,Kill 20 specific monsters in Oren
+,Daily Quest,Oren,,,Yes,Yes,Yes,White,Person,Completed Oren Daily Quest,DoubleMint,Kill 20 specific monsters in Oren
 ,Event,Insect,,,Yes,Yes,Yes,Blue,Person,Completed Quarterly Insect Event,Neoxbahamut,"Completed the ""Insect Catching Tournament"" quarterly event. Catch 20 of each insect in Mileth, Oren, Asilon, and Hwarone"
-,Religious,,,,Yes,No,Yes,White,Priest,Completed religious geas for,Somae,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Sacred Forest Daily Quest,Neoxbahamut,Kill 20 specific monsters in Tavaly
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Shinewood Daily Quest,Neoxbahamut,Kill 20 specific monsters in Shinewood
+,Religious,Geas,,,Yes,No,Yes,White,Priest,Completed religious geas for,Somae,
+,Daily Quest,Tavaly,,,Yes,Yes,Yes,White,Person,Completed Sacred Forest Daily Quest,Neoxbahamut,Kill 20 specific monsters in Tavaly
+,Daily Quest,Shinewood,,,Yes,Yes,Yes,White,Person,Completed Shinewood Daily Quest,Neoxbahamut,Kill 20 specific monsters in Shinewood
 ,Event,Pig Chase,,,Yes,Sorta,No,White,Person,Completed the 10th Annual Pig Chase Event,Neoxbahamut,
 ,Event,Pig Chase,,,Yes,Sorta,No,White,Person,Completed the 11th Annual Pig Chase Event,Brittany,
 ,Event,Pig Chase,,,Yes,Sorta,No,White,Person,Completed the 12th Annual Pig Chase Event,Brittany,
@@ -222,15 +222,15 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,Pig Chase,,,Yes,Sorta,No,White,Person,Completed the 7th Annual Pig Chase Event,Eiscego,Talk to Nigel beside Tagor bank. For level 25-50
 ,Event,Pig Chase,,,Yes,Sorta,No,White,Person,Completed the 8th Annual Pig Chase Event,Laurier,Talk to Nigel beside Tagor bank. For level 50-75
 ,Event,Pig Chase,,,Yes,Sorta,No,White,Person,Completed the 9th Annual Pig Chase Event,Kallina,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Tidy Inn Daily Quest,Bea,
+,Daily Quest,Blackstar Inn,,,Yes,Yes,Yes,White,Person,Completed Tidy Inn Daily Quest,Bea,
 ,Quest,Nigel,,,Yes,No,Yes,Blue,Person,Completed Tiota Quest,Landon,
 ,Quest,Nigel,,,Yes,No,Yes,Blue,Person,Completed Treas Quest,Angelique,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Undine Daily Quest,eiscego,
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Veltain Mines Daily Quest,eiscego,Kill 20 specific monsters in Veltain Mines
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed West Woodlands Daily Quest,DoubleMint,Kill 20 specific monsters in West Woodlands
-,Daily Quest,,,,Yes,Yes,Yes,White,Person,Completed Wizardry Research Daily Quest,DoubleMint,
-,Quest,,,,Yes,Yes,Yes,White,Person,Consecrated the Holy Danaan,Kallina,
-,College,,,,Yes,No,No,White,Person,Contest Host,Cazbrileth,
+,Daily Quest,Undine,,,Yes,Yes,Yes,White,Person,Completed Undine Daily Quest,eiscego,
+,Daily Quest,Veltain Mines,,,Yes,Yes,Yes,White,Person,Completed Veltain Mines Daily Quest,eiscego,Kill 20 specific monsters in Veltain Mines
+,Daily Quest,West Woodlands,,,Yes,Yes,Yes,White,Person,Completed West Woodlands Daily Quest,DoubleMint,Kill 20 specific monsters in West Woodlands
+,Daily Quest,Wizardry Research,,,Yes,Yes,Yes,White,Person,Completed Wizardry Research Daily Quest,DoubleMint,
+,Quest,Upgrade Lumen,,,Yes,Yes,Yes,White,Person,Consecrated the Holy Danaan,Kallina,
+,College,,,,Yes,No,No,White,Person,Contest Host,Cazbrileth,The mark for hosting college contests before College Chancellors?
 ,Event,September,King's Hunt,,Yes,No,Yes,White,Person,Councilor Jean's Hunt,FatalRevenge,
 ,Event,April,,,Yes,Yes,Yes,White,Person,Crafted Fenix Flame Potion,Waluigi,
 ,Event,November,,,Yes,Yes,Yes,Blue,Person,Crafted Yule Logs for the Inns,Bruiser,
@@ -240,19 +240,19 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,Sick Child,,,Yes,No,Yes,White,Person,Cured a sick child in Loures,Kedian,
 ,Event,,,,Yes,No,No,White,Person,Cured Jacqueline of Loures,BioMagus,
 ,Relationships,,,,Yes,No,No,White,Person,Currently mentored by,Chrissy,Original mentoring mark before it got reformatted?
-,Quest,,Reincarnation,,Yes,No,Yes,White,Person,Danaan Reincarnation,AdelaideT,
-,Quest,,,,Yes,No,Yes,White,Person,Defeated Arsaidh Aon,bLuEjR,Completed the Arsaidh Aon group quest
+,Quest,Reincarnation,Reincarnation,,Yes,No,Yes,White,Person,Danaan Reincarnation,AdelaideT,
+,Quest,Arsaidh Aon,,,Yes,No,Yes,White,Person,Defeated Arsaidh Aon,bLuEjR,Completed the Arsaidh Aon group quest
 ,Event,October,,,Yes,No,Yes,White,Person,Defeated Count and Countess of Macabre,bluenokkad,
 ,Event,April,,,Yes,Yes,Yes,White,Person,Defeated Giant Floppy,Acesin,
-,Quest,,,,Yes,Yes,Yes,White,Person,Defeated Law & Discovered Lost Ruins,Adriela,
-,Quest,Recurring,,,Yes,No,Yes,White,Heart,Defeated Law's Fragment,Twinkle,
+,Quest,Lost Ruins,,,Yes,Yes,Yes,White,Person,Defeated Law & Discovered Lost Ruins,Adriela,
+,Event,Recurring,,,Yes,No,Yes,White,Heart,Defeated Law's Fragment,Twinkle,
 ,Event,Medenian Seal,,,Yes,No,No,White,Person,Defeated Monk Guardian,Krytos,Defeat the Monk Guardian during Medenia's Seal Break
 ,Quest,Muisir,,,Yes,Yes,Yes,White,Person,Defeated Muisir Villian,Japjll,
 ,Event,Medenian Seal,,,Yes,No,No,White,Person,Defeated Priest Guardian,Krytos,Defeat the Priest Guardian during Medenia's Seal Break
 ,Event,Medenian Seal,,,Yes,No,No,White,Person,Defeated Rogue Guardian,Krytos,Defeat the Rogue Guardian during Medenia's Seal Break
 ,Quest,Creant,,,Yes,No,Yes,White,Shield,Defeated the Lady Phoenix Creant,Angelique,
 ,Quest,Creant,,,Yes,No,Yes,White,Shield,Defeated the Medusa Creant,BioMagus,
-,Quest,,,,Yes,No,Yes,White,Person,Defeated the Octopus of Karlopos,Renvo,
+,Quest,Karlopos Octopus,,,Yes,No,Yes,White,Person,Defeated the Octopus of Karlopos,Renvo,
 ,Quest,Creant,,,Yes,No,Yes,White,Shield,Defeated the Shamensyth Creant,BioMagus,
 ,Quest,Creant,,,Yes,No,Yes,White,Shield,Defeated the Tauren Creant,BioMagus,
 ,Event,Medenian Seal,,,Yes,No,No,White,Person,Defeated Warrior Guardian,Krytos,Defeat the Warrior Guardian during Medenia's Seal Break
@@ -270,7 +270,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,"Dark Artifact, Priest",,Yes,Yes,No,Yes,White,Person,Discovered the Cluais Jewel,Kimchii,Completed the Demon Lord's Notes quest on a Priest
 ,Quest,"Dark Artifact, Wizard",,Yes,Yes,No,Yes,White,Person,Discovered the Dark Ring,BioMagus,Completed the Demon Lord's Notes quest on a Wizard
 ,Arena,,,,Yes,No,?,Orange,Person,Disgraced Arena Host,IShallHeal,
-,Relationships,,,,Yes,Yes,Yes,Brown,Heart,Divorced,sick,
+,Relationships,Divorced,,,Yes,Yes,Yes,Brown,Heart,Divorced,sick,
 ,Class,Monk,Monk Form,Yes,Yes,No,Yes,White,Monk,Draco Form,Abigor,"As a Monk class, learn the Draco Form from the Combat Skill Master in Suomi"
 ,Event,March,,,Yes,Yes,Yes,White,Person,Drank The Famous Green Ale,Acesin,
 ,Quest,Plamit,Ancient Flame,,Yes,No,Yes,White,Heart,Drazul of the Ancient Flame,Dylanlan,
@@ -284,10 +284,10 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,Plamit,Ancient Flame,,Yes,No,Yes,White,Heart,Dum'Drazul of the Ancient Flame,SradGar,
 ,Religious,Earth,Medenian Spirit,,Yes,Yes. Max 5,Yes,Blue,Person,Earth Reverence blue,AdelaideT,
 ,Quest,Porte Forest,,,Yes,No,Yes,Blue,Heart,Eased the suffering of Porte Forest,Renvo,
-,College,,,,Yes,Yes,Yes,White,Person,Educated,Abigor,
+,College,Class,,,Yes,Yes,Yes,White,Person,Educated,Abigor,
 ,Class,Wizard,,Yes,Yes,Yes. Max 10?,Yes,White,Wizard,Elementalist,AceShimizu,
 ,Event,Insect,,,Yes,No,No,Blue,Person,Elite Insect Catcher,NaLyd,"The original legend mark from completing the first Insect Event by catching 25 of each insect. Got replaced by ""1st Annual Insect Event- Elite Insect Catcher"""
-,Quest,,,,Yes,No,Yes,White,Person,Empowered the Ancient Weapon of Hy-brasyl,Acesin,Upgraded the weapon received from the Arsaidh Aon quest
+,Quest,Arsaidh Aon,,,Yes,No,Yes,White,Person,Empowered the Ancient Weapon of Hy-brasyl,Acesin,Upgraded the weapon received from the Arsaidh Aon quest
 ,Quest,Muisir,,,Yes,No,Yes,White,Heart,Entered Muisir Village,Salgar,
 ,Event,November,,,Yes,Yes,Yes,White,Person,Eulogy to Adranuch at Pravat,BioMagus,Completed the annual Eulogy event at Pravat
 ,Event,November,,,Yes,Yes,Yes,White,Person,Eulogy to Arpina at Astrid,Blader,Completed the annual Eulogy event at Astrid
@@ -429,21 +429,21 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,,,,Yes,No,No,White,Person,Event Winner of Paradise Seafood Competition,Wizadrian,
 ,Event,,,,Yes,No,No,White,Person,Event- Arena Champion for Ceannlaidir,Jabedin,
 ,Event,,,,Yes,No,No,White,Person,Event- General of Ceannlaidir's Army,Krytos,
-,Religious,Priest,,Yes,Yes,Yes,Yes,White,Priest,Excommunicated,Angelic,
-,Religious,,,,Yes,Yes,Yes,Orange,Priest,Excommunicated by,Ramanayan,
+,Religious,"Excommunication, Priest",,Yes,Yes,Yes,Yes,White,Priest,Excommunicated,Angelic,
+,Religious,Excommunication,,,Yes,Yes,Yes,Orange,Priest,Excommunicated by,Ramanayan,
 ,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Exiled,Eternalty,
 ,Guild,,,,Yes,No,No,Orange,Person,Exiled from Guild by,FFeightBest,
 ,Political,Mileth,,,Yes,No,Yes,Orange,Person,Exiled from Mileth by,RomanVolkoff,
 ,Political,Rucesion,,,Yes,No,Yes,Orange,Person,Exiled from Rucesion by,Panni,
 ,Arena,,,,Yes,No,Yes,Orange,Person,Exiled from the Arena,Zethrian,
 ,Guild,,,,Yes,Yes,No,White,Person,Exiled Guild member,Kedian,
-,Quest,,,,Yes,No,Yes,White,Person,Explorer of Andor Dungeon,BioMagus,
-,Quest,,,,Yes,No,Yes,White,Person,Explorer of Oren Sewers,BioMagus,
+,Quest,Andor Dungeon,,,Yes,No,Yes,White,Person,Explorer of Andor Dungeon,BioMagus,
+,Quest,Oren Sewers,,,Yes,No,Yes,White,Person,Explorer of Oren Sewers,BioMagus,
 ,Event,,,,Yes,No,No,White,Person,Fair King with,Bentic (also Eternalty),
 ,Other,,,,Yes,Yes,Yes,White,Person,Fair Marshal,NaLyd,
 ,Event,,,,Yes,No,No,White,Person,Fair Queen with,Angelic (also Secresy),
 ,Event,,,,Yes,Yes,No,Blue,Person,Fall Classic 2v2 Tournament Champion,Final,
-,Guild,,Guild Rank,,Yes,No,Yes,White,Person,Fellowship Leader,Galaxis,
+,Guild,Fellowship,Guild Rank,,Yes,No,Yes,White,Person,Fellowship Leader,Galaxis,
 ,Event,September,,,Yes,No,No,White,Person,Fetched Gillam's precious coins,Kallina,
 ,Religious,Fiosachd,Temple Rank,,Yes,No,Yes,White,Priest,Fiosachd Acolyte by,Auzric,
 ,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd Cleric by,Klyden,
@@ -452,29 +452,29 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd Priest by,StarSparkler,Joined the Fiosachd religion and became Priest rank without help
 ,Religious,Fire,Medenian Spirit,,Yes,Yes. Max 5,Yes,Blue,Person,Fire Reverence blue,NaLyd,
 ,Religious,Fire,Medenian Spirit,,Yes,Yes. Max 5,No,White,Person,Fire Reverence white,iLyria,
-,College,,,,Yes,Yes,No,Blue,Person,Folk Event Host,"Vendes, Graynemeade, Omner, or Riyan?",
+,College,Event Host,,,Yes,Yes,No,Blue,Person,Folk Event Host,"Vendes, Graynemeade, Omner, or Riyan?",
 ,Event,Dark Light War,,,Yes,No,No,White,Rogue,Follows Pashura of the Light,BioMagus,
-,Other,,,,Yes,No,No,White,Person,Formerly known as,Bea,Change your Aisling's name by submitting a support ticket to Kru
+,Other,Renamed,,,Yes,No,No,White,Person,Formerly known as,Bea,Change your Aisling's name by submitting a support ticket to Kru
 ,Event,,,,Yes,Sorta,No,White,Person,Found 1st Lucky Clover,,
 ,Event,,,,Yes,Sorta,No,White,Person,Found 2nd Lucky Clovers,,
 ,Event,,,,Yes,Sorta,No,White,Person,Found 3rd Lucky Clovers,,
 ,Event,,,,Yes,Sorta,Yes,White,Person,Found a Golden Starfish,,Found a golden starfish on the Paradise Islands during the July events
-,Quest,,,,Yes,Yes. Max 6.,Yes,White,Person,Found Dioram,,
+,Quest,Dioram,,,Yes,Yes. Max 6.,Yes,White,Person,Found Dioram,,
 ,Event,March,,,Yes,No,Yes,Green,Person,Found Locky's Charms,,"Completed the ""Locky's Charms"" event in March. Find charm items on the ground in EW, WW, MTG, Piet Dungeon, Mileth Crypt, Oren Tower Maze, Oren Jungle, and Deadwood Forest"
-,Event,,,,Yes,Yes,Yes,White,Person,Found Lucky Clovers,,Found a lucky four leaf clover on the ground during the March events
+,Event,March,,,Yes,Yes,Yes,White,Person,Found Lucky Clovers,,Found a lucky four leaf clover on the ground during the March events
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Found Luwella's House Key,,
 ,Event,December,,,Yes,Yes,Yes,White,Person,Found Santa's Peppermint Sticks,Warginald,
 ,Guild,,,,Yes,No,No,Blue,Person,Founded  Guild blue,BioMagus,Blue mark but missing Guild Name
 ,Guild,,,,Yes,No,No,Blue,Person,Founded  Motley,Kedian,
 ,Guild,,,,Yes,No,No,White,Person,Founded Guild white,Kedian,White mark!
-,Guild,,,,Yes,No,Yes,Blue,Person,Founded Guild with name,Kousaka,
-,Other,,,,Yes,No,Yes,Brown,Person,Fragile Chrysalis ((Unregistered)),,
+,Guild,Founded,,,Yes,No,Yes,Blue,Person,Founded Guild with name,Kousaka,
+,Other,Unregistered,,,Yes,No,Yes,Brown,Person,Fragile Chrysalis ((Unregistered)),,
 ,Event,May,,,Yes,Yes,Yes,Blue,Person,Freed cursed mundanes in Abel,,
 ,Event,February,,,Yes,No,Yes,White,Person,Friend of Faerie,,"Complete the ""Make a Wish"" February event and choose to wish for Faerie's good health"
 ,Event,March,,,Yes,No,Yes,White,Person,Friend of Leprechaun,,
 ,Quest,Plamit,Ancient Flame,,Yes,No,Yes,White,Heart,Gadeu of the Ancient Flame,NaLyd,
 ,Event,September,,,Yes,No,No,White,Person,Gathered Gillam's precious coins,blueskye,
-,Quest,,,,Yes,Yes,Yes,White,Person,Gathered Materials for Jowella's House,,
+,Quest,Strong Winds,,,Yes,Yes,Yes,White,Person,Gathered Materials for Jowella's House,,
 ,Event,September,,,Yes,No,Yes,White,Person,Gathered Treasures for Gillam,,
 ,Class,Rogue,,Yes,Yes,Yes. No limit?,Yes,White,Rogue,Gem Smith,Dylanlan,"Practice Gem Polishing as a Rogue class. After polishing 50 gems, the ""- Involved in Gem Polishing"" Private mark will increment this public mark by one. There is some secret way to reach beyond Gem Smith (10)."
 ,Quest,Blackstar,Blackstar Rank,,Yes,No,Yes,White,Heart,General of Blackstar,SaintAsher,
@@ -489,7 +489,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Religious,"Gramail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Gramail High Priest by,Angelique,
 ,Religious,"Gramail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Gramail Minister by,Ubrei,
 ,Religious,"Gramail, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Gramail Priest by,Religion,
-,Quest,,,,Yes,No,Yes,White,Person,Great Soldier of the Goblin War,,Kill two of each goblin in Grass Field. Cannot be completed after becoming Medenian Class
+,Quest,Goblin War,,,Yes,No,Yes,White,Person,Great Soldier of the Goblin War,,Kill two of each goblin in Grass Field. Cannot be completed after becoming Medenian Class
 ,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Green Dugon by,Punch,
 ,Event,Calling Stone,,,Yes,No,No,White,Person,Grimlok Calling Stone for Deoch,Carnaugh,
 ,Event,Calling Stone,,,Yes,No,No,White,Person,Grimlok Calling Stone for Luathas,BioMagus,
@@ -502,10 +502,10 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Class,Warrior,,,Yes,Yes,Yes,Blue,Warrior,Guided Warrior,,Guide another Aisling of the Warrior class. You can get this mark on any class if you guide someone again after they sub into this class.
 ,Class,Wizard,,,Yes,Yes,Yes,Blue,Wizard,Guided Wizard,,Guide another Aisling of the Wizard class. You can get this mark on any class if you guide someone again after they sub into this class.
 ,Guild,,,,Yes,No,No,White,Person,Guild by oath of,,
-,Guild,,Guild Rank,,Yes,No,Yes,Blue,Person,Guild Council,,
-,Guild,,Guild Rank,,Yes,No,Yes,Blue,Person,Guild Leader,BioMagus,
+,Guild,Council,Guild Rank,,Yes,No,Yes,Blue,Person,Guild Council,,
+,Guild,Leader,Guild Rank,,Yes,No,Yes,Blue,Person,Guild Leader,BioMagus,
 ,Guild,,,,Yes,No,No,Blue,Person,Guild Master,Kedian,
-,Quest,,,,Yes,Yes,Yes,White,Person,Has Defeated Oren's Pirates,,
+,Quest,Oren Pirates,,,Yes,Yes,Yes,White,Person,Has Defeated Oren's Pirates,,
 ,Event,,,,Yes,No,No,White,Rogue,Has Disciples,Krytos,Have disciples in the Light vs Dark wars?
 ,Religious,Cail,Forsaken,,Yes,No,Yes,White,Priest,Has forsaken Cail,NoirGato,
 ,Religious,Ceannlaidir,Forsaken,,Yes,No,Yes,White,Priest,Has forsaken Ceannlaidir,Galaxis,
@@ -522,15 +522,15 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,Suomi Inn,,,Yes,No,No,White,Person,Helped Design Suomi Inn,,
 ,Event,,,,Yes,Yes,Yes,White,Person,Helped Egan's Father Return Home,,
 ,Quest,Plamit,,,Yes,No,Yes,White,Heart,Helped Gisaem Decipher The Missives,,
-,Quest,,,,Yes,No,Yes,White,Person,Helped Mephit,,
-,Quest,,,,Yes,No,Yes,White,Person,Helped Morwin,,
+,Quest,Mephit,,,Yes,No,Yes,White,Person,Helped Mephit,,
+,Quest,Morwin,,,Yes,No,Yes,White,Person,Helped Morwin,,
 ,Quest,Aman Jungle,,,Yes,No,Yes,White,Person,Helped Oriana find Elemus,,
 ,Event,October,,,Yes,No,No,White,Person,Helped The Temuarian Beggar,,
 ,Class,"Monk, Priest, Wizard",,Yes,Yes,Yes,Yes,White,Monk,Herbalist,,"Equip a Cloth Glove and practice herbalism at various plants in Temuair. Requires being a Monk, Priest, or Wizard class and learning Herbal Lore"
 ,Religious,Priest,,Yes,Yes,Yes,Yes,Orange,Priest,Heretic by oath of,Ramanayan,
 ,Quest,Blackstar,Blackstar Rank,,Yes,No,Yes,White,Heart,High Warlord of Blackstar,,Complete 250 Blackstar dungeon runs and talk to Marsha in the Blackstar Crypt Lobby
 ,Political,,,,Yes,No,?,Blue,Person,Honorary Member of the Suomi Troupe,Huhuman,
-,Quest,,,,Yes,No,Yes,White,Person,Hunted down a wolf of West Woodland,,
+,Quest,Wolf of WW,,,Yes,No,Yes,White,Person,Hunted down a wolf of West Woodland,,
 ,Political,Hwarone,,,Yes,Yes,Yes,White,Person,Hwarone Arrest,Disarray,
 ,Political,Hwarone,Hwarone Rank,,Yes,No,Yes,White,Person,Hwarone Captain,Dylanlan,
 ,Political,Hwarone,Hwarone Rank,,Yes,No,Yes,White,Person,Hwarone General,MrMvP,
@@ -541,71 +541,71 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Religious,Priest,,Yes,Yes,Yes,Yes,White,Priest,Initiated Worshipper,,
 ,Religious,Heresy,,,Yes,Yes,?,White,Priest,Instigated heresy against,,
 ,Quest,Tavaly,,,Yes,No,Yes,White,Person,Investigated the Sacred Ritual,Lux,
-,Other,,,,Yes,Yes,Yes,Orange,Person,Jailed,,"Sent to jail by a ranger, for violating Terms of Service"
+,Other,Jailed,,,Yes,Yes,Yes,Orange,Person,Jailed,,"Sent to jail by a ranger, for violating Terms of Service"
 ,Event,September,King's Hunt,,Yes,No,Yes,White,Person,Jester Courtney's Hunt,,
 ,Class,Priest,,Yes,Yes,Yes,Yes,White,Heart,Joined to a lover,,
 ,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Judge,,
 ,Event,Insect,,,Yes,No,No,White,Person,Junior Insect Catcher,xLimited,"The original legend mark from completing the first Insect Event by catching 10 of each insect. Got replaced by ""1st Annual Insect Event- Junior Insect Catcher"""
 ,Class,Monk,Monk Form,Yes,Yes,No,Yes,White,Monk,Kelberoth Form,,"As a Monk class, learn the Kelberoth Form from the Combat Skill Master in Suomi"
-,Quest,,Fisk's Secret,,Yes,No,Yes,Blue,Person,Kept Fisk's Secret,,
+,Quest,Fisk's Secret,Fisk's Secret,,Yes,No,Yes,Blue,Person,Kept Fisk's Secret,,
 ,Quest,Aman Jungle,,,Yes,No,Yes,White,Person,Kept Oriana Safe from Dendron Flower,,
 ,Event,,,,Yes,No,No,White,Person,Kept Paradise Beach Safe,,
 ,Event,,,,Yes,Yes,No,White,Shield,Killed Dark Aislings,,
-,Quest,,,,Yes,Yes. Max 5.,Yes,White,Person,Killed Lorais,,
+,Quest,Lorais,,,Yes,Yes. Max 5.,Yes,White,Person,Killed Lorais,,
 ,Event,September,King's Hunt,,Yes,No,Yes,White,Person,King Bruce's Hunt,Petria,
 ,Event,,,,Yes,No,No,White,Heart,King of Loures Kingdom,Zera,
 ,Event,,,,Yes,No,No,White,Heart,King of Mileth Village,Disarray,
 ,Event,,,,Yes,No,No,White,Heart,King of Oren Kingdom,Wizadrian,
 ,Event,,,,Yes,No,No,White,Heart,King of Suomi Village,Acadami,
 ,Quest,Blackstar,Blackstar Rank,,Yes,No,Yes,White,Heart,Knight of Blackstar,,Complete 50 Blackstar dungeon runs and talk to Marsha in the Blackstar Crypt Lobby
-,Political,,,,Yes,No,Yes,White,Person,Knight of Temuair,,
+,Political,Knight,,,Yes,No,Yes,White,Person,Knight of Temuair,,
 ,Event,September,King's Hunt,,Yes,No,Yes,White,Person,Lady Blanchefleur's Hunt,,
-,College,,,,Yes,No,Yes,Blue,Person,Lady of the Arts,,
+,College,Class,,,Yes,No,Yes,Blue,Person,Lady of the Arts,,
 ,Religious,Priest,,Yes,Yes,No,Yes,White,Priest,Last Held Mass,,
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Learned the Secret Waterfall Entrance,,
 ,Guild,,,,Yes,No,No,White,Person,Left Guild,,
-,Quest,,,,Yes,No,Yes,Yellow,Person,Legendary Aisling,,
-,Arena,,,,Yes,No,Yes,Blue,Shield,Legendary Champion,Ambitioon,
-,Arena,,,,Yes,No,Yes,Blue,Shield,Legendary Combatant,,"Awarded for participating in 1,000 arena battles"
+,Quest,Legendary,,,Yes,No,Yes,Yellow,Person,Legendary Aisling,,
+,Arena,1k Battles,,,Yes,No,Yes,Blue,Shield,Legendary Champion,Ambitioon,
+,Arena,1k Wins,,,Yes,No,Yes,Blue,Shield,Legendary Combatant,,"Awarded for participating in 1,000 arena battles"
 ,Event,September,King's Hunt,,Yes,No,Yes,White,Person,Librarian Blaise's Hunt,,"Awarded for winning 1,000 arena battles. Includes a belt accessory with -AC?"
-,College,,,,Yes,No,Yes,Blue,Person,Lord of the Arts,,
-,Quest,,,,Yes,Yes,Yes,Blue,Person,Loved by Mileth Mundanes,,"Complete the ""Spare a Stick"" quest from Callough in Mileth Weapon shop, before Insight 12. "
-,Quest,,,,Yes,Yes,Yes,Blue,Person,Loved by Suomi Mundanes,,"Complete the ""Perfect Hairstyle"" quest from Eeva in Suomi Inn. Choosing Ponytale doesn't actually need any items."
-,Relationships,,,,Yes,No,Yes,White,Heart,Loves,,Name of the partner you are bonded with in the Eastern Woodlands Lovers' Glade
+,College,Class,,,Yes,No,Yes,Blue,Person,Lord of the Arts,,
+,Quest,Spare a Stick,,,Yes,Yes,Yes,Blue,Person,Loved by Mileth Mundanes,,"Complete the ""Spare a Stick"" quest from Callough in Mileth Weapon shop, before Insight 12. "
+,Quest,Perfect Hairstyle,,,Yes,Yes,Yes,Blue,Person,Loved by Suomi Mundanes,,"Complete the ""Perfect Hairstyle"" quest from Eeva in Suomi Inn. Choosing Ponytale doesn't actually need any items."
+,Relationships,Glading,,,Yes,No,Yes,White,Heart,Loves,,Name of the partner you are bonded with in the Eastern Woodlands Lovers' Glade
 ,Religious,Luathas,Temple Rank,,Yes,No,Yes,White,Priest,Luathas Acolyte by,,
 ,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas Cleric by,Suspected,
 ,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas High Priest by,Ramanayan,
 ,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas Minister by,NagisaChan,
 ,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas Priest by,Salgar,
-,Quest,,,,Yes,Yes,Yes,White,Person,Lured Fire Serpent Out,,
+,Quest,Lost Ruins,,,Yes,Yes,Yes,White,Person,Lured Fire Serpent Out,,
 ,Quest,"Nightmare, Rogue",,Yes,Yes,No,Yes,White,Rogue,Marauder of Gold,,
-,Relationships,,,,Yes,No,Yes,White,Heart,Married,,
-,Class,,,,Yes,No,Yes,Blue,Shield,Master,,Became a master Aisling of your class at the Temple of Choosing in Mileth
-,Arena,,Arena Host,,Yes,No,Yes,White,Shield,Master Arena Host,Set,
-,Political,,Ranger,,Yes,No,Yes,White,Person,Master Ranger,Ishikawa,
-,Pet,,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet blob,niZon,
-,Pet,,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet bunny,,
-,Pet,,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet cat,,
-,Pet,,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet dog,,
-,Pet,,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet ducklings,,
-,Pet,,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet fae,,
-,Pet,,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet floppy,Cherrius,
-,Pet,,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet mongrel,Ubrei,
-,Pet,,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet penguin,,
+,Relationships,Marriage,,,Yes,No,Yes,White,Heart,Married,,
+,Class,Master,,,Yes,No,Yes,Blue,Shield,Master,,Became a master Aisling of your class at the Temple of Choosing in Mileth
+,Arena,Host,Arena Host,,Yes,No,Yes,White,Shield,Master Arena Host,Set,
+,Political,Tagor,Ranger,,Yes,No,Yes,White,Person,Master Ranger,Ishikawa,
+,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet blob,niZon,
+,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet bunny,,
+,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet cat,,
+,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet dog,,
+,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet ducklings,,
+,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet fae,,
+,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet floppy,Cherrius,
+,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet mongrel,Ubrei,
+,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet penguin,,
 ,Event,April,,,Yes,Yes,Yes,White,Person,Matrika's Redemption at Mehadi,,Completed the annual Redemption event at Mehadi
 ,Event,April,,,Yes,No,No,White,Person,Matrika's Redemption at Mehadi non-incrementing,Caitrin,Non-incrementing!
 ,Guild,,,,Yes,Yes,No,Blue,Person,May appoint Guild Council,,Can also be a white mark?
 ,Political,Suomi,,,Yes,No,Yes,White,Person,Member of the Suomi Troupe,,
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Mended Jowella and Kharlo's Relationship,,
-,Relationships,,,,Yes,Yes,Yes,Blue,Person,Mentored,,
-,Relationships,,,,Yes,No,Yes,White,Person,Mentored by,,
+,Relationships,Mentor,,,Yes,Yes,Yes,Blue,Person,Mentored,,
+,Relationships,Mentor,,,Yes,No,Yes,White,Person,Mentored by,,
 ,Event,Messenger of the Heart,,,Yes,No,No,Blue,Person,Messenger of the Heart,,
 ,Class,Priest,,Yes,Yes,Yes,Yes,Blue,Priest,Mileth Altar Worshipper,,
 ,Political,Mileth,,,Yes,No,Yes,White,Person,Mileth Citizen by oath of,Nurzz,
 ,College,Bard,,,Yes,Yes,Yes,Blue,Person,Mileth Clave Bard,Kedian,
 ,College,Lore Keeper,,,Yes,Yes,Yes,Blue,Person,Mileth Clave Lore Keeper,Vamistle,
 ,College,Persona,,,Yes,Yes,Yes,Blue,Person,Mileth Clave Persona,Mayheart,
-,College,,,,Yes,No,Yes,Blue,Person,Mileth College Chancellor,Ramanayan,
+,College,Chancellor,,,Yes,No,Yes,Blue,Person,Mileth College Chancellor,Ramanayan,
 ,Political,Mileth,,,Yes,No,Yes,White,Person,Mileth Guest by oath of,Cherrius,
 ,College,Bard,,,Yes,Yes,Yes,Blue,Person,Mileth Kingdom Bard,BioMagus,
 ,College,Persona,,,Yes,Yes,Yes,Blue,Person,Mileth Kingdom Persona,Ponder,
@@ -618,7 +618,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Guild,,,,Yes,No,No,White,Person,Motley by oath of,,
 ,Guild,,,,Yes,No,No,Blue,Person,Motley Council,,Can also be a white mark?
 ,Guild,,,,Yes,No,No,Blue,Person,Motley Leader,Theowin,
-,Quest,,,,Yes,No,Yes,Orange,Person,Murdered Tagor citizens,,
+,Quest,Tagor Citizens,,,Yes,No,Yes,Orange,Person,Murdered Tagor citizens,,
 ,Event,Insect,,,Yes,No,No,White,Person,Novice Insect Catcher,NagisaChan,"The original legend mark from completing the first Insect Event by catching 5 of each insect. Got replaced by ""1st Annual Insect Event- Novice Insect Catcher"""
 ,Event,September,,,Yes,No,No,White,Person,Obtained Gillam's precious coins,Ailred,
 ,Quest,Aman Jungle,,,Yes,No,Yes,White,Person,Obtained Hostile Disguise from Glenna,,
@@ -724,8 +724,8 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,,,,Yes,No,No,White,Heart,Queen of Oren Kingdom,Tazz,
 ,Event,,,,Yes,No,No,White,Heart,Queen of Rucesion Village,Ramia,
 ,Event,,,,Yes,No,No,White,Heart,Queen of Suomi Village,Bea,
-,Political,,Ranger,,Yes,No,Yes,White,Person,Ranger,,
-,Other,,,,Yes,No,No,White,Person,Reborn,Jerrica,
+,Political,Tagor,Ranger,,Yes,No,Yes,White,Person,Ranger,,
+,Other,Reborn,,,Yes,No,No,White,Person,Reborn,Jerrica,
 ,Quest,Yowien Territory,,,Yes,Yes,Yes,White,Person,Received a Gift from Arcella,,
 ,Event,,,,Yes,Yes,No,White,Shield,Received a Gift from the Gods,BioMagus,
 ,Event,September,,,Yes,Yes,Yes,White,Shield,Received a pet from the Gods,,
@@ -779,18 +779,18 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Religious,"Sgrios, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Sgrios High Priest by,Paramour,
 ,Religious,"Sgrios, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Sgrios Minister by,PeneAnn,
 ,Religious,"Sgrios, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Sgrios Priest by,Eiscego,
-,Other,,,,Yes,Yes,Yes,Brown,Person,Sgrios's scar,,Die from monsters in battle
+,Other,Scar,,,Yes,Yes,Yes,Brown,Person,Sgrios's scar,,Die from monsters in battle
 ,Quest,Plamit,Ancient Flame,,Yes,No,Yes,White,Heart,Sinturi of the Ancient Flame,,
 ,Event,September,King's Hunt,,Yes,No,Yes,White,Person,Sir Thibault's Hunt,,
 ,Event,Old April,,,Yes,No,No,White,Person,Slayed Giant Floppy,NaLyd,
-,Quest,,Terror,,Yes,Yes,Yes,Blue,Shield,Slew Terror of the Alley,San,
-,Quest,,Terror,,Yes,Yes,Yes,Blue,Shield,Slew Terror of the Crypt,,
-,Quest,,Terror,,Yes,Yes,Yes,Blue,Shield,Slew Terror of the Garden,CreagGar,
-,Quest,,Small Heart,,Yes,No,Yes,White,Heart,Small Heart of Fire with,Dylanlan,
-,Quest,,Small Heart,,Yes,No,Yes,White,Heart,Small Heart of Moon with,Angelic,
-,Quest,,Small Heart,,Yes,No,Yes,White,Heart,Small Heart of Stone,Ailred,
+,Quest,Slew Terror,Terror,,Yes,Yes,Yes,Blue,Shield,Slew Terror of the Alley,San,
+,Quest,Slew Terror,Terror,,Yes,Yes,Yes,Blue,Shield,Slew Terror of the Crypt,,
+,Quest,Slew Terror,Terror,,Yes,Yes,Yes,Blue,Shield,Slew Terror of the Garden,CreagGar,
+,Quest,From the Heart,Small Heart,,Yes,No,Yes,White,Heart,Small Heart of Fire with,Dylanlan,
+,Quest,From the Heart,Small Heart,,Yes,No,Yes,White,Heart,Small Heart of Moon with,Angelic,
+,Quest,From the Heart,Small Heart,,Yes,No,Yes,White,Heart,Small Heart of Stone,Ailred,
 ,Quest,Plamit,Ancient Flame,,Yes,No,Yes,White,Heart,Soldata of the Ancient Flame,Machamp,
-,Political,,,,Yes,No,Yes,Brown,Person,Summoned to Court by,,
+,Political,"Mileth, Rucesion",,,Yes,No,Yes,Brown,Person,Summoned to Court by,,
 ,Political,Suomi,,,Yes,No,Yes,White,Person,Suomi Citizen by oath of,,
 ,College,Historian,,,Yes,Yes,Yes,Blue,Person,Suomi Clave Historian,Ramanayan,
 ,College,Philosopher,,,Yes,Yes,Yes,Blue,Person,Suomi Clave Philosopher,Ramanayan,
@@ -805,13 +805,13 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,Recurring,,,Yes,Yes,Yes,White,Person,Survived Mech Invasion,Aon,
 ,Class,"Monk, Rogue, Warrior",,,Yes,Yes,Yes,White,Rogue,Tailor,Dylanlan,"Practice Tailoring at one of the town tailors to improve a garment's quality. Requires being a Warrior, Monk, or Rogue class, and learning the Tailoring skill"
 ,Event,,,,Yes,No,No,White,Person,Tamed Giant Floppy,,
-,College,,,,Yes,Yes,Yes,White,Person,Taught a Class at Mileth College,,
-,Arena,,,,Yes,Yes,No,Blue,Person,Team Arena Wins,,Win a team arena battle
+,College,Class,,,Yes,Yes,Yes,White,Person,Taught a Class at Mileth College,,
+,Arena,Team Arena,,,Yes,Yes,No,Blue,Person,Team Arena Wins,,Win a team arena battle
 ,Event,,,,Yes,No,No,White,Person,Temuair Trinity Battle Champion,KrAzYxOnE,
 ,Event,,,,Yes,Yes,No,Blue,Person,The Bashelor Champion,Disarray,
-,Other,,,,Yes,No,?,White,Person,Theatre Director,,
+,Other,Suomi,,,Yes,No,?,White,Person,Theatre Director,,
 ,Class,Druid,,Yes,No,No,Yes,White,Person,Three Move,Punch,
-,Quest,,Fisk's Secret,,Yes,No,Yes,White,Person,Told Fisk's Secret,Cazbrileth,
+,Quest,Fisk's Secret,Fisk's Secret,,Yes,No,Yes,White,Person,Told Fisk's Secret,Cazbrileth,
 ,Class,Druid,,Yes,No,No,Yes,White,Person,Two Move,Machamp,
 ,Other,Mundane Birth,Birth,,Yes,No,Yes,White,Person,Undine mundane birth,Renvo,
 ,College,Artist,,,Yes,Yes,Yes,Blue,Person,Undine Village Artist,BioMagus,
@@ -823,129 +823,13 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,February,,,Yes,No,Yes,White,Person,Went on a picnic with,,"Finished ""A Lovely Evening"" February Event with a partner"
 ,Class,Monk,Monk Form,Yes,Yes,No,Yes,White,Monk,White Bat Form,RINALDO,
 ,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,White Dugon by,Vileplume,
-,Event,,,,Yes,No,No,White,Person,Wished for Pudgy's Health,,
+,Event,Pudgy,,,Yes,No,No,White,Person,Wished for Pudgy's Health,,
 ,Class,Wizard,,Yes,Yes,No,Yes,White,Wizard,Wizard by oath of,,Become the Wizard class with help from another Aisling
 ,Class,Wizard,Subbing,Yes,Yes,No,Yes,Blue,Wizard,Wizard Dedication,,Successfully subbed from the Wizard class into another class
 ,Class,Wizard,,Yes,Yes,No,Yes,White,Wizard,"Wizard, guided by",,Get guided by another Aisling of the Wizard class
 ,Class,Wizard,,Yes,Yes,Yes,Yes,White,Wizard,Wizardry Researcher,,Complete some wizardry research at Dar in Mileth
 ,Class,Warrior,,Yes,Yes,Yes,Yes,White,Shield,Won Pit Fights,,"As a Warrior class, successfully defeat your opponent in the Abel Coast pit fight building"
-,Quest,,,,Yes,No,Yes,White,Person,Worthy of the Band of Danaan,,
-,Quest,,,,Yes,No,Yes,White,Person,Worthy of the Cap of Danaan,,
+,Quest,Hat of Danaan,,,Yes,No,Yes,White,Person,Worthy of the Band of Danaan,,
+,Quest,Hat of Danaan,,,Yes,No,Yes,White,Person,Worthy of the Cap of Danaan,,
 ,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Yellow Dugon by,Punch,
 ,Event,October,,,Yes,Yes,Yes,White,Person,Zombie Slayer Record,,"Participate in the ""Zombie Slayer"" October event, by defeating waves of zombies in House Macabre up to round 15"
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-Misc Missing Marks:,,,,,,,,,,,,
-Ceann Minister,,,,,,,,,,,,
-,,,,,,,,,,,,
-Private Marks,,,,,,,,,,,,
-Any others besides Tentative Nobles?,,,,,,,,,,,,
-Learned AB X class skill/spell? Upcoming AB99 ones?,,,,,,,,,,,,
-,,,,,,,,,,,,
-Missing marks:,,,,,,,,,,,,
-Village Historian,,,,,,,,,,,,
-Tentative Village Historian,,,,,,,,,,,,
-King of Rucesion Village - Plumbus  (vorlof?),,,,,,,,,,,,
-,,,,,,,,,,,,
-1st insect event - veteran,,,,,,,,,,,,
-Veteran Insect Catcher,,,,,,,,,,,,
-1st insect event - master,,,,,,,,,,,,
-Master Insect Catcher,,,,,,,,,,,,
-2nd insect event - veteran,,,,,,,,,,,,
-3rd insect event - junior,,,,,,,,,,,,
-3rd insect event - veteran,,,,,,,,,,,,
-3rd insect event - master,,,,,,,,,,,,
-,,,,,,,,,,,,
-Atavism Age II Aisling,,,,,,,,,,,,
-Goblin Calling Stone x8 gods - Deoch 6/7?,,,,,,,,,,,,
-Grimlok Calling Stone x8 gods - Deoch 6/7?,,,,,,,,,,,,
-"Champion of the Light - Deoch 22? (Pashura, might be purged rip)",,,,,,,,,,,,
-Follows Krytos of the Dark,,,,,,,,,,,,
-Tulsi Brew Poet (Meizo?),,,,,,,,,,,,
-3vs3 Trinity Champions - Deoch 33? (krazyxone's mark?),,,,,,,,,,,,
-3vs3 Blood Battle Royal - Deoch 33?,,,,,,,,,,,,
-"Solved Councilor Marcus Murder - Deoch 33, Summer (Kayson?)",,,,,,,,,,,,
-Vaillaire Curan Danseuse - Deoch 34,,,,,,,,,,,,
-Defeated Wizard Guardian - Deoch 34,,,,,,,,,,,,
-Deo Fleous Dubhaim Mysteries - Deoch 35,,,,,,,,,,,,
-Defender of Loures - Deoch 39,,,,,,,,,,,,
-Event Alchemist - Case of the Hanging Handmaid - Deoch 53,,,,,,,,,,,,
-Event- Destroyed the Ancient Power - Deoch 55 (Might've been the erased Deoch 55 marks),,,,,,,,,,,,
-Event- Seized the Ancient Power - Deoch 55 (Might've been the erased Deoch 55 marks),,,,,,,,,,,,
-Event- Lost the Ancient Power - Deoch 55 (Might've been the erased Deoch 55 marks),,,,,,,,,,,,
-Event- Heart of Gold - Deoch 58,,,,,,,,,,,,
-Hero of Loures/the Undine Rebels/the Necromancer Order/the Pact of Anaman - Deoch 62,,,,,,,,,,,,
-Event- Grey Council of Loures - Deoch 65,,,,,,,,,,,,
-Event- Grey Council of the Undine Rebels - Deoch 65,,,,,,,,,,,,
-Event- Grey Council of the Pact of Anaman - Deoch 65,,,,,,,,,,,,
-,,,,,,,,,,,,
-Event Scavenger of Suomi - Deoch 92,,,,,,,,,,,,
-Event Flag Hunter Champion of Suomi - Deoch 92,,,,,,,,,,,,
-Event Has Holiday Spirit (1) - Deoch 96,,,,,,,,,,,,
-Event (Legendary 99er) - Deoch 96,,,,,,,,,,,,
-Event Most Knowledgeable Aisling in Temuair - Deoch 105,,,,,,,,,,,,
-,,,,,,,,,,,,
-Event - Loures Soccer Champion - Deoch 113,,,,,,,,,,,,
-Event Arena Duo Tournament Second Runner-up - Deoch 113,,,,,,,,,,,,
-Event Arena Duo Tournament First Runner-up - Deoch 113,,,,,,,,,,,,
-Event - Danaan Rising - Deoch 113,,,,,,,,,,,,
-Event First Place Best Costume of Temuair - Deoch 119,,,,,,,,,,,,
-Event First Place Best Threads of Temauir - Deoch 120,,,,,,,,,,,,
-,,,,,,,,,,,,
-Event Trans-Temuairian Race - 1st Place - Deoch 123,,,,,,,,,,,,
-Event Saved Sweety from the Kobolds - Deoch 123,,,,,,,,,,,,
-Event Mythril Chef - Deoch 125,,,,,,,,,,,,
-,,,,,,,,,,,,
-Ramanayan Clues,,,,,,,,,,,,
-https://novus-imperia.com/events.htm,,,,,,,,,,,,
-,,,,,,,,,,,,
-For Ancient Power:,,,,,,,,,,,,
-,,,,,,,,,,,,
-"Kufell, Marrin, & Gildorette",,,,,,,,,,,,
-"KaraDawn, Starmaiden, Kendrik, Jacobue, & Chloracie",,,,,,,,,,,,
-"Koushiro, Dalmark, AdelaideT, Dolice, & Bardos",,,,,,,,,,,,
-"Hectaite, Rembrant, Kasajn, Kagado, & Mumiz",,,,,,,,,,,,
-"Ryoichi, Trance, SarahJane, Auticus, & Strife",,,,,,,,,,,,
-"Seek, Jubjubdayout, & Maverix",,,,,,,,,,,,
-"Snag, Zikare, Yodogg, & Cheisea",,,,,,,,,,,,
-"Xenoria, Spiack, Fortalice Sukenno, & Geheimni",,,,,,,,,,,,
-"Punchling, Skylarhawk, Bronzesword, & Draton",,,,,,,,,,,,
-,,,,,,,,,,,,
-Possible Legend Marks (Depends On Group Choices):,,,,,,,,,,,,
-"Destroyed the Ancient Power, ""Seized the Ancient Power, or ""Lost the Ancient Power""",,,,,,,,,,,,
-,,,,,,,,,,,,
-"Grey Council Marks (""Hero of ...):",,,,,,,,,,,,
-,,,,,,,,,,,,
-Winning Groups (will receive legend marks):,,,,,,,,,,,,
-,,,,,,,,,,,,
-Sided With:,,,,,,,,,,,,
-,,,,,,,,,,,,
-Loures -,,,,,,,,,,,,
-"Kyiri, Owenquinn, Ariston",,,,,,,,,,,,
-"Amythyst, Sephclone, MistralCharm",,,,,,,,,,,,
-,,,,,,,,,,,,
-Undine Rebels -,,,,,,,,,,,,
-"Tobin, Mesmerize, Elitheus",,,,,,,,,,,,
-"ArcaneEntity, MarrissaMari, KotoneHearts",,,,,,,,,,,,
-,,,,,,,,,,,,
-Necromancer Order -,,,,,,,,,,,,
-"Rawly, Raxly, Sera",,,,,,,,,,,,
-,,,,,,,,,,,,
-Pact of Anaman -,,,,,,,,,,,,
-"Redian, Elomosity, Kalnoky",,,,,,,,,,,,
-"Armisael, Fafhniel, and EricAmee",,,,,,,,,,,,
-,,,,,,,,,,,,
-Likely Will Never Find,,,,,,,,,,,,
-"A legend mark for opening the Chaos area, unlikely to ever find",,,,,,,,,,,,
-A bad legend mark for hacking black dugon. Unlikely to find,,,,,,,,,,,,
-Aisling Memory (not given out),,,,,,,,,,,,
-Tentative Aisling Memory (not given out),,,,,,,,,,,,
-Kingdom Memory (not given out),,,,,,,,,,,,
-,,,,,,,,,,,,
-https://discord.com/channels/498183649888567307/498543032744804362/1397556172869075005,,,,,,,,,,,,
-,,,,,,,,,,,,
-"Aisling Event Host (Ashen, Feena, Felicity, Jayer)",,,,,,,,,,,,
-"Folk Event Host (Graynemeade, Omner, Riyan, Vendes)",,,,,,,,,,,,
-"Village Event Host (Callesto, Cedrick, Harmonie, SilverFox)",,,,,,,,,,,,
-Clave Event Host (not awarded?),,,,,,,,,,,,
-Tentative event host marks,,,,,,,,,,,,
