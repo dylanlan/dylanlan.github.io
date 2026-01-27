@@ -18,6 +18,35 @@ permalink: /legend-mark-checklist/
     margin-bottom: 20px;
   }
   
+  .character-section {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .character-input-group {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+  }
+  
+  .character-name-input {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .character-select {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+  }
+  
   .search-box {
     width: 100%;
     padding: 10px;
@@ -149,6 +178,19 @@ permalink: /legend-mark-checklist/
 
 <div id="legend-checklist-container">
   <div class="checklist-controls">
+    <div class="character-section">
+      <div class="character-input-group">
+        <input type="text" id="characterNameInput" class="character-name-input" placeholder="Enter new character name...">
+        <button class="btn btn-primary" id="saveCharacterBtn">💾 Add Character</button>
+      </div>
+      <div class="character-input-group">
+        <select id="characterSelect" class="character-select">
+          <option value="">-- Select Character --</option>
+        </select>
+        <button class="btn btn-danger" id="deleteCharacterBtn">🗑️ Delete Character</button>
+      </div>
+    </div>
+    
     <input type="text" id="searchBox" class="search-box" placeholder="Search legend marks...">
     
     <div class="file-upload-section">
@@ -160,8 +202,6 @@ permalink: /legend-mark-checklist/
     <div class="stats">
       <div class="stat-item">Total: <span id="totalCount">0</span></div>
       <div class="stat-item">Checked: <span id="checkedCount">0</span></div>
-      <div class="stat-item">Remaining: <span id="remainingCount">0</span></div>
-      <div class="stat-item">Progress: <span id="progressPercent">0%</span></div>
     </div>
     
     <div class="action-buttons">
@@ -181,6 +221,8 @@ permalink: /legend-mark-checklist/
   let legendMarks = [];
   let checkedMarks = new Set();
   let currentFilter = '';
+  let currentCharacter = '';
+  let characterData = {};
 
   async function loadLegendMarks() {
     try {
@@ -193,6 +235,7 @@ permalink: /legend-mark-checklist/
       
       legendMarks = allLegendMarks.filter((m) => m.obtainable === 'Yes' && m.public === 'Yes');
       legendMarks.sort((a, b) => a.text.localeCompare(b.text));
+      loadAllCharacterData();
       loadCheckedState();
       renderList();
       updateStats();
@@ -204,14 +247,125 @@ permalink: /legend-mark-checklist/
   }
 
   function saveCheckedState() {
-    const state = Array.from(checkedMarks);
-    localStorage.setItem('legendMarksChecked', JSON.stringify(state));
+    if (!currentCharacter) return;
+    characterData[currentCharacter] = Array.from(checkedMarks);
+    localStorage.setItem('legendMarksCharacterData', JSON.stringify(characterData));
   }
 
   function loadCheckedState() {
-    const saved = localStorage.getItem('legendMarksChecked');
+    if (!currentCharacter) {
+      checkedMarks = new Set();
+      return;
+    }
+    if (characterData[currentCharacter]) {
+      checkedMarks = new Set(characterData[currentCharacter]);
+    } else {
+      checkedMarks = new Set();
+    }
+  }
+  
+  function loadAllCharacterData() {
+    const saved = localStorage.getItem('legendMarksCharacterData');
     if (saved) {
-      checkedMarks = new Set(JSON.parse(saved));
+      characterData = JSON.parse(saved);
+    }
+    const lastCharacter = localStorage.getItem('legendMarksLastCharacter');
+    if (lastCharacter && characterData[lastCharacter]) {
+      currentCharacter = lastCharacter;
+    }
+    updateCharacterSelect();
+  }
+  
+  function updateCharacterSelect() {
+    const select = document.getElementById('characterSelect');
+    select.innerHTML = '<option value="">-- Select Character --</option>';
+    Object.keys(characterData).sort().forEach(name => {
+      const option = document.createElement('option');
+      option.value = name;
+      option.textContent = name;
+      if (name === currentCharacter) {
+        option.selected = true;
+      }
+      select.appendChild(option);
+    });
+    
+    document.getElementById('deleteCharacterBtn').disabled = !currentCharacter;
+  }
+  
+  function switchCharacter(name) {
+    currentCharacter = name;
+    localStorage.setItem('legendMarksLastCharacter', name);
+    loadCheckedState();
+    renderList();
+    updateStats();
+    updateCharacterSelect();
+  }
+  
+  function saveCharacter() {
+    saveCheckedState();
+    const input = document.getElementById('characterNameInput');
+    const name = input.value.trim();
+    
+    if (!name) {
+      alert('Please enter a character name');
+      return;
+    }
+    
+    if (!characterData[name]) {
+      characterData[name] = [];
+      checkedMarks.clear();
+      saveCheckedState();
+    }
+
+    document.getElementById('characterNameInput').value = '';
+    switchCharacter(name);
+    
+  }
+
+  document.getElementById('saveCharacterBtn').addEventListener('click', saveCharacter);
+  
+  document.getElementById('characterNameInput').addEventListener('keypress', (e) => {
+    if (e.key === 'Enter') {
+      saveCharacter();
+    }
+  });
+  
+  document.getElementById('characterSelect').addEventListener('change', (e) => {
+    if (e.target.value) {
+      switchCharacter(e.target.value);
+    }
+  });
+  
+  document.getElementById('deleteCharacterBtn').addEventListener('click', deleteCharacter);
+  
+  document.getElementById('searchBox').addEventListener('input', (e) => {
+    currentFilter = e.target.value;
+    renderList();
+  });
+  
+  function deleteCharacter() {
+    if (!currentCharacter) {
+      alert('No character selected');
+      return;
+    }
+    
+    if (!confirm(`Are you sure you want to delete "${currentCharacter}" and all their legend marks?`)) {
+      return;
+    }
+    
+    delete characterData[currentCharacter];
+    localStorage.setItem('legendMarksCharacterData', JSON.stringify(characterData));
+    
+    const remainingCharacters = Object.keys(characterData);
+    if (remainingCharacters.length > 0) {
+      switchCharacter(remainingCharacters[0]);
+    } else {
+      currentCharacter = '';
+      localStorage.removeItem('legendMarksLastCharacter');
+      checkedMarks = new Set();
+      updateCharacterSelect();
+      renderList();
+      updateStats();
     }
   }
 
@@ -260,13 +414,9 @@ permalink: /legend-mark-checklist/
   function updateStats() {
     const total = legendMarks.length;
     const checked = checkedMarks.size;
-    const remaining = total - checked;
-    const percent = total > 0 ? Math.round((checked / total) * 100) : 0;
     
     document.getElementById('totalCount').textContent = total;
     document.getElementById('checkedCount').textContent = checked;
-    document.getElementById('remainingCount').textContent = remaining;
-    document.getElementById('progressPercent').textContent = percent + '%';
   }
 
   document.getElementById('searchBox').addEventListener('input', (e) => {
@@ -320,23 +470,19 @@ permalink: /legend-mark-checklist/
     updateStats();
   });
 
-  document.getElementById('clearAllBtn').addEventListener('click', () => {
-    if (confirm('Are you sure you want to clear all checked marks?')) {
-      checkedMarks.clear();
-      saveCheckedState();
-      renderList();
-      updateStats();
-    }
-  });
-  
   document.getElementById('exportBtn').addEventListener('click', () => {
+    if (!currentCharacter) {
+      alert('Please select a character first');
+      return;
+    }
     const checked = [...checkedMarks].sort((a, b) => a.localeCompare(b));
     const text = checked.join('\n');
     const blob = new Blob([text], { type: 'text/plain' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
+    const filename = `${currentCharacter}-legend-marks.txt`.replace(/[^a-z0-9-_]/gi, '_');
     a.href = url;
-    a.download = 'checked-legend-marks.txt';
+    a.download = filename;
     a.click();
     URL.revokeObjectURL(url);
   });
