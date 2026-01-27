@@ -4,6 +4,7 @@ title: Legend Mark Checklist
 permalink: /legend-mark-checklist/
 ---
 
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5/papaparse.min.js" ></script>
 <style>
   #legend-checklist-container {
     max-width: 1200px;
@@ -176,28 +177,22 @@ permalink: /legend-mark-checklist/
 
 <script>
 (function() {
+  let allLegendMarks = [];
   let legendMarks = [];
   let checkedMarks = new Set();
   let currentFilter = '';
 
   async function loadLegendMarks() {
     try {
-      const response = await fetch('/assets/csv/legend-marks.csv');
+      const response = await fetch('/assets/csv/all-mark-data.csv');
       const csvText = await response.text();
-      const lines = csvText.split('\n');
-
-      for (let i = 1; i < lines.length; i++) {
-        const line = lines[i].trim();
-        if (!line) continue;
-
-        const match = line.match(/^"[^"]*","([^"]+)","[^"]*","[^"]*"$/);
-        if (match) {
-          const text = match[1];
-          legendMarks.push(text);
-        }
-      }
+      allLegendMarks = Papa.parse(csvText, {
+          header: true,
+          skipEmptyLines: true
+      }).data;
       
-      legendMarks.sort();
+      legendMarks = allLegendMarks.filter((m) => m.obtainable === 'Yes' && m.public === 'Yes');
+      legendMarks.sort((a, b) => a.text.localeCompare(b.text));
       loadCheckedState();
       renderList();
       updateStats();
@@ -209,7 +204,8 @@ permalink: /legend-mark-checklist/
   }
 
   function saveCheckedState() {
-    localStorage.setItem('legendMarksChecked', JSON.stringify([...checkedMarks]));
+    const state = Array.from(checkedMarks);
+    localStorage.setItem('legendMarksChecked', JSON.stringify(state));
   }
 
   function loadCheckedState() {
@@ -222,7 +218,7 @@ permalink: /legend-mark-checklist/
   function renderList() {
     const container = document.getElementById('legendMarksList');
     const filtered = legendMarks.filter(mark => 
-      mark.toLowerCase().includes(currentFilter.toLowerCase())
+      mark.text.toLowerCase().includes(currentFilter.toLowerCase())
     );
     
     if (filtered.length === 0) {
@@ -231,9 +227,9 @@ permalink: /legend-mark-checklist/
     }
     
     container.innerHTML = filtered.map(mark => `
-      <div class="legend-mark-item ${checkedMarks.has(mark) ? 'checked' : ''}" data-mark="${escapeHtml(mark)}">
-        <input type="checkbox" ${checkedMarks.has(mark) ? 'checked' : ''} data-mark="${escapeHtml(mark)}">
-        <span class="legend-mark-text">${escapeHtml(mark)}</span>
+      <div class="legend-mark-item ${checkedMarks.has(mark.text) ? 'checked' : ''}" data-mark="${escapeHtml(mark.text)}">
+        <input type="checkbox" ${checkedMarks.has(mark.text) ? 'checked' : ''} data-mark="${escapeHtml(mark.text)}">
+        <span class="legend-mark-text">${escapeHtml(mark.text)}</span>
       </div>
     `).join('');
 
@@ -290,10 +286,10 @@ permalink: /legend-mark-checklist/
     let matchCount = 0;
     lines.forEach(line => {
       const match = legendMarks.find(mark => 
-        line.includes(mark) || mark.includes(line)
+        line.includes(mark.text) || mark.text.includes(line)
       );
       if (match) {
-        checkedMarks.add(match);
+        checkedMarks.add(match.text);
         matchCount++;
       }
     });
@@ -306,9 +302,9 @@ permalink: /legend-mark-checklist/
 
   document.getElementById('checkAllVisibleBtn').addEventListener('click', () => {
     const filtered = legendMarks.filter(mark => 
-      mark.toLowerCase().includes(currentFilter.toLowerCase())
+      mark.text.toLowerCase().includes(currentFilter.toLowerCase())
     );
-    filtered.forEach(mark => checkedMarks.add(mark));
+    filtered.forEach(mark => checkedMarks.add(mark.text));
     saveCheckedState();
     renderList();
     updateStats();
@@ -316,9 +312,9 @@ permalink: /legend-mark-checklist/
 
   document.getElementById('uncheckAllVisibleBtn').addEventListener('click', () => {
     const filtered = legendMarks.filter(mark => 
-      mark.toLowerCase().includes(currentFilter.toLowerCase())
+      mark.text.toLowerCase().includes(currentFilter.toLowerCase())
     );
-    filtered.forEach(mark => checkedMarks.delete(mark));
+    filtered.forEach(mark => checkedMarks.delete(mark.text));
     saveCheckedState();
     renderList();
     updateStats();
@@ -334,7 +330,7 @@ permalink: /legend-mark-checklist/
   });
   
   document.getElementById('exportBtn').addEventListener('click', () => {
-    const checked = [...checkedMarks].sort();
+    const checked = [...checkedMarks].sort((a, b) => a.localeCompare(b));
     const text = checked.join('\n');
     const blob = new Blob([text], { type: 'text/plain' });
     const url = URL.createObjectURL(blob);
