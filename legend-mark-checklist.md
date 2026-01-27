@@ -4,6 +4,10 @@ title: Legend Mark Checklist
 permalink: /legend-mark-checklist/
 ---
 
+# Legend Mark Checklist
+
+Wanting to track which legend marks you're still missing? This tool can help you track your current and missing legend marks.
+
 <script src="https://cdn.jsdelivr.net/npm/papaparse@5/papaparse.min.js" ></script>
 <style>
   #legend-checklist-container {
@@ -204,11 +208,35 @@ permalink: /legend-mark-checklist/
     font-size: 12px;
     padding: 3px 8px;
     border-radius: 4px;
-    background: var(--box-background-color);
-    color: var(--light-text-color);
-    border: 1px solid var(--light-border-color);
+    background: #17a2b8;
+    color: #fff;
+    border: 1px solid #138496ff;
     white-space: nowrap;
     margin-left: 10px;
+  }
+  
+  .legend-mark-unique-group {
+    font-size: 12px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: #ffc107;
+    color: #000;
+    border: 1px solid #ff9800;
+    white-space: nowrap;
+    margin-left: 5px;
+    font-weight: bold;
+  }
+  
+  .legend-mark-class-exclusive {
+    font-size: 12px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: #dc3545;
+    color: #fff;
+    border: 1px solid #b62b39ff;
+    white-space: nowrap;
+    margin-left: 5px;
+    font-weight: bold;
   }
   
   .legend-mark-item.checked {
