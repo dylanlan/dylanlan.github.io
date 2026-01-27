@@ -58,6 +58,10 @@ Incomplete lists of things I've seen
 <td>Free unused character names up for grabs</td>
 </tr>
 <tr>
+<td><a href="{{ site.data.urls.legend_mark_checklist }}">Legend Mark Checklist</a></td>
+<td>A tool to help find legend marks you're missing</td>
+</tr>
+<tr>
 <td><a href="{{ site.data.urls.bad_words }}">Bad Word Finder</a></td>
 <td>Find blocked words in a mail or board post</td>
 </tr>
