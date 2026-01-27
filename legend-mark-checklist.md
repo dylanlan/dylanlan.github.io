@@ -32,6 +32,13 @@ permalink: /legend-mark-checklist/
     align-items: center;
   }
   
+  .input-label {
+    font-weight: bold;
+    color: var(--main-text-color);
+    min-width: 140px;
+    font-size: 14px;
+  }
+  
   .character-name-input {
     flex: 1;
     padding: 10px;
@@ -222,10 +229,12 @@ permalink: /legend-mark-checklist/
   <div class="checklist-controls">
     <div class="character-section">
       <div class="character-input-group">
+        <label class="input-label" for="characterNameInput">New Character:</label>
         <input type="text" id="characterNameInput" class="character-name-input" placeholder="Enter new character name...">
         <button class="btn btn-primary" id="saveCharacterBtn">💾 Add Character</button>
       </div>
       <div class="character-input-group">
+        <label class="input-label" for="characterSelect">Choose Character:</label>
         <select id="characterSelect" class="character-select">
           <option value="">-- Select Character --</option>
         </select>
@@ -233,6 +242,7 @@ permalink: /legend-mark-checklist/
       </div>
     </div>
     
+    <label class="input-label" for="searchBox" style="display: block; margin-bottom: 5px;">Search Marks:</label>
     <input type="text" id="searchBox" class="search-box" placeholder="Search legend marks...">
     
     <div class="file-upload-section">
