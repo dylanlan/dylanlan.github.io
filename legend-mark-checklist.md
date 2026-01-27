@@ -12,16 +12,17 @@ permalink: /legend-mark-checklist/
   }
   
   .checklist-controls {
-    background: #f5f5f5;
+    background: var(--box-background-color);
     padding: 20px;
     border-radius: 8px;
     margin-bottom: 20px;
+    border: 1px solid var(--light-border-color);
   }
   
   .character-section {
     margin-bottom: 20px;
     padding-bottom: 20px;
-    border-bottom: 2px solid #ddd;
+    border-bottom: 2px solid var(--light-border-color);
   }
   
   .character-input-group {
@@ -35,26 +36,32 @@ permalink: /legend-mark-checklist/
     flex: 1;
     padding: 10px;
     font-size: 16px;
-    border: 2px solid #ddd;
+    border: 2px solid var(--light-border-color);
     border-radius: 4px;
+    background: var(--main-background-color);
+    color: var(--main-text-color);
   }
   
   .character-select {
     flex: 1;
     padding: 10px;
     font-size: 16px;
-    border: 2px solid #ddd;
+    border: 2px solid var(--light-border-color);
     border-radius: 4px;
+    background: var(--main-background-color);
+    color: var(--main-text-color);
   }
   
   .search-box {
     width: 100%;
     padding: 10px;
     font-size: 16px;
-    border: 2px solid #ddd;
+    border: 2px solid var(--light-border-color);
     border-radius: 4px;
     margin-bottom: 15px;
     box-sizing: border-box;
+    background: var(--main-background-color);
+    color: var(--main-text-color);
   }
   
   .file-upload-section {
@@ -69,6 +76,7 @@ permalink: /legend-mark-checklist/
     border-radius: 4px;
     cursor: pointer;
     font-size: 14px;
+    transition: background 0.2s;
   }
   
   .file-upload-label:hover {
@@ -89,6 +97,7 @@ permalink: /legend-mark-checklist/
   .stat-item {
     font-size: 16px;
     font-weight: bold;
+    color: var(--main-text-color);
   }
   
   .action-buttons {
@@ -103,6 +112,7 @@ permalink: /legend-mark-checklist/
     border-radius: 4px;
     cursor: pointer;
     font-size: 14px;
+    transition: all 0.2s;
   }
   
   .btn-primary {
@@ -142,7 +152,7 @@ permalink: /legend-mark-checklist/
   }
   
   .btn.active {
-    box-shadow: inset 0 0 0 2px #fff, inset 0 0 0 4px currentColor;
+    box-shadow: inset 0 0 0 2px var(--main-background-color), inset 0 0 0 4px currentColor;
     font-weight: bold;
   }
   
@@ -157,12 +167,17 @@ permalink: /legend-mark-checklist/
     display: flex;
     align-items: center;
     padding: 10px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--light-border-color);
     transition: background 0.2s;
+    cursor: pointer;
   }
   
   .legend-mark-item:hover {
-    background: #f9f9f9;
+    background: rgba(255, 255, 255, 0.05);
+  }
+  
+  html[data-theme="light"] .legend-mark-item:hover {
+    background: var(--highlight-color);
   }
   
   .legend-mark-item input[type="checkbox"] {
@@ -175,22 +190,28 @@ permalink: /legend-mark-checklist/
   .legend-mark-text {
     flex: 1;
     font-size: 15px;
+    color: var(--main-text-color);
   }
   
   .legend-mark-item.checked {
-    opacity: 0.6;
+    opacity: 0.5;
+  }
+  
+  .legend-mark-item.checked .legend-mark-text {
+    text-decoration: line-through;
+    color: var(--light-text-color);
   }
   
   .no-results {
     text-align: center;
     padding: 40px;
-    color: #999;
+    color: var(--light-text-color);
     font-size: 18px;
   }
   
   #legendMarksList {
-    background: white;
-    border: 1px solid #ddd;
+    background: var(--card-background-color);
+    border: 1px solid var(--light-border-color);
     border-radius: 4px;
     max-height: 600px;
     overflow-y: auto;
@@ -228,12 +249,10 @@ permalink: /legend-mark-checklist/
     <div class="filter-buttons">
       <button class="btn btn-info" id="showAllBtn">📋 Show All</button>
       <button class="btn btn-info" id="showCheckedBtn">✓ Show Checked Only</button>
-      <button class="btn btn-info" id="showUncheckedBtn">○ Show Unchecked Only</button>
+      <button class="btn btn-info" id="showUncheckedBtn">☐ Show Unchecked Only</button>
     </div>
     
     <div class="action-buttons">
-      <button class="btn btn-primary" id="checkAllVisibleBtn">✓ Check All Visible</button>
-      <button class="btn btn-secondary" id="uncheckAllVisibleBtn">✗ Uncheck All Visible</button>
       <button class="btn btn-danger" id="clearAllBtn">Clear All</button>
       <button class="btn btn-secondary" id="exportBtn">💾 Export Checked</button>
     </div>
@@ -429,9 +448,26 @@ permalink: /legend-mark-checklist/
       </div>
     `).join('');
 
+    container.querySelectorAll('.legend-mark-item').forEach(item => {
+      item.addEventListener('click', handleRowClick);
+    });
+
     container.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
       checkbox.addEventListener('change', handleCheckboxChange);
     });
+  }
+
+  function handleRowClick(e) {
+    /* Ignore if clicking directly on checkbox (it handles itself) */
+    if (e.target.type === 'checkbox') return;
+    
+    const item = e.currentTarget;
+    const checkbox = item.querySelector('input[type="checkbox"]');
+    checkbox.checked = !checkbox.checked;
+    
+    /* Trigger the change event */
+    const event = new Event('change');
+    checkbox.dispatchEvent(event);
   }
 
   function handleCheckboxChange(e) {
@@ -507,24 +543,13 @@ permalink: /legend-mark-checklist/
     updateStats();
   });
 
-  document.getElementById('checkAllVisibleBtn').addEventListener('click', () => {
-    const filtered = legendMarks.filter(mark => 
-      mark.text.toLowerCase().includes(currentFilter.toLowerCase())
-    );
-    filtered.forEach(mark => checkedMarks.add(mark.text));
-    saveCheckedState();
-    renderList();
-    updateStats();
-  });
-
-  document.getElementById('uncheckAllVisibleBtn').addEventListener('click', () => {
-    const filtered = legendMarks.filter(mark => 
-      mark.text.toLowerCase().includes(currentFilter.toLowerCase())
-    );
-    filtered.forEach(mark => checkedMarks.delete(mark.text));
-    saveCheckedState();
-    renderList();
-    updateStats();
+  document.getElementById('clearAllBtn').addEventListener('click', () => {
+    if (confirm(`Are you sure you want to clear all checked marks for ${currentCharacter}?`)) {
+      checkedMarks.clear();
+      saveCheckedState();
+      renderList();
+      updateStats();
+    }
   });
 
   document.getElementById('exportBtn').addEventListener('click', () => {
@@ -537,7 +562,7 @@ permalink: /legend-mark-checklist/
     const blob = new Blob([text], { type: 'text/plain' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
-    const filename = `${currentCharacter}-legend-marks.txt`.replace(/[^a-z0-9-_]/gi, '_');
+    const filename = `${currentCharacter}-legend-marks`.replace(/[^a-z0-9-_]/gi, '_');
     a.href = url;
     a.download = filename;
     a.click();
