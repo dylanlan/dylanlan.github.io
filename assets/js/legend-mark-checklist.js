@@ -181,6 +181,7 @@
       <div class="legend-mark-item ${checkedMarks.has(mark.text) ? 'checked' : ''}" data-mark="${escapeHtml(mark.text)}">
         <input type="checkbox" ${checkedMarks.has(mark.text) ? 'checked' : ''} data-mark="${escapeHtml(mark.text)}">
         <span class="legend-mark-text">${escapeHtml(mark.text)}</span>
+        <span class="legend-mark-category" title="${escapeHtml(mark.subcategories || '')}">${escapeHtml(mark.category || 'Unknown')}</span>
       </div>
     `).join('');
 

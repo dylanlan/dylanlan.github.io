@@ -200,6 +200,17 @@ permalink: /legend-mark-checklist/
     color: var(--main-text-color);
   }
   
+  .legend-mark-category {
+    font-size: 12px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: var(--box-background-color);
+    color: var(--light-text-color);
+    border: 1px solid var(--light-border-color);
+    white-space: nowrap;
+    margin-left: 10px;
+  }
+  
   .legend-mark-item.checked {
     opacity: 0.5;
   }
