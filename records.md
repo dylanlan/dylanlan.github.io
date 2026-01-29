@@ -692,7 +692,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Marrian at 34
 <br/>
-3rd: Henrietta at 31
+3rd: Inuyoko at 33
 </details>
 </div>
 
