@@ -76,12 +76,12 @@ Wanting to track which legend marks you're still missing? This tool can help you
   }
   
   .file-upload-section {
-    margin-bottom: 15px;
+    text-align: right;
   }
   
   .file-upload-label {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 8px 16px;
     background: #007bff;
     color: white;
     border-radius: 4px;
@@ -286,6 +286,50 @@ Wanting to track which legend marks you're still missing? This tool can help you
     font-weight: bold;
   }
   
+  .legend-mark-deleted {
+    font-size: 12px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: #6c757d;
+    color: #fff;
+    border: 1px solid #545b62;
+    white-space: nowrap;
+    margin-left: 5px;
+    font-weight: bold;
+  }
+  
+  .btn-delete,
+  .btn-restore {
+    margin-left: auto;
+    padding: 4px 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    background: transparent;
+    color: var(--light-text-color);
+    transition: all 0.2s;
+  }
+  
+  .btn-delete:hover {
+    background: #dc3545;
+    color: #fff;
+  }
+  
+  .btn-restore {
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .btn-restore:hover {
+    background: #28a745;
+    color: #fff;
+  }
+  
+  .legend-mark-item.deleted {
+    opacity: 0.4;
+  }
+  
   .legend-mark-item.checked {
     opacity: 0.5;
   }
@@ -326,11 +370,12 @@ Wanting to track which legend marks you're still missing? This tool can help you
         </select>
         <button class="btn btn-danger" id="deleteCharacterBtn">🗑️ Delete Aisling</button>
       </div>
-
-      <div class="file-upload-section">
-        <label for="fileInput" class="file-upload-label">📁 Upload Legend Marks File</label>
-        <input type="file" id="fileInput" accept=".txt">
-        <span id="fileName" style="margin-left: 10px; font-style: italic;"></span>
+      <div class="character-input-group">
+        <div class="file-upload-section" style="margin-left: auto;">
+          <span id="fileName" style="margin-left: 10px; font-style: italic;"></span>
+          <label for="fileInput" class="file-upload-label">📁 Upload Marks</label>
+          <input type="file" id="fileInput" accept=".txt">
+        </div>
       </div>
     </div>
     
@@ -343,9 +388,10 @@ Wanting to track which legend marks you're still missing? This tool can help you
     </div>
     
     <div class="filter-buttons">
-      <button class="btn btn-info" id="showAllBtn">📋 Show All</button>
-      <button class="btn btn-info" id="showCheckedBtn">✓ Show Checked Only</button>
-      <button class="btn btn-info" id="showUncheckedBtn">☐ Show Unchecked Only</button>
+      <button class="btn btn-info" id="showAllBtn" title="Show both checked and unchecked legend marks">📋 Show All</button>
+      <button class="btn btn-info" id="showCheckedBtn" title="Show marks you've checked off">✓ Show Checked Only</button>
+      <button class="btn btn-info" id="showUncheckedBtn" title="Show marks you haven't checked yet">☐ Show Unchecked Only</button>
+      <button class="btn btn-info" id="toggleDeletedBtn" title="Show marks you've removed from tracking">🗑️ Show Deleted Only</button>
     </div>
     
     <div class="filter-buttons">
@@ -354,8 +400,8 @@ Wanting to track which legend marks you're still missing? This tool can help you
     </div>
     
     <div class="action-buttons">
-      <button class="btn btn-danger" id="clearAllBtn">Uncheck All</button>
-      <button class="btn btn-secondary" id="exportBtn">💾 Export Checked</button>
+      <button class="btn btn-danger" id="clearAllBtn">☐ Uncheck All</button>
+      <button class="btn btn-primary" id="exportBtn">💾 Save</button>
     </div>
   </div>
   

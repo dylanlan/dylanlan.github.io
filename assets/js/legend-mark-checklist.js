@@ -5,9 +5,12 @@
   let currentFilter = '';
   let currentCharacter = '';
   let characterData = {};
+  let deletedMarksData = {};
+  let deletedMarks = new Set();
   let statusFilter = 'all';
   let showUnobtainable = false;
   let showPrivate = false;
+  let showDeleted = false;
   const classe = ['Monk', 'Priest', 'Rogue', 'Warrior', 'Wizard', 'Medenian', 'Druid', 'Bard', 'Archer', 'Gladiator', 'Summoner'];
 
   async function loadLegendMarks() {
@@ -22,6 +25,7 @@
       filterMarks();
       loadAllCharacterData();
       loadCheckedState();
+      loadDeletedState();
       renderList();
       updateStats();
     } catch (error) {
@@ -36,6 +40,12 @@
     characterData[currentCharacter] = Array.from(checkedMarks);
     localStorage.setItem('legendMarksCharacterData', JSON.stringify(characterData));
   }
+  
+  function saveDeletedState() {
+    if (!currentCharacter) return;
+    deletedMarksData[currentCharacter] = Array.from(deletedMarks);
+    localStorage.setItem('legendMarksDeletedData', JSON.stringify(deletedMarksData));
+  }
 
   function loadCheckedState() {
     if (!currentCharacter) {
@@ -49,10 +59,26 @@
     }
   }
   
+  function loadDeletedState() {
+    if (!currentCharacter) {
+      deletedMarks = new Set();
+      return;
+    }
+    if (deletedMarksData[currentCharacter]) {
+      deletedMarks = new Set(deletedMarksData[currentCharacter]);
+    } else {
+      deletedMarks = new Set();
+    }
+  }
+  
   function loadAllCharacterData() {
     const saved = localStorage.getItem('legendMarksCharacterData');
     if (saved) {
       characterData = JSON.parse(saved);
+    }
+    const savedDeleted = localStorage.getItem('legendMarksDeletedData');
+    if (savedDeleted) {
+      deletedMarksData = JSON.parse(savedDeleted);
     }
     const lastCharacter = localStorage.getItem('legendMarksLastCharacter');
     if (lastCharacter && characterData[lastCharacter]) {
@@ -81,6 +107,7 @@
     currentCharacter = name;
     localStorage.setItem('legendMarksLastCharacter', name);
     loadCheckedState();
+    loadDeletedState();
     renderList();
     updateStats();
     updateCharacterSelect();
@@ -172,6 +199,7 @@
   function updateToggleButtons() {
     document.getElementById('toggleUnobtainableBtn').classList.toggle('active', showUnobtainable);
     document.getElementById('togglePrivateBtn').classList.toggle('active', showPrivate);
+    document.getElementById('toggleDeletedBtn').classList.toggle('active', showDeleted);
   }
 
   function getMarkClasses(mark) {
@@ -187,9 +215,11 @@
 
   function renderList() {
     const container = document.getElementById('legendMarksList');
-    let filtered = legendMarks.filter(mark => 
-      mark.text.toLowerCase().includes(currentFilter.toLowerCase())
-    );
+    let filtered = legendMarks.filter(mark => {
+      const searchMatch = mark.text.toLowerCase().includes(currentFilter.toLowerCase());
+      const deletedMatch = showDeleted ? deletedMarks.has(mark.text) : !deletedMarks.has(mark.text);
+      return searchMatch && deletedMatch;
+    });
     
     if (statusFilter === 'checked') {
       filtered = filtered.filter(mark => checkedMarks.has(mark.text));
@@ -207,15 +237,21 @@
     
     container.innerHTML = filtered.map(mark => {
       const markClasses = getMarkClasses(mark);
+      const isDeleted = deletedMarks.has(mark.text);
       return `
-        <div class="legend-mark-item ${checkedMarks.has(mark.text) ? 'checked' : ''}" data-mark="${escapeHtml(mark.text)}">
-          <input type="checkbox" ${checkedMarks.has(mark.text) ? 'checked' : ''} data-mark="${escapeHtml(mark.text)}">
+        <div class="legend-mark-item ${checkedMarks.has(mark.text) ? 'checked' : ''} ${isDeleted ? 'deleted' : ''}" data-mark="${escapeHtml(mark.text)}">
+          <input type="checkbox" ${checkedMarks.has(mark.text) ? 'checked' : ''} data-mark="${escapeHtml(mark.text)}" ${isDeleted ? 'disabled' : ''}>
           <span class="legend-mark-text legend-mark-color-${mark.color.toLowerCase()}">${escapeHtml(mark.text)}</span>
           <span class="legend-mark-category" title="${escapeHtml(mark.subcategories || '')}">${escapeHtml(mark.category || 'Unknown')}</span>
           ${mark.uniqueGroup ? `<span class="legend-mark-unique-group" title="Only 1 mark from this group can be obtained at a time">${escapeHtml(mark.uniqueGroup)}</span>` : ''}
           ${mark.classExclusive === 'Yes' && mark.subcategories ? `<span class="legend-mark-class-exclusive" title="Class Exclusive">${escapeHtml(markClasses.join(', '))}</span>` : ''}
           ${mark.public !== 'Yes' ? `<span class="legend-mark-private" title="Private mark - not visible on public legend">Private</span>` : ''}
           ${mark.obtainable !== 'Yes' ? `<span class="legend-mark-unobtainable" title="No longer obtainable">Unobtainable</span>` : ''}
+          ${isDeleted ? `<span class="legend-mark-deleted" title="Deleted from tracking">Deleted</span>` : ''}
+          ${isDeleted ? 
+            `<button class="btn-restore" data-mark="${escapeHtml(mark.text)}" title="Restore mark">↶ Restore</button>` : 
+            `<button class="btn-delete" data-mark="${escapeHtml(mark.text)}" title="Delete mark">🗑️</button>`
+          }
         </div>`;
     }).join('');
 
@@ -226,19 +262,48 @@
     container.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
       checkbox.addEventListener('change', handleCheckboxChange);
     });
+    
+    container.querySelectorAll('.btn-delete').forEach(btn => {
+      btn.addEventListener('click', handleDeleteMark);
+    });
+    
+    container.querySelectorAll('.btn-restore').forEach(btn => {
+      btn.addEventListener('click', handleRestoreMark);
+    });
   }
 
   function handleRowClick(e) {
-    /* Ignore if clicking directly on checkbox (it handles itself) */
-    if (e.target.type === 'checkbox') return;
+    /* Ignore if clicking directly on checkbox, delete button, or restore button */
+    if (e.target.type === 'checkbox' || e.target.classList.contains('btn-delete') || e.target.classList.contains('btn-restore')) return;
     
     const item = e.currentTarget;
+    /* Don't toggle if deleted */
+    if (item.classList.contains('deleted')) return;
+    
     const checkbox = item.querySelector('input[type="checkbox"]');
     checkbox.checked = !checkbox.checked;
     
     /* Trigger the change event */
     const event = new Event('change');
     checkbox.dispatchEvent(event);
+  }
+  
+  function handleDeleteMark(e) {
+    e.stopPropagation();
+    const mark = e.currentTarget.dataset.mark;
+    deletedMarks.add(mark);
+    saveDeletedState();
+    renderList();
+    updateStats();
+  }
+  
+  function handleRestoreMark(e) {
+    e.stopPropagation();
+    const mark = e.currentTarget.dataset.mark;
+    deletedMarks.delete(mark);
+    saveDeletedState();
+    renderList();
+    updateStats();
   }
 
   function handleCheckboxChange(e) {
@@ -298,6 +363,12 @@
   document.getElementById('togglePrivateBtn').addEventListener('click', () => {
     showPrivate = !showPrivate;
     filterMarks();
+    renderList();
+    updateStats();
+  });
+  
+  document.getElementById('toggleDeletedBtn').addEventListener('click', () => {
+    showDeleted = !showDeleted;
     renderList();
     updateStats();
   });

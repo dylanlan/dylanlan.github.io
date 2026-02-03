@@ -75,16 +75,16 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,College,Historian,,,No,No,Yes,Blue,Person,- Tentative Village Historian,,
 ,College,Memory,,,No,No,Yes,Blue,Person,- Tentative Village Memory,NaLyd,A tentative legend mark to be replaced by an actual Village Memory mark. Awarded for winning the Memory of the Cycle contest from 2025: https://novus-imperia.com/college/2025.htm
 ,College,Philosopher,,,No,No,Yes,Blue,Person,- Tentative Village Philosopher,Kedian,
-,Event,Insect,,,Yes,Sorta,No,Blue,Person,1st Annual Insect Event- Elite Insect Catcher-,adriela,
-,Event,Insect,,,Yes,Sorta,No,White,Person,1st Annual Insect Event- Junior Insect Catcher-,xLimited,
-,Event,Insect,,,Yes,Sorta,No,White,Person,1st Annual Insect Event- Novice Insect Catcher-,NagisaChan,
-,Event,Insect,,,Yes,Sorta,No,Blue,Person,2nd Annual Insect Event- Elite Insect Catcher-,BioMagus,
-,Event,Insect,,,Yes,Sorta,No,White,Person,2nd Annual Insect Event- Junior Insect Catcher-,Lexem,
-,Event,Insect,,,Yes,Sorta,No,White,Person,2nd Annual Insect Event- Master Insect Catcher-,ozmo,
-,Event,Insect,,,Yes,Sorta,No,White,Person,2nd Annual Insect Event- Novice Insect Catcher-,DunaJr,
-,Event,Insect,,,Yes,Sorta,No,Blue,Person,3rd Annual Insect Event- Elite Insect Catcher-,Bea,
-,Event,Insect,,,Yes,Sorta,No,White,Person,3rd Annual Insect Event- Novice Insect Catcher-,Madare,
-,Event,Insect,,,Yes,Sorta,No,White,Person,3rd Annual Insect Event- Veteran Insect Catcher-,Fang,
+,Event,Insect,,,Yes,Sorta,No,Blue,Person,1st Annual Insect Event- Elite Insect Catcher,adriela,
+,Event,Insect,,,Yes,Sorta,No,White,Person,1st Annual Insect Event- Junior Insect Catcher,xLimited,
+,Event,Insect,,,Yes,Sorta,No,White,Person,1st Annual Insect Event- Novice Insect Catcher,NagisaChan,
+,Event,Insect,,,Yes,Sorta,No,Blue,Person,2nd Annual Insect Event- Elite Insect Catcher,BioMagus,
+,Event,Insect,,,Yes,Sorta,No,White,Person,2nd Annual Insect Event- Junior Insect Catcher,Lexem,
+,Event,Insect,,,Yes,Sorta,No,White,Person,2nd Annual Insect Event- Master Insect Catcher,ozmo,
+,Event,Insect,,,Yes,Sorta,No,White,Person,2nd Annual Insect Event- Novice Insect Catcher,DunaJr,
+,Event,Insect,,,Yes,Sorta,No,Blue,Person,3rd Annual Insect Event- Elite Insect Catcher,Bea,
+,Event,Insect,,,Yes,Sorta,No,White,Person,3rd Annual Insect Event- Novice Insect Catcher,Madare,
+,Event,Insect,,,Yes,Sorta,No,White,Person,3rd Annual Insect Event- Veteran Insect Catcher,Fang,
 ,College,Artist,,,Yes,Yes,Yes,Blue,Person,Abel Clave Artist,Mayheart,
 ,Other,Mundane Birth,Birth,,Yes,No,Yes,White,Person,Abel mundane birth,airy,
 ,Event,September,,,Yes,No,No,White,Person,Accumulated Gillam's precious coins,Acesin,
@@ -93,9 +93,9 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Political,"Mileth, Rucesion",,,Yes,Yes,Yes,White,Person,Admitted Citizen <Aisling>,Malache,
 ,Guild,,,,Yes,Yes,No,White,Person,Admitted Guild member <Aisling>,Carnaugh,
 ,Event,May,,,Yes,Yes,Yes,Blue,Person,Adoration of Danaan,BioMagus,Completed the annual Adoration event with two other Aislings
-,Event,May,,,Yes,No,No,Blue,Person,Adoration of Danaan non-incrementing,AceShimizu,Non-incrementing!
+,Event,May,,,Yes,No,No,Blue,Person,Adoration of Danaan (non-incrementing),AceShimizu,Non-incrementing!
 ,Event,April,,,Yes,Yes,Yes,White,Person,Adranuch's Redemption at Pravat,Carnaugh,Completed the annual Redemption event at Pravat
-,Event,April,,,Yes,No,No,White,Person,Adranuch's Redemption at Pravat non-incrementing,Carnaugh,Non-incrementing Redemption mark!
+,Event,April,,,Yes,No,No,White,Person,Adranuch's Redemption at Pravat (non-incrementing),Carnaugh,Non-incrementing Redemption mark!
 ,Event,September,,,Yes,Yes,Yes,White,Person,Aided Captain Spack Jarrow retrieve coins,Acesin,
 ,Event,September,,,Yes,No,No,White,Person,Aided Temuairian Merchant's Guild,Arohanui,
 ,Quest,Emerald Dawn,Emerald Dawn Aid,,Yes,No,Yes,White,Person,Aided the Emerald Knights,AdelaideT,
@@ -123,7 +123,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Arena,Host,Arena Host,,Yes,No,Yes,White,Shield,Arena Host Captain,Set,Become an Arena Host Captain
 ,Arena,Victories,,,Yes,Yes,Yes,White,Shield,Arena Victories,Abigor,Win a hosted arena battle
 ,Event,April,,,Yes,Yes,Yes,White,Person,Arpina's Redemption at Astrid,Monicka,Completed the annual Redemption event at Astrid
-,Event,April,,,Yes,No,No,White,Person,Arpina's Redemption at Astrid non-incrementing,AceShimizu,Non-incrementing!
+,Event,April,,,Yes,No,No,White,Person,Arpina's Redemption at Astrid (non-incrementing),AceShimizu,Non-incrementing!
 ,Other,Arrested,,,Yes,Yes,Yes,Orange,Person,Arrested by <Aisling>,AdelaideT,"Sent to jail by a ranger, for having your computer play the game while you're not present"
 ,Event,September,,,Yes,No,No,White,Person,Assisted Gillam's Guild,Brittany,
 ,Event,October,,,Yes,No,No,White,Person,Assisted The Temuarian Beggar,blueskye,
@@ -293,9 +293,9 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,Muisir,,,Yes,No,Yes,White,Heart,Entered Muisir Village,Salgar,
 ,Event,November,,,Yes,Yes,Yes,White,Person,Eulogy to Adranuch at Pravat,BioMagus,Completed the annual Eulogy event at Pravat
 ,Event,November,,,Yes,Yes,Yes,White,Person,Eulogy to Arpina at Astrid,Blader,Completed the annual Eulogy event at Astrid
-,Event,November,,,Yes,No,No,White,Person,Eulogy to Arpina at Astrid non-incrementing,AceShimizu,Non-incrementing!
+,Event,November,,,Yes,No,No,White,Person,Eulogy to Arpina at Astrid (non-incrementing),AceShimizu,Non-incrementing!
 ,Event,November,,,Yes,Yes,Yes,White,Person,Eulogy to Matrika at Mehadi,JadeAkaino,Completed the annual Eulogy event at Mehadi
-,Event,November,,,Yes,No,No,White,Person,Eulogy to Matrika at Mehadi non-incrementing,wastedd,Non-incrementing!
+,Event,November,,,Yes,No,No,White,Person,Eulogy to Matrika at Mehadi (non-incrementing),wastedd,Non-incrementing!
 ,Event,,,,Yes,No,No,White,Person,"Event  - Deoch 145, Winter",VanMorgan,Missing Event mark. What was it originally?
 ,Event,,,,Yes,No,No,White,Person,"Event  - Deoch 150, Spring",FFnine,Missing Event mark. What was it originally?
 ,Event,,,,Yes,No,No,White,Person,"Event  - Deoch 181, Winter",Wizadrian,Missing Event mark. What was it originally?
@@ -452,8 +452,8 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd High Priest by <Aisling>,DoomHealer,
 ,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd Minister by <Aisling>,Jabedin,
 ,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd Priest by <Aisling>,StarSparkler,Joined the Fiosachd religion and became Priest rank without help
-,Religious,Fire,Medenian Spirit,,Yes,Yes. Max 5,Yes,Blue,Person,Fire Reverence blue,NaLyd,
-,Religious,Fire,Medenian Spirit,,Yes,Yes. Max 5,No,White,Person,Fire Reverence white,iLyria,
+,Religious,Fire,Medenian Spirit,,Yes,Yes. Max 5,Yes,Blue,Person,Fire Reverence (blue),NaLyd,
+,Religious,Fire,Medenian Spirit,,Yes,Yes. Max 5,No,White,Person,Fire Reverence (white),iLyria,
 ,College,Event Host,,,Yes,Yes,No,Blue,Person,Folk Event Host,"Vendes, Graynemeade, Omner, or Riyan?",
 ,Event,Dark Light War,,,Yes,No,No,White,Rogue,Follows Pashura of the Light,BioMagus,
 ,Other,Renamed,,,Yes,No,No,White,Person,Formerly known as <Aisling>,Bea,Change your Aisling's name by submitting a support ticket to Kru
@@ -467,7 +467,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Found Luwella's House Key,,
 ,Event,December,,,Yes,Yes,Yes,White,Person,Found Santa's Peppermint Sticks,Warginald,
 ,Guild,,,,Yes,No,No,Blue,Person,Founded  Motley,Kedian,
-,Guild,,,,Yes,No,No,White,Person,Founded Guild white,Kedian,White mark!
+,Guild,,,,Yes,No,No,White,Person,Founded Guild (white),Kedian,White mark!
 ,Guild,Founded,,,Yes,No,Yes,Blue,Person,Founded <Name> Guild,Kousaka,
 ,Other,Unregistered,,,Yes,No,Yes,Brown,Person,Fragile Chrysalis ((Unregistered)),,
 ,Event,May,,,Yes,Yes,Yes,Blue,Person,Freed cursed mundanes in Abel,,
@@ -595,7 +595,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet mongrel,Ubrei,
 ,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet penguin,,
 ,Event,April,,,Yes,Yes,Yes,White,Person,Matrika's Redemption at Mehadi,,Completed the annual Redemption event at Mehadi
-,Event,April,,,Yes,No,No,White,Person,Matrika's Redemption at Mehadi non-incrementing,Caitrin,Non-incrementing!
+,Event,April,,,Yes,No,No,White,Person,Matrika's Redemption at Mehadi (non-incrementing),Caitrin,Non-incrementing!
 ,Guild,,,,Yes,Yes,No,Blue,Person,May appoint Guild Council,,Can also be a white mark?
 ,Political,Suomi,,,Yes,No,Yes,White,Person,Member of the Suomi Troupe,,
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Mended Jowella and Kharlo's Relationship,,
