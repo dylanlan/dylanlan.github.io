@@ -98,7 +98,7 @@
     const name = input.value.trim();
     
     if (!name) {
-      alert('Please enter a character name');
+      alert('Please enter an Aisling name');
       return;
     }
     
@@ -136,7 +136,7 @@
   
   function deleteCharacter() {
     if (!currentCharacter) {
-      alert('No character selected');
+      alert('No Aisling selected');
       return;
     }
     
@@ -339,7 +339,7 @@
 
   document.getElementById('exportBtn').addEventListener('click', () => {
     if (!currentCharacter) {
-      alert('Please select a character first');
+      alert('Please select an Aisling first');
       return;
     }
     const checked = [...checkedMarks].sort((a, b) => a.localeCompare(b));
