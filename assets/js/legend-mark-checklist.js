@@ -3,6 +3,7 @@
   let legendMarks = [];
   let checkedMarks = new Set();
   let currentFilter = '';
+  let categoryFilter = '';
   let currentCharacter = '';
   let characterData = {};
   let deletedMarksData = {};
@@ -26,6 +27,7 @@
       loadAllCharacterData();
       loadCheckedState();
       loadDeletedState();
+      populateCategoryFilter();
       renderList();
       updateStats();
     } catch (error) {
@@ -161,6 +163,11 @@
     renderList();
   });
   
+  document.getElementById('categoryFilter').addEventListener('change', (e) => {
+    categoryFilter = e.target.value;
+    renderList();
+  });
+  
   function deleteCharacter() {
     if (!currentCharacter) {
       alert('No Aisling selected');
@@ -212,13 +219,32 @@
 
     return classes;
   }
+  
+  function populateCategoryFilter() {
+    const categories = new Set();
+    allLegendMarks.forEach(mark => {
+      if (mark.category) {
+        categories.add(mark.category);
+      }
+    });
+    
+    const select = document.getElementById('categoryFilter');
+    select.innerHTML = '<option value="">All Categories</option>';
+    Array.from(categories).sort().forEach(category => {
+      const option = document.createElement('option');
+      option.value = category;
+      option.textContent = category;
+      select.appendChild(option);
+    });
+  }
 
   function renderList() {
     const container = document.getElementById('legendMarksList');
     let filtered = legendMarks.filter(mark => {
       const searchMatch = mark.text.toLowerCase().includes(currentFilter.toLowerCase());
       const deletedMatch = showDeleted ? deletedMarks.has(mark.text) : !deletedMarks.has(mark.text);
-      return searchMatch && deletedMatch;
+      const categoryMatch = categoryFilter ? mark.category === categoryFilter : true;
+      return searchMatch && deletedMatch && categoryMatch;
     });
     
     if (statusFilter === 'checked') {

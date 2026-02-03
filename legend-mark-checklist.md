@@ -379,8 +379,18 @@ Wanting to track which legend marks you're still missing? This tool can help you
       </div>
     </div>
     
-    <label class="input-label" for="searchBox" style="display: block; margin-bottom: 5px;">Search Marks:</label>
-    <input type="text" id="searchBox" class="search-box" placeholder="Search legend marks...">
+    <div style="display: flex; gap: 10px; align-items: flex-end; margin-bottom: 15px;">
+      <div style="flex: 1;">
+        <label class="input-label" for="searchBox" style="display: block; margin-bottom: 5px;">Search Marks:</label>
+        <input type="text" id="searchBox" class="search-box" placeholder="Search legend marks..." style="margin-bottom: 0;">
+      </div>
+      <div style="min-width: 200px;">
+        <label class="input-label" for="categoryFilter" style="display: block; margin-bottom: 5px;">Category:</label>
+        <select id="categoryFilter" class="character-select" style="width: 100%;">
+          <option value="">All Categories</option>
+        </select>
+      </div>
+    </div>
     
     <div class="stats">
       <div class="stat-item">Total Available: <span id="totalCount">0</span></div>
