@@ -262,6 +262,30 @@ Wanting to track which legend marks you're still missing? This tool can help you
     font-weight: bold;
   }
   
+  .legend-mark-private {
+    font-size: 12px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: #6c757d;
+    color: #fff;
+    border: 1px solid #5a6268;
+    white-space: nowrap;
+    margin-left: 5px;
+    font-weight: bold;
+  }
+  
+  .legend-mark-unobtainable {
+    font-size: 12px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: #343a40;
+    color: #fff;
+    border: 1px solid #23272b;
+    white-space: nowrap;
+    margin-left: 5px;
+    font-weight: bold;
+  }
+  
   .legend-mark-item.checked {
     opacity: 0.5;
   }
@@ -302,16 +326,16 @@ Wanting to track which legend marks you're still missing? This tool can help you
         </select>
         <button class="btn btn-danger" id="deleteCharacterBtn">🗑️ Delete Aisling</button>
       </div>
+
+      <div class="file-upload-section">
+        <label for="fileInput" class="file-upload-label">📁 Upload Legend Marks File</label>
+        <input type="file" id="fileInput" accept=".txt">
+        <span id="fileName" style="margin-left: 10px; font-style: italic;"></span>
+      </div>
     </div>
     
     <label class="input-label" for="searchBox" style="display: block; margin-bottom: 5px;">Search Marks:</label>
     <input type="text" id="searchBox" class="search-box" placeholder="Search legend marks...">
-    
-    <div class="file-upload-section">
-      <label for="fileInput" class="file-upload-label">📁 Upload Legend Marks File</label>
-      <input type="file" id="fileInput" accept=".txt">
-      <span id="fileName" style="margin-left: 10px; font-style: italic;"></span>
-    </div>
     
     <div class="stats">
       <div class="stat-item">Total Available: <span id="totalCount">0</span></div>
@@ -324,8 +348,13 @@ Wanting to track which legend marks you're still missing? This tool can help you
       <button class="btn btn-info" id="showUncheckedBtn">☐ Show Unchecked Only</button>
     </div>
     
+    <div class="filter-buttons">
+      <button class="btn btn-secondary" id="toggleUnobtainableBtn" title="Legend Marks which can't be obtained nowadays">🚫 Show Unobtainable</button>
+      <button class="btn btn-secondary" id="togglePrivateBtn" title="Legend Marks which other players can't see">👁️ Show Private</button>
+    </div>
+    
     <div class="action-buttons">
-      <button class="btn btn-danger" id="clearAllBtn">Clear All</button>
+      <button class="btn btn-danger" id="clearAllBtn">Uncheck All</button>
       <button class="btn btn-secondary" id="exportBtn">💾 Export Checked</button>
     </div>
   </div>

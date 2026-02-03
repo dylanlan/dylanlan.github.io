@@ -6,6 +6,8 @@
   let currentCharacter = '';
   let characterData = {};
   let statusFilter = 'all';
+  let showUnobtainable = false;
+  let showPrivate = false;
   const classe = ['Monk', 'Priest', 'Rogue', 'Warrior', 'Wizard', 'Medenian', 'Druid', 'Bard', 'Archer', 'Gladiator', 'Summoner'];
 
   async function loadLegendMarks() {
@@ -17,8 +19,7 @@
           skipEmptyLines: true
       }).data;
       
-      legendMarks = allLegendMarks.filter((m) => m.obtainable === 'Yes' && m.public === 'Yes');
-      legendMarks.sort((a, b) => a.text.localeCompare(b.text));
+      filterMarks();
       loadAllCharacterData();
       loadCheckedState();
       renderList();
@@ -159,6 +160,20 @@
     }
   }
 
+  function filterMarks() {
+    legendMarks = allLegendMarks.filter(m => {
+      const obtainableCheck = showUnobtainable ? true : m.obtainable === 'Yes';
+      const publicCheck = showPrivate ? true : m.public === 'Yes';
+      return obtainableCheck && publicCheck;
+    });
+    legendMarks.sort((a, b) => a.text.localeCompare(b.text));
+  }
+  
+  function updateToggleButtons() {
+    document.getElementById('toggleUnobtainableBtn').classList.toggle('active', showUnobtainable);
+    document.getElementById('togglePrivateBtn').classList.toggle('active', showPrivate);
+  }
+
   function getMarkClasses(mark) {
     let classes = [];
 
@@ -183,6 +198,7 @@
     }
     
     updateFilterButtons();
+    updateToggleButtons();
     
     if (filtered.length === 0) {
       container.innerHTML = '<div class="no-results">No legend marks found</div>';
@@ -198,6 +214,8 @@
           <span class="legend-mark-category" title="${escapeHtml(mark.subcategories || '')}">${escapeHtml(mark.category || 'Unknown')}</span>
           ${mark.uniqueGroup ? `<span class="legend-mark-unique-group" title="Only 1 mark from this group can be obtained at a time">${escapeHtml(mark.uniqueGroup)}</span>` : ''}
           ${mark.classExclusive === 'Yes' && mark.subcategories ? `<span class="legend-mark-class-exclusive" title="Class Exclusive">${escapeHtml(markClasses.join(', '))}</span>` : ''}
+          ${mark.public !== 'Yes' ? `<span class="legend-mark-private" title="Private mark - not visible on public legend">Private</span>` : ''}
+          ${mark.obtainable !== 'Yes' ? `<span class="legend-mark-unobtainable" title="No longer obtainable">Unobtainable</span>` : ''}
         </div>`;
     }).join('');
 
@@ -268,6 +286,20 @@
   document.getElementById('showUncheckedBtn').addEventListener('click', () => {
     statusFilter = 'unchecked';
     renderList();
+  });
+  
+  document.getElementById('toggleUnobtainableBtn').addEventListener('click', () => {
+    showUnobtainable = !showUnobtainable;
+    filterMarks();
+    renderList();
+    updateStats();
+  });
+  
+  document.getElementById('togglePrivateBtn').addEventListener('click', () => {
+    showPrivate = !showPrivate;
+    filterMarks();
+    renderList();
+    updateStats();
   });
 
   document.getElementById('fileInput').addEventListener('change', async (e) => {
