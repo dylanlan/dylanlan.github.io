@@ -256,6 +256,8 @@
     updateFilterButtons();
     updateToggleButtons();
     
+    document.getElementById('displayedCount').textContent = filtered.length;
+    
     if (filtered.length === 0) {
       container.innerHTML = '<div class="no-results">No legend marks found</div>';
       return;

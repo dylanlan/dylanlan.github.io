@@ -411,10 +411,13 @@ Wanting to track which legend marks you're still missing? This tool can help you
     
     <div class="action-buttons">
       <button class="btn btn-danger" id="clearAllBtn">☐ Uncheck All</button>
-      <button class="btn btn-primary" id="exportBtn">💾 Save</button>
+      <button class="btn btn-primary" id="exportBtn">💾 Export File</button>
     </div>
   </div>
   
   <div id="legendMarksList"></div>
+  <div style="text-align: center; padding: 10px; color: var(--light-text-color); font-size: 14px;">
+    Displaying <span id="displayedCount" style="font-weight: bold;">0</span> marks
+  </div>
 </div>
 <script src="/assets/js/legend-mark-checklist.js" ></script>
