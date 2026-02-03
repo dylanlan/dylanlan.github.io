@@ -50,6 +50,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Religious,Sgrios,Temple Rank,,No,No,Yes,White,Priest,- Sgrios Worshipper by <Aisling>,Dylanlan,Joined the Sgrios religion with help from another Aisling
 ,College,Artist,,,No,No,Yes,Blue,Person,- Tentative Aisling Artist,BioMagus,
 ,College,Bard,,,No,No,Yes,Blue,Person,- Tentative Aisling Bard,Moogle,
+,College,Event Host,,,No,No,No,Blue,Person,- Tentative Aisling Event Host,,
 ,College,Historian,,,No,No,Yes,Blue,Person,- Tentative Aisling Historian,Ramanayan,
 ,College,Lore Keeper,,,No,No,Yes,Blue,Person,- Tentative Aisling Lore Keeper,NaLyd,
 ,College,Persona,,,No,No,Yes,Blue,Person,- Tentative Aisling Persona,BioMagus,
@@ -61,6 +62,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,College,Memory,,,No,No,Yes,Blue,Person,- Tentative Clave Memory,Iglis,"A tentative legend mark to be replaced by an actual Clave Memory mark. Awarded for ranking 2nd, 3rd, or 4th in the Memory of the Cycle contest from 2025: https://novus-imperia.com/college/2025.htm"
 ,College,Persona,,,No,No,Yes,Blue,Person,- Tentative Clave Persona,Mayheart,
 ,College,Philosopher,,,No,No,Yes,Blue,Person,- Tentative Clave Philosopher,Tleilandrek,
+,College,Event Host,,,No,No,No,Blue,Person,- Tentative Folk Event Host,,
 ,College,Artist,,,No,No,Yes,Blue,Person,- Tentative Kingdom Artist,Carnaugh,
 ,College,Bard,,,No,No,Yes,Blue,Person,- Tentative Kingdom Bard,BioMagus,
 ,College,Historian,,,No,No,Yes,Blue,Person,- Tentative Kingdom Historian,Nadja,
@@ -71,18 +73,24 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,College,Garment,,,No,Yes,Yes,Blue,Person,- Tentative Noble Garment,NaLyd,
 ,College,Artist,,,No,No,Yes,Blue,Person,- Tentative Village Artist,BioMagus,
 ,College,Bard,,,No,No,Yes,Blue,Person,- Tentative Village Bard,Dylanlan,
+,College,Event Host,,,No,No,No,Blue,Person,- Tentative Village Event Host,,
 ,College,Lore Keeper,,,No,No,Yes,Blue,Person,- Tentative Village Lore Keeper,Dylanlan,
 ,College,Historian,,,No,No,Yes,Blue,Person,- Tentative Village Historian,,
 ,College,Memory,,,No,No,Yes,Blue,Person,- Tentative Village Memory,NaLyd,A tentative legend mark to be replaced by an actual Village Memory mark. Awarded for winning the Memory of the Cycle contest from 2025: https://novus-imperia.com/college/2025.htm
 ,College,Philosopher,,,No,No,Yes,Blue,Person,- Tentative Village Philosopher,Kedian,
 ,Event,Insect,,,Yes,Sorta,No,Blue,Person,1st Annual Insect Event- Elite Insect Catcher,adriela,
 ,Event,Insect,,,Yes,Sorta,No,White,Person,1st Annual Insect Event- Junior Insect Catcher,xLimited,
+,Event,Insect,,,Yes,Sorta,No,White,Person,1st Annual Insect Event- Master Insect Catcher,,
 ,Event,Insect,,,Yes,Sorta,No,White,Person,1st Annual Insect Event- Novice Insect Catcher,NagisaChan,
+,Event,Insect,,,Yes,Sorta,No,White,Person,1st Annual Insect Event- Veteran Insect Catcher,,
 ,Event,Insect,,,Yes,Sorta,No,Blue,Person,2nd Annual Insect Event- Elite Insect Catcher,BioMagus,
 ,Event,Insect,,,Yes,Sorta,No,White,Person,2nd Annual Insect Event- Junior Insect Catcher,Lexem,
 ,Event,Insect,,,Yes,Sorta,No,White,Person,2nd Annual Insect Event- Master Insect Catcher,ozmo,
 ,Event,Insect,,,Yes,Sorta,No,White,Person,2nd Annual Insect Event- Novice Insect Catcher,DunaJr,
+,Event,Insect,,,Yes,Sorta,No,White,Person,2nd Annual Insect Event- Veteran Insect Catcher,,
 ,Event,Insect,,,Yes,Sorta,No,Blue,Person,3rd Annual Insect Event- Elite Insect Catcher,Bea,
+,Event,Insect,,,Yes,Sorta,No,White,Person,3rd Annual Insect Event- Junior Insect Catcher,,
+,Event,Insect,,,Yes,Sorta,No,White,Person,3rd Annual Insect Event- Master Insect Catcher,,
 ,Event,Insect,,,Yes,Sorta,No,White,Person,3rd Annual Insect Event- Novice Insect Catcher,Madare,
 ,Event,Insect,,,Yes,Sorta,No,White,Person,3rd Annual Insect Event- Veteran Insect Catcher,Fang,
 ,College,Artist,,,Yes,Yes,Yes,Blue,Person,Abel Clave Artist,Mayheart,
@@ -105,6 +113,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Other,Sparked,,,Yes,No,Yes,White,Person,Aisling,Mayheart,Created your Aisling character
 ,College,Artist,,,Yes,Yes,Yes,Blue,Person,Aisling Artist,BioMagus,
 ,College,Bard,,,Yes,Yes,Yes,Blue,Person,Aisling Bard,Malache,
+,College,Event Host,,,Yes,Yes,No,Blue,Person,Aisling Event Host,,
 ,College,Historian,,,Yes,Yes,Yes,Blue,Person,Aisling Historian,Ramanayan,
 ,College,Lore Keeper,,,Yes,Yes,Yes,Blue,Person,Aisling Lore Keeper,Kedian,
 ,Quest,Aisling of,,,Yes,No,Yes,Blue,Shield,Aisling of Hy-brasyl,Angelic,
@@ -129,7 +138,8 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Event,October,,,Yes,No,No,White,Person,Assisted The Temuarian Beggar,blueskye,
 ,Event,,,,Yes,No,No,White,Person,Astrid Salvation,BioMagus,
 ,Other,Sparked,,,Yes,No,No,White,Person,Atavism Age Aisling,Kedian,
-,Other,Sparked,,,Yes,No,No,Brown,Person,Atavism Age III Aisling,BioMagus,
+,Other,Sparked,,,Yes,No,No,White,Person,Atavism Age II Aisling,,
+,Other,Sparked,,,Yes,No,No,White,Person,Atavism Age III Aisling,BioMagus,
 ,Class,Monk,Subbing,,Yes,No,Yes,Brown,Monk,Attempting Monk Dedication,Winkster,
 ,Class,Priest,Subbing,,Yes,No,Yes,Brown,Priest,Attempting Priest Dedication,Moondrop,
 ,Class,Rogue,Subbing,,Yes,No,Yes,Brown,Rogue,Attempting Rogue Dedication,BadArch,
@@ -159,7 +169,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Blue Dugon by <Aisling>,Punch,
 ,Event,Medenian Seal,,,Yes,No,No,White,Person,Broke the Seal,BioMagus,"One of the 5 legendary Aislings who defeated the Seal Guardians, Elemental Creants, and Seal Master to unlock Medenia"
 ,Class,Priest,,Yes,Yes,Yes,Yes,Brown,Heart,Broke up <Aisling>'s love,Mayheart,
-,Relationships,Broke up,,,Yes,No. Max 1,Yes,White,Heart,Broke up with <Aisling>,Somae,
+,Other,Broke up,,,Yes,No. Max 1,Yes,White,Heart,Broke up with <Aisling>,Somae,
 ,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,Brown Dugon by <Aisling>,Punch,
 ,Pet,October,,,Yes,No,Yes,White,Person,Buddy of Mummy <Name>,Bea,
 ,Pet,October,,,Yes,No,Yes,White,Person,Buddy of Zombie,BioMagus,
@@ -241,7 +251,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,"Nightmare, Priest, Wizard",Male Priest/Wiz Nightmare,Yes,Yes,No,Yes,White,Wizard,Cthonic Disciple of Decay,Religion,
 ,Quest,Sick Child,,,Yes,No,Yes,White,Person,Cured a sick child in Loures,Kedian,
 ,Event,,,,Yes,No,No,White,Person,Cured Jacqueline of Loures,BioMagus,
-,Relationships,,,,Yes,No,No,White,Person,Currently mentored by,Chrissy,Original mentoring mark before it got reformatted?
+,Other,,,,Yes,No,No,White,Person,Currently mentored by,Chrissy,Original mentoring mark before it got reformatted?
 ,Quest,Reincarnation,Reincarnation,,Yes,No,Yes,White,Person,Danaan Reincarnation,AdelaideT,
 ,Quest,Arsaidh Aon,,,Yes,No,Yes,White,Person,Defeated Arsaidh Aon,bLuEjR,Completed the Arsaidh Aon group quest
 ,Event,October,,,Yes,No,Yes,White,Person,Defeated Count and Countess of Macabre,bluenokkad,
@@ -272,7 +282,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Quest,"Dark Artifact, Priest",,Yes,Yes,No,Yes,White,Person,Discovered the Cluais Jewel,Kimchii,Completed the Demon Lord's Notes quest on a Priest
 ,Quest,"Dark Artifact, Wizard",,Yes,Yes,No,Yes,White,Person,Discovered the Dark Ring,BioMagus,Completed the Demon Lord's Notes quest on a Wizard
 ,Arena,,,,Yes,No,?,Orange,Person,Disgraced Arena Host,IShallHeal,
-,Relationships,Divorced,,,Yes,Yes,Yes,Brown,Heart,Divorced <Name>,sick,Divorced someone after being married to them. Note that the name on the mark does not have to match the Aisling that they got divorced from
+,Other,Divorced,,,Yes,Yes,Yes,Brown,Heart,Divorced <Name>,sick,Divorced someone after being married to them. Note that the name on the mark does not have to match the Aisling that they got divorced from
 ,Class,Monk,Monk Form,Yes,Yes,No,Yes,White,Monk,Draco Form,Abigor,"As a Monk class, learn the Draco Form from the Combat Skill Master in Suomi"
 ,Event,March,,,Yes,Yes,Yes,White,Person,Drank The Famous Green Ale,Acesin,
 ,Quest,Plamit,Ancient Flame,,Yes,No,Yes,White,Heart,Drazul of the Ancient Flame,Dylanlan,
@@ -284,7 +294,8 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Class,Druid,Druid Form,Yes,Yes,No,Yes,White,Person,Druid Karura Form,Machamp,
 ,Class,Druid,Druid Form,Yes,Yes,No,Yes,White,Person,Druid Komodas Form,Quipper,Choose Komodas Druid Form in Asilon Training Room
 ,Quest,Plamit,Ancient Flame,,Yes,No,Yes,White,Heart,Dum'Drazul of the Ancient Flame,SradGar,
-,Religious,Earth,Medenian Spirit,,Yes,Yes. Max 5,Yes,Blue,Person,Earth Reverence blue,AdelaideT,
+,Religious,Earth,Medenian Spirit,,Yes,Yes. Max 5,Yes,Blue,Person,Earth Reverence,AdelaideT,Pray to the Earth Spirit in Noam many times
+,Religious,Earth,Medenian Spirit,,Yes,Yes. Max 5,No,White,Person,Earth Reverence (white),,The Reverence marks were originally white
 ,Quest,Porte Forest,,,Yes,No,Yes,Blue,Heart,Eased the suffering of Porte Forest,Renvo,
 ,College,Class,,,Yes,Yes,Yes,White,Person,Educated,Abigor,
 ,Class,Wizard,,Yes,Yes,Yes. Max 10?,Yes,White,Wizard,Elementalist,AceShimizu,
@@ -452,9 +463,9 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd High Priest by <Aisling>,DoomHealer,
 ,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd Minister by <Aisling>,Jabedin,
 ,Religious,"Fiosachd, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Fiosachd Priest by <Aisling>,StarSparkler,Joined the Fiosachd religion and became Priest rank without help
-,Religious,Fire,Medenian Spirit,,Yes,Yes. Max 5,Yes,Blue,Person,Fire Reverence (blue),NaLyd,
-,Religious,Fire,Medenian Spirit,,Yes,Yes. Max 5,No,White,Person,Fire Reverence (white),iLyria,
-,College,Event Host,,,Yes,Yes,No,Blue,Person,Folk Event Host,"Vendes, Graynemeade, Omner, or Riyan?",
+,Religious,Fire,Medenian Spirit,,Yes,Yes. Max 5,Yes,Blue,Person,Fire Reverence,NaLyd,Pray to the Fire Spirit in Hwarone many times
+,Religious,Fire,Medenian Spirit,,Yes,Yes. Max 5,No,White,Person,Fire Reverence (white),iLyria,The Reverence marks were originally white
+,College,Event Host,,,Yes,Yes,No,Blue,Person,Folk Event Host,Omner,
 ,Event,Dark Light War,,,Yes,No,No,White,Rogue,Follows Pashura of the Light,BioMagus,
 ,Other,Renamed,,,Yes,No,No,White,Person,Formerly known as <Aisling>,Bea,Change your Aisling's name by submitting a support ticket to Kru
 ,Event,,,,Yes,Sorta,No,White,Person,Found 1st Lucky Clover,,
@@ -573,7 +584,7 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,College,Class,,,Yes,No,Yes,Blue,Person,Lord of the Arts,,
 ,Quest,Spare a Stick,,,Yes,Yes,Yes,Blue,Person,Loved by Mileth Mundanes,,"Complete the ""Spare a Stick"" quest from Callough in Mileth Weapon shop, before Insight 12. "
 ,Quest,Perfect Hairstyle,,,Yes,Yes,Yes,Blue,Person,Loved by Suomi Mundanes,,"Complete the ""Perfect Hairstyle"" quest from Eeva in Suomi Inn. Choosing Ponytale doesn't actually need any items."
-,Relationships,Glading,,,Yes,No,Yes,White,Heart,Loves <Aisling>,,Name of the partner you are bonded with in the Eastern Woodlands Lovers' Glade
+,Other,Glading,,,Yes,No,Yes,White,Heart,Loves <Aisling>,,Name of the partner you are bonded with in the Eastern Woodlands Lovers' Glade
 ,Religious,Luathas,Temple Rank,,Yes,No,Yes,White,Priest,Luathas Acolyte by <Aisling>,,
 ,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas Cleric by <Aisling>,Suspected,
 ,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas High Priest by <Aisling>,Ramanayan,
@@ -581,9 +592,10 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Religious,"Luathas, Priest",Temple Rank,Yes,Yes,No,Yes,White,Priest,Luathas Priest by <Aisling>,Salgar,
 ,Quest,Lost Ruins,,,Yes,Yes,Yes,White,Person,Lured Fire Serpent Out,,
 ,Quest,"Nightmare, Rogue",,Yes,Yes,No,Yes,White,Rogue,Marauder of Gold,,
-,Relationships,Marriage,,,Yes,No,Yes,White,Heart,Married <Aisling>,,
+,Other,Marriage,,,Yes,No,Yes,White,Heart,Married <Aisling>,,
 ,Class,Master,,,Yes,No,Yes,Blue,Shield,Master,,Became a master Aisling of your class at the Temple of Choosing in Mileth
 ,Arena,Host,Arena Host,,Yes,No,Yes,White,Shield,Master Arena Host,Set,
+,Event,Insect,,,Yes,No,No,White,Person,Master Insect Catcher,,"The original legend mark from completing the first Insect Event by catching 20 of each insect. Got replaced by ""1st Annual Insect Event- Master Insect Catcher"""
 ,Political,Tagor,Ranger,,Yes,No,Yes,White,Person,Master Ranger,Ishikawa,
 ,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet blob,niZon,
 ,Pet,Tagor,Tagor Pet,,Yes,No,Yes,White,Heart,Master to a pet bunny,,
@@ -599,8 +611,8 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Guild,,,,Yes,Yes,No,Blue,Person,May appoint Guild Council,,Can also be a white mark?
 ,Political,Suomi,,,Yes,No,Yes,White,Person,Member of the Suomi Troupe,,
 ,Quest,Yowien Territory,,,Yes,No,Yes,White,Heart,Mended Jowella and Kharlo's Relationship,,
-,Relationships,Mentor,,,Yes,Yes,Yes,Blue,Person,Mentored <Aisling>,,
-,Relationships,Mentor,,,Yes,No,Yes,White,Person,Mentored by <Aisling>,,
+,Other,Mentor,,,Yes,Yes,Yes,Blue,Person,Mentored <Aisling>,,
+,Other,Mentor,,,Yes,No,Yes,White,Person,Mentored by <Aisling>,,
 ,Event,Messenger of the Heart,,,Yes,No,No,Blue,Person,Messenger of the Heart,,
 ,Class,Priest,,Yes,Yes,Yes,Yes,Blue,Priest,Mileth Altar Worshipper,,
 ,Political,Mileth,,,Yes,No,Yes,White,Person,Mileth Citizen by oath of <Aisling>,Nurzz,
@@ -648,9 +660,9 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Pet,Pig Chase,,,Yes,No,Yes,White,Person,Owner of pet female pig <Name>,,
 ,Pet,Old Floppy,,,Yes,No,Yes,White,Person,Owner of pet fenix <Name>,,Use the pet fenix item and give it a name
 ,Pet,Horse of the Gods 2006,,,Yes,No,Yes,White,Person,Owner of pet flame <Name>,,Use the pet flame item and give it a name
-,Pet,Earth Spirit,,,Yes,No,?,White,Person,Owner of pet fox <Name>,BioMagus,Use the pet fox item and give it a name. From Earth Reverence 5 Mass?
+,Pet,Earth Spirit,,,Yes,No,Yes,White,Person,Owner of pet fox <Name>,BioMagus,Use the pet fox item and give it a name. From Earth Reverence 5 Mass?
 ,Pet,Horse of the Gods 2006,,,Yes,No,?,White,Person,Owner of pet frog <Name>,Neoxbahamut,
-,Pet,Water Spirit,,,Yes,No,?,White,Person,Owner of pet gel <Name>,BioMagus,Use the pet get item and give it a name. From Water Reverence 5 Mass?
+,Pet,Water Spirit,,,Yes,No,Yes,White,Person,Owner of pet gel <Name>,BioMagus,Use the pet get item and give it a name. From Water Reverence 5 Mass?
 ,Pet,October,,,Yes,No,Yes,White,Person,Owner of pet ghost <Name>,,Use the pet ghost item and give it a name
 ,Pet,April,,,Yes,No,Yes,White,Person,Owner of pet giant floppy <Name>,,Use the pet giant floppy item and give it a name
 ,Pet,April,,,Yes,No,Yes,White,Person,Owner of pet golden floppy <Name>,,Use the pet golden floppy item and give it a name
@@ -818,11 +830,13 @@ example,category,subcategories,uniqueGroup,classExclusive,public,countsUp,obtain
 ,Class,Druid,,Yes,No,No,Yes,White,Person,Two Move,Machamp,Subbed Druids get a 2-move combo scroll from Hwarone
 ,Other,Mundane Birth,Birth,,Yes,No,Yes,White,Person,Undine mundane birth,Renvo,
 ,College,Artist,,,Yes,Yes,Yes,Blue,Person,Undine Village Artist,BioMagus,
+,Event,Insect,,,Yes,No,No,White,Person,Veteran Insect Catcher,,"The original legend mark from completing the first Insect Event by catching 15 of each insect. Got replaced by ""1st Annual Insect Event- Veteran Insect Catcher"""
 ,Class,Wizard,,Yes,Yes,No,Yes,Brown,Person,Walks the path of Necromancy,NaLyd,"Learned the ""Spion Torradh"" spell as a Wizard. Has consequences! Cannot join the Deoch or Glioca temples. (To confirm: which others?)"
 ,Class,Warrior,,Yes,Yes,No,Yes,White,Warrior,Warrior by oath of <Aisling>,,Become the Warrior class with help from another Aisling
 ,Class,Warrior,Subbing,Yes,Yes,No,Yes,Blue,Warrior,Warrior Dedication,ShockyShock,
 ,Class,Warrior,,Yes,Yes,No,Yes,White,Warrior,"Warrior, guided by <Aisling>",,Get guided by another Aisling of the Warrior class
-,Religious,Water,Medenian Spirit,,Yes,Yes. Max 5,Yes,Blue,Person,Water Reverence blue,BioMagus,Pray to the Water Spirit in the Water Dungeon in Medenia many times
+,Religious,Water,Medenian Spirit,,Yes,Yes. Max 5,Yes,Blue,Person,Water Reverence,BioMagus,Pray to the Water Spirit in the Water Dungeon in Medenia many times
+,Religious,Water,Medenian Spirit,,Yes,Yes. Max 5,No,White,Person,Water Reverence (white),,The Reverence marks were originally white
 ,Event,February,,,Yes,No,Yes,White,Person,Went on a picnic with <Aisling>,,"Finished ""A Lovely Evening"" February Event with a partner"
 ,Class,Monk,Monk Form,Yes,Yes,No,Yes,White,Monk,White Bat Form,RINALDO,
 ,Class,Monk,Dugon,Yes,Yes,No,Yes,White,Monk,White Dugon by <Aisling>,Vileplume,
