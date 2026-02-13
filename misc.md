@@ -74,6 +74,10 @@ Incomplete lists of things I've seen
 <td>A list of possible improvements to the game</td>
 </tr>
 <tr>
+<td><a href="https://drive.google.com/file/d/1053JY-a6UrsVAE2e7_Yt_KwRbf1kdJUa/view?usp=drive_link">Dylanlan Map Pack</a></td>
+<td>My map pack with 2,321 map files</td>
+</tr>
+<tr>
 <td><a href="{{ site.data.urls.music }}">Piano Music</a></td>
 <td>Some random piano song recordings of mine</td>
 </tr>
