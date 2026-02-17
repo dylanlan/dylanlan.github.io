@@ -1143,6 +1143,12 @@ These records are simply for Aislings who have banked the most of a certain item
 </div>
 
 <div class="record-section">
+<h3>Double Bonus Exp-Ap</h3>
+<p>Technology currently has this record, at 1,462 of them banked!</p>
+<img src="/assets/img/records/items-banked/double-bonus-exp-ap-1462-technology.png" width="100%" />
+</div>
+
+<div class="record-section">
 <h3>Dwarvish Helmets</h3>
 <p>bluenokkad currently has this record, at 454 of them banked!</p>
 <img src="/assets/img/records/items-banked/dwarvish-helmet-454-bluenokkad.png" width="100%" />
