@@ -1,0 +1,32 @@
+{
+  "Cail": {
+    "Acolyte": ["Amija","Kedo"]
+  },
+  "Ceannlaidir": {
+    "Acolyte": ["NeoxBahamut"]
+  },
+  "Deoch": {
+    "High Priest": ["Inuyoko"],
+    "Acolyte": ["Huore","NaLyd","SradMeall"]
+  },
+  "Fiosachd": {
+    "Priest": ["Sagek","Sela","StarMyth"],
+    "Acolyte": ["BlaKHazE","ryknow","SiEN"]
+  },
+  "Glioca": {
+    "High Priest": ["CaptainBilly","Deft"],
+    "Priest": ["Eratai","Erryn","Ilderon","Sahteevuh","TrapiZ","XiaoBeckz"],
+    "Acolyte": ["BioMech","Dram","ironcore","kasen","Shadie","Thumbilina","Trevis","zBobbyz"]
+  },
+  "Gramail": {
+    "Priest": ["Annette","Beckx","Niyka"],
+    "Acolyte": ["extenze","Quinton"]
+  },
+  "Luathas": {
+    "Priest": ["Elessera","Zedekyah"],
+    "Acolyte": ["Jomb","raen"]
+  },
+  "Sgrios": {
+    "Acolyte": ["Elimy"]
+  }
+}
