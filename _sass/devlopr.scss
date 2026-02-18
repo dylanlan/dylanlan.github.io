@@ -691,7 +691,8 @@ header {
 
 /* Scroll box around profile years */
 .year-scroll {
-    max-height: 300px;
+    max-height: 800px;
+    max-width: 200px;
     overflow-y: auto;
     border: 1px solid #ccc;
     padding: 0.5em;
