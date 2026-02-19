@@ -1136,67 +1136,67 @@ These are records for legend marks that are no longer obtainable
 
 These records are simply for Aislings who have banked the most of a certain item!
 
-<div class="record-section">
+<div class="record-section banked-item">
 <h3>Anklets</h3>
 <p>Challenge currently has this record, at 491 of them banked!</p>
 <img src="/assets/img/records/items-banked/anklets-491-challenge.png" />
 </div>
 
-<div class="record-section">
+<div class="record-section banked-item">
 <h3>Double Bonus Exp-Ap</h3>
 <p>Technology currently has this record, at 1,462 of them banked!</p>
 <img src="/assets/img/records/items-banked/double-bonus-exp-ap-1462-technology.png" />
 </div>
 
-<div class="record-section">
+<div class="record-section banked-item">
 <h3>Dwarvish Helmets</h3>
 <p>bluenokkad currently has this record, at 454 of them banked!</p>
 <img src="/assets/img/records/items-banked/dwarvish-helmet-454-bluenokkad.png" />
 </div>
 
-<div class="record-section">
+<div class="record-section banked-item">
 <h3>Fomorian Rags</h3>
 <p>Warp currently has this record, at 30 of them banked!</p>
 <img src="/assets/img/records/items-banked/fomorian-rag-30-warp.png" />
 </div>
 
-<div class="record-section">
+<div class="record-section banked-item">
 <h3>Hy-brasyl Boots</h3>
 <p>NeoxBahamut currently has this record, at 1,085 of them banked!</p>
 <img src="/assets/img/records/items-banked/hy-brasyl-boots-1085-neoxbahamut.png" />
 </div>
 
-<div class="record-section">
+<div class="record-section banked-item">
 <h3>Hy-brasyl Fragments</h3>
 <p>Warp currently has this record, at 1,153 of them banked!</p>
 <img src="/assets/img/records/items-banked/hy-brasyl-fragments-1153-warp.png" />
 </div>
 
-<div class="record-section">
+<div class="record-section banked-item">
 <h3>Light Belts</h3>
 <p>LightBelts currently has this record, at 8,039 of them banked!</p>
 <img src="/assets/img/records/items-banked/light-belts-8039-lightbelts.png" />
 </div>
 
-<div class="record-section">
+<div class="record-section banked-item">
 <h3>Spider's Legs</h3>
 <p>Attack currently has this record, at 666 of them banked!</p>
 <img src="/assets/img/records/items-banked/spiders-legs-666-attack.png" />
 </div>
 
-<div class="record-section">
+<div class="record-section banked-item">
 <h3>Staff of Deliverance</h3>
 <p>Giggles currently has this record, at 13,207 of them banked!</p>
 <img src="/assets/img/records/items-banked/staff-of-deliverance-13207-giggles.png" />
 </div>
 
-<div class="record-section">
+<div class="record-section banked-item">
 <h3>Wasp's Wings</h3>
 <p>Attack currently has this record, at 660 of them banked!</p>
 <img src="/assets/img/records/items-banked/wasps-wings-660-attack.png" />
 </div>
 
-<div class="record-section">
+<div class="record-section banked-item">
 <h3>World Shout Bundles</h3>
 <p>Ailred currently has this record, at 313 of them banked!</p>
 <img src="/assets/img/records/items-banked/world-shout-bundles-313-ailred.png" />
@@ -1220,6 +1220,8 @@ document.getElementById('search').addEventListener('input', function () {
     display: block;
     width: 100%;
     height: auto;
+}
+.banked-item img {
     image-rendering: pixelated;
     image-rendering: crisp-edges;
 }
