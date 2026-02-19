@@ -6,7 +6,7 @@ async function loadAislingLegends() {
         const li = document.createElement('li');
         const link = document.createElement('a');
         const lowercase = name.toLowerCase();
-        link.href = `/assets/img/aisling-legends/${lowercase}-${year}.png`;
+        link.href = `https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/${lowercase}-${year}.png`;
         link.textContent = name;
         link.title = `${name} - ${year}`;
         li.appendChild(link);
