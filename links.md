@@ -32,6 +32,10 @@ A collection of links to other websites related to Darkages
 <td>Vorlof's site is currently the most extensive and up to date Dark Ages info site</td>
 </tr>
 <tr>
+<td><a href="https://aislingexchange.com/">https://aislingexchange.com/</a></td>
+<td>Lancelot's site is an amazing collection of market and aisling data</td>
+</tr>
+<tr>
 <td><a href="https://da-wizard.com">https://da-wizard.com</a></td>
 <td>BioMagus's site is a bit outdated but still has tons of useful info</td>
 </tr>
