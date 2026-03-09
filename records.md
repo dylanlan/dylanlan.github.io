@@ -126,12 +126,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Avid Temuairian Daydreamer</h3>
-<p>StarNite currently has this record, at 43</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/avid-temuairian-daydreamer/avid-temuairian-daydreamer-43-starnite-deoch-180.png" />
+<p>StarMyth currently has this record, at 43</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/avid-temuairian-daydreamer/avid-temuairian-daydreamer-43-starmyth-deoch-180.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: StarFlame at 42
+2nd: StarNite at 43
 <br/>
-3rd: StarPhoenix at 42
+3rd: StarFlame at 42
 </details>
 </div>
 
@@ -258,8 +258,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Completed Quarterly Insect Event</h3>
-<p>NeoxBahamut currently has this record, at 56</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/completed-quarterly-insect-event/completed-quarterly-insect-event-56-neoxbahamut-deoch-.png" />
+<p>NeoxBahamut currently has this record, at 59</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/completed-quarterly-insect-event/completed-quarterly-insect-event-59-neoxbahamut-deoch-.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: pirdie at 56
 <br/>
@@ -291,12 +291,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Crafted Yule Logs for the Inns</h3>
-<p>StarShine currently has this record, at 69</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/crafted-yule-logs-for-the-inns/crafted-yule-logs-for-the-inns-69-starshine-deoch-208.png" />
+<p>StarMyth currently has this record, at 69</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/crafted-yule-logs-for-the-inns/crafted-yule-logs-for-the-inns-69-starmyth-deoch-216.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: JewelStar at 68
+2nd: StarShine at 69
 <br/>
-3rd: StarsAngel at 67
+3rd: JewelStar at 68
 </details>
 </div>
 
@@ -329,7 +329,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: justalyne at 67
 <br/>
-3rd: xbudx at 44
+3rd: Shadie at 58
 </details>
 </div>
 
@@ -426,9 +426,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>BioMagus currently has this record, at 24</p>
 <img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/eulogy-to-matrika-at-mehadi/eulogy-to-matrika-at-mehadi-24-biomagus-deoch-32.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: StarNite at 24
+2nd: StarMyth at 24
 <br/>
-3rd: StarsAngel at 22
+3rd: StarNite at 24
 </details>
 </div>
 
@@ -439,7 +439,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Malache at 3
 <br/>
-3rd: Somae at 3
+3rd: omner at 3
 </details>
 </div>
 
@@ -462,12 +462,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Fair Marshal</h3>
-<p>MariJayne currently has this record, at 14</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/fair-marshal/fair-marshal-14-marijayne-deoch-.png" />
+<p>Dram currently has this record, at 16</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/fair-marshal/fair-marshal-16-dram-deoch-.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Barb at 6
+2nd: MariJayne at 14
 <br/>
-3rd: Ramanayan at 5
+3rd: Barb at 6
 </details>
 </div>
 
@@ -495,10 +495,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Gathered Materials for Jowella's House</h3>
-<p>Vamistle currently has this record, at 6</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/gathered-materials-for-jowellas-house/gathered-materials-for-jowellas-house-6-vamistle-deoch-108.png" />
+<p>NaLyd currently has this record, at 7</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/gathered-materials-for-jowellas-house/gathered-materials-for-jowellas-house-7-nalyd-deoch-217.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: StarShine at 3
+2nd: Vamistle at 6
+<br/>
+3rd: StarShine at 3
 </details>
 </div>
 
@@ -548,12 +550,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Guided Priest</h3>
-<p>jaylinn currently has this record, at 46</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/guided-priest/guided-priest-46-jaylinn-deoch-90.png" />
+<p>omner currently has this record, at 59</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/guided-priest/guided-priest-59-omner-deoch-68.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: krytos at 34
+2nd: jaylinn at 46
 <br/>
-3rd: Angelic at 30
+3rd: krytos at 34
 </details>
 </div>
 
@@ -570,12 +572,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Guided Warrior</h3>
-<p>NeoxBahamut currently has this record, at 27</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/guided-warrior/guided-warrior-27-neoxbahamut-deoch-154.png" />
+<p>bentic currently has this record, at 30</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/guided-warrior/guided-warrior-30-bentic-deoch-37.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: FatalRevenge at 16
+2nd: NeoxBahamut at 28
 <br/>
-3rd: Vamistle at 16
+3rd: FatalRevenge at 16
 </details>
 </div>
 
@@ -595,9 +597,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>Vesuvia currently has this record, at 1098</p>
 <img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/has-defeated-orens-pirates/has-defeated-orens-pirates-1098-vesuvia-deoch-.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Srgious at 666
+2nd: CaptainBilly at 666
 <br/>
-3rd: Jerry at 606
+3rd: Srgious at 666
 </details>
 </div>
 
@@ -614,7 +616,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Quipper at 13
 <br/>
-3rd: CittiKAT at 7
+3rd: Amija at 7
 </details>
 </div>
 
@@ -720,8 +722,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Lured Fire Serpent Out</h3>
-<p>NaLyd currently has this record, at 7</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/lured-fire-serpent-out/lured-fire-serpent-out-7-nalyd-deoch-.png" />
+<p>NaLyd currently has this record, at 11</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/lured-fire-serpent-out/lured-fire-serpent-out-11-nalyd-deoch-.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Firewind at 3
 <br/>
@@ -736,7 +738,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: StarNite at 22
 <br/>
-3rd: Starlett at 19
+3rd: StarMyth at 21
 </details>
 </div>
 
@@ -747,7 +749,7 @@ These records are for various types of legend marks that have been repeated the 
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Xoody at 1000
 <br/>
-3rd: Brittany at 500
+3rd: omner at 562
 </details>
 </div>
 
@@ -756,9 +758,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>slaphealz currently has this record, at 150</p>
 <img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/mileth-altar-worshipper/mileth-altar-worshipper-150-slaphealz-deoch-216.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Srgious at 102
+2nd: omner at 125
 <br/>
-3rd: ZerA at 90
+3rd: Srgious at 102
 </details>
 </div>
 
@@ -955,8 +957,8 @@ These records involve multiple types of legend marks
 
 <div class="record-section">
 <h3>Active Cycles</h3>
-<p>This record is for the Aislings whose legend marks happened in the highest number of 8-deoch chunks, known as Cycles. It's a rough estimate at how many total years they've actively played.</p>
-<p><a href="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/twinkle-2025.png">Twinkle</a> currently has this record, at 24</p>
+<p>Twinkle currently has this record, at 24</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-24-twinkle-deoch-undefined.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: BioMagus at 23
 <br/>
@@ -965,20 +967,9 @@ These records involve multiple types of legend marks
 </div>
 
 <div class="record-section">
-<h3>Highest Arena Win Rate %</h3>
-<p>final currently has this record, at 86% (176/204). I only considered Aislings who had at least 50 total battles.</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/arena-win-rate/arena-win-rate-86-final.png" />
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Aerian at 82
-<br/>
-3rd: Telme at 79
-</details>
-</div>
-
-<div class="record-section">
-<h3>Lowest Arena Win Rate %</h3>
-<p>boars currently has this record, at 2% (2/113). I only considered Aislings who had at least 50 total battles.</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/arena-loss-rate/arena-win-rate-2-boars.png" />
+<h3>Arena Loss Rate %</h3>
+<p>boars currently has this record, at 2</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-2-boars-deoch-undefined.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Willco at 29
 <br/>
@@ -987,20 +978,31 @@ These records involve multiple types of legend marks
 </div>
 
 <div class="record-section">
-<h3>College Award Count</h3>
-<p>A sum of all Mileth College awards, from Clave rank to Aisling rank. Kedian currently has this record at 9, consisting of 4 Aisling, 2 Village, and 2 Clave</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/college-awards/college-awards-9-kedian.png" />
+<h3>Arena Win Rate %</h3>
+<p>final currently has this record, at 86</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-86-final-deoch-undefined.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Brittany at 7, consisting of 5 Aisling and 2 Kingdom
+2nd: Aerian at 82
 <br/>
-3rd: BioMagus at 6, consisting of 2 Aisling, 1 Kingdom, and 3 Village
+3rd: Telme at 79
 </details>
 </div>
 
 <div class="record-section">
-<h3>Blue Mark Streak</h3>
-<p>This record is for the Aislings who have the highest number of blue legend marks in a row. Xephion currently has this record, at 15.</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/blue-mark-streak/blue-mark-streak-15-xephion.png" />
+<h3>College Award Count</h3>
+<p>Kedian currently has this record, at 9</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-9-kedian-deoch-undefined.png" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: Brittany at 7
+<br/>
+3rd: Audry at 6
+</details>
+</div>
+
+<div class="record-section">
+<h3>Longest Blue Mark Streak</h3>
+<p>Xephion currently has this record, at 15</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-15-xephion-deoch-undefined.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Perspective at 14
 <br/>
@@ -1009,24 +1011,9 @@ These records involve multiple types of legend marks
 </div>
 
 <div class="record-section">
-<h3>Blue Marks</h3>
-<p><a href="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/brittany-2025.png">Brittany</a> currently has this record, at 36 total blue marks.</p>
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: huhuman at 31
-<br/>
-3rd: Merisa at 29
-</details>
-</div>
-
-<div class="record-section">
-<h3>Longest College Award Claiming</h3>
-<p>Tleilandrek currently has this record, at 137 deoches between receiving a tentative noble mark and converting it to an official noble mark</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/longest-college-award/longest-college-award-tleilandrek-137.png" />
-</div>
-
-<div class="record-section">
 <h3>Longest Legend</h3>
-<p><a href="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/biomagus-2025.png">BioMagus</a> currently has this record, at 255 legend marks</p>
+<p>BioMagus currently has this record, at 255</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-255-biomagus-deoch-undefined.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Brittany at 252
 <br/>
@@ -1036,12 +1023,23 @@ These records involve multiple types of legend marks
 
 <div class="record-section">
 <h3>Longest Mastering</h3>
-<p>DoomHealer currently has this record, at 192 deoches from becoming an Aisling to becoming a master</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/longest-mastering/longest-mastering-doomhealer-192.png" />
+<p>DoomHealer currently has this record, at 192</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-192-doomhealer-deoch-undefined.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Faylawin at 177
 <br/>
 3rd: Pondy at 168
+</details>
+</div>
+
+<div class="record-section">
+<h3>Most Blue Marks</h3>
+<p>Brittany currently has this record, at 36</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-36-brittany-deoch-undefined.png" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: huhuman at 31
+<br/>
+3rd: Merisa at 29
 </details>
 </div>
 
@@ -1087,9 +1085,9 @@ These are records for legend marks that are no longer obtainable
 <p>Annslea currently has this record, at 12</p>
 <img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/initiated-into-a-motley/initiated-into-a-motley-12-annslea-deoch-34.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Blanche at 12
+2nd: bentic at 12
 <br/>
-3rd: Falconlady at 12
+3rd: Blanche at 12
 </details>
 </div>
 
