@@ -1,5 +1,5 @@
 async function loadAislingLegends() {
-    const years = [2026, 2025, 2024, 2010, 2009, 2008, 2007];
+    const years = [2026, 2025, 2024, 2019, 2010, 2009, 2008, 2007];
     const latestAislingYear = {};
 
     function appendName(nameList, name, year) {
