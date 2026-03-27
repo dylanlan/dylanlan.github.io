@@ -21,18 +21,6 @@ Incomplete lists of things I've seen
 <td>Unique types of legend marks</td>
 </tr>
 <tr>
-<td><a href="{{ site.data.urls.guild_members }}">Guild Members</a></td>
-<td>Guild leaders, council, and members</td>
-</tr>
-<tr>
-<td><a href="{{ site.data.urls.temple_clergy }}">Temple Clergy</a></td>
-<td>Temple high priests, ministers, clerics, and priests</td>
-</tr>
-<tr>
-<td><a href="{{ site.data.urls.aisling_legends }}">Profiles</a></td>
-<td>Aisling profiles and legend marks</td>
-</tr>
-<tr>
 <td><a href="{{ site.data.urls.records }}">Records</a></td>
 <td>Records from legend marks</td>
 </tr>
@@ -87,4 +75,29 @@ Incomplete lists of things I've seen
 </tr>
 </tbody>
 </table>
+
+## Obsolete
+
+Previous abandoned projects
+
+<table class="links-table">
+<thead>
+<tr>
+<th>Link</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="{{ site.data.urls.guild_members }}">Guild Members (Obsolete)</a></td>
+<td>Guild leaders, council, and members. Recommend instead: <a href="https://aislingexchange.com/guilds">https://aislingexchange.com/guilds</a></td>
+</tr>
+<tr>
+<td><a href="{{ site.data.urls.temple_clergy }}">Temple Clergy (Obsolete)</a></td>
+<td>Temple high priests, ministers, clerics, and priests. Recommend instead: <a href="https://aislingexchange.com/religion">https://aislingexchange.com/religion</a></td>
+</tr>
+<tr>
+<td><a href="{{ site.data.urls.aisling_legends }}">Profiles (Obsolete)</a></td>
+<td>Aisling profiles and legend marks. Recommend instead: <a href="https://aislingexchange.com/aislings">https://aislingexchange.com/aislings</a></td>
+</tr>
 

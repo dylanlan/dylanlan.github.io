@@ -4,6 +4,11 @@ title: Guild Members
 permalink: /guild-members/
 ---
 
+<div class="warning-obsolete">
+  <h2>⚠️ This page is obsolete!</h2>
+  <p>Visit Aisling Exchange for better data: <a href="https://aislingexchange.com/guilds">https://aislingexchange.com/guilds</a></p>
+</div>
+
 <h1>Guild Members</h1>
 
 Here are some guild leaders, council, and members that I've seen. Mostly based on Aislings I've seen in 2025.

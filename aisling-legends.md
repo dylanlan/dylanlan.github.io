@@ -4,6 +4,11 @@ title: Aisling Legends
 permalink: /aisling-legends/
 ---
 
+<div class="warning-obsolete">
+  <h2>⚠️ This page is obsolete!</h2>
+  <p>Visit Aisling Exchange for better data: <a href="https://aislingexchange.com/aislings">https://aislingexchange.com/aislings</a></p>
+</div>
+
 # Aisling Profiles
 
 <input type="text" id="search" placeholder="Search names..." style="margin-bottom: 1em; padding: 0.5em; width: 100%;" />

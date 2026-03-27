@@ -12,8 +12,6 @@ urls:
       url: /about
     - text: Adventures
       url: /blog
-    - text: Profiles
-      url: /aisling-legends
     - text: Records
       url: /records
     - text: Links

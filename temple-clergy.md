@@ -4,6 +4,11 @@ title: Temple Clergy
 permalink: /temple-clergy/
 ---
 
+<div class="warning-obsolete">
+  <h2>⚠️ This page is obsolete!</h2>
+  <p>Visit Aisling Exchange for better data: <a href="https://aislingexchange.com/religion">https://aislingexchange.com/religion</a></p>
+</div>
+
 <h1>Temple Clergy</h1>
 
 Here are various Temple Clergy that I've seen. Mostly based on Aislings I've seen in 2025

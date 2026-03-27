@@ -699,6 +699,33 @@ header {
     margin-bottom: 2em;
 }
 
+.warning-obsolete {
+    background: #fff3cd;
+    color: #7d5a00;
+    border: 4px solid #e6ac00;
+    border-radius: 8px;
+    padding: 1.5em;
+    margin-bottom: 2em;
+    text-align: center;
+
+    h2 {
+        margin: 0 0 0.5em 0;
+        font-size: 2em;
+        color: #7d5a00 !important;
+    }
+
+    p {
+        font-size: 1.25em;
+        margin: 0;
+    }
+
+    a {
+        color: #7d5a00;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+}
+
 /* Homepage project cards*/
 
 #project-card{
