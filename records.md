@@ -689,12 +689,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Last Held Mass</h3>
-<p>Dethf currently has this record, at 44</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/last-held-mass/last-held-mass-44-dethf-deoch-.png" />
+<p>Inuyoko currently has this record, at 45</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/last-held-mass/last-held-mass-45-inuyoko-deoch-219.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Marrian at 34
+2nd: Dethf at 44
 <br/>
-3rd: Inuyoko at 33
+3rd: Marrian at 34
 </details>
 </div>
 
