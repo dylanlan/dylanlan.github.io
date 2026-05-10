@@ -12,8 +12,6 @@ urls:
       url: /about
     - text: Adventures
       url: /blog
-    - text: Records
-      url: /records
     - text: Links
       url: /links
     - text: Misc

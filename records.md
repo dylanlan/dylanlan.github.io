@@ -4,6 +4,11 @@ title:  Temuair World Records
 permalink: /records/
 ---
 
+<div class="warning-obsolete">
+  <h2>⚠️ This page is mostly obsolete!</h2>
+  <p>Visit Aisling Exchange for better legend mark records: <a href="https://www.aislingexchange.com/legends">https://www.aislingexchange.com/legends</a></p>
+</div>
+
 <input type="text" id="search" placeholder="Search records..." style="margin-bottom: 1em; padding: 0.5em; width: 100%;" />
 
 This page aims to have a collection of verifiable and beatable records, showcasing some of the most impressive Aislings feats across Temuair! Note that these records are a work-in-progress, and are only from the Aislings I've seen in-game since 2024:
