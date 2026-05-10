@@ -1,6 +1,12 @@
 {
+  "Alternative": {
+    "Council": ["ziper"]
+  },
   "Amarna": {
     "Council": ["NeoxBahamut"]
+  },
+  "Anaman Pact": {
+    "Council": ["Uemorti"]
   },
   "Ancients": {
     "Council": ["Nyoa"]
@@ -8,40 +14,61 @@
   "Ands Watchlist": {
     "Leader": ["Elexius"]
   },
+  "Balloon Boys": {
+    "Member": ["Onyxfists","Whiz"]
+  },
   "Chatterbox": {
-    "Leader": ["raen"]
+    "Leader": ["raen"],
+    "Member": ["newtali"]
+  },
+  "Chocolate": {
+    "Member": ["Dylanlan"]
   },
   "Cult de Carrot": {
     "Member": ["Inuyoko"]
   },
   "Dark Horizons": {
-    "Member": ["Amija","BlaKHazE","Jomb","Kedo","Sela","selenia","Shadie","SiEN","SrMerlan","Thumbilina","TrapiZ"]
+    "Member": ["Amija","BlakhazE","Jomb","Kedo","Krivia","Punchling","Sela","selenia","Shadie","SiEN","SrMerlan","StrataSevin","Thumbilina","TrapiZ"]
   },
   "Dideanai": {
     "Member": ["Savior"]
+  },
+  "Eld Rins Pact": {
+    "Leader": ["Seldrin"]
   },
   "Elemental": {
     "Leader": ["Deft"]
   },
   "Harmonia": {
-    "Council": ["BioMech"],
+    "Council": ["BioMech","Jerry"],
     "Member": ["Kidoba"]
   },
   "Lag": {
-    "Council": ["Nero"],
+    "Council": ["Nero","Telme"],
     "Member": ["Sahteevuh","Trevis"]
   },
   "Lunitari": {
     "Council": ["Alei"]
   },
   "Meitheal Siora": {
-    "Council": ["CaptainBilly"]
+    "Council": ["CaptainBilly"],
+    "Member": ["Arthas"]
+  },
+  "Misneach": {
+    "Council": ["dax","persuit"]
+  },
+  "Moons": {
+    "Council": ["Thenit"]
   },
   "ORC TOWN": {
-    "Member": ["GHAZ"]
+    "Council": ["Eternalty"],
+    "Member": ["GHAZ","SCHiZO","Zurf"]
   },
   "Phoenix Rising": {
     "Member": ["Huore"]
+  },
+  "Runic Terra": {
+    "Leader": ["Kedian"]
   },
   "Shinigami": {
     "Member": ["Erryn"]
@@ -50,7 +77,10 @@
     "Council": ["NaLyd"]
   },
   "Tantalus": {
-    "Member": ["Eratai"]
+    "Member": ["Eratai","SolariC","XephionMoon"]
+  },
+  "Unforgiven": {
+    "Member": ["Hug"]
   },
   "UpInSmoke": {
     "Council": ["Dram"]

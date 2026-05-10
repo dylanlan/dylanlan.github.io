@@ -478,8 +478,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Gathered Materials for Jowella's House</h3>
-<p>NaLyd currently has this record, at 7</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/gathered-materials-for-jowellas-house/gathered-materials-for-jowellas-house-7-nalyd-deoch-217.png" />
+<p>NaLyd currently has this record, at 16</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/gathered-materials-for-jowellas-house/gathered-materials-for-jowellas-house-16-nalyd-deoch-219.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Vamistle at 6
 <br/>
@@ -675,9 +675,9 @@ These records are for various types of legend marks that have been repeated the 
 <p>Dethf currently has this record, at 44</p>
 <img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/last-held-mass/last-held-mass-44-dethf-deoch-.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Marrian at 34
+2nd: Inuyoko at 43
 <br/>
-3rd: Inuyoko at 32
+3rd: Marrian at 34
 </details>
 </div>
 
@@ -705,8 +705,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Lured Fire Serpent Out</h3>
-<p>NaLyd currently has this record, at 11</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/lured-fire-serpent-out/lured-fire-serpent-out-11-nalyd-deoch-.png" />
+<p>NaLyd currently has this record, at 17</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/lured-fire-serpent-out/lured-fire-serpent-out-17-nalyd-deoch-.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Firewind at 3
 <br/>
@@ -727,8 +727,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Mentored</h3>
-<p>Jerry currently has this record, at 1570</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/mentored/mentored-1570-jerry-deoch-215.png" />
+<p>Jerry currently has this record, at 2045</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/mentored/mentored-2045-jerry-deoch-218.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Xoody at 1000
 <br/>
@@ -859,10 +859,10 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Slew Terror of the Crypt</h3>
-<p>Artur currently has this record, at 130</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/slew-terror-of-the-crypt/slew-terror-of-the-crypt-130-artur-deoch-71.png" />
+<p>Ignite currently has this record, at 210</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/slew-terror-of-the-crypt/slew-terror-of-the-crypt-210-ignite-deoch-218.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Ignite at 123
+2nd: Artur at 130
 <br/>
 3rd: Glasken at 50
 </details>
@@ -998,9 +998,9 @@ These records involve multiple types of legend marks
 <p>BioMagus currently has this record, at 255</p>
 <img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-255-biomagus-deoch-undefined.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Brittany at 252
+2nd: NaLyd at 255
 <br/>
-3rd: huhuman at 248
+3rd: Brittany at 252
 </details>
 </div>
 

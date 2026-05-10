@@ -8,12 +8,82 @@ permalink: /records/
 
 This page aims to have a collection of verifiable and beatable records, showcasing some of the most impressive Aislings feats across Temuair! Note that these records are a work-in-progress, and are only from the Aislings I've seen in-game since 2024:
 
+- [Items](#banked-item-records)
 - [Simple Legend Marks](#simple-legend-marks)
 - [Complex Legend Marks](#complex-legend-marks)
 - [Unobtainable Legend Marks](#unobtainable-legend-marks)
-- [Items](#banked-item-records)
 
 If you contact me about a record that you might own and send me a screenshot, I can add you to this list!
+
+# Banked Item Records
+
+These records are simply for Aislings who have banked the most of a certain item!
+
+<div class="record-section banked-item">
+<h3>Anklets</h3>
+<p>Challenge currently has this record, at 491 of them banked!</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/anklets-491-challenge.png" />
+</div>
+
+<div class="record-section banked-item">
+<h3>Double Bonus Exp-Ap</h3>
+<p>Technology currently has this record, at 1,462 of them banked!</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/double-bonus-exp-ap-1462-technology.png" />
+</div>
+
+<div class="record-section banked-item">
+<h3>Dwarvish Helmets</h3>
+<p>bluenokkad currently has this record, at 454 of them banked!</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/dwarvish-helmet-454-bluenokkad.png" />
+</div>
+
+<div class="record-section banked-item">
+<h3>Fomorian Rags</h3>
+<p>Warp currently has this record, at 30 of them banked!</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/fomorian-rag-30-warp.png" />
+</div>
+
+<div class="record-section banked-item">
+<h3>Hy-brasyl Boots</h3>
+<p>NeoxBahamut currently has this record, at 1,085 of them banked!</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/hy-brasyl-boots-1085-neoxbahamut.png" />
+</div>
+
+<div class="record-section banked-item">
+<h3>Hy-brasyl Fragments</h3>
+<p>Warp currently has this record, at 1,153 of them banked!</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/hy-brasyl-fragments-1153-warp.png" />
+</div>
+
+<div class="record-section banked-item">
+<h3>Light Belts</h3>
+<p>LightBelts currently has this record, at 8,039 of them banked!</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/light-belts-8039-lightbelts.png" />
+</div>
+
+<div class="record-section banked-item">
+<h3>Spider's Legs</h3>
+<p>Attack currently has this record, at 666 of them banked!</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/spiders-legs-666-attack.png" />
+</div>
+
+<div class="record-section banked-item">
+<h3>Staff of Deliverance</h3>
+<p>Giggles currently has this record, at 13,207 of them banked!</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/staff-of-deliverance-13207-giggles.png" />
+</div>
+
+<div class="record-section banked-item">
+<h3>Wasp's Wings</h3>
+<p>Attack currently has this record, at 660 of them banked!</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/wasps-wings-660-attack.png" />
+</div>
+
+<div class="record-section banked-item">
+<h3>World Shout Bundles</h3>
+<p>Ailred currently has this record, at 313 of them banked!</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/world-shout-bundles-313-ailred.png" />
+</div>
 
 # Simple Legend Marks
 
@@ -495,8 +565,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Gathered Materials for Jowella's House</h3>
-<p>NaLyd currently has this record, at 7</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/gathered-materials-for-jowellas-house/gathered-materials-for-jowellas-house-7-nalyd-deoch-217.png" />
+<p>NaLyd currently has this record, at 16</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/gathered-materials-for-jowellas-house/gathered-materials-for-jowellas-house-16-nalyd-deoch-219.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Vamistle at 6
 <br/>
@@ -722,8 +792,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Lured Fire Serpent Out</h3>
-<p>NaLyd currently has this record, at 11</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/lured-fire-serpent-out/lured-fire-serpent-out-11-nalyd-deoch-.png" />
+<p>NaLyd currently has this record, at 17</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/lured-fire-serpent-out/lured-fire-serpent-out-17-nalyd-deoch-.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Firewind at 3
 <br/>
@@ -744,8 +814,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Mentored</h3>
-<p>Jerry currently has this record, at 1570</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/mentored/mentored-1570-jerry-deoch-215.png" />
+<p>Jerry currently has this record, at 2045</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/mentored/mentored-2045-jerry-deoch-218.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Xoody at 1000
 <br/>
@@ -876,10 +946,10 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Slew Terror of the Crypt</h3>
-<p>Artur currently has this record, at 130</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/slew-terror-of-the-crypt/slew-terror-of-the-crypt-130-artur-deoch-71.png" />
+<p>Ignite currently has this record, at 210</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/slew-terror-of-the-crypt/slew-terror-of-the-crypt-210-ignite-deoch-218.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Ignite at 123
+2nd: Artur at 130
 <br/>
 3rd: Glasken at 50
 </details>
@@ -1129,77 +1199,6 @@ These are records for legend marks that are no longer obtainable
 3rd: Aeacus at 50
 </details>
 </div>
-
-# Banked Item Records
-
-These records are simply for Aislings who have banked the most of a certain item!
-
-<div class="record-section banked-item">
-<h3>Anklets</h3>
-<p>Challenge currently has this record, at 491 of them banked!</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/anklets-491-challenge.png" />
-</div>
-
-<div class="record-section banked-item">
-<h3>Double Bonus Exp-Ap</h3>
-<p>Technology currently has this record, at 1,462 of them banked!</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/double-bonus-exp-ap-1462-technology.png" />
-</div>
-
-<div class="record-section banked-item">
-<h3>Dwarvish Helmets</h3>
-<p>bluenokkad currently has this record, at 454 of them banked!</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/dwarvish-helmet-454-bluenokkad.png" />
-</div>
-
-<div class="record-section banked-item">
-<h3>Fomorian Rags</h3>
-<p>Warp currently has this record, at 30 of them banked!</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/fomorian-rag-30-warp.png" />
-</div>
-
-<div class="record-section banked-item">
-<h3>Hy-brasyl Boots</h3>
-<p>NeoxBahamut currently has this record, at 1,085 of them banked!</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/hy-brasyl-boots-1085-neoxbahamut.png" />
-</div>
-
-<div class="record-section banked-item">
-<h3>Hy-brasyl Fragments</h3>
-<p>Warp currently has this record, at 1,153 of them banked!</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/hy-brasyl-fragments-1153-warp.png" />
-</div>
-
-<div class="record-section banked-item">
-<h3>Light Belts</h3>
-<p>LightBelts currently has this record, at 8,039 of them banked!</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/light-belts-8039-lightbelts.png" />
-</div>
-
-<div class="record-section banked-item">
-<h3>Spider's Legs</h3>
-<p>Attack currently has this record, at 666 of them banked!</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/spiders-legs-666-attack.png" />
-</div>
-
-<div class="record-section banked-item">
-<h3>Staff of Deliverance</h3>
-<p>Giggles currently has this record, at 13,207 of them banked!</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/staff-of-deliverance-13207-giggles.png" />
-</div>
-
-<div class="record-section banked-item">
-<h3>Wasp's Wings</h3>
-<p>Attack currently has this record, at 660 of them banked!</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/wasps-wings-660-attack.png" />
-</div>
-
-<div class="record-section banked-item">
-<h3>World Shout Bundles</h3>
-<p>Ailred currently has this record, at 313 of them banked!</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/world-shout-bundles-313-ailred.png" />
-</div>
-
 
 <script>
 document.getElementById('search').addEventListener('input', function () {

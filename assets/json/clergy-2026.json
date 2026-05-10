@@ -1,32 +1,36 @@
 {
   "Cail": {
-    "Acolyte": ["Amija","Kedo"]
+    "Acolyte": ["Amija","Kedo","Onyxfists"]
   },
   "Ceannlaidir": {
-    "Acolyte": ["NeoxBahamut"]
+    "Priest": ["Soulwings"],
+    "Acolyte": ["Arthas","NeoxBahamut","Toshiya","ziper"]
   },
   "Deoch": {
     "High Priest": ["Inuyoko"],
-    "Acolyte": ["Huore","NaLyd","SradMeall"]
+    "Priest": ["Ignite","Krivia"],
+    "Acolyte": ["Huore","Kedian","NaLyd","SolariC","SradMeall","StrataSevin","XephionMoon"]
   },
   "Fiosachd": {
-    "Priest": ["Sagek","Sela","StarMyth"],
-    "Acolyte": ["BlaKHazE","ryknow","SiEN"]
+    "Priest": ["Carsomyr","Sagek","Sela","StarMyth","Telme"],
+    "Acolyte": ["BlakhazE","Brigid","Punchling","ryknow","SCHiZO","SiEN","Thenit","Thenit"]
   },
   "Glioca": {
     "High Priest": ["CaptainBilly","Deft"],
     "Priest": ["Eratai","Erryn","Ilderon","Sahteevuh","TrapiZ","XiaoBeckz"],
-    "Acolyte": ["BioMech","Dram","ironcore","kasen","Shadie","Thumbilina","Trevis","zBobbyz"]
+    "Acolyte": ["BioMech","Dram","ironcore","Jerry","kasen","newtali","Shadie","Thumbilina","Trevis","XarAm","zBobbyz"]
   },
   "Gramail": {
     "Priest": ["Annette","Beckx","Niyka"],
-    "Acolyte": ["extenze","Quinton"]
+    "Acolyte": ["Eternalty","extenze","Quinton"]
   },
   "Luathas": {
-    "Priest": ["Elessera","Zedekyah"],
-    "Acolyte": ["Jomb","raen"]
+    "Priest": ["Elessera","Hug","Zedekyah","Zoem"],
+    "Acolyte": ["Jomb","Kathyus","raen","Zelthoran"]
   },
   "Sgrios": {
-    "Acolyte": ["Elimy"]
+    "High Priest": ["Uemorti"],
+    "Priest": ["Whiz"],
+    "Acolyte": ["Dylanlan","Elimy","Seldrin"]
   }
 }
