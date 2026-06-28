@@ -9,9 +9,9 @@ permalink: /records/
 This page aims to have a collection of verifiable and beatable records, showcasing some of the most impressive Aislings feats across Temuair! Note that these records are a work-in-progress, and are only from the Aislings I've seen in-game since 2024:
 
 - [Items](#banked-item-records)
-- [Simple Legend Marks](#simple-legend-marks)
 - [Complex Legend Marks](#complex-legend-marks)
-- [Unobtainable Legend Marks](#unobtainable-legend-marks)
+- [Simple Legend Marks (Obsolete)](#simple-legend-marks)
+- [Unobtainable Legend Marks (Obsolete)](#unobtainable-legend-marks)
 
 If you contact me about a record that you might own and send me a screenshot, I can add you to this list!
 
@@ -89,6 +89,102 @@ These records are simply for Aislings who have banked the most of a certain item
 <h3>World Shout Bundles</h3>
 <p>Ailred currently has this record, at 313 of them banked!</p>
 <img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/world-shout-bundles-313-ailred.png" />
+</div>
+
+# Complex Legend Marks
+
+These records involve multiple types of legend marks
+
+<div class="record-section">
+<h3>Active Cycles</h3>
+<p>This record is for the Aislings whose legend marks happened in the highest number of 8-deoch chunks, known as Cycles. It's a rough estimate at how many total years they've actively played.</p>
+<p><a href="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/twinkle-2025.png">Twinkle</a> currently has this record, at 24</p>
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: BioMagus at 23
+<br/>
+3rd: Eternalty at 23
+</details>
+</div>
+
+<div class="record-section">
+<h3>Arena Loss Rate %</h3>
+<p>boars currently has this record, at 2% (2/113). I only considered Aislings who had at least 50 total battles.</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/arena-loss-rate/arena-win-rate-2-boars.png" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: Willco at 29
+<br/>
+3rd: bLuEjR at 33
+</details>
+</div>
+
+<div class="record-section">
+<h3>Arena Win Rate %</h3>
+<p>final currently has this record, at 86% (176/204). I only considered Aislings who had at least 50 total battles.</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/arena-win-rate/arena-win-rate-86-final.png" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: Aerian at 82
+<br/>
+3rd: Telme at 79
+</details>
+</div>
+
+<div class="record-section">
+<h3>College Award Count</h3>
+<p>A sum of all Mileth College awards, from Clave rank to Aisling rank. Kedian currently has this record at 9, consisting of 4 Aisling, 2 Village, and 2 Clave</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/college-awards/college-awards-9-kedian.png" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: Brittany at 7, consisting of 5 Aisling and 2 Kingdom
+<br/>
+3rd: BioMagus at 6, consisting of 2 Aisling, 1 Kingdom, and 3 Village
+</details>
+</div>
+
+<div class="record-section">
+<h3>Longest Blue Mark Streak</h3>
+<p>This record is for the Aislings who have the highest number of blue legend marks in a row. Xephion currently has this record, at 15.</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/blue-mark-streak/blue-mark-streak-15-xephion.png" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: Perspective at 14
+<br/>
+3rd: splyce at 13
+</details>
+</div>
+
+<div class="record-section">
+<h3>Longest College Award Claiming</h3>
+<p>Tleilandrek currently has this record, at 137 deoches between receiving a tentative noble mark and converting it to an official noble mark</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/longest-college-award/longest-college-award-tleilandrek-137.png" />
+</div>
+
+<div class="record-section">
+<h3>Longest Legend</h3>
+<p><a href="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/biomagus-2025.png">BioMagus</a> currently has this record, at 255 legend marks</p>
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: NaLyd at 255
+<br/>
+3rd: Brittany at 254
+</details>
+</div>
+
+<div class="record-section">
+<h3>Longest Mastering</h3>
+<p>DoomHealer currently has this record, at 192 deoches from becoming an Aisling to becoming a master</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/longest-mastering/longest-mastering-doomhealer-192.png" />
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: Faylawin at 177
+<br/>
+3rd: Pondy at 168
+</details>
+</div>
+
+<div class="record-section">
+<h3>Most Blue Marks</h3>
+<p><a href="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/brittany-2025.png">Brittany</a> currently has this record, at 36 total blue marks.</p>
+<details class="runner-ups"><summary>Runner Ups:</summary>
+2nd: huhuman at 31
+<br/>
+3rd: Merisa at 29
+</details>
 </div>
 
 # Simple Legend Marks
@@ -1029,102 +1125,6 @@ These records are for various types of legend marks that have been repeated the 
 2nd: MariJayne at 2361
 <br/>
 3rd: Firewind at 2265
-</details>
-</div>
-
-# Complex Legend Marks
-
-These records involve multiple types of legend marks
-
-<div class="record-section">
-<h3>Active Cycles</h3>
-<p>This record is for the Aislings whose legend marks happened in the highest number of 8-deoch chunks, known as Cycles. It's a rough estimate at how many total years they've actively played.</p>
-<p><a href="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/twinkle-2025.png">Twinkle</a> currently has this record, at 24</p>
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: BioMagus at 23
-<br/>
-3rd: Eternalty at 23
-</details>
-</div>
-
-<div class="record-section">
-<h3>Arena Loss Rate %</h3>
-<p>boars currently has this record, at 2% (2/113). I only considered Aislings who had at least 50 total battles.</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/arena-loss-rate/arena-win-rate-2-boars.png" />
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Willco at 29
-<br/>
-3rd: bLuEjR at 33
-</details>
-</div>
-
-<div class="record-section">
-<h3>Arena Win Rate %</h3>
-<p>final currently has this record, at 86% (176/204). I only considered Aislings who had at least 50 total battles.</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/arena-win-rate/arena-win-rate-86-final.png" />
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Aerian at 82
-<br/>
-3rd: Telme at 79
-</details>
-</div>
-
-<div class="record-section">
-<h3>College Award Count</h3>
-<p>A sum of all Mileth College awards, from Clave rank to Aisling rank. Kedian currently has this record at 9, consisting of 4 Aisling, 2 Village, and 2 Clave</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/college-awards/college-awards-9-kedian.png" />
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Brittany at 7, consisting of 5 Aisling and 2 Kingdom
-<br/>
-3rd: BioMagus at 6, consisting of 2 Aisling, 1 Kingdom, and 3 Village
-</details>
-</div>
-
-<div class="record-section">
-<h3>Longest Blue Mark Streak</h3>
-<p>This record is for the Aislings who have the highest number of blue legend marks in a row. Xephion currently has this record, at 15.</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/blue-mark-streak/blue-mark-streak-15-xephion.png" />
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Perspective at 14
-<br/>
-3rd: splyce at 13
-</details>
-</div>
-
-<div class="record-section">
-<h3>Longest College Award Claiming</h3>
-<p>Tleilandrek currently has this record, at 137 deoches between receiving a tentative noble mark and converting it to an official noble mark</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/longest-college-award/longest-college-award-tleilandrek-137.png" />
-</div>
-
-<div class="record-section">
-<h3>Longest Legend</h3>
-<p><a href="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/biomagus-2025.png">BioMagus</a> currently has this record, at 255 legend marks</p>
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: NaLyd at 255
-<br/>
-3rd: Brittany at 254
-</details>
-</div>
-
-<div class="record-section">
-<h3>Longest Mastering</h3>
-<p>DoomHealer currently has this record, at 192 deoches from becoming an Aisling to becoming a master</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/longest-mastering/longest-mastering-doomhealer-192.png" />
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Faylawin at 177
-<br/>
-3rd: Pondy at 168
-</details>
-</div>
-
-<div class="record-section">
-<h3>Most Blue Marks</h3>
-<p><a href="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/brittany-2025.png">Brittany</a> currently has this record, at 36 total blue marks.</p>
-<details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: huhuman at 31
-<br/>
-3rd: Merisa at 29
 </details>
 </div>
 
