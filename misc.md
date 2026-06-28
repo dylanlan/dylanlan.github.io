@@ -19,6 +19,10 @@ permalink: /misc/
 <td>Unique types of legend marks</td>
 </tr>
 <tr>
+<td><a href="{{ site.data.urls.records }}">Records</a></td>
+<td>Records from legend marks and banked items</td>
+</tr>
+<tr>
 <td><a href="{{ site.data.urls.multiverse }}">Private Servers</a></td>
 <td>Free Private Servers of Dark Ages</td>
 </tr>
@@ -69,10 +73,6 @@ Previous abandoned projects
     </tr>
 </thead>
 <tbody>
-    <tr>
-        <td><a href="{{ site.data.urls.records }}">Records (Obsolete)</a></td>
-        <td>Records from legend marks. Recommend instead: <a href="https://aislingexchange.com/legends">https://aislingexchange.com/legends</a></td>
-    </tr>
     <tr>
         <td><a href="{{ site.data.urls.guild_members }}">Guild Members (Obsolete)</a></td>
         <td>Guild leaders, council, and members. Recommend instead: <a href="https://aislingexchange.com/guilds">https://aislingexchange.com/guilds</a></td>

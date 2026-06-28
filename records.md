@@ -4,11 +4,6 @@ title:  Temuair World Records
 permalink: /records/
 ---
 
-<div class="warning-obsolete">
-  <h2>⚠️ This page is mostly obsolete!</h2>
-  <p>Visit Aisling Exchange for better legend mark records: <a href="https://www.aislingexchange.com/legends">https://www.aislingexchange.com/legends</a></p>
-</div>
-
 <input type="text" id="search" placeholder="Search records..." style="margin-bottom: 1em; padding: 0.5em; width: 100%;" />
 
 This page aims to have a collection of verifiable and beatable records, showcasing some of the most impressive Aislings feats across Temuair! Note that these records are a work-in-progress, and are only from the Aislings I've seen in-game since 2024:
@@ -67,6 +62,12 @@ These records are simply for Aislings who have banked the most of a certain item
 </div>
 
 <div class="record-section banked-item">
+<h3>Pinwheels</h3>
+<p>Sorrys currently has this record, at 1,809 of them banked!</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/pinwheel-1809-sorrys.png" />
+</div>
+
+<div class="record-section banked-item">
 <h3>Spider's Legs</h3>
 <p>Attack currently has this record, at 666 of them banked!</p>
 <img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/items-banked/spiders-legs-666-attack.png" />
@@ -91,6 +92,11 @@ These records are simply for Aislings who have banked the most of a certain item
 </div>
 
 # Simple Legend Marks
+
+<div class="warning-obsolete">
+  <h2>⚠️ Simple Legend Marks are mostly obsolete!</h2>
+  <p>Visit Aisling Exchange for better legend mark records: <a href="https://www.aislingexchange.com/legends">https://www.aislingexchange.com/legends</a></p>
+</div>
 
 These records are for various types of legend marks that have been repeated the most times!
 
@@ -201,8 +207,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Avid Temuairian Daydreamer</h3>
-<p>StarMyth currently has this record, at 43</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/avid-temuairian-daydreamer/avid-temuairian-daydreamer-43-starmyth-deoch-180.png" />
+<p>StarNite currently has this record, at 43</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/avid-temuairian-daydreamer/avid-temuairian-daydreamer-43-starnite-deoch-180.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: StarNite at 43
 <br/>
@@ -366,10 +372,10 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Crafted Yule Logs for the Inns</h3>
-<p>StarMyth currently has this record, at 69</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/crafted-yule-logs-for-the-inns/crafted-yule-logs-for-the-inns-69-starmyth-deoch-216.png" />
+<p>StarShine currently has this record, at 69</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/crafted-yule-logs-for-the-inns/crafted-yule-logs-for-the-inns-69-starshine-deoch-208.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: StarShine at 69
+2nd: StarMyth at 69
 <br/>
 3rd: JewelStar at 68
 </details>
@@ -764,8 +770,8 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Last Held Mass</h3>
-<p>Inuyoko currently has this record, at 45</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/last-held-mass/last-held-mass-45-inuyoko-deoch-219.png" />
+<p>Inuyoko currently has this record, at 50</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/last-held-mass/last-held-mass-50-inuyoko-deoch-220.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Dethf at 44
 <br/>
@@ -1032,8 +1038,8 @@ These records involve multiple types of legend marks
 
 <div class="record-section">
 <h3>Active Cycles</h3>
-<p>Twinkle currently has this record, at 24</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-24-twinkle-deoch-undefined.png" />
+<p>This record is for the Aislings whose legend marks happened in the highest number of 8-deoch chunks, known as Cycles. It's a rough estimate at how many total years they've actively played.</p>
+<p><a href="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/twinkle-2025.png">Twinkle</a> currently has this record, at 24</p>
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: BioMagus at 23
 <br/>
@@ -1043,8 +1049,8 @@ These records involve multiple types of legend marks
 
 <div class="record-section">
 <h3>Arena Loss Rate %</h3>
-<p>boars currently has this record, at 2</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-2-boars-deoch-undefined.png" />
+<p>boars currently has this record, at 2% (2/113). I only considered Aislings who had at least 50 total battles.</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/arena-loss-rate/arena-win-rate-2-boars.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Willco at 29
 <br/>
@@ -1054,8 +1060,8 @@ These records involve multiple types of legend marks
 
 <div class="record-section">
 <h3>Arena Win Rate %</h3>
-<p>final currently has this record, at 86</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-86-final-deoch-undefined.png" />
+<p>final currently has this record, at 86% (176/204). I only considered Aislings who had at least 50 total battles.</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/arena-win-rate/arena-win-rate-86-final.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Aerian at 82
 <br/>
@@ -1065,19 +1071,19 @@ These records involve multiple types of legend marks
 
 <div class="record-section">
 <h3>College Award Count</h3>
-<p>Kedian currently has this record, at 9</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-9-kedian-deoch-undefined.png" />
+<p>A sum of all Mileth College awards, from Clave rank to Aisling rank. Kedian currently has this record at 9, consisting of 4 Aisling, 2 Village, and 2 Clave</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/college-awards/college-awards-9-kedian.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Brittany at 7
+2nd: Brittany at 7, consisting of 5 Aisling and 2 Kingdom
 <br/>
-3rd: Audry at 6
+3rd: BioMagus at 6, consisting of 2 Aisling, 1 Kingdom, and 3 Village
 </details>
 </div>
 
 <div class="record-section">
 <h3>Longest Blue Mark Streak</h3>
-<p>Xephion currently has this record, at 15</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-15-xephion-deoch-undefined.png" />
+<p>This record is for the Aislings who have the highest number of blue legend marks in a row. Xephion currently has this record, at 15.</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/blue-mark-streak/blue-mark-streak-15-xephion.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Perspective at 14
 <br/>
@@ -1086,20 +1092,25 @@ These records involve multiple types of legend marks
 </div>
 
 <div class="record-section">
+<h3>Longest College Award Claiming</h3>
+<p>Tleilandrek currently has this record, at 137 deoches between receiving a tentative noble mark and converting it to an official noble mark</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/longest-college-award/longest-college-award-tleilandrek-137.png" />
+</div>
+
+<div class="record-section">
 <h3>Longest Legend</h3>
-<p>BioMagus currently has this record, at 255</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-255-biomagus-deoch-undefined.png" />
+<p><a href="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/biomagus-2025.png">BioMagus</a> currently has this record, at 255 legend marks</p>
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Brittany at 252
+2nd: NaLyd at 255
 <br/>
-3rd: huhuman at 248
+3rd: Brittany at 254
 </details>
 </div>
 
 <div class="record-section">
 <h3>Longest Mastering</h3>
-<p>DoomHealer currently has this record, at 192</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-192-doomhealer-deoch-undefined.png" />
+<p>DoomHealer currently has this record, at 192 deoches from becoming an Aisling to becoming a master</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/longest-mastering/longest-mastering-doomhealer-192.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: Faylawin at 177
 <br/>
@@ -1109,8 +1120,7 @@ These records involve multiple types of legend marks
 
 <div class="record-section">
 <h3>Most Blue Marks</h3>
-<p>Brittany currently has this record, at 36</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-36-brittany-deoch-undefined.png" />
+<p><a href="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/aisling-legends/brittany-2025.png">Brittany</a> currently has this record, at 36 total blue marks.</p>
 <details class="runner-ups"><summary>Runner Ups:</summary>
 2nd: huhuman at 31
 <br/>
