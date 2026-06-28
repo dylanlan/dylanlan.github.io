@@ -19,13 +19,17 @@ Struggling to post on a board or send a mail due to hidden "curse words"? Try pa
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         const blockedWords = [
-            'lol', 'lmao', 'rofl', 'ioi', 'thx', 'brb', 'afk', 'internet protocol', 'password', 
+            'lol', 'lmao', 'lmfao', 'rofl', 'ioi', 'thx', 'brb', 'afk', 'internet protocol', 'password', 
 
-            'fuck', /fu+ck/, 'shit', 'piss', 'stfu', 'wtf', 'ffs', 'bastard', 'basterd', 'bitch', 'slut', 'cunt', 'pussy', 'whore', 'pussy', 'vagina', 'cock', 'dick', 'penis', 'fag', 'nigger', 'nigga', 'nazi', 'gay', 'homo', 'queer',
+            'fuck', /fu+ck/, 'shit', 'piss', 'stfu', 'gtfo', 'wtf', 'ffs', 'asshole', 'bukake', 'bastard', 'basterd', 'bitch', 'slut', 'cunt', 'clit', 'dildo', 'douche', 'jizz', 'pussy', 'whore', 'pussy', 'vagina', 'cock', 'dick', 'penis', 'fag', 'nigg', 'niger', 'nazi', 'gay', 'homo', 'queer',
         ];
 
         const notBlockedWords = [
-            'retard', 'damn', 'ass', 'crap', 'hell', 'tit', 'lesbian', 
+            'retard', 'rape', 'damn', 'ass', 'crap', 'hell', 'tit', 'lesbian', 
+        ];
+
+        const blockedCharNameWords = [
+            'warrior', 'priest', 'wizard', 'rogue', 'dance', 'home', 'test', 'super', 'free' 
         ];
         
         function escapeHtml(text) {
