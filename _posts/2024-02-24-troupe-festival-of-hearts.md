@@ -4,6 +4,7 @@ title:  Festival of Hearts 2024
 date:   2024-02-24
 categories: adventure
 thumbnail: thumbnails/troupe-foh-lovers-garden.png
+header: thumbnails/troupe-foh-2024-header.png
 ---
 
 The Suomi Troupe hosted some amazing events in February, for their annual Festival of Hearts!

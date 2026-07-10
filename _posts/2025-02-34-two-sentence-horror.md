@@ -4,6 +4,7 @@ title: Two Sentence Horror
 date: 2025-02-23
 categories: adventures
 thumbnail: thumbnails/two-sentence-horror-thumbnail.png
+header: thumbnails/two-sentence-horror-header.png
 ---
 
 
@@ -14,7 +15,7 @@ Laurier hosted a class about mini horror stories in two sentences! Here are the 
 
 I can't move, breathe, speak or hear and it's so dark all the time.
 
-If I knew I would be this only, I would have been cremated instead.
+If I knew I would be this lonely, I would have been cremated instead.
 
 
 ### Laurier #2

@@ -4,6 +4,7 @@ title:  Dark Horizon Adventures with Brandyn and friends
 date:   2024-02-29
 categories: adventures
 thumbnail: thumbnails/brandyn-desert-dunes.png
+header: thumbnails/brandyn-desert-dunes-header.png
 ---
 
 Here are some recent adventures that the Aislings Brandyn, Broxy, and Nishioka partook in! (Screenshots courtesy of Brandyn)
