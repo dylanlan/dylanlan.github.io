@@ -168,12 +168,12 @@ These records involve multiple types of legend marks
 
 <div class="record-section">
 <h3>Longest Mastering</h3>
-<p>DoomHealer currently has this record, at 192 deoches from becoming an Aisling to becoming a master</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/longest-mastering/longest-mastering-doomhealer-192.png" />
+<p>DoomHealer currently has this record, at 192</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records//-192-doomhealer-deoch-undefined.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Faylawin at 177
+2nd: trazarion at 188
 <br/>
-3rd: Pondy at 168
+3rd: Faylawin at 177
 </details>
 </div>
 
@@ -545,12 +545,12 @@ These records are for various types of legend marks that have been repeated the 
 
 <div class="record-section">
 <h3>Divorced</h3>
-<p>Connecter currently has this record, at 214</p>
-<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/divorced/divorced-214-connecter-deoch-215.png" />
+<p>akuiya currently has this record, at 216</p>
+<img src="https://darkages-screenshot-archive.s3.us-east-1.amazonaws.com/records/divorced/divorced-216-akuiya-deoch-221.png" />
 <details class="runner-ups"><summary>Runner Ups:</summary>
-2nd: Nioreh at 172
+2nd: Connecter at 214
 <br/>
-3rd: Merynn at 124
+3rd: Nioreh at 172
 </details>
 </div>
 
