@@ -459,8 +459,8 @@ Wanting to track which legend marks you're still missing? This tool can help you
     <div class="filter-buttons">
       <button class="btn btn-secondary" id="toggleUnobtainableBtn" title="Legend Marks which can't be obtained nowadays">🚫 Show Unobtainable</button>
       <button class="btn btn-secondary" id="togglePrivateBtn" title="Legend Marks which other players can't see">👁️ Show Private</button>
-      <button class="btn btn-secondary" id="toggleOtherClassBtn" title="Class-exclusive marks that aren't available to your synced Aisling's class">🎭 Show Other Classes</button>
-      <button class="btn btn-secondary" id="toggleGroupLockedBtn" title="Hide marks that are unavailable because a mutually-exclusive mark from the same group was already obtained">🔒 Hide Group-Locked</button>
+      <button class="btn btn-secondary" id="toggleOtherClassBtn" title="Class-exclusive marks that aren't available to your Aisling's class">🎭 Show Other Classes</button>
+      <button class="btn btn-secondary" id="toggleGroupLockedBtn" title="Hide marks that are unavailable because of other obtained legend marks">🔒 Hide Locked</button>
     </div>
     
     <div class="action-buttons">

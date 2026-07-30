@@ -244,7 +244,55 @@
       }
       return obtainableCheck && publicCheck && classCheck;
     });
+
+    legendMarks.forEach(mark => {
+      mark.customLockReason = getCustomLockReason(mark, playerClass);
+    });
+
     legendMarks.sort((a, b) => a.text.localeCompare(b.text));
+  }
+
+  function getCustomLockReason(mark, playerClass) {
+    if (checkedMarks.has(mark.text) || deletedMarks.has(mark.text)) {
+      return null;
+    }
+
+    const levelLockedMarks = [
+      'Loved by Mileth Mundanes',
+      'Completed Ciad Quest',
+      'Completed Tiota Quest',
+      'Completed Treas Quest',
+      'Slew Terror of the Crypt',
+      'Slew Terror of the Garden',
+      'Slew Terror of the Alley',
+    ];
+
+    const subbingMarks = [
+      'Attempting Warrior Dedication',
+      'Attempting Monk Dedication',
+      'Attempting Rogue Dedication',
+      'Attempting Priest Dedication',
+      'Attempting Wizard Dedication',
+    ];
+
+    const isLevelLocked = levelLockedMarks.includes(mark.text);
+
+    if (isLevelLocked && checkedMarks.has('Master')) {
+      return 'Level-locked quest. Already mastered';
+    }
+
+    const isAttemptingSub = subbingMarks.includes(mark.text);
+
+    if (isAttemptingSub && checkedMarks.has('Master')) {
+      return 'Already mastered. Cannot subclass';
+    }
+
+    const disallowedClasses = ['Summoner', 'Gladiator', 'Archer', 'Bard', 'Druid'];
+    if (mark.text === 'Great Soldier of the Goblin War' && disallowedClasses.includes(playerClass)) {
+      return `Not available to Medenian Classes`;
+    }
+
+    return null;
   }
 
   /* Returns a map of uniqueGroup -> mark.text for the group's already-obtained mark,
@@ -302,6 +350,7 @@
   function renderList() {
     const container = document.getElementById('legendMarksList');
     const groupOccupants = getGroupOccupants();
+    const playerClass = getPlayerClass(currentCharacter);
 
     let filtered = legendMarks.filter(mark => {
       const searchMatch = mark.text.toLowerCase().includes(currentFilter.toLowerCase());
@@ -309,7 +358,9 @@
       const categoryMatch = categoryFilter ? mark.category === categoryFilter : true;
 
       const isLocked = mark.uniqueGroup && groupOccupants[mark.uniqueGroup] && groupOccupants[mark.uniqueGroup] !== mark.text;
-      const groupMatch = (hideGroupLocked && isLocked && !checkedMarks.has(mark.text)) ? false : true;
+      const customLockReason = getCustomLockReason(mark, playerClass);
+      const isCustomLocked = !!customLockReason;
+      const groupMatch = (hideGroupLocked && (isLocked || isCustomLocked) && !checkedMarks.has(mark.text)) ? false : true;
 
       return searchMatch && deletedMatch && categoryMatch && groupMatch;
     });
@@ -329,8 +380,6 @@
       container.innerHTML = '<div class="no-results">No legend marks found</div>';
       return;
     }
-    
-    const playerClass = getPlayerClass(currentCharacter);
 
     container.innerHTML = filtered.map(mark => {
       const markClasses = getMarkClasses(mark);
@@ -339,9 +388,12 @@
       const isWrongClass = mark.classExclusive === 'Yes' && playerClass && markClasses.length && !markClasses.includes(playerClass);
       const lockedBy = mark.uniqueGroup ? groupOccupants[mark.uniqueGroup] : null;
       const isGroupLocked = lockedBy && lockedBy !== mark.text;
-      const isDisabled = isDeleted || isGroupLocked;
+      const customLockReason = getCustomLockReason(mark, playerClass);
+      const isCustomLocked = !!customLockReason;
+      const isDisabled = isDeleted || isGroupLocked || isCustomLocked;
+      const lockReason = isGroupLocked ? `${lockedBy} was already obtained from this group` : customLockReason;
       return `
-        <div class="legend-mark-item ${isChecked ? 'checked' : ''} ${isDeleted ? 'deleted' : ''} ${isWrongClass ? 'other-class' : ''} ${isGroupLocked ? 'group-locked' : ''}" data-mark="${escapeHtml(mark.text)}">
+        <div class="legend-mark-item ${isChecked ? 'checked' : ''} ${isDeleted ? 'deleted' : ''} ${isWrongClass ? 'other-class' : ''} ${isGroupLocked || isCustomLocked ? 'group-locked' : ''}" data-mark="${escapeHtml(mark.text)}">
           <input type="checkbox" ${isChecked ? 'checked' : ''} data-mark="${escapeHtml(mark.text)}" ${isDisabled ? 'disabled' : ''}>
           <span class="legend-mark-text legend-mark-color-${mark.color.toLowerCase()}">${escapeHtml(mark.text)}</span>
           <span class="legend-mark-category" title="${escapeHtml(mark.subcategories || '')}">${escapeHtml(mark.category || 'Unknown')}</span>
@@ -350,7 +402,7 @@
           ${mark.public !== 'Yes' ? `<span class="legend-mark-private" title="Private mark - not visible on public legend">Private</span>` : ''}
           ${mark.obtainable !== 'Yes' ? `<span class="legend-mark-unobtainable" title="No longer obtainable">Unobtainable</span>` : ''}
           ${isWrongClass ? `<span class="legend-mark-unobtainable" title="Not available to your class">Wrong Class</span>` : ''}
-          ${isGroupLocked ? `<span class="legend-mark-group-locked" title="Unavailable - ${escapeHtml(lockedBy)} was already obtained from this group">🔒 Locked</span>` : ''}
+          ${(isGroupLocked || isCustomLocked) ? `<span class="legend-mark-group-locked" title="Unavailable - ${escapeHtml(lockReason)}">🔒 Locked</span>` : ''}
           ${isDeleted ? `<span class="legend-mark-deleted" title="Deleted from tracking">Deleted</span>` : ''}
           ${isDeleted ? 
             `<button class="btn-restore" data-mark="${escapeHtml(mark.text)}" title="Restore mark">↶ Restore</button>` : 
@@ -381,8 +433,8 @@
     if (e.target.type === 'checkbox' || e.target.classList.contains('btn-delete') || e.target.classList.contains('btn-restore')) return;
     
     const item = e.currentTarget;
-    /* Don't toggle if deleted or locked out by a mutually-exclusive group mark */
-    if (item.classList.contains('deleted') || item.classList.contains('group-locked')) return;
+    /* Don't toggle if deleted or locked out by a mutually-exclusive group mark or custom-unavailable rule */
+    if (item.classList.contains('deleted') || item.classList.contains('group-locked') || item.classList.contains('custom-locked')) return;
     
     const checkbox = item.querySelector('input[type="checkbox"]');
     checkbox.checked = !checkbox.checked;
@@ -429,11 +481,20 @@
     const total = legendMarks.length;
     const checked = checkedMarks.size;
 
+    const playerClass = getPlayerClass(currentCharacter);
     const groupOccupants = getGroupOccupants();
+    const seenUniqueGroups = new Set();
     const remaining = legendMarks.filter(mark => {
       if (checkedMarks.has(mark.text) || deletedMarks.has(mark.text)) return false;
-      const lockedBy = mark.uniqueGroup ? groupOccupants[mark.uniqueGroup] : null;
-      if (lockedBy && lockedBy !== mark.text) return false;
+      if (getCustomLockReason(mark, playerClass)) return false;
+      if (mark.uniqueGroup) {
+        const lockedBy = groupOccupants[mark.uniqueGroup];
+        if (lockedBy && lockedBy !== mark.text) return false;
+        if (!lockedBy) {
+          if (seenUniqueGroups.has(mark.uniqueGroup)) return false;
+          seenUniqueGroups.add(mark.uniqueGroup);
+        }
+      }
       return true;
     }).length;
     
