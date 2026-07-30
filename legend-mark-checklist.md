@@ -298,6 +298,54 @@ Wanting to track which legend marks you're still missing? This tool can help you
     font-weight: bold;
   }
   
+  .legend-mark-group-locked {
+    font-size: 12px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: #343a40;
+    color: #ffc107;
+    border: 1px solid #23272b;
+    white-space: nowrap;
+    margin-left: 5px;
+    font-weight: bold;
+  }
+  
+  .legend-mark-item.other-class {
+    opacity: 0.5;
+  }
+  
+  .legend-mark-item.group-locked {
+    opacity: 0.5;
+  }
+  
+  .player-class-display {
+    font-weight: bold;
+    color: var(--main-text-color);
+    margin-left: 10px;
+    font-size: 14px;
+  }
+  
+  .sync-status {
+    font-size: 13px;
+    font-style: italic;
+    color: var(--light-text-color);
+    margin-left: 10px;
+  }
+  
+  .btn-info-sync {
+    background: #6f42c1;
+    color: white;
+  }
+  
+  .btn-info-sync:hover {
+    background: #5a34a1;
+  }
+  
+  .btn-info-sync:disabled {
+    background: #6c757d;
+    cursor: not-allowed;
+  }
+  
   .btn-delete,
   .btn-restore {
     margin-left: auto;
@@ -371,11 +419,14 @@ Wanting to track which legend marks you're still missing? This tool can help you
         <button class="btn btn-danger" id="deleteCharacterBtn">🗑️ Delete Aisling</button>
       </div>
       <div class="character-input-group">
-        <div class="file-upload-section" style="margin-left: auto;">
+        <button class="btn btn-info-sync" id="syncApiBtn" title="Pull class and current legend marks from Aisling Exchange">🔄 Load from AislingExchange</button>
+        <span id="playerClassDisplay" class="player-class-display"></span>
+        <span id="syncStatus" class="sync-status"></span>
+        <!-- <div class="file-upload-section" style="margin-left: auto;">
           <span id="fileName" style="margin-left: 10px; font-style: italic;"></span>
           <label for="fileInput" class="file-upload-label">📁 Upload Marks</label>
           <input type="file" id="fileInput" accept=".txt">
-        </div>
+        </div> -->
       </div>
     </div>
     
@@ -393,8 +444,9 @@ Wanting to track which legend marks you're still missing? This tool can help you
     </div>
     
     <div class="stats">
-      <div class="stat-item">Total Available: <span id="totalCount">0</span></div>
-      <div class="stat-item">Obtained: <span id="checkedCount">0</span></div>
+      <div class="stat-item">Total Marks: <span id="totalCount">0</span></div>
+      <div class="stat-item">Obtained Marks: <span id="checkedCount">0</span></div>
+      <div class="stat-item">Remaining Obtainable Marks: <span id="remainingCount">0</span></div>
     </div>
     
     <div class="filter-buttons">
@@ -407,6 +459,8 @@ Wanting to track which legend marks you're still missing? This tool can help you
     <div class="filter-buttons">
       <button class="btn btn-secondary" id="toggleUnobtainableBtn" title="Legend Marks which can't be obtained nowadays">🚫 Show Unobtainable</button>
       <button class="btn btn-secondary" id="togglePrivateBtn" title="Legend Marks which other players can't see">👁️ Show Private</button>
+      <button class="btn btn-secondary" id="toggleOtherClassBtn" title="Class-exclusive marks that aren't available to your synced Aisling's class">🎭 Show Other Classes</button>
+      <button class="btn btn-secondary" id="toggleGroupLockedBtn" title="Hide marks that are unavailable because a mutually-exclusive mark from the same group was already obtained">🔒 Hide Group-Locked</button>
     </div>
     
     <div class="action-buttons">
