@@ -323,7 +323,7 @@
   function updateToggleButtons() {
     document.getElementById('toggleUnobtainableBtn').classList.toggle('active', showUnobtainable);
     document.getElementById('togglePrivateBtn').classList.toggle('active', showPrivate);
-    document.getElementById('toggleDeletedBtn').classList.toggle('active', showDeleted);
+    // document.getElementById('toggleDeletedBtn').classList.toggle('active', showDeleted);
     const otherClassBtn = document.getElementById('toggleOtherClassBtn');
     if (otherClassBtn) otherClassBtn.classList.toggle('active', showOtherClass);
     const groupLockedBtn = document.getElementById('toggleGroupLockedBtn');
@@ -428,13 +428,17 @@
           ${mark.obtainable !== 'Yes' ? `<span class="legend-mark-unobtainable" title="No longer obtainable">Unobtainable</span>` : ''}
           ${isWrongClass ? `<span class="legend-mark-unobtainable" title="Not available to your class">Wrong Class</span>` : ''}
           ${(isGroupLocked || isCustomLocked) ? `<span class="legend-mark-group-locked" title="Unavailable - ${escapeHtml(lockReason)}">🔒 Locked</span>` : ''}
-          ${isDeleted ? `<span class="legend-mark-deleted" title="Deleted from tracking">Deleted</span>` : ''}
-          ${isDeleted ? 
-            `<button class="btn-restore" data-mark="${escapeHtml(mark.text)}" title="Restore mark">↶ Restore</button>` : 
-            `<button class="btn-delete" data-mark="${escapeHtml(mark.text)}" title="Delete mark">🗑️</button>`
-          }
+          
         </div>`;
     }).join('');
+
+    /*
+        ${isDeleted ? `<span class="legend-mark-deleted" title="Deleted from tracking">Deleted</span>` : ''}
+        ${isDeleted ? 
+          `<button class="btn-restore" data-mark="${escapeHtml(mark.text)}" title="Restore mark">↶ Restore</button>` : 
+          `<button class="btn-delete" data-mark="${escapeHtml(mark.text)}" title="Delete mark">🗑️</button>`
+        }
+     */
 
     container.querySelectorAll('.legend-mark-item').forEach(item => {
       item.addEventListener('click', handleRowClick);
@@ -564,11 +568,11 @@
     updateStats();
   });
   
-  document.getElementById('toggleDeletedBtn').addEventListener('click', () => {
-    showDeleted = !showDeleted;
-    renderList();
-    updateStats();
-  });
+  // document.getElementById('toggleDeletedBtn').addEventListener('click', () => {
+  //   showDeleted = !showDeleted;
+  //   renderList();
+  //   updateStats();
+  // });
 
   document.getElementById('toggleOtherClassBtn').addEventListener('click', () => {
     showOtherClass = !showOtherClass;

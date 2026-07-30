@@ -453,7 +453,7 @@ Wanting to track which legend marks you're still missing? This tool can help you
       <button class="btn btn-info" id="showAllBtn" title="Show both checked and unchecked legend marks">📋 Show All</button>
       <button class="btn btn-info" id="showCheckedBtn" title="Show marks you've checked off">✓ Show Checked Only</button>
       <button class="btn btn-info" id="showUncheckedBtn" title="Show marks you haven't checked yet">☐ Show Unchecked Only</button>
-      <button class="btn btn-info" id="toggleDeletedBtn" title="Show marks you've removed from tracking">🗑️ Show Deleted Only</button>
+      <!-- <button class="btn btn-info" id="toggleDeletedBtn" title="Show marks you've removed from tracking">🗑️ Show Deleted Only</button> -->
     </div>
     
     <div class="filter-buttons">
