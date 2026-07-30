@@ -15,11 +15,10 @@
   let showOtherClass = false;
   let hideGroupLocked = false;
   let playerApiData = {};
-  const classe = ['Monk', 'Priest', 'Rogue', 'Warrior', 'Wizard', 'Medenian', 'Druid', 'Bard', 'Archer', 'Gladiator', 'Summoner'];
+  const classe = ['Monk', 'Priest', 'Rogue', 'Warrior', 'Wizard', 'Druid', 'Bard', 'Archer', 'Gladiator', 'Summoner'];
   
   // const API_BASE = 'http://127.0.0.1:8787/aisling/';
   const API_BASE = 'https://test-cloudflare-worker.dylanlan.workers.dev/aisling/';
-  // const API_BASE = 'https://api.aislingexchange.com/api/players/';
 
   async function loadLegendMarks() {
     try {
@@ -229,8 +228,21 @@
     }
   }
 
+  const ADVANCED_CLASS_MAP = {
+    Gladiator: 'Warrior',
+    Druid: 'Monk',
+    Archer: 'Rogue',
+    Bard: 'Priest',
+    Summoner: 'Wizard'
+  };
+
+  function normalizeClassForMatching(playerClass) {
+    return ADVANCED_CLASS_MAP[playerClass] || playerClass;
+  }
+
   function filterMarks() {
-    const playerClass = getPlayerClass(currentCharacter);
+    const rawPlayerClass = getPlayerClass(currentCharacter);
+    const playerClass = normalizeClassForMatching(rawPlayerClass);
     legendMarks = allLegendMarks.filter(m => {
       const obtainableCheck = showUnobtainable ? true : m.obtainable === 'Yes';
       const publicCheck = showPrivate ? true : m.public === 'Yes';
@@ -246,7 +258,7 @@
     });
 
     legendMarks.forEach(mark => {
-      mark.customLockReason = getCustomLockReason(mark, playerClass);
+      mark.customLockReason = getCustomLockReason(mark, rawPlayerClass);
     });
 
     legendMarks.sort((a, b) => a.text.localeCompare(b.text));
@@ -350,16 +362,29 @@
   function renderList() {
     const container = document.getElementById('legendMarksList');
     const groupOccupants = getGroupOccupants();
-    const playerClass = getPlayerClass(currentCharacter);
+    const rawPlayerClass = getPlayerClass(currentCharacter);
+    const playerClass = normalizeClassForMatching(rawPlayerClass);
 
     let filtered = legendMarks.filter(mark => {
-      const searchMatch = mark.text.toLowerCase().includes(currentFilter.toLowerCase());
+      const filterText = currentFilter.toLowerCase().trim();
+      const lockReason = getCustomLockReason(mark, rawPlayerClass);
+      const isLocked = mark.uniqueGroup && groupOccupants[mark.uniqueGroup] && groupOccupants[mark.uniqueGroup] !== mark.text;
+      const isCustomLocked = !!lockReason;
+      const lockLabel = isLocked || isCustomLocked ? 'locked' : '';
+      const unobtainableLabel = mark.obtainable !== 'Yes' ? 'unobtainable' : '';
+      const markClasses = getMarkClasses(mark);
+
+      const searchMatch = !filterText || [
+        mark.text,
+        mark.category,
+        mark.uniqueGroup,
+        markClasses.join(','),
+        lockLabel,
+        unobtainableLabel
+      ].some(value => value && value.toLowerCase().includes(filterText));
+
       const deletedMatch = showDeleted ? deletedMarks.has(mark.text) : !deletedMarks.has(mark.text);
       const categoryMatch = categoryFilter ? mark.category === categoryFilter : true;
-
-      const isLocked = mark.uniqueGroup && groupOccupants[mark.uniqueGroup] && groupOccupants[mark.uniqueGroup] !== mark.text;
-      const customLockReason = getCustomLockReason(mark, playerClass);
-      const isCustomLocked = !!customLockReason;
       const groupMatch = (hideGroupLocked && (isLocked || isCustomLocked) && !checkedMarks.has(mark.text)) ? false : true;
 
       return searchMatch && deletedMatch && categoryMatch && groupMatch;
@@ -388,7 +413,7 @@
       const isWrongClass = mark.classExclusive === 'Yes' && playerClass && markClasses.length && !markClasses.includes(playerClass);
       const lockedBy = mark.uniqueGroup ? groupOccupants[mark.uniqueGroup] : null;
       const isGroupLocked = lockedBy && lockedBy !== mark.text;
-      const customLockReason = getCustomLockReason(mark, playerClass);
+      const customLockReason = getCustomLockReason(mark, rawPlayerClass);
       const isCustomLocked = !!customLockReason;
       const isDisabled = isDeleted || isGroupLocked || isCustomLocked;
       const lockReason = isGroupLocked ? `${lockedBy} was already obtained from this group` : customLockReason;
@@ -481,12 +506,13 @@
     const total = legendMarks.length;
     const checked = checkedMarks.size;
 
-    const playerClass = getPlayerClass(currentCharacter);
+    const rawPlayerClass = getPlayerClass(currentCharacter);
+    const playerClass = normalizeClassForMatching(rawPlayerClass);
     const groupOccupants = getGroupOccupants();
     const seenUniqueGroups = new Set();
     const remaining = legendMarks.filter(mark => {
       if (checkedMarks.has(mark.text) || deletedMarks.has(mark.text)) return false;
-      if (getCustomLockReason(mark, playerClass)) return false;
+      if (getCustomLockReason(mark, rawPlayerClass)) return false;
       if (mark.uniqueGroup) {
         const lockedBy = groupOccupants[mark.uniqueGroup];
         if (lockedBy && lockedBy !== mark.text) return false;
