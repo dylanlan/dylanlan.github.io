@@ -21,7 +21,7 @@ Struggling to post on a board or send a mail due to hidden "curse words"? Try pa
         const blockedWords = [
             'lol', 'lmao', 'lmfao', 'rofl', 'ioi', 'thx', 'brb', 'afk', 'internet protocol', 'password', 
 
-            'fuck', /fu+ck/, 'shit', 'piss', 'stfu', 'gtfo', 'wtf', 'ffs', 'asshole', 'bukake', 'bastard', 'basterd', 'bitch', 'slut', 'cunt', 'clit', 'dildo', 'douche', 'jizz', 'pussy', 'whore', 'pussy', 'vagina', 'cock', 'dick', 'penis', 'fag', 'nigg', 'niger', 'nazi', 'gay', 'homo', 'queer',
+            'fuck', /fu+/, 'fuq', 'shit', 'piss', 'stfu', 'gtfo', 'wtf', 'ffs', 'asshole', 'bukake', 'bastard', 'basterd', 'bitch', 'slut', 'cunt', 'clit', 'dildo', 'douche', 'jizz', 'pussy', 'whore', 'pussy', 'vagina', 'cock', 'dick', 'penis', 'fag', 'nigg', 'niger', 'nazi', 'gay', 'homo', 'queer',
         ];
 
         const notBlockedWords = [
@@ -29,7 +29,7 @@ Struggling to post on a board or send a mail due to hidden "curse words"? Try pa
         ];
 
         const blockedCharNameWords = [
-            'warrior', 'priest', 'wizard', 'rogue', 'dance', 'home', 'test', 'super', 'free' 
+            'warrior', 'priest', 'wizard', 'rogue', 'dance', 'home', 'test', 'super', 'free', 'lag', 'quest', 'master', 'retard', 'rape', 'damn', 'ass', 
         ];
         
         function escapeHtml(text) {
