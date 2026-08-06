@@ -622,22 +622,22 @@
     }
   });
 
-  document.getElementById('exportBtn').addEventListener('click', () => {
-    if (!currentCharacter) {
-      alert('Please select an Aisling first');
-      return;
-    }
-    const checked = [...checkedMarks].sort((a, b) => a.localeCompare(b));
-    const text = checked.join('\n');
-    const blob = new Blob([text], { type: 'text/plain' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    const filename = `${currentCharacter}-legend-marks`.replace(/[^a-z0-9-_]/gi, '_');
-    a.href = url;
-    a.download = filename;
-    a.click();
-    URL.revokeObjectURL(url);
-  });
+  // document.getElementById('exportBtn').addEventListener('click', () => {
+  //   if (!currentCharacter) {
+  //     alert('Please select an Aisling first');
+  //     return;
+  //   }
+  //   const checked = [...checkedMarks].sort((a, b) => a.localeCompare(b));
+  //   const text = checked.join('\n');
+  //   const blob = new Blob([text], { type: 'text/plain' });
+  //   const url = URL.createObjectURL(blob);
+  //   const a = document.createElement('a');
+  //   const filename = `${currentCharacter}-legend-marks`.replace(/[^a-z0-9-_]/gi, '_');
+  //   a.href = url;
+  //   a.download = filename;
+  //   a.click();
+  //   URL.revokeObjectURL(url);
+  // });
 
   function normalizeMarkText(text) {
     return getBaseText(text);

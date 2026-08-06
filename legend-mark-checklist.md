@@ -465,7 +465,7 @@ Wanting to track which legend marks you're still missing? This tool can help you
     
     <div class="action-buttons">
       <button class="btn btn-danger" id="clearAllBtn">☐ Uncheck All</button>
-      <button class="btn btn-primary" id="exportBtn">💾 Export File</button>
+      <!-- <button class="btn btn-primary" id="exportBtn">💾 Export File</button> -->
     </div>
   </div>
   
