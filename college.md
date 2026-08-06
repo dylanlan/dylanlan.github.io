@@ -9,6 +9,7 @@ Here are some links to Mileth College submissions:
 # Mine
 - [Memory Guide]({{ site.data.urls.memory_guide }}) (Aisling Lore)
 - [Temuair's Feral Fountains]({{ site.data.urls.feral_fountains }}) (Village Lore)
+- [2026 Memory of the Cycle](https://novus-imperia.com/college/2026.htm) (Clave Memory)
 - [2025 Memory of the Cycle](https://novus-imperia.com/college/2025.htm) (Village Memory)
 
 # Sradagan Members
