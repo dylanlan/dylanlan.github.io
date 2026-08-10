@@ -1417,6 +1417,53 @@ footer {
 
 
 /* Specific page styling */
+.infoTooltip {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    border: 1px solid currentColor;
+    border-radius: 50%;
+    background: transparent;
+    color: inherit;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1;
+    vertical-align: middle;
+    cursor: help;
+}
+
+.infoTooltipText {
+    position: absolute;
+    z-index: 2;
+    top: calc(100% + 8px);
+    left: 50%;
+    width: 320px;
+    max-width: 80vw;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #333;
+    color: #fff;
+    font-family: $body-typeface;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.35;
+    text-align: left;
+    transform: translateX(-50%);
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.15s ease;
+}
+
+.infoTooltip:hover .infoTooltipText,
+.infoTooltip:focus .infoTooltipText {
+    visibility: visible;
+    opacity: 1;
+}
+
 .badWordsInputContainer {
     position: relative;
     width: 100%;
@@ -1440,6 +1487,22 @@ footer {
     overflow-wrap: break-word;
     pointer-events: none;
     color: #000;
+}
+
+.blockedWordsList {
+    margin: -10px 0 20px;
+}
+
+.blockedWordsList summary {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.blockedWordsList ul {
+    columns: 3;
+    margin-top: 10px !important;
+    font-family: monospace;
+    font-size: 14px;
 }
 
 #badWordsInput,
