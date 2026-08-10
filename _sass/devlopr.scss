@@ -1417,49 +1417,54 @@ footer {
 
 
 /* Specific page styling */
-#badWordsInput {
+.badWordsInputContainer {
+    position: relative;
     width: 100%;
-    min-height: 100px;
-    padding: 10px;
-    font-size: 16px;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    font-family: monospace;
     margin-bottom: 20px;
-}
-
-#charNameInput {
-    width: 100%;
-    padding: 10px;
-    font-size: 16px;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    font-family: monospace;
-    margin-bottom: 20px;
-}
-
-#badWordsOutput,
-#charNameOutput {
-    color:#000;
     background-color: #f5f5f5;
-    border: 2px solid #ddd;
     border-radius: 4px;
-    
-    font-size: 16px;
-    line-height: 1.6;
+}
+
+.badWordsInputHighlight {
+    position: absolute;
+    inset: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: 10px;
+    border: 2px solid transparent;
+    border-radius: 4px;
     font-family: monospace;
+    font-size: 16px;
+    line-height: normal;
     white-space: pre-wrap;
-    word-wrap: break-word;
+    overflow-wrap: break-word;
+    pointer-events: none;
+    color: #000;
 }
 
-#badWordsOutput {
-    padding: 15px;
+#badWordsInput,
+#charNameInput {
+    position: relative;
+    z-index: 1;
+    box-sizing: border-box;
+    width: 100%;
+    color: transparent;
+    caret-color: #333;
+    background-color: transparent;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-family: monospace;
+}
+
+#badWordsInput {
     min-height: 100px;
-    margin-bottom: 20px;
 }
 
-#charNameOutput {
-    padding: 5px;
+#badWordsInput::placeholder,
+#charNameInput::placeholder {
+    color: #999;
 }
 
 .badWordsHighlight {
