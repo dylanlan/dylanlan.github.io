@@ -24,7 +24,7 @@ Help find accidental blocked words in-game
 
 <div id="charNameInputContainer" class="badWordsInputContainer">
     <div id="charNameInputHighlight" class="badWordsInputHighlight" aria-hidden="true"></div>
-    <input id="charNameInput" type="text" placeholder="Enter an Aisling name...">
+    <input id="charNameInput" type="text" placeholder="Enter an Aisling name..." pattern="[A-Za-z]*" maxlength="12" autocomplete="off" spellcheck="false">
 </div>
 <details class="blockedWordsList">
     <summary>View blocked words</summary>
@@ -101,6 +101,12 @@ Help find accidental blocked words in-game
                 highlight.scrollLeft = input.scrollLeft;
             });
             setInputHighlight(input, highlight, container, words);
+        }
+
+        if (charNameInput) {
+            charNameInput.addEventListener('input', () => {
+                charNameInput.value = charNameInput.value.replace(/[^a-zA-Z]/g, '');
+            });
         }
 
         function populateBlockedWordsList(list, words) {
