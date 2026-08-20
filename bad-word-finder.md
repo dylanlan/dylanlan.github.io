@@ -20,7 +20,7 @@ Help find accidental blocked words in-game
     <ul id="boardBlockedWordsList"></ul>
 </details>
 
-<h2>Aisling Name Checker <button class="infoTooltip" type="button" aria-label="About the Aisling name checker"><span aria-hidden="true">i</span><span class="infoTooltipText" role="tooltip">Trying to create a new Aisling but it's saying the name might "contain a reserved string"? Try typing the name in here to check if part of it is getting blocked.</span></button></h2>
+<h2>Aisling Name <button class="infoTooltip" type="button" aria-label="About the Aisling name checker"><span aria-hidden="true">i</span><span class="infoTooltipText" role="tooltip">Trying to create a new Aisling but it's saying the name might "contain a reserved string"? Try typing the name in here to check if part of it is getting blocked.</span></button></h2>
 
 <div id="charNameInputContainer" class="badWordsInputContainer">
     <div id="charNameInputHighlight" class="badWordsInputHighlight" aria-hidden="true"></div>
@@ -44,7 +44,7 @@ Help find accidental blocked words in-game
         ];
 
         const blockedCharNameWords = [
-            'warrior', 'priest', 'wizard', 'rogue', 'dance', 'home', 'test', 'super', 'free', 'lag', 'quest', 'master', 'retard', 'rape', 'damn', 'ass', 
+            'kru', 'nexon', 'warrior', 'priest', 'wizard', 'rogue', 'dance', 'home', 'test', 'super', 'free', 'lag', 'quest', 'master', 'retard', 'rape', 'damn', 'ass', 'crap', 'hell',
         ];
         
         function escapeHtml(text) {
